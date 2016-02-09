@@ -1,0 +1,8 @@
+!#/usr/bin/env bash
+
+mkdir -p ./sitemaps
+cd ./sitemaps
+wget \
+    http://www.smashingmagazine.com/post-sitemap1.xml \
+    http://www.smashingmagazine.com/post-sitemap2.xml \
+    http://www.smashingmagazine.com/post-sitemap3.xml
