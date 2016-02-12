@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+bundle install
+npm install http-server

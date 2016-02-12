@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+require 'rubygems'
+require 'bundler/setup'
+require_relative '../lib/download'
+
+sitemaps = [
+  # './sitemaps/sample.xml',
+  './sitemaps/post-sitemap1.xml',
+  # './sitemaps/post-sitemap2.xml',
+  # './sitemaps/post-sitemap3.xml'
+]
+
+Download.new(*sitemaps).run

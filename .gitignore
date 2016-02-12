@@ -2,4 +2,5 @@ sitemaps
 json
 error-log_*
 _cache
+node_modules
 
