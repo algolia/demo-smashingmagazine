@@ -24,6 +24,19 @@ describe(HelperPath) do
     end
   end
 
+  describe 'camelize' do
+    it 'transform an underscore_string to camelCalse' do
+      # Given
+      input = 'foo_bar'
+
+      # When
+      actual = HelperPath.camelize(input)
+
+      # Then
+      expect(actual).to eq 'fooBar'
+    end
+  end
+
   describe 'download' do
     it 'return the complete path in the download folder' do
       # Given
@@ -33,7 +46,7 @@ describe(HelperPath) do
       actual = HelperPath.download(input)
 
       # Then
-      expect(actual).to match(%r{_cache/foo.html$})
+      expect(actual).to match(%r{data/html/foo.html$})
     end
 
     it 'keeps the directory structure' do
@@ -44,7 +57,7 @@ describe(HelperPath) do
       actual = HelperPath.download(input)
 
       # Then
-      expect(actual).to match(%r{_cache/foo/bar.html$})
+      expect(actual).to match(%r{data/html/foo/bar.html$})
     end
 
     it 'adds an html prefix if none is found' do
@@ -55,7 +68,18 @@ describe(HelperPath) do
       actual = HelperPath.download(input)
 
       # Then
-      expect(actual).to match(%r{_cache/bar.html$})
+      expect(actual).to match(%r{data/html/bar.html$})
+    end
+
+    it 'set to index.html is no path given' do
+      # Given
+      input = ''
+
+      # When
+      actual = HelperPath.download(input)
+
+      # Then
+      expect(actual).to match(%r{/index.html$})
     end
   end
 end

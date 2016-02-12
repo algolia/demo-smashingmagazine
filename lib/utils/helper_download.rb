@@ -2,12 +2,16 @@ require 'parallel'
 require_relative './helper_path'
 
 # Will download distant files and save them on disk
+# TODO: Fool-proofing
+# - Retry if downloading fails
+# - Unzip content before saving it if needed
+# - Use Last-Modified to download most fresh version
+# - Sanity check to make sure we do not download empty files
+# if system("file #{filepath} | grep 'gzip compressed data'")
+#   puts 'File was returned gzipped... unzipping'
+#   `mv #{filepath} #{filepath}.gz && gunzip #{filepath}.gz`
+# end
 module HelperDownload
-  # take each url
-  # follow the link and save it to disk in the download folder
-  # handle gzip weirdness
-
-
   # Download to disk all the urls passed
   # Args:
   #   - urls (Array): Array of urls
@@ -43,28 +47,11 @@ module HelperDownload
     `wget "#{url}" --random-wait -O #{output} 2>/dev/null`
   end
 
-  # # Download the given url to the cache folder
-  # def download_file(url, retry_count = 0)
-  #   dest = local_path(url)
-
-  #   # Trying to download this files too many times and failed
-  #   if retry_count > 2
-  #     `echo "404" > #{dest}`
-  #     return true
-  #   end
-
-  #   # File already here, won't download again
-  #   return true if File.exist?(dest) && File.size(dest) > 0
-
-  #   puts "Downloading #{url}" if retry_count == 0
-  #   FileUtils.mkdir_p(File.dirname(dest))
-  #   `wget "#{url}" --random-wait -O #{dest} 2>/dev/null`
-
-  #   # Check that the file is actually saved
-  #   return true if File.size(dest) > 0
-
-  #   retry_count += 1
-  #   download_file(url, retry_count)
-  # end
-
+  # Returns the list of all downloaded html pages
+  # Returns:
+  #   - Array: List of all filepaths to downloaded pages
+  def self.all_files
+    # ['/home/tim/local/www/algolia/demos/demos/smashingmagazine/data/html/index.html']
+    Dir[File.expand_path('./data/html/**/*.html')].sort
+  end
 end

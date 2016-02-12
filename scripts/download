@@ -4,10 +4,9 @@ require 'bundler/setup'
 require_relative '../lib/download'
 
 sitemaps = [
-  # './sitemaps/sample.xml',
-  './sitemaps/post-sitemap1.xml',
-  # './sitemaps/post-sitemap2.xml',
-  # './sitemaps/post-sitemap3.xml'
+  './data/sitemaps/post-sitemap1.xml',
+  # './data/sitemaps/post-sitemap2.xml',
+  # './data/sitemaps/post-sitemap3.xml'
 ]
 
 Download.new(*sitemaps).run

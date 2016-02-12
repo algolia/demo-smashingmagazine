@@ -1,0 +1,88 @@
+#!/usr/bin/env ruby
+require 'rubygems'
+require 'bundler/setup'
+require_relative '../lib/extract'
+require_relative '../lib/utils/helper_selector'
+
+# Custom selector set to get all the record data from the HTML page
+class SmashingSelector
+  include HelperSelector
+
+  def initialize
+    @website = 'www.smashingmagazine.com'
+  end
+
+  # MANDATORY
+  # The filename is a sanitized version of the url, without prefix and protocol
+  def filename(data)
+    filename = data['objectID'].gsub(%r{^https?://#{@website}/}, '')
+    filename = filename.gsub(%r{/$}, '')
+    filename.gsub('/',  '_')
+  end
+
+  # OPTIONAL
+  # Custom check of the data to see if we should save the save the record on
+  # disk or just skip it
+  def save_record?(data, file)
+    return false if data['publishedDate'].nil?
+    true
+  end
+
+  # The unique objectID identifier
+  def record_object_id(doc)
+    attribute(doc, 'meta[property="og:url"]', 'content')
+  end
+
+  # The page url
+  def record_url(doc)
+    record_object_id(doc)
+  end
+
+  # Image
+  def record_image(doc)
+    attribute(doc, 'meta[name="twitter:image"]', 'content')
+  end
+
+  # The page title
+  def record_title(doc)
+    title = attribute(doc, 'meta[property="og:title"]', 'content')
+    title = title.gsub(' – Smashing Magazine', '')
+    title
+  end
+
+  # The published date of the article
+  def record_published_date(doc)
+    string_date = attribute(doc,
+                            'meta[property="article:published_time"]',
+                            'content')
+    return nil if string_date.nil?
+    DateTime.parse(string_date).to_time.to_i
+  end
+
+  # The author
+  def record_author(doc)
+    attribute(doc, 'meta[name="twitter:creator"]', 'content')
+  end
+
+  # Tags
+  def record_tags(doc)
+    tags = element(doc, 'meta[property="article:tag"]').map do |meta|
+      attribute(doc, meta, 'content')
+    end
+    tags.sort
+  end
+
+  # Number of comments
+  def record_comment_count(doc)
+    target_node = element(doc, 'li.comments[property=discussionUrl]')
+    target_node.text.gsub(' Comments', '').strip.to_i
+  end
+
+  # Description
+  def record_description(doc)
+    description = attribute(doc, 'meta[property="og:description"]', 'content')
+    truncate(description)
+  end
+end
+
+Extract.new(SmashingSelector.new).run

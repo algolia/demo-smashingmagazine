@@ -1,6 +1,7 @@
-sitemaps
-json
+data/sitemaps
+data/html
+data/records
 error-log_*
-_cache
 node_modules
+tmp
 
