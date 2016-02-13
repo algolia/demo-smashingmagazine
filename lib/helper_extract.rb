@@ -35,8 +35,7 @@ class HelperExtract
   # Given a list of HTML files, will save all the matching extracted records on
   # disk as JSON
   def extract(files)
-    files.each do |file|
-    # Parallel.each(files) do |file|
+    Parallel.each(files) do |file|
       puts "✔ Extracting #{file}"
       extract_file(file)
     end
@@ -55,17 +54,18 @@ class HelperExtract
       value = @selector.send(method_name, doc)
       data[object_key] = value
     end
-    filename = @selector.filename(data)
 
     # Check that the data seem legit
     unless @selector.save_record?(data, file)
       # Data is bad, we delete the previous json if we had one
       puts "✘ Incomplete data for #{file}"
-      delete_json(filename)
+      filename = @selector.filename(data)
+      delete_json(filename) if filename != false
       return
     end
 
     # Save it to disk
+    filename = @selector.filename(data)
     save_as_json(data, filename)
   end
 

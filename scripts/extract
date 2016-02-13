@@ -16,7 +16,9 @@ class SmashingSelector
   # MANDATORY
   # The filename is a sanitized version of the url, without prefix and protocol
   def filename(data)
-    filename = data['objectID'].gsub(%r{^https?://#{@website}/}, '')
+    object_id = data['objectID']
+    return false if object_id.nil?
+    filename = object_id.gsub(%r{^https?://#{@website}/}, '')
     filename = filename.gsub(%r{/$}, '')
     filename.gsub('/',  '_')
   end
@@ -24,8 +26,19 @@ class SmashingSelector
   # OPTIONAL
   # Custom check of the data to see if we should save the save the record on
   # disk or just skip it
-  def save_record?(data, file)
-    return false if data['publishedDate'].nil?
+  def save_record?(data, _file)
+    if data['objectID'].nil?
+      puts 'No objectID'
+      return false
+    end
+    if data['publishedDate'].nil?
+      puts 'No publishedDate'
+      return false
+    end
+    if data['title'].nil?
+      puts 'No title'
+      return false
+    end
     true
   end
 
@@ -47,6 +60,7 @@ class SmashingSelector
   # The page title
   def record_title(doc)
     title = attribute(doc, 'meta[property="og:title"]', 'content')
+    return nil if title.nil?
     title = title.gsub(' – Smashing Magazine', '')
     title
   end
@@ -85,7 +99,6 @@ class SmashingSelector
     truncate(description)
   end
 end
-
 
 files = HelperDownload.all_files
 HelperExtract.new(SmashingSelector.new).extract(files)

@@ -51,7 +51,6 @@ module HelperDownload
   # Returns:
   #   - Array: List of all filepaths to downloaded pages
   def self.all_files
-    # ['/home/tim/local/www/algolia/demos/demos/smashingmagazine/data/html/index.html']
     Dir[File.expand_path('./data/html/**/*.html')].sort
   end
 end

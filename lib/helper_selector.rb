@@ -9,6 +9,7 @@ module HelperSelector
   #   file
   # Returns:
   #   - String: Filename of the file to save
+  #   - If returns false, the file is not saved
   def filename(_data)
     puts '✗✗✗✗✗✗'
     puts 'You must define the `filename(data)` method of your custom selector'
@@ -16,7 +17,15 @@ module HelperSelector
     fail 'No filename'
   end
 
-  def save_record?(data, file)
+  # CAN BE OVERRIDDEN IN CHILD
+  # Given the data and original filepath, check if the file should be save on
+  # disk or not. Default to always true
+  # Args:
+  #   - data (Hash): The data hash to save
+  #   - file (String): The original filepath
+  # Returns:
+  #   - Boolean: true if we should save the file, false if not
+  def save_record?(_data, _file)
     true
   end
 
