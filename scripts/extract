@@ -39,6 +39,10 @@ class SmashingSelector
       puts 'No title'
       return false
     end
+    if data['url'] !~ %r{^https?://#{@website}}
+      puts 'Not on smashingmagazine.com'
+      return false
+    end
     true
   end
 
