@@ -1,8 +1,9 @@
 #!/usr/bin/env ruby
 require 'rubygems'
 require 'bundler/setup'
-require_relative '../lib/extract'
-require_relative '../lib/utils/helper_selector'
+require_relative '../lib/helper_download'
+require_relative '../lib/helper_extract'
+require_relative '../lib/helper_selector'
 
 # Custom selector set to get all the record data from the HTML page
 class SmashingSelector
@@ -85,4 +86,6 @@ class SmashingSelector
   end
 end
 
-Extract.new(SmashingSelector.new).run
+
+files = HelperDownload.all_files
+HelperExtract.new(SmashingSelector.new).extract(files)
