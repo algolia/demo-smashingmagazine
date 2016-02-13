@@ -1,0 +1,15 @@
+{
+  "author": "@addyosmani",
+  "commentCount": 97,
+  "description": "There are many common pitfalls when it comes to writing memory-efficient and fast code. JavaScript engines such as Google’s V8 (Chrome, Node) are specifically designed for the fast execution of lar...",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/robo-vacuum.jpg",
+  "objectID": "https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/",
+  "publishedDate": 1352095257,
+  "tags": [
+    "JavaScript",
+    "Optimization",
+    "Performance"
+  ],
+  "title": "Writing Fast, Memory-Efficient JavaScript",
+  "url": "https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/"
+}

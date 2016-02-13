@@ -1,0 +1,14 @@
+{
+  "author": "@bluesmoon",
+  "commentCount": 45,
+  "description": "In my last article, I spoke about several common mistakes that show up in web applications. Of these, the one that causes the most trouble is insufficient input validation/sanitization. In this art...",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2010/10/sql.png",
+  "objectID": "https://www.smashingmagazine.com/2011/01/keeping-web-users-safe-by-sanitizing-input-data/",
+  "publishedDate": 1294724940,
+  "tags": [
+    "PHP",
+    "Security"
+  ],
+  "title": "Keeping Web Users Safe By Sanitizing Input Data",
+  "url": "https://www.smashingmagazine.com/2011/01/keeping-web-users-safe-by-sanitizing-input-data/"
+}

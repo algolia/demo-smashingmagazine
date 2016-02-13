@@ -1,0 +1,14 @@
+{
+  "author": "@rachelandrew",
+  "commentCount": 31,
+  "description": "The web is moving toward using HTTPS encryption by default. If you decided to move, too, this article will walk you through how to do it with Varnish Cache.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/08/https.jpg",
+  "objectID": "https://www.smashingmagazine.com/2015/09/https-everywhere-with-nginx-varnish-apache/",
+  "publishedDate": 1442496124,
+  "tags": [
+    "Development",
+    "Optimization"
+  ],
+  "title": "HTTPS Everywhere With Nginx, Varnish And Apache",
+  "url": "https://www.smashingmagazine.com/2015/09/https-everywhere-with-nginx-varnish-apache/"
+}

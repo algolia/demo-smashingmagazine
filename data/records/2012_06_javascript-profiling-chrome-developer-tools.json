@@ -1,0 +1,14 @@
+{
+  "author": "@ZackGrossbart",
+  "commentCount": 9,
+  "description": "Website performance is about two things: how fast the page loads, and how fast the code on it runs. Plenty of services will make your website load faster, from minimizers to CDNs, but making it run...",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/06/jsprofiling.png",
+  "objectID": "https://www.smashingmagazine.com/2012/06/javascript-profiling-chrome-developer-tools/",
+  "publishedDate": 1339460513,
+  "tags": [
+    "Browsers",
+    "JavaScript"
+  ],
+  "title": "JavaScript Profiling With The Chrome Developer Tools",
+  "url": "https://www.smashingmagazine.com/2012/06/javascript-profiling-chrome-developer-tools/"
+}

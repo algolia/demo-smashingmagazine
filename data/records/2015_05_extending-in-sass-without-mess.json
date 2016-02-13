@@ -1,0 +1,15 @@
+{
+  "author": "@davidkpiano",
+  "commentCount": 22,
+  "description": "The @extend directive in Sass can produce undesirable side effects. David Khourshid shows how to use @extend effectively to produce clean &amp; organized CSS.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/05/excerpt-sass.jpg",
+  "objectID": "https://www.smashingmagazine.com/2015/05/extending-in-sass-without-mess/",
+  "publishedDate": 1430739910,
+  "tags": [
+    "Optimization",
+    "Preprocessors",
+    "Workflow"
+  ],
+  "title": "Extending Sass Without Creating A Mess",
+  "url": "https://www.smashingmagazine.com/2015/05/extending-in-sass-without-mess/"
+}

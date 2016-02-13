@@ -1,6 +1,5 @@
 data/sitemaps
 data/html
-data/records
 error-log_*
 node_modules
 tmp

@@ -1,0 +1,15 @@
+{
+  "author": "@chriscoyier",
+  "commentCount": 20,
+  "description": "In this article we cover resolution aware sprites, liquid-fixed-liquid, relative font sizing, media query efficiency and more...",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/08/Sprite-Article-Example.png",
+  "objectID": "https://www.smashingmagazine.com/2012/08/coding-qa-with-chris-coyier-responsive-sprites-and-media-query-efficiency/",
+  "publishedDate": 1344827988,
+  "tags": [
+    "CSS",
+    "Media Queries",
+    "Responsive Web Design"
+  ],
+  "title": "Coding Q&A With Chris Coyier: Responsive Sprites And Media Query Efficiency",
+  "url": "https://www.smashingmagazine.com/2012/08/coding-qa-with-chris-coyier-responsive-sprites-and-media-query-efficiency/"
+}

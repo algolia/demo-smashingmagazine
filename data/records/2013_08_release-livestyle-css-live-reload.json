@@ -1,0 +1,16 @@
+{
+  "author": "@chikuyonok",
+  "commentCount": 59,
+  "description": "LiveStyle is a plugin for live bi-directional (editor ↔ browser) CSS editing of the new generation. Support for Sublime Text, Google Chrome.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/08/illu-livestyle.jpg",
+  "objectID": "https://www.smashingmagazine.com/2013/08/release-livestyle-css-live-reload/",
+  "publishedDate": 1375923541,
+  "tags": [
+    "CSS",
+    "JavaScript",
+    "Tools",
+    "Workflow"
+  ],
+  "title": "Introducing LiveStyle: Better, Stronger And Smarter CSS Live Reload",
+  "url": "https://www.smashingmagazine.com/2013/08/release-livestyle-css-live-reload/"
+}

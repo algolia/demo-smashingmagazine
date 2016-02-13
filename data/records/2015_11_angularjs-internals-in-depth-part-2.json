@@ -1,0 +1,14 @@
+{
+  "author": "@nzgb",
+  "commentCount": 5,
+  "description": "Nicolas Bevacqua covers AngularJS internals: isolate scopes, transclusion, linking functions, compilers, directive controllers and more.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/11/01-mindbender.png",
+  "objectID": "https://www.smashingmagazine.com/2015/11/angularjs-internals-in-depth-part-2/",
+  "publishedDate": 1447266598,
+  "tags": [
+    "AngularJS",
+    "JavaScript"
+  ],
+  "title": "AngularJS' Internals In Depth, Part 2",
+  "url": "https://www.smashingmagazine.com/2015/11/angularjs-internals-in-depth-part-2/"
+}

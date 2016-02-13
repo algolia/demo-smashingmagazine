@@ -1,0 +1,13 @@
+{
+  "author": "@smashingmag",
+  "commentCount": 36,
+  "description": "Since Rails 3 was released, developers have been writing Rails engines in a new clean style that can be packaged as RubyGems. A Rails engine is a prepackaged application that is able to be run or m...",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ruby-filled-rvm.jpg",
+  "objectID": "https://www.smashingmagazine.com/2011/06/a-guide-to-starting-your-own-rails-engine-gem/",
+  "publishedDate": 1308794845,
+  "tags": [
+    "Ruby on Rails"
+  ],
+  "title": "A Guide To Starting Your Own Rails Engine Gem",
+  "url": "https://www.smashingmagazine.com/2011/06/a-guide-to-starting-your-own-rails-engine-gem/"
+}

@@ -1,0 +1,15 @@
+{
+  "author": "@get_dave",
+  "commentCount": 23,
+  "description": "In this article, I’ll share with you how my team has used the PHP dependency-management tool Composer to streamline our development processes and to maintain our WordPress project dependencies acro...",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wp-illu-456.jpg",
+  "objectID": "https://www.smashingmagazine.com/2014/03/better-dependency-management-team-based-wordpress-projects-composer/",
+  "publishedDate": 1394164939,
+  "tags": [
+    "Management",
+    "Plugins",
+    "Tools"
+  ],
+  "title": "Better Dependency Management In Team-Based WordPress Projects With Composer",
+  "url": "https://www.smashingmagazine.com/2014/03/better-dependency-management-team-based-wordpress-projects-composer/"
+}

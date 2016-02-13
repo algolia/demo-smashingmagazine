@@ -1,0 +1,14 @@
+{
+  "author": "@smashingmag",
+  "commentCount": 55,
+  "description": "In this article, we’ll use WordPress’ built-in featured images capability to deliver different-sized image files to different devices.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/responsive-main.jpg",
+  "objectID": "https://www.smashingmagazine.com/2012/06/responsive-images-with-wordress-featured-images/",
+  "publishedDate": 1339639246,
+  "tags": [
+    "Media Queries",
+    "Responsive Web Design"
+  ],
+  "title": "Responsive Images With WordPress' Featured Images",
+  "url": "https://www.smashingmagazine.com/2012/06/responsive-images-with-wordress-featured-images/"
+}

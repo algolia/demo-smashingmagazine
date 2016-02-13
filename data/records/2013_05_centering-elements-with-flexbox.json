@@ -1,0 +1,16 @@
+{
+  "author": "@dstorey",
+  "commentCount": 57,
+  "description": "This article introduces some of the myriad of possibilities afforded by flexbox, such as source-order independence, flexible sizing or just the humble centering of elements.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/centering-elements-with-flexbox.jpg",
+  "objectID": "https://www.smashingmagazine.com/2013/05/centering-elements-with-flexbox/",
+  "publishedDate": 1369189749,
+  "tags": [
+    "CSS",
+    "Flexbox",
+    "Layouts",
+    "Tools"
+  ],
+  "title": "Designing CSS Layouts With Flexbox Is As Easy As Pie",
+  "url": "https://www.smashingmagazine.com/2013/05/centering-elements-with-flexbox/"
+}

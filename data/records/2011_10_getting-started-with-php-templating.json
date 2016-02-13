@@ -1,0 +1,15 @@
+{
+  "author": "@krzrak",
+  "commentCount": 102,
+  "description": "In this article, we’ll cover how to separate the view of your PHP application from its other components.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/07/MVC.png",
+  "objectID": "https://www.smashingmagazine.com/2011/10/getting-started-with-php-templating/",
+  "publishedDate": 1318802459,
+  "tags": [
+    "Frameworks",
+    "PHP",
+    "Techniques"
+  ],
+  "title": "Getting Started With PHP Templating",
+  "url": "https://www.smashingmagazine.com/2011/10/getting-started-with-php-templating/"
+}

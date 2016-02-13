@@ -1,0 +1,17 @@
+{
+  "author": "@integralist",
+  "commentCount": 4,
+  "description": "In this article, we’ll go over the concepts and techniques required to build a command line tool using Node.js and Phantomjs.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/nodejs-new-illu-logo.jpg",
+  "objectID": "https://www.smashingmagazine.com/2014/02/build-cli-tool-nodejs-phantomjs/",
+  "publishedDate": 1392167046,
+  "tags": [
+    "JavaScript",
+    "Node.js",
+    "Resources",
+    "Techniques",
+    "Tutorials"
+  ],
+  "title": "How To Build A CLI Tool With Node.js And PhantomJS",
+  "url": "https://www.smashingmagazine.com/2014/02/build-cli-tool-nodejs-phantomjs/"
+}

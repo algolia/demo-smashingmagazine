@@ -1,0 +1,16 @@
+{
+  "author": "@smashingmag",
+  "commentCount": 51,
+  "description": "In this tutorial, we will create a new “brand” entity in Magento that can be managed through the admin panel. Once we are finished, you will be able to create, update and delete brands and view the...",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/03/illu-magento.jpg",
+  "objectID": "https://www.smashingmagazine.com/2014/03/tutorial-create-admin-manageable-magento-entity-brands/",
+  "publishedDate": 1394678065,
+  "tags": [
+    "Frameworks",
+    "Magento",
+    "PHP",
+    "Tutorials"
+  ],
+  "title": "How To Create An Admin-Manageable Magento Entity For Brands",
+  "url": "https://www.smashingmagazine.com/2014/03/tutorial-create-admin-manageable-magento-entity-brands/"
+}

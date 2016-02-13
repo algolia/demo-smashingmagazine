@@ -1,0 +1,15 @@
+{
+  "author": "@kolyuchiy",
+  "commentCount": 1,
+  "description": "Lessons learned from developing an Apple Watch app, including its quirks, passing data between devices, and the rigors of simulator-only development.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/07/image06-opt.png",
+  "objectID": "https://www.smashingmagazine.com/2015/08/mymail-app-case-study/",
+  "publishedDate": 1438787910,
+  "tags": [
+    "Apps",
+    "Case Studies",
+    "Devices"
+  ],
+  "title": "myMail App Case Study: Developing For Apple Watch Without The Device",
+  "url": "https://www.smashingmagazine.com/2015/08/mymail-app-case-study/"
+}

@@ -1,0 +1,14 @@
+{
+  "author": "@carlodaniele",
+  "commentCount": 8,
+  "description": "A tutorial showing how to customize a tree-like data structure, e.g. adding a custom class name or redefining the structure of a list of categories.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/09/01-wpcommentsstructure-opt-small.png",
+  "objectID": "https://www.smashingmagazine.com/2015/10/customize-tree-like-data-structures-wordpress-walker-class/",
+  "publishedDate": 1444829114,
+  "tags": [
+    "Techniques (WP)",
+    "Tutorials"
+  ],
+  "title": "Customizing Tree-Like Data Structures With Walker Class",
+  "url": "https://www.smashingmagazine.com/2015/10/customize-tree-like-data-structures-wordpress-walker-class/"
+}

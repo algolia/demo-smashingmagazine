@@ -1,0 +1,15 @@
+{
+  "author": "@jdgraffam",
+  "commentCount": 27,
+  "description": "FlowType.JS, when boiled down, is nothing more than some clever math wrapped in a jQuery plugin, with some options for controlling font sizes to accomplish a certain line length.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/09/illu-flowtype.jpg",
+  "objectID": "https://www.smashingmagazine.com/2013/09/introducing-flowtype-js/",
+  "publishedDate": 1379459523,
+  "tags": [
+    "JavaScript",
+    "Workflow",
+    "jQuery"
+  ],
+  "title": "Introducing Responsive Web Typography With FlowType.JS",
+  "url": "https://www.smashingmagazine.com/2013/09/introducing-flowtype-js/"
+}

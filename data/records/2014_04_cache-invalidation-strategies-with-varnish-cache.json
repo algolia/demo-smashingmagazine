@@ -1,0 +1,15 @@
+{
+  "author": "@perbu",
+  "commentCount": 18,
+  "description": "This article is about cache invalidation. It’s directed at readers who already work with Varnish Cache.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/09/with-varnish.png",
+  "objectID": "https://www.smashingmagazine.com/2014/04/cache-invalidation-strategies-with-varnish-cache/",
+  "publishedDate": 1398243607,
+  "tags": [
+    "Optimization",
+    "Performance",
+    "Techniques"
+  ],
+  "title": "Cache Invalidation Strategies With Varnish Cache",
+  "url": "https://www.smashingmagazine.com/2014/04/cache-invalidation-strategies-with-varnish-cache/"
+}

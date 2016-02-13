@@ -1,0 +1,13 @@
+{
+  "author": "@w3guy",
+  "commentCount": 34,
+  "description": "In this tutorial, we’ll learn about ROT13 encryption and how it works. We’ll see how text (or strings) can be programmatically encoded in ROT13 using PHP. Finally, we’ll code a WordPress plugin tha...",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/12/caesar-cipher-illu.png",
+  "objectID": "https://www.smashingmagazine.com/2014/12/encrypting-blacklisted-words-in-wordpress-with-rot13/",
+  "publishedDate": 1418303289,
+  "tags": [
+    "Techniques (WP)"
+  ],
+  "title": "Obfuscating Blacklisted Words In WordPress With ROT13",
+  "url": "https://www.smashingmagazine.com/2014/12/encrypting-blacklisted-words-in-wordpress-with-rot13/"
+}

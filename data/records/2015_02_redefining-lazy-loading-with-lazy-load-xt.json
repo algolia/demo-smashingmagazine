@@ -1,0 +1,15 @@
+{
+  "author": "@smashingmag",
+  "commentCount": 15,
+  "description": "Lazy loading defers the initialization of objects until they&#39;re needed. Miikka Kukkosuo discusses why we should or shouldn&#39;t use and how to implement it.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/11/excerpt-lazy-load.png",
+  "objectID": "https://www.smashingmagazine.com/2015/02/redefining-lazy-loading-with-lazy-load-xt/",
+  "publishedDate": 1422954056,
+  "tags": [
+    "Performance",
+    "Techniques",
+    "jQuery"
+  ],
+  "title": "Redefining Lazy Loading With Lazy Load XT",
+  "url": "https://www.smashingmagazine.com/2015/02/redefining-lazy-loading-with-lazy-load-xt/"
+}

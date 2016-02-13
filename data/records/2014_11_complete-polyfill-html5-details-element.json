@@ -1,0 +1,15 @@
+{
+  "author": "@chemerisuk",
+  "commentCount": 20,
+  "description": "In this article, Maksim Chemerisuk describes how to build a complete polyfill for the HTML5 details element using better-dom library.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2010/05/typeissexy.jpg",
+  "objectID": "https://www.smashingmagazine.com/2014/11/complete-polyfill-html5-details-element/",
+  "publishedDate": 1417182977,
+  "tags": [
+    "CSS",
+    "HTML5",
+    "JavaScript"
+  ],
+  "title": "Making A Complete Polyfill For The HTML5 Details Element",
+  "url": "https://www.smashingmagazine.com/2014/11/complete-polyfill-html5-details-element/"
+}

@@ -1,0 +1,15 @@
+{
+  "author": "@rachelandrew",
+  "commentCount": 5,
+  "description": "Rachel Andrew explains how you can benefit from using Varnish Edge Side Includes even for pages that can’t be cached for long periods.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/02/varnish_software_velocity_3.1.jpg",
+  "objectID": "https://www.smashingmagazine.com/2015/02/using-edge-side-includes-in-varnish/",
+  "publishedDate": 1424077222,
+  "tags": [
+    "Optimization",
+    "Performance",
+    "Techniques"
+  ],
+  "title": "Controlling The Cache: Using Edge Side Includes In Varnish",
+  "url": "https://www.smashingmagazine.com/2015/02/using-edge-side-includes-in-varnish/"
+}

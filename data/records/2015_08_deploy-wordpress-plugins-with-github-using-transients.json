@@ -1,0 +1,15 @@
+{
+  "author": "@matthewray1",
+  "commentCount": 26,
+  "description": "Maybe you built a premium WordPress plugin, or you want to keep your client&#39;s code in sync. Let&#39;s set up a GitHub repository to push updates to your plugin.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/07/07-update_popup-opt.png",
+  "objectID": "https://www.smashingmagazine.com/2015/08/deploy-wordpress-plugins-with-github-using-transients/",
+  "publishedDate": 1439299164,
+  "tags": [
+    "Plugins",
+    "Techniques (WP)",
+    "Workflow"
+  ],
+  "title": "How To Deploy WordPress Plugins With GitHub Using Transients",
+  "url": "https://www.smashingmagazine.com/2015/08/deploy-wordpress-plugins-with-github-using-transients/"
+}

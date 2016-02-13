@@ -1,0 +1,15 @@
+{
+  "author": "@smashingmag",
+  "commentCount": 58,
+  "description": "This article looks at how to combine JavaScript as well as jQuery with PHP and, particularly, PHP’s GD library to create an image manipulation tool to upload an image, and much more.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/logo.png",
+  "objectID": "https://www.smashingmagazine.com/2011/04/image-manipulation-with-jquery-and-php-gd/",
+  "publishedDate": 1301961935,
+  "tags": [
+    "Images",
+    "PHP",
+    "jQuery"
+  ],
+  "title": "Image Manipulation With jQuery & PHP GD",
+  "url": "https://www.smashingmagazine.com/2011/04/image-manipulation-with-jquery-and-php-gd/"
+}

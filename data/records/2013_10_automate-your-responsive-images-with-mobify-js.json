@@ -1,0 +1,16 @@
+{
+  "author": "@shawnjan8",
+  "commentCount": 32,
+  "description": "This article introduces Mobify.js, an Image API with a responsive image solution that automatically generates small images for small devices from a single high-resolution image and is 100% semantic...",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2010/04/ponkie.jpg",
+  "objectID": "https://www.smashingmagazine.com/2013/10/automate-your-responsive-images-with-mobify-js/",
+  "publishedDate": 1382576672,
+  "tags": [
+    "JavaScript",
+    "Responsive Web Design",
+    "Techniques",
+    "Workflow"
+  ],
+  "title": "Automate Your Responsive Images With Mobify.js",
+  "url": "https://www.smashingmagazine.com/2013/10/automate-your-responsive-images-with-mobify-js/"
+}

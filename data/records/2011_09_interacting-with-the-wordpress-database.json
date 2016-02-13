@@ -1,0 +1,15 @@
+{
+  "author": "@danielpataki",
+  "commentCount": 39,
+  "description": "This post explains the $wpdb class and how to use it to connect to and interact with the WordPress database.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wordpress-files-illu101.jpg",
+  "objectID": "https://www.smashingmagazine.com/2011/09/interacting-with-the-wordpress-database/",
+  "publishedDate": 1316601143,
+  "tags": [
+    "Essentials",
+    "PHP",
+    "SQL"
+  ],
+  "title": "WordPress Essentials: Interacting With The WordPress Database",
+  "url": "https://www.smashingmagazine.com/2011/09/interacting-with-the-wordpress-database/"
+}
