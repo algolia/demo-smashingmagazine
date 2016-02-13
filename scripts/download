@@ -6,6 +6,7 @@ require_relative '../lib/helper_download'
 
 # Download on disk all the url defined in the specified sitemaps
 sitemaps = [
+  './data/sitemaps/post-sitemap.xml',
   './data/sitemaps/post-sitemap1.xml',
   './data/sitemaps/post-sitemap2.xml',
   './data/sitemaps/post-sitemap3.xml'
