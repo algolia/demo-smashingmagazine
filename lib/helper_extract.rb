@@ -93,4 +93,13 @@ class HelperExtract
     return unless File.exist?(filename)
     FileUtils.rm(filename)
   end
+
+  # Returns a list of all the records saved on disk
+  # Returns:
+  #   - Array: List of all records
+  def self.all_records
+    Dir[File.expand_path('./data/records/**/*.json')].sort.map do |file|
+      JSON.parse(File.open(file).read)
+    end
+  end
 end

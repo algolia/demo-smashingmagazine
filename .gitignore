@@ -1,6 +1,6 @@
-data/sitemaps
 data/html
+data/sitemaps
 error-log_*
 node_modules
 tmp
-
+_algolia_api_key
