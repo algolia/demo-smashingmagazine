@@ -1,7 +1,5 @@
 # Demo SmashingMagazine
 
-TEST
-
 This is a demo of including Algolia InstantSearch to SmashingMagazine. The
 repository holds three parts:
 
