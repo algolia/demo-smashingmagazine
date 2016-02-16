@@ -23,7 +23,7 @@
     "push": "./scripts/push",
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch",
-    "build": "brunch build",
+    "build": "brunch build --production",
     "serve": "brunch watch"
   },
   "devDependencies": {
