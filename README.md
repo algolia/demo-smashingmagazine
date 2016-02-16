@@ -7,9 +7,12 @@ repository holds three parts:
 - The scripts to download and extract the records
 - The records themselves
 
+![Screencast][1]
+
 ## Local demo
 
-TODO
+Run `npm run serve` to start the local demo on
+[http://localhost:5005/](http://localhost:5005).
 
 ## Dev
 
@@ -63,3 +66,5 @@ You can run tests with `npm run test` and run a watched version (great for TDD)
 with `npm run test:watch`. The tests are few, and only cover the extraction
 part, not the front-end.
 
+
+[1]: ./screencast.gif
