@@ -1,0 +1,15 @@
+{
+  "author": "@smashingmag",
+  "commentCount": 32,
+  "description": "PostCSS aims to reinvent CSS with an ecosystem of custom plugins and tools. It transforms extended syntaxes and features into modern, browser-friendly CSS.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/11/developer-opt.jpg",
+  "objectID": "https://www.smashingmagazine.com/2015/12/introduction-to-postcss/",
+  "publishedDate": 1449501357,
+  "tags": [
+    "CSS",
+    "Preprocessors",
+    "Techniques"
+  ],
+  "title": "An Introduction To PostCSS",
+  "url": "https://www.smashingmagazine.com/2015/12/introduction-to-postcss/"
+}

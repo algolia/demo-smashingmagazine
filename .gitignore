@@ -1,5 +1,6 @@
 data/html
 data/sitemaps
+public
 error-log_*
 node_modules
 tmp

@@ -8,16 +8,15 @@ records = HelperExtract.all_records
 app_id = 'MXM0JWJNIW'
 index = 'smashingmagazine'
 index_tmp = 'smashingmagazine_tmp'
-slave_comment_asc = 'smashingmagazine_comment_count_asc'
 slave_comment_desc = 'smashingmagazine_comment_count_desc'
 slave_date_desc = 'smashingmagazine_published_date_desc'
-slaves = [slave_comment_asc, slave_comment_desc, slave_date_desc]
+slaves = [slave_comment_desc, slave_date_desc]
 
 settings = {
   attributesToIndex: [
     'title',
+    'unordered(tags)',
     'unordered(description)',
-    'tags',
     'author'
   ],
   customRanking: [
@@ -28,13 +27,12 @@ settings = {
     'tags'
   ],
   highlightPreTag: '<span class="search-hit--highlight">',
-  highlightPostTag: '</span>'
+  highlightPostTag: '</span>',
+  ignorePlurals: true,
+  removeWordsIfNoResults: 'allOptional'
 }
 default_ranking = %w(typo geo words filters proximity attribute exact custom)
 
-settings_slave_comment_asc = settings.merge(
-  ranking: ['asc(commentCount)'] + default_ranking
-)
 settings_slave_comment_desc = settings.merge(
   ranking: ['desc(commentCount)'] + default_ranking
 )
@@ -47,6 +45,5 @@ HelperPush.new(app_id)
    .push_records(index_tmp, records)
    .move_index(index_tmp, index)
    .add_slaves(index, slaves)
-   .set_settings(slave_comment_asc, settings_slave_comment_asc)
    .set_settings(slave_comment_desc, settings_slave_comment_desc)
    .set_settings(slave_date_desc, settings_slave_date_desc)

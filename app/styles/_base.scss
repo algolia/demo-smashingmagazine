@@ -1,0 +1,28 @@
+.search-header {
+  display: table;
+  width: 100%;
+}
+.search-header--title {
+  display: table-cell;
+  vertical-align: middle;
+  padding: 0;
+  height: 2em;
+}
+
+// Sort by selector
+.search-header--sort-by {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: right;
+  width: 30%;
+}
+.search-header--sort-by .ais-sort-by-selector {
+  padding: .5em;
+  color: #777;
+  border: .08em solid rgba(0, 0, 0, .3);
+  background-color: #fff;
+  border-radius: .5em;
+  cursor: pointer;
+  margin-left: 5px;
+}
+

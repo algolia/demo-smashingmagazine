@@ -2,15 +2,6 @@ require 'parallel'
 require_relative './helper_path'
 
 # Will download distant files and save them on disk
-# TODO: Fool-proofing
-# - Retry if downloading fails
-# - Unzip content before saving it if needed
-# - Use Last-Modified to download most fresh version
-# - Sanity check to make sure we do not download empty files
-# if system("file #{filepath} | grep 'gzip compressed data'")
-#   puts 'File was returned gzipped... unzipping'
-#   `mv #{filepath} #{filepath}.gz && gunzip #{filepath}.gz`
-# end
 module HelperDownload
   # Download to disk all the urls passed
   # Args:

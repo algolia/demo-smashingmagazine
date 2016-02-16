@@ -1,0 +1,14 @@
+{
+  "author": "@guypod",
+  "commentCount": 3,
+  "description": "The way we consume open source apps dramatically changed. To prevent security issues, we need to eliminate security vulnerabilities. Here&#39;s a tool for that.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2016/01/snyk-opt.png",
+  "objectID": "https://www.smashingmagazine.com/2016/01/eliminating-known-security-vulnerabilities-with-snyk/",
+  "publishedDate": 1452667686,
+  "tags": [
+    "Performance",
+    "Security"
+  ],
+  "title": "Eliminating Known Vulnerabilities With Snyk",
+  "url": "https://www.smashingmagazine.com/2016/01/eliminating-known-security-vulnerabilities-with-snyk/"
+}

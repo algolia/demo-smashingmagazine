@@ -1,0 +1,72 @@
+// List of hits
+.search-hits {
+  padding-top: 2em;
+}
+.search-hit {
+  overflow: hidden;
+  padding-bottom: 2em;
+}
+.search-hit--highlight {
+  color: #E53B2C;
+}
+.search-hit--figure {
+  float: left;
+  width: 220px;
+  text-align: center;
+}
+.search-hit--image {
+  max-width: 200px;
+  margin: 0 auto;
+}
+.search-hit--details {
+  margin-left: 230px;
+}
+.search-hit--title {
+  color: #333;
+  font-size: 1.5em;
+  line-height: 1.1;
+  padding-top: .5em;
+  font-family: "Skolar Bold","Segoe UI Bold","Roboto Slab","Droid Serif",AvenirNext-Bold,"Avenir Bold",Georgia,"Times New Roman",Times,serif;
+}
+.search-hit--infos {
+  padding: .5em 0 0 0;
+  font-size: 1em;
+}
+.search-hit--infos .search-hit--info {
+  /* Overwrite styling to compact display */
+  padding-top: 0;
+  background-position: 0 .2em;
+}
+.search-hit--info__author {
+}
+.search-hit--info__date {
+}
+.search-hit--info__tags {
+}
+.search-hit--info__comments {
+}
+.pmd + .search-hit--excerpt {
+  font-size: 1.1em;
+}
+
+
+// Pagination
+.search-pagination {
+  margin-left: 220px;
+  text-align: center;
+}
+.search-pagination .ais-pagination--item {
+  padding: 0;
+}
+.search-pagination .ais-pagination--link {
+  text-align: center;
+  padding: .25em .75em;
+  display: inline-block;
+  border-radius: .1875em;
+  border: none;
+}
+.search-pagination .ais-pagination--link:hover,
+.search-pagination .ais-pagination--item__active .ais-pagination--link {
+  background: #41b7d8;
+  color: #FFF;
+}

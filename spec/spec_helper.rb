@@ -1,6 +1,6 @@
 require 'awesome_print'
-require_relative '../lib/utils/helper_sitemap'
-require_relative '../lib/utils/helper_path'
+require_relative '../lib/helper_sitemap'
+require_relative '../lib/helper_path'
 
 RSpec.configure do |config|
   config.filter_run(focus: true)

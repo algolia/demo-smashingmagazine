@@ -1,0 +1,15 @@
+{
+  "author": "@joezimjs",
+  "commentCount": 18,
+  "description": "npm made it easy by giving quick access to tools that others have created. But it&#39;s not without issues — here&#39;s an idea to keep npm packages under control.",
+  "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2016/01/excerpt-node-opt.png",
+  "objectID": "https://www.smashingmagazine.com/2016/01/issue-with-global-node-npm-packages/",
+  "publishedDate": 1453195398,
+  "tags": [
+    "JavaScript",
+    "Node.js",
+    "Workflow"
+  ],
+  "title": "The Issue With Global Node Packages",
+  "url": "https://www.smashingmagazine.com/2016/01/issue-with-global-node-npm-packages/"
+}
