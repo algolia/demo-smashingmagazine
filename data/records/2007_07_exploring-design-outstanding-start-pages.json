@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 82,
   "description": "This article shares with us some pretty unusual, remarkable and outstanding start pages in a brief overview.",
   "image": "https://www.smashingmagazine.com/images/startpages/leoburnett.jpg",
   "objectID": "https://www.smashingmagazine.com/2007/07/exploring-design-outstanding-start-pages/",
   "publishedDate": 1184705140,
   "tags": [
-    "Flash",
-    "Showcases"
+    {
+      "name": "Flash",
+      "slug": "flash"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    }
   ],
   "title": "Exploring Design: Outstanding Start Pages",
   "url": "https://www.smashingmagazine.com/2007/07/exploring-design-outstanding-start-pages/"

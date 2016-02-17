@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 61,
   "description": "In our earlier article about Web design trends for 2010 we covered the strong influence of print design techniques, keypress navigation, horizontal layouts, rich typography and aesthetically pleasi...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/trends.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/05/web-design-trends-2010-real-life-metaphors-and-css3-adaptation/",
   "publishedDate": 1274339034,
   "tags": [
-    "Trends",
-    "Web Design"
+    {
+      "name": "Trends",
+      "slug": "trends"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Web Design Trends 2010: Real-Life Metaphors and CSS3 Adaptation",
   "url": "https://www.smashingmagazine.com/2010/05/web-design-trends-2010-real-life-metaphors-and-css3-adaptation/"

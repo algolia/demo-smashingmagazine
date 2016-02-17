@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 83,
   "description": "Book covers are hard to design and nice to look at. An effective book cover manages to catch human&#39;s eye and convey the idea behind the book on one single page. However, it&#39;s getting even harder: t...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/face.png",
   "objectID": "https://www.smashingmagazine.com/2008/04/excellent-book-covers-and-paperbacks/",
   "publishedDate": 1208131061,
   "tags": [
-    "Covers",
-    "Inspiration"
+    {
+      "name": "Covers",
+      "slug": "covers"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "Excellent Book Covers and Paperbacks",
   "url": "https://www.smashingmagazine.com/2008/04/excellent-book-covers-and-paperbacks/"

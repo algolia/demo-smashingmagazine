@@ -1,13 +1,20 @@
 {
-  "author": "@flowingdata",
+  "author": "Nathan Yau",
+  "authorUrl": "https://www.smashingmagazine.com/author/nathan-yau/",
   "commentCount": 63,
   "description": "Last Friday, we published an article on the Do’s And Don’ts Of Infographic Design written by Amy Balliett which raised quite a discussion within the design community. Some readers agreed, some read...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/10/Speedometer.png",
   "objectID": "https://www.smashingmagazine.com/2011/10/the-dos-and-donts-of-infographic-design-revisited/",
   "publishedDate": 1319154041,
   "tags": [
-    "Data Visualization",
-    "Infographics"
+    {
+      "name": "Data Visualization",
+      "slug": "data-visualization"
+    },
+    {
+      "name": "Infographics",
+      "slug": "infographics"
+    }
   ],
   "title": "The Do’s And Don’ts Of Infographic Design: Revisited",
   "url": "https://www.smashingmagazine.com/2011/10/the-dos-and-donts-of-infographic-design-revisited/"

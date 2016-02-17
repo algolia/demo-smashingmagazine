@@ -1,13 +1,20 @@
 {
-  "author": "@HuIsLeona",
+  "author": "Leona Hu",
+  "authorUrl": "https://www.smashingmagazine.com/author/leona-hu/",
   "commentCount": 21,
   "description": "An interview with Berlin designer Jan Martin, cofounder and art director of 6Wunderkinder, and one of the creators of Wunderlist, a simple and beautiful to-do list app favored by more than 5 millio...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/jan-martin-illu.png",
   "objectID": "https://www.smashingmagazine.com/2013/12/interview-with-designer-jan-martin/",
   "publishedDate": 1386937706,
   "tags": [
-    "Inspiration",
-    "Interviews"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Interviews",
+      "slug": "interviews"
+    }
   ],
   "title": "\"Be Careful: Trends Come And Go\"",
   "url": "https://www.smashingmagazine.com/2013/12/interview-with-designer-jan-martin/"

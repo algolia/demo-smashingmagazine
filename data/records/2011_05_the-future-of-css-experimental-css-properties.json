@@ -1,12 +1,16 @@
 {
-  "author": "@edge0703",
+  "author": "Christian Krammer",
+  "authorUrl": "https://www.smashingmagazine.com/author/christian-krammer/",
   "commentCount": 85,
   "description": "Despite contemporary browsers supporting a wealth of CSS3 properties, most designers and developers seem to focus on the quite harmless properties such as border-radius, box-shadow or transform. Th...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/05/title1.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/05/the-future-of-css-experimental-css-properties/",
   "publishedDate": 1305077725,
   "tags": [
-    "CSS"
+    {
+      "name": "CSS",
+      "slug": "css"
+    }
   ],
   "title": "The Future Of CSS: Experimental CSS Properties",
   "url": "https://www.smashingmagazine.com/2011/05/the-future-of-css-experimental-css-properties/"

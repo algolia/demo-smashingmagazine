@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 56,
   "description": "In Web typography doesn’t have to support the overall design. It can dominate. It can be loud. It can be bold. And it can be everywhere on a web-site. In many situations it’s reasonable to give the...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/blue.png",
   "objectID": "https://www.smashingmagazine.com/2008/05/the-showcase-of-big-typography-second-edition/",
   "publishedDate": 1211244416,
   "tags": [
-    "Showcases",
-    "Typography"
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "The Showcase Of BIG Typography - Second Edition",
   "url": "https://www.smashingmagazine.com/2008/05/the-showcase-of-big-typography-second-edition/"

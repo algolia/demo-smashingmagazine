@@ -1,14 +1,24 @@
 {
-  "author": "@petewsmart",
+  "author": "Pete Smart",
+  "authorUrl": "https://www.smashingmagazine.com/author/pete-smart/",
   "commentCount": 47,
   "description": "In this article Pete Smart shares what he&#39;s learned from travelling 2517 miles to try to solve 50 problems in 50 days using design.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ux-6.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/05/50-problems-50-days-part-1-real-empathy-innovation/",
   "publishedDate": 1369613456,
   "tags": [
-    "Prototyping",
-    "User Experience",
-    "User Research"
+    {
+      "name": "Prototyping",
+      "slug": "prototyping"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    },
+    {
+      "name": "User Research",
+      "slug": "user-research"
+    }
   ],
   "title": "50 Design Problems In 50 Days: Real Empathy For Innovation (Part 1)",
   "url": "https://www.smashingmagazine.com/2013/05/50-problems-50-days-part-1-real-empathy-innovation/"

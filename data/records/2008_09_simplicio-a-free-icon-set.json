@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 78,
   "description": "We are always looking for creative and talented artists and designers. Once we find them, we ask them to cooperate with us and release something for free. We provide them with the full freedom to s...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/simplicio.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/09/simplicio-a-free-icon-set/",
   "publishedDate": 1220347826,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Icons"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Simplicio: A Free Icon Set",
   "url": "https://www.smashingmagazine.com/2008/09/simplicio-a-free-icon-set/"

@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Erik Perotti",
+  "authorUrl": "https://www.smashingmagazine.com/author/erik-perotti/",
   "commentCount": 37,
   "description": "This article walks you through the current selection of cloud-based tools and provides some recommendations. The number of offerings and amount of functionality are pretty vast. For the sake of bre...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/05/ipad_wire.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/05/interaction-design-in-the-cloud/",
   "publishedDate": 1336617918,
   "tags": [
-    "Interaction Design",
-    "Tools"
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "Interaction Design In The Cloud",
   "url": "https://www.smashingmagazine.com/2012/05/interaction-design-in-the-cloud/"

@@ -1,14 +1,24 @@
 {
-  "author": "@danny_bluestone",
+  "author": "Danny Bluestone",
+  "authorUrl": "https://www.smashingmagazine.com/author/dannybluestone/",
   "commentCount": 13,
   "description": "Danny Bluestone looks at how to make side projects work and why they’re worthwhile, drawing on lessons learned from our development of the UX Companion app.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/01/notes-mobile-ux-illu-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/01/how-why-make-side-projects-work-digital-agency/",
   "publishedDate": 1422013055,
   "tags": [
-    "Business",
-    "Innovation",
-    "Skills"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Innovation",
+      "slug": "innovation"
+    },
+    {
+      "name": "Skills",
+      "slug": "skills"
+    }
   ],
   "title": "How To Make Side Projects Work At A Digital Agency",
   "url": "https://www.smashingmagazine.com/2015/01/how-why-make-side-projects-work-digital-agency/"

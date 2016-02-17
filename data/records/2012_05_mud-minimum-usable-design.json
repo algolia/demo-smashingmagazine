@@ -1,13 +1,20 @@
 {
-  "author": "@drawar",
+  "author": "Paul Scrivens",
+  "authorUrl": "https://www.smashingmagazine.com/author/paul-scrivens/",
   "commentCount": 32,
   "description": "In the startup community there is a term called minimum viable product. I’m coining the term Minimum Usable Design, and that is when you reach your 50% mark for your design.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/abstract-blueish-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/05/mud-minimum-usable-design/",
   "publishedDate": 1338298915,
   "tags": [
-    "Psychology",
-    "Web Design"
+    {
+      "name": "Psychology",
+      "slug": "psychology"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "MUD: Minimum Usable Design",
   "url": "https://www.smashingmagazine.com/2012/05/mud-minimum-usable-design/"

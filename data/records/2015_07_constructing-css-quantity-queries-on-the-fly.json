@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Drew Minns",
+  "authorUrl": "https://www.smashingmagazine.com/author/drewminns/",
   "commentCount": 12,
   "description": "You want to build a dynamic CSS module and style items based on the count of siblings? CSS quantity queries solve just that—now with a tool to generate CSS.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/07/fig2_squid.png",
   "objectID": "https://www.smashingmagazine.com/2015/07/constructing-css-quantity-queries-on-the-fly/",
   "publishedDate": 1438175761,
   "tags": [
-    "CSS",
-    "Techniques",
-    "Tools"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "Constructing CSS Quantity Queries On The Fly — Smashing Magazine",
   "url": "https://www.smashingmagazine.com/2015/07/constructing-css-quantity-queries-on-the-fly/"

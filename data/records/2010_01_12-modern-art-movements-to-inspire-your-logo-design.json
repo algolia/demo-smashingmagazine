@@ -1,14 +1,24 @@
 {
-  "author": "@ilovepiccsy",
+  "author": "Daniel Eckler, Glenn Manucdoc",
+  "authorUrl": "https://www.smashingmagazine.com/author/daniel-eckler/",
   "commentCount": 76,
   "description": "It&#39;s always nice to go to a bookstore, grab a book of logo designs, sit down, inhale that new-book smell and absorb the goodness. But knowing where all of these designs, fonts and creative elements...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2009/12/Bauhaus.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/01/12-modern-art-movements-to-inspire-your-logo-design/",
   "publishedDate": 1262838337,
   "tags": [
-    "Art",
-    "Inspiration",
-    "Logo Design"
+    {
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Logo Design",
+      "slug": "logo-design"
+    }
   ],
   "title": "Modern Art Movements To Inspire Your Logo Design",
   "url": "https://www.smashingmagazine.com/2010/01/12-modern-art-movements-to-inspire-your-logo-design/"

@@ -1,14 +1,24 @@
 {
-  "author": "@IvanaMcConnell",
+  "author": "Ivana McConnell",
+  "authorUrl": "https://www.smashingmagazine.com/author/ivanamcconnell/",
   "commentCount": 59,
   "description": "Ivana McConnell discusses how designers or developers looking to learn the other discipline can easily become intimidated and confused about where to begin, no matter how many initiatives and resou...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/04/2-designers-developers-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/05/designers-and-developers-no-longer-a-house-divided/",
   "publishedDate": 1431084672,
   "tags": [
-    "Business",
-    "Communication",
-    "Opinion Column"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Communication",
+      "slug": "communication"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    }
   ],
   "title": "Designers And Developers: No Longer A House Divided",
   "url": "https://www.smashingmagazine.com/2015/05/designers-and-developers-no-longer-a-house-divided/"

@@ -1,13 +1,20 @@
 {
-  "author": "@scottbelsky",
+  "author": "Scott Belsky",
+  "authorUrl": "https://www.smashingmagazine.com/author/scott-belsky/",
   "commentCount": 118,
   "description": "Creative types have a problem. We have so many great ideas, but most of them never see the light of day. Why do most ideas never happen? The reason is that our own creative habits get in the way. F...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illuicon473.png",
   "objectID": "https://www.smashingmagazine.com/2010/04/five-tips-for-making-ideas-happen/",
   "publishedDate": 1271823335,
   "tags": [
-    "Ideas",
-    "Innovation"
+    {
+      "name": "Ideas",
+      "slug": "ideas"
+    },
+    {
+      "name": "Innovation",
+      "slug": "innovation"
+    }
   ],
   "title": "Five Tips For Making Ideas Happen",
   "url": "https://www.smashingmagazine.com/2010/04/five-tips-for-making-ideas-happen/"

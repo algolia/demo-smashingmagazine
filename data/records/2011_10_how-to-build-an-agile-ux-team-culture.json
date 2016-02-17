@@ -1,14 +1,24 @@
 {
-  "author": "@jboogie",
+  "author": "Jeff Gothelf",
+  "authorUrl": "https://www.smashingmagazine.com/author/jeff-gothelf/",
   "commentCount": 49,
   "description": "Building a user experience team within an agile organization challenges not only traditional design practices but typical design team dynamics. We’ll look at the type of culture that would support ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/10/agile1.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/10/how-to-build-an-agile-ux-team-culture/",
   "publishedDate": 1318909516,
   "tags": [
-    "Process",
-    "Productivity",
-    "Software"
+    {
+      "name": "Process",
+      "slug": "process"
+    },
+    {
+      "name": "Productivity",
+      "slug": "productivity"
+    },
+    {
+      "name": "Software",
+      "slug": "software"
+    }
   ],
   "title": "How To Build An Agile UX Team: The Culture",
   "url": "https://www.smashingmagazine.com/2011/10/how-to-build-an-agile-ux-team-culture/"

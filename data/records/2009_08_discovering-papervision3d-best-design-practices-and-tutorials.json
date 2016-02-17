@@ -1,14 +1,24 @@
 {
-  "author": "@indigomay",
+  "author": "Julia May",
+  "authorUrl": "https://www.smashingmagazine.com/author/julia-may/",
   "commentCount": 50,
   "description": "Papervision3D (PV3D) is a popular open source 3D engine for Flash. It enables to create advanced three-dimensional objects displayed real time right in the web browser. With Papervision3D designers...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/papervision3d.png",
   "objectID": "https://www.smashingmagazine.com/2009/08/discovering-papervision3d-best-design-practices-and-tutorials/",
   "publishedDate": 1249911413,
   "tags": [
-    "Flash",
-    "Showcases",
-    "Tutorials"
+    {
+      "name": "Flash",
+      "slug": "flash"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "Discovering Papervision3D: Best Design Practices and Tutorials",
   "url": "https://www.smashingmagazine.com/2009/08/discovering-papervision3d-best-design-practices-and-tutorials/"

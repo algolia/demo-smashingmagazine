@@ -1,15 +1,28 @@
 {
-  "author": "@trevanhetzel",
+  "author": "Trevan Hetzel",
+  "authorUrl": "https://www.smashingmagazine.com/author/trevanhetzel/",
   "commentCount": 28,
   "description": "On selling your freelancing services to a small-town client that might not even see the need for a website and turning it into profit.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/06/illu-investment.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/07/selling-to-small-town-clients/",
   "publishedDate": 1406620851,
   "tags": [
-    "Business",
-    "Clients",
-    "Marketing",
-    "Strategy"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Clients",
+      "slug": "clients"
+    },
+    {
+      "name": "Marketing",
+      "slug": "marketing"
+    },
+    {
+      "name": "Strategy",
+      "slug": "strategy"
+    }
   ],
   "title": "Selling The Value Of The Web To Small-Town Clients",
   "url": "https://www.smashingmagazine.com/2014/07/selling-to-small-town-clients/"

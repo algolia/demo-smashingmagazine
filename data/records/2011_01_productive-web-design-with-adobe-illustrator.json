@@ -1,12 +1,16 @@
 {
-  "author": "@webalys",
+  "author": "Vincent Le Moign",
+  "authorUrl": "https://www.smashingmagazine.com/author/vincent-le-moign/",
   "commentCount": 267,
   "description": "Admittedly, Adobe Illustrator is often most certainly not the first choice that comes to mind when it comes to Web design. Fireworks and Photoshop are used much more often, and there are some good ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illustrator.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/01/productive-web-design-with-adobe-illustrator/",
   "publishedDate": 1295252422,
   "tags": [
-    "Illustrator"
+    {
+      "name": "Illustrator",
+      "slug": "illustrator"
+    }
   ],
   "title": "Productive Web Design With... Adobe Illustrator?",
   "url": "https://www.smashingmagazine.com/2011/01/productive-web-design-with-adobe-illustrator/"

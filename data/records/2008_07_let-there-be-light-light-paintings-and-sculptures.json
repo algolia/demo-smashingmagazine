@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 54,
   "description": "Although light is considered to be rather a practical than an artistic tool, it has some properties which designers can effectively explore in their works. Indeed, light can also be considered as a...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/light.gif",
   "objectID": "https://www.smashingmagazine.com/2008/07/let-there-be-light-light-paintings-and-sculptures/",
   "publishedDate": 1216000009,
   "tags": [
-    "Art",
-    "Paintings",
-    "Photography"
+    {
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "name": "Paintings",
+      "slug": "paintings"
+    },
+    {
+      "name": "Photography",
+      "slug": "photography"
+    }
   ],
   "title": "Let There Be Light: Light Paintings and Sculptures",
   "url": "https://www.smashingmagazine.com/2008/07/let-there-be-light-light-paintings-and-sculptures/"

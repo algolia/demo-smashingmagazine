@@ -1,16 +1,32 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 42,
   "description": "Productivity is a crucial asset of professional designers. Photoshop is an extremely powerful application for photo processing and image manipulation, and we can make it even more powerful by using...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ps-blue-mouse-illus.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/05/useful-photoshop-tools-and-techniques-for-your-workflow/",
   "publishedDate": 1304482892,
   "tags": [
-    "CMYK",
-    "PSD",
-    "Photoshop",
-    "Scripting",
-    "Tools"
+    {
+      "name": "CMYK",
+      "slug": "cmyk"
+    },
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "PSD",
+      "slug": "psd"
+    },
+    {
+      "name": "Scripting",
+      "slug": "scripting"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "Useful Photoshop Tools and Techniques For Your Workflow",
   "url": "https://www.smashingmagazine.com/2011/05/useful-photoshop-tools-and-techniques-for-your-workflow/"

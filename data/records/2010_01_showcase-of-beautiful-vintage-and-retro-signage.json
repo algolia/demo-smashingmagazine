@@ -1,17 +1,36 @@
 {
-  "author": "@callumchapman",
+  "author": "Callum Chapman",
+  "authorUrl": "https://www.smashingmagazine.com/author/callum-chapman/",
   "commentCount": 38,
   "description": "Many designers and artists have a true love for vintage and retro design and share their passion when the opportunity arises. One could probably find several hundred showcases of retro designs on d...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/signage.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/01/showcase-of-beautiful-vintage-and-retro-signage/",
   "publishedDate": 1262924038,
   "tags": [
-    "Inspiration",
-    "Retro",
-    "Showcases",
-    "Signs",
-    "Typography",
-    "Vintage"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Retro",
+      "slug": "retro"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Signs",
+      "slug": "signs"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    },
+    {
+      "name": "Vintage",
+      "slug": "vintage"
+    }
   ],
   "title": "Showcase Of Beautiful Vintage and Retro Signage",
   "url": "https://www.smashingmagazine.com/2010/01/showcase-of-beautiful-vintage-and-retro-signage/"

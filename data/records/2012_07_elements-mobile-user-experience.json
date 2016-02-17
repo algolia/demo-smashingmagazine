@@ -1,13 +1,20 @@
 {
-  "author": "@lycerejo",
+  "author": "Lyndon Cerejo",
+  "authorUrl": "https://www.smashingmagazine.com/author/lyndon-cerejo/",
   "commentCount": 25,
   "description": "The mobile user experience encompasses the user’s perceptions and feelings before, during and after their interaction.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/elements-mobile-ux.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/07/elements-mobile-user-experience/",
   "publishedDate": 1342058488,
   "tags": [
-    "Design Patterns",
-    "User Experience"
+    {
+      "name": "Design Patterns",
+      "slug": "design-patterns"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "The Elements Of The Mobile User Experience",
   "url": "https://www.smashingmagazine.com/2012/07/elements-mobile-user-experience/"

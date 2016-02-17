@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 153,
   "description": "Being a web designer is not easy. Not only do we need to have a good understanding about visual design, typography, information architecture, psychology and a plethora of other disciplines; in our ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/launch.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/06/50-powerful-time-savers-for-web-designers/",
   "publishedDate": 1277695052,
   "tags": [
-    "Time Savers",
-    "Tools"
+    {
+      "name": "Time Savers",
+      "slug": "time-savers"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "50 Powerful Time-Savers For Web Designers",
   "url": "https://www.smashingmagazine.com/2010/06/50-powerful-time-savers-for-web-designers/"

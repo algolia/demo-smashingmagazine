@@ -1,16 +1,32 @@
 {
-  "author": "@jerols",
+  "author": "Jeremy Olson",
+  "authorUrl": "https://www.smashingmagazine.com/author/jeremy-olson/",
   "commentCount": 58,
   "description": "Most mobile apps fail. Designing a successful app is not just a question of luck. With the right preparation you can maximize your chances of success.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/09/StoryImageMed.png",
   "objectID": "https://www.smashingmagazine.com/2012/11/succeed-with-your-app/",
   "publishedDate": 1352258252,
   "tags": [
-    "Android",
-    "Apps",
-    "Business",
-    "Product Strategy",
-    "iOS"
+    {
+      "name": "Android",
+      "slug": "android"
+    },
+    {
+      "name": "Apps",
+      "slug": "apps"
+    },
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "iOS",
+      "slug": "ios"
+    },
+    {
+      "name": "Product Strategy",
+      "slug": "product-strategy"
+    }
   ],
   "title": "How To Succeed With Your Mobile App",
   "url": "https://www.smashingmagazine.com/2012/11/succeed-with-your-app/"

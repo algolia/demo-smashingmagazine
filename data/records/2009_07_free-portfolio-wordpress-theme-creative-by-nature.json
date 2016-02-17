@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 79,
   "description": "In this post we are glad to release Creative by Nature, a unique and flexible high-quality portfolio WordPress theme for artists, photographers and designers. The theme was designed by .css{mayo} a...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/portfolio-theme.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/07/free-portfolio-wordpress-theme-creative-by-nature/",
   "publishedDate": 1248951034,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Themes"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "Free Portfolio WordPress Theme: Creative by Nature",
   "url": "https://www.smashingmagazine.com/2009/07/free-portfolio-wordpress-theme-creative-by-nature/"

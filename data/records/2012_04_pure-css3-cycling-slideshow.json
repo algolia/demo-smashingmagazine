@@ -1,12 +1,16 @@
 {
-  "author": "@Bluxart",
+  "author": "Alessio Atzeni",
+  "authorUrl": "https://www.smashingmagazine.com/author/alessio-atzeni/",
   "commentCount": 165,
   "description": "Thanks to CSS3, we can create effects and animations without using JavaScript, which will facilitate the work of many designers.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/12/final-slider.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/04/pure-css3-cycling-slideshow/",
   "publishedDate": 1335326803,
   "tags": [
-    "CSS3"
+    {
+      "name": "CSS3",
+      "slug": "css3"
+    }
   ],
   "title": "A Pure CSS3 Cycling Slideshow",
   "url": "https://www.smashingmagazine.com/2012/04/pure-css3-cycling-slideshow/"

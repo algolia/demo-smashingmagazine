@@ -1,15 +1,28 @@
 {
-  "author": "@cassiemc",
+  "author": "Cassie McDaniel",
+  "authorUrl": "https://www.smashingmagazine.com/author/cassie-mcdaniel/",
   "commentCount": 20,
   "description": "In digital culture, we are beginning to think of our output as products and of our clients as users. We have gotten serious about asking how to better serve users, which reflects a significant chan...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/08/minimum-viable-ux_mini-1.png",
   "objectID": "https://www.smashingmagazine.com/2013/08/designing-for-digital-products/",
   "publishedDate": 1377181893,
   "tags": [
-    "Business",
-    "Clients",
-    "Product Strategy",
-    "Web Design"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Clients",
+      "slug": "clients"
+    },
+    {
+      "name": "Product Strategy",
+      "slug": "product-strategy"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Designing For Digital Products",
   "url": "https://www.smashingmagazine.com/2013/08/designing-for-digital-products/"

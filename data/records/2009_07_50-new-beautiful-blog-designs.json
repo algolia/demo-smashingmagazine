@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 112,
   "description": "There are things that can&#39;t be showcased too often. For instance, beautiful blog designs. We have presented hundreds of beautiful blog designs in the past and now it&#39;s time to provide our readers w...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/blogs3.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/07/50-new-beautiful-blog-designs/",
   "publishedDate": 1248241429,
   "tags": [
-    "Blogging",
-    "Inspiration",
-    "Showcases"
+    {
+      "name": "Blogging",
+      "slug": "blogging"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    }
   ],
   "title": "50 New Beautiful Blog Designs",
   "url": "https://www.smashingmagazine.com/2009/07/50-new-beautiful-blog-designs/"

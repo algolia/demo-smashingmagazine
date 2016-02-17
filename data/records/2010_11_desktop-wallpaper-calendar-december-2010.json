@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 222,
   "description": "Desktop wallpapers can serve as an excellent source of inspiration. However, if you use a specific wallpaper for a longer period of time, it becomes harder to draw inspiration out of it. That’s why...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/december.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/11/desktop-wallpaper-calendar-december-2010/",
   "publishedDate": 1291091416,
   "tags": [
-    "Christmas",
-    "Wallpapers"
+    {
+      "name": "Christmas",
+      "slug": "christmas"
+    },
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Desktop Wallpaper Calendar: December 2010",
   "url": "https://www.smashingmagazine.com/2010/11/desktop-wallpaper-calendar-december-2010/"

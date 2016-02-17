@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 110,
   "description": "The times when paper was considered to be the primary medium for artistic expression is long gone. Many writers and designers use digital media...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/paper-art.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/05/the-beauty-of-paper-art/",
   "publishedDate": 1275099867,
   "tags": [
-    "Paintings",
-    "Photography"
+    {
+      "name": "Paintings",
+      "slug": "paintings"
+    },
+    {
+      "name": "Photography",
+      "slug": "photography"
+    }
   ],
   "title": "The Beauty of Paper Art",
   "url": "https://www.smashingmagazine.com/2010/05/the-beauty-of-paper-art/"

@@ -1,13 +1,20 @@
 {
-  "author": "@brucel",
+  "author": "Bruce Lawson",
+  "authorUrl": "https://www.smashingmagazine.com/author/bruce-lawson-remy-sharp/",
   "commentCount": 131,
   "description": "There has been a long-running war going on over the mobile Web: it can be summarized with the following question: “Is there a mobile Web?” That is, is the mobile device so fundamentally...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/04/twitter-large-frontpage-500.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/04/why-we-shouldnt-make-separate-mobile-websites/",
   "publishedDate": 1334849201,
   "tags": [
-    "Responsive Web Design",
-    "Strategy"
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    },
+    {
+      "name": "Strategy",
+      "slug": "strategy"
+    }
   ],
   "title": "Why We Shouldn't Make Separate Mobile Websites",
   "url": "https://www.smashingmagazine.com/2012/04/why-we-shouldnt-make-separate-mobile-websites/"

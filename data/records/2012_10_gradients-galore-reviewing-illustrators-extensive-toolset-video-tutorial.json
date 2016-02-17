@@ -1,13 +1,20 @@
 {
-  "author": "@designtaylor",
+  "author": "Adrian Taylor",
+  "authorUrl": "https://www.smashingmagazine.com/author/adrian-taylor/",
   "commentCount": 23,
   "description": "This extended video tutorial covers basic gradient tools, the appearance pannel and multiple gradient fill layers, blending tool and more.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/play-button-illu88.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/10/gradients-galore-reviewing-illustrators-extensive-toolset-video-tutorial/",
   "publishedDate": 1349244405,
   "tags": [
-    "Illustrator",
-    "Tutorials"
+    {
+      "name": "Illustrator",
+      "slug": "illustrator"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "Reviewing Adobe Illustrator's Extensive Gradients Toolset",
   "url": "https://www.smashingmagazine.com/2012/10/gradients-galore-reviewing-illustrators-extensive-toolset-video-tutorial/"

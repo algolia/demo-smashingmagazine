@@ -1,15 +1,28 @@
 {
-  "author": "@callumacrae",
+  "author": "Callum Macrae",
+  "authorUrl": "https://www.smashingmagazine.com/author/callummacrae/",
   "commentCount": 42,
   "description": "This article is about using Gulp to change your development workflow, making it faster and more efficient.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/06/00-gulp-intro.png",
   "objectID": "https://www.smashingmagazine.com/2014/06/building-with-gulp/",
   "publishedDate": 1402493575,
   "tags": [
-    "JavaScript",
-    "Optimization",
-    "Tools",
-    "Workflow"
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Optimization",
+      "slug": "optimization"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Building With Gulp",
   "url": "https://www.smashingmagazine.com/2014/06/building-with-gulp/"

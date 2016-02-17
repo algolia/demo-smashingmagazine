@@ -1,12 +1,16 @@
 {
-  "author": "@BestplaceonNet",
+  "author": "Taavi Vaimel",
+  "authorUrl": "https://www.smashingmagazine.com/author/taavi-vaimel/",
   "commentCount": 35,
   "description": "Massive collection of WordPress themes with newspaper-style layout and design, including 30 newspaper themes and 2 news-aggregator themes.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/12/SM-newspaper.png",
   "objectID": "https://www.smashingmagazine.com/2012/05/best-wordpress-themes-newspapers/",
   "publishedDate": 1337748958,
   "tags": [
-    "Themes"
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "Best WordPress Themes for Online Newspapers",
   "url": "https://www.smashingmagazine.com/2012/05/best-wordpress-themes-newspapers/"

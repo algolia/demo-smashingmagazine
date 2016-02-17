@@ -1,14 +1,24 @@
 {
-  "author": "@kevinlearynet",
+  "author": "Kevin Leary",
+  "authorUrl": "https://www.smashingmagazine.com/author/kevin-leary/",
   "commentCount": 33,
   "description": "Benefits, reasons, functions and methods for rocking an awesome network of websites using WordPress MultiSite.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wordpress-grudge.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/11/wordpress-multisite-practical-functions-methods/",
   "publishedDate": 1321514199,
   "tags": [
-    "Essentials",
-    "Functions",
-    "PHP"
+    {
+      "name": "Essentials",
+      "slug": "essentials"
+    },
+    {
+      "name": "Functions",
+      "slug": "functions"
+    },
+    {
+      "name": "PHP",
+      "slug": "php"
+    }
   ],
   "title": "WordPress Multisite: Practical Functions And Methods",
   "url": "https://www.smashingmagazine.com/2011/11/wordpress-multisite-practical-functions-methods/"

@@ -1,14 +1,24 @@
 {
-  "author": "@pratsaa",
+  "author": "Anna Pratskevich",
+  "authorUrl": "https://www.smashingmagazine.com/author/annapratskevich/",
   "commentCount": 12,
   "description": "App store listing is a key feature of the success of your app. Anna Pratskevich shares what her team has learned through A/B testing.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/08/03-utility-apps-screenshots-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/08/ab-testing-taught-app-store-optimization/",
   "publishedDate": 1440055497,
   "tags": [
-    "Apps",
-    "Optimization",
-    "Testing"
+    {
+      "name": "Apps",
+      "slug": "apps"
+    },
+    {
+      "name": "Optimization",
+      "slug": "optimization"
+    },
+    {
+      "name": "Testing",
+      "slug": "testing"
+    }
   ],
   "title": "What A/B Testing Taught Us About App Store Optimization",
   "url": "https://www.smashingmagazine.com/2015/08/ab-testing-taught-app-store-optimization/"

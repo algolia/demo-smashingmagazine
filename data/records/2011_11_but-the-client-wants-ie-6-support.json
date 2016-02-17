@@ -1,15 +1,28 @@
 {
-  "author": "@leaverou",
+  "author": "Lea Verou",
+  "authorUrl": "https://www.smashingmagazine.com/author/lea-verou/",
   "commentCount": 208,
   "description": "Frequently, when I discuss CSS3 with other developers, the issue of stubborn clients comes up. They tell me that even though they personally don’t think a website should look the same in all browse...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/internet-explorer-blue-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/11/but-the-client-wants-ie-6-support/",
   "publishedDate": 1320294956,
   "tags": [
-    "Bugs",
-    "Clients",
-    "Opinion Column",
-    "Workflow"
+    {
+      "name": "Bugs",
+      "slug": "bugs"
+    },
+    {
+      "name": "Clients",
+      "slug": "clients"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "“But The Client Wants IE 6 Support!”",
   "url": "https://www.smashingmagazine.com/2011/11/but-the-client-wants-ie-6-support/"

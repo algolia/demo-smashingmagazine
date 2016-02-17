@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 172,
   "description": "This one&#39;s easy: take a shot, send us the image and win a Canon EOS Digital Rebel XS digital SLR camera. Typography and icons are everywhere: they surround us, guide us, help us find the right path...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/signage2.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/08/the-world-of-signage-photo-contest-join-in-and-win-an-slr-camera/",
   "publishedDate": 1281937402,
   "tags": [
-    "Contests",
-    "Photography"
+    {
+      "name": "Contests",
+      "slug": "contests"
+    },
+    {
+      "name": "Photography",
+      "slug": "photography"
+    }
   ],
   "title": "The World Of Signage Photo Contest: Join In and Win a Digital SLR Camera!",
   "url": "https://www.smashingmagazine.com/2010/08/the-world-of-signage-photo-contest-join-in-and-win-an-slr-camera/"

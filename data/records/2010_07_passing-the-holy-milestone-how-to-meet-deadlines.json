@@ -1,13 +1,20 @@
 {
-  "author": "@benthinkin",
+  "author": "Ben Gremillion",
+  "authorUrl": "https://www.smashingmagazine.com/author/ben-gremillion/",
   "commentCount": 53,
   "description": "For too many projects, there comes a time when every action taken, every decision and sacrifice made, is spurred on by pressure to finish. Tempers seem to shrink along with the available days, talk...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/timing.png",
   "objectID": "https://www.smashingmagazine.com/2010/07/passing-the-holy-milestone-how-to-meet-deadlines/",
   "publishedDate": 1280285114,
   "tags": [
-    "Business",
-    "Time management"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Time management",
+      "slug": "time-management"
+    }
   ],
   "title": "Passing The Holy Milestone: How To Meet Deadlines",
   "url": "https://www.smashingmagazine.com/2010/07/passing-the-holy-milestone-how-to-meet-deadlines/"

@@ -1,15 +1,28 @@
 {
-  "author": "@vangogh",
+  "author": "Steven Bradley",
+  "authorUrl": "https://www.smashingmagazine.com/author/steven-bradley/",
   "commentCount": 15,
   "description": "This is second part of a series on design principles for beginners. The first part covered an introduction to gestalt; the rest of the series (including this post) will build on those gestalt princ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/05/panda-illu.png",
   "objectID": "https://www.smashingmagazine.com/2014/05/design-principles-space-figure-ground-relationship/",
   "publishedDate": 1400244215,
   "tags": [
-    "Creativity",
-    "Design Principles",
-    "Inspiration",
-    "Useful"
+    {
+      "name": "Creativity",
+      "slug": "creativity"
+    },
+    {
+      "name": "Design Principles",
+      "slug": "design-principles"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Useful",
+      "slug": "useful"
+    }
   ],
   "title": "Design Principles: Space And The Figure-Ground Relationship",
   "url": "https://www.smashingmagazine.com/2014/05/design-principles-space-figure-ground-relationship/"

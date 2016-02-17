@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Sergio Ordonez Suanez",
+  "authorUrl": "https://www.smashingmagazine.com/author/sergio-ordonez-suanez/",
   "commentCount": 75,
   "description": "In this article I will explain step-by-step how I&#39;ve designed an attractive character in one of our recent projects, namely for the company &quot;Drunken Monkey Collectibles&quot;. I will review the entire d...",
   "image": "https://www.smashingmagazine.com/images/drunken-monkey/banner.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/02/drunken-monkey-photoshop-tutorial/",
   "publishedDate": 1202881399,
   "tags": [
-    "Illustrations",
-    "Photoshop",
-    "Tutorials"
+    {
+      "name": "Illustrations",
+      "slug": "illustrations"
+    },
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "Drunken Monkey Photoshop Tutorial",
   "url": "https://www.smashingmagazine.com/2008/02/drunken-monkey-photoshop-tutorial/"

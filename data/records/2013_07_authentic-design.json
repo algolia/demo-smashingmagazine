@@ -1,13 +1,20 @@
 {
-  "author": "@dfadeyev",
+  "author": "Dmitry Fadeyev",
+  "authorUrl": "https://www.smashingmagazine.com/author/dmitry-fadeyev/",
   "commentCount": 148,
   "description": "In this article, Dmitry Fadeyev explains what authentic design is, what authenticity means in digital design, and why it matters.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/07/slutzky_mini.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/07/authentic-design/",
   "publishedDate": 1373967448,
   "tags": [
-    "Content",
-    "Web Design"
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Authentic Design",
   "url": "https://www.smashingmagazine.com/2013/07/authentic-design/"

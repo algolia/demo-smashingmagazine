@@ -1,14 +1,24 @@
 {
-  "author": "@nourayehia",
+  "author": "Noura Yehia",
+  "authorUrl": "https://www.smashingmagazine.com/author/noura-yehia/",
   "commentCount": 31,
   "description": "This icon set is called Gloss’d.It comes in five, free, high-quality, ready to download icons for you to use in your next project.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/glossd.png",
   "objectID": "https://www.smashingmagazine.com/2009/12/glossd-free-icon-set/",
   "publishedDate": 1260569798,
   "tags": [
-    "Design Informer",
-    "Freebies",
-    "Icons"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Gloss'd - A Free Icon Set",
   "url": "https://www.smashingmagazine.com/2009/12/glossd-free-icon-set/"

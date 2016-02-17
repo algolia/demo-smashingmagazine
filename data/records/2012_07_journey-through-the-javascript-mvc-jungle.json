@@ -1,14 +1,24 @@
 {
-  "author": "@addyosmani",
+  "author": "Addy Osmani",
+  "authorUrl": "https://www.smashingmagazine.com/author/addy-osmani/",
   "commentCount": 95,
   "description": "When writing a web application from scratch, it’s easy to feel like we can get by simply by relying on a DOM manipulation library (like jQuery) and a handful of utility plugins. The problem with th...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/07/juggling-monkey.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/07/journey-through-the-javascript-mvc-jungle/",
   "publishedDate": 1343348023,
   "tags": [
-    "Essentials",
-    "JavaScript",
-    "Tools"
+    {
+      "name": "Essentials",
+      "slug": "essentials"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "Journey Through The JavaScript MVC Jungle",
   "url": "https://www.smashingmagazine.com/2012/07/journey-through-the-javascript-mvc-jungle/"

@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 122,
   "description": "Round-ups of beautiful and useful icons are almost legendary here, on Smashing Magazine. While some readers complain about the annoying &quot;list&quot;-style of some of our articles, we are confident that u...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/icons4.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/12/50-beautiful-free-icon-sets-for-your-next-design/",
   "publishedDate": 1260787558,
   "tags": [
-    "Icons"
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "50 Beautiful Free Icon Sets For Your Next Design",
   "url": "https://www.smashingmagazine.com/2009/12/50-beautiful-free-icon-sets-for-your-next-design/"

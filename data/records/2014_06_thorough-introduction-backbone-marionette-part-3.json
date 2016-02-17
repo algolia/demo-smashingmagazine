@@ -1,13 +1,20 @@
 {
-  "author": "@joezimjs",
+  "author": "Joseph Zimmerman",
+  "authorUrl": "https://www.smashingmagazine.com/author/joseph-zimmerman/",
   "commentCount": 12,
   "description": "To help you tap the full potential of Marionette, we&#39;ve prepared an entire eBook full of useful hands-on examples which is also available in the Smashing Library. — Ed.  In this series on Backbone....",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/06/backbone-marionette-javascript-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/06/thorough-introduction-backbone-marionette-part-3/",
   "publishedDate": 1401971900,
   "tags": [
-    "Frameworks",
-    "JavaScript"
+    {
+      "name": "Frameworks",
+      "slug": "frameworks"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    }
   ],
   "title": "A Thorough Introduction To Backbone.Marionette (Part 3)",
   "url": "https://www.smashingmagazine.com/2014/06/thorough-introduction-backbone-marionette-part-3/"

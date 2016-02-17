@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 16,
   "description": "Creative websites are popping up every month that are just incredible and mind-blowing. Here&#39;s just a few that I discovered recently.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/animation-people-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/07/pushing-the-envelope-web-design/",
   "publishedDate": 1310380780,
   "tags": [
-    "Creativity",
-    "Design Informer"
+    {
+      "name": "Creativity",
+      "slug": "creativity"
+    },
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    }
   ],
   "title": "Pushing the Envelope in Web Design",
   "url": "https://www.smashingmagazine.com/2011/07/pushing-the-envelope-web-design/"

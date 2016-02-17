@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Laura Franz",
+  "authorUrl": "https://www.smashingmagazine.com/author/laura-franz/",
   "commentCount": 31,
   "description": "The practice of using a large letter to mark the start of a text has been around for almost two thousand years. Illustrated caps increased usability by marking important passages and guiding reader...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/abstract-wallpapers-noupe.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/04/drop-caps-historical-use-and-current-best-practices/",
   "publishedDate": 1333469811,
   "tags": [
-    "Typography"
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Drop Caps: Historical Use And Current Best Practices With CSS",
   "url": "https://www.smashingmagazine.com/2012/04/drop-caps-historical-use-and-current-best-practices/"

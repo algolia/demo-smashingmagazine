@@ -1,14 +1,24 @@
 {
-  "author": "@dblizzy",
+  "author": "Dan Rose",
+  "authorUrl": "https://www.smashingmagazine.com/author/daniel-rose/",
   "commentCount": 84,
   "description": "Endless layers in Photoshop. Overstuffed image folders. That jQuery plug-in that has 12 files associated with it. Hundreds or thousands of individual pieces go into making a website. No wonder we g...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/black-glasses-illu101.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/08/the-lost-art-of-design-etiquette/",
   "publishedDate": 1314583052,
   "tags": [
-    "Photoshop",
-    "Web Design",
-    "Workflow"
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "The Lost Art Of Design Etiquette",
   "url": "https://www.smashingmagazine.com/2011/08/the-lost-art-of-design-etiquette/"

@@ -1,13 +1,20 @@
 {
-  "author": "@dfeldman",
+  "author": "Dave Feldman",
+  "authorUrl": "https://www.smashingmagazine.com/author/davefeldman/",
   "commentCount": 23,
   "description": "In the mid-2000s, digital designers tended to fall into one of two buckets: user experience design (UX) and visual design (although titles varied). Visual design was, in a sense, applied graphic de...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/09/charts-illu-orange-bars.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/09/think-your-app-is-beautiful-not-without-user-experience-design/",
   "publishedDate": 1409572639,
   "tags": [
-    "Product Strategy",
-    "User Experience"
+    {
+      "name": "Product Strategy",
+      "slug": "product-strategy"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Think Your App Is Beautiful? Not Without User Experience Design",
   "url": "https://www.smashingmagazine.com/2014/09/think-your-app-is-beautiful-not-without-user-experience-design/"

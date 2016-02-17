@@ -1,12 +1,16 @@
 {
-  "author": "@martharotter",
+  "author": "Martha Rotter",
+  "authorUrl": "https://www.smashingmagazine.com/author/martha-rotter/",
   "commentCount": 16,
   "description": "When you have fantastic and original content, ensuring your readers have the best possible experience is critical to building and keeping your audience. The following suggested practices can help y...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/coversml.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/03/designing-engaging-enjoyable-long-form-reading-experiences/",
   "publishedDate": 1331099658,
   "tags": [
-    "Visual Design"
+    {
+      "name": "Visual Design",
+      "slug": "visual-design"
+    }
   ],
   "title": "Designing Engaging And Enjoyable Long-Form Reading Experiences",
   "url": "https://www.smashingmagazine.com/2012/03/designing-engaging-enjoyable-long-form-reading-experiences/"

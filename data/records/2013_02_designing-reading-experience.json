@@ -1,14 +1,24 @@
 {
-  "author": "@markodugonjic",
+  "author": "Marko Dugonjić",
+  "authorUrl": "https://www.smashingmagazine.com/author/marko-dugonjic/",
   "commentCount": 21,
   "description": "This article explains why, when designing for the reading experience, we shouldn&#39;t assume anything but learn everything we possibly can in order to establish a solid design concept.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/typo-12.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/02/designing-reading-experience/",
   "publishedDate": 1361190735,
   "tags": [
-    "Fonts",
-    "Typography",
-    "Web Design"
+    {
+      "name": "Fonts",
+      "slug": "fonts"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Designing For The Reading Experience",
   "url": "https://www.smashingmagazine.com/2013/02/designing-reading-experience/"

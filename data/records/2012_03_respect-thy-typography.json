@@ -1,12 +1,16 @@
 {
-  "author": "@ebrunborg",
+  "author": "Espen Brunborg",
+  "authorUrl": "https://www.smashingmagazine.com/author/espen-brunborg/",
   "commentCount": 22,
   "description": "Roll up those sleeves, consider the meaning of the words you’re setting, and pay some respect to the centuries of evolution behind the typeface you’re using today, and just as importantly, the craf...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/love-type-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/03/respect-thy-typography/",
   "publishedDate": 1331690435,
   "tags": [
-    "Typography"
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Respect Thy Typography",
   "url": "https://www.smashingmagazine.com/2012/03/respect-thy-typography/"

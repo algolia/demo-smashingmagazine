@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 17,
   "description": "This responsive and mobile icon set, designed by the folks behind Iconshock and Designshock, consists of 100 individual icons merging outlined as well as flat styles, all vectors built in Photoshop...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/12/responsive-mobile-icon-set-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/12/freebie-responsive-mobile-icon-set-100-icons-png-psd/",
   "publishedDate": 1418824791,
   "tags": [
-    "Freebies"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    }
   ],
   "title": "Freebie: Responsive And Mobile Icon Set (100 Icons, PNG, PSD)",
   "url": "https://www.smashingmagazine.com/2014/12/freebie-responsive-mobile-icon-set-100-icons-png-psd/"

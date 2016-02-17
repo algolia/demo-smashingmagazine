@@ -1,12 +1,16 @@
 {
-  "author": "@SThompson1489",
+  "author": "Katie Thompson",
+  "authorUrl": "https://www.smashingmagazine.com/author/katie-thompson/",
   "commentCount": 51,
   "description": "Web, industrial, interior… You name it and there are designers for it. We&#39;re all trained in our particular areas (as we should be), but it would do us some good sometimes to look beyond our borders...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/interior.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/06/applying-interior-design-principles-to-the-web/",
   "publishedDate": 1277073704,
   "tags": [
-    "Web Design"
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Applying Interior Design Principles To The Web",
   "url": "https://www.smashingmagazine.com/2010/06/applying-interior-design-principles-to-the-web/"

@@ -1,14 +1,24 @@
 {
-  "author": "@jacobmcook",
+  "author": "Jacob Cook",
+  "authorUrl": "https://www.smashingmagazine.com/author/jacob-cook/",
   "commentCount": 6,
   "description": "Learn how IDEO uses Agile Development, gathers user insights, and their tips on prototyping digital projects with clients.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/about-meabout-me-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/05/how-i-work-ideos-duane-bray-interview/",
   "publishedDate": 1367667162,
   "tags": [
-    "Inspiration",
-    "Interviews",
-    "Workflow"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Interviews",
+      "slug": "interviews"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "How I Work: IDEO's Duane Bray On Creating Great Digital Experiences",
   "url": "https://www.smashingmagazine.com/2013/05/how-i-work-ideos-duane-bray-interview/"

@@ -1,14 +1,24 @@
 {
-  "author": "@abogawat",
+  "author": "Ashish Bogawat",
+  "authorUrl": "https://www.smashingmagazine.com/author/ashish-bogawat/",
   "commentCount": 42,
   "description": "As a platform, Fireworks gives its users a lot of freedom, when it comes to extending it. Because of that, Fireworks has a thriving ecosystem of add-ons (extensions) that add a lot of valuable func...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/useful-05.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/08/fireworks-extensions-for-better-workflow/",
   "publishedDate": 1346127995,
   "tags": [
-    "Extensions",
-    "Fireworks",
-    "Workflow"
+    {
+      "name": "Extensions",
+      "slug": "extensions"
+    },
+    {
+      "name": "Fireworks",
+      "slug": "fireworks"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Optimizing The Design Workflow With Fireworks Extensions",
   "url": "https://www.smashingmagazine.com/2012/08/fireworks-extensions-for-better-workflow/"

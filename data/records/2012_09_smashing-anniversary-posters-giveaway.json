@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 360,
   "description": "We are genuinely interested in hearing what’s on your mind, and we look forward to reading your answers: Among all the commenters, we’ll raffle 30 sets of exclusive poster prints. Each set contains...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/vector-graphics-illu33.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/09/smashing-anniversary-posters-giveaway/",
   "publishedDate": 1346920813,
   "tags": [
-    "Giveaways"
+    {
+      "name": "Giveaways",
+      "slug": "giveaways"
+    }
   ],
   "title": "Limited-Edition Posters Giveaway: Comment And Win!",
   "url": "https://www.smashingmagazine.com/2012/09/smashing-anniversary-posters-giveaway/"

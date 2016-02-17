@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 88,
   "description": "Today we are glad to release something extremely tasty — Yummy Icon Set, a set with 20 beautiful, original and sweet icons in resolutions 48×48px – 128×128px and formats .png, .ico, .incs and .tif....",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/cake.png",
   "objectID": "https://www.smashingmagazine.com/2009/12/yummy-a-free-tasty-icon-set/",
   "publishedDate": 1261630720,
   "tags": [
-    "Christmas",
-    "Freebies",
-    "Icons"
+    {
+      "name": "Christmas",
+      "slug": "christmas"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Yummy! Free Food and Cakes Icon Set",
   "url": "https://www.smashingmagazine.com/2009/12/yummy-a-free-tasty-icon-set/"

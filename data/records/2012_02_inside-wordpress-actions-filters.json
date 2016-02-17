@@ -1,12 +1,16 @@
 {
-  "author": "@soulseekah",
+  "author": "Gennady Kovshenin",
+  "authorUrl": "https://www.smashingmagazine.com/author/gennady-kovshenin/",
   "commentCount": 8,
   "description": "Explore WordPress actions and filters in-depth with this detailed walkthrough and tutorial on core WP functionality.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/02/header_image_550px.png",
   "objectID": "https://www.smashingmagazine.com/2012/02/inside-wordpress-actions-filters/",
   "publishedDate": 1329375415,
   "tags": [
-    "Techniques (WP)"
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    }
   ],
   "title": "Inside WordPress Actions and Filters",
   "url": "https://www.smashingmagazine.com/2012/02/inside-wordpress-actions-filters/"

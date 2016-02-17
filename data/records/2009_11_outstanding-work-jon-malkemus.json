@@ -1,14 +1,24 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 6,
   "description": "I&#39;ve been following Jon Malkemus for quite some time. The quality of his work always amazes me. Jon does art direction and motion graphics.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/tools-illu1011.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/11/outstanding-work-jon-malkemus/",
   "publishedDate": 1259539283,
   "tags": [
-    "Creativity",
-    "Design Informer",
-    "Inspiration"
+    {
+      "name": "Creativity",
+      "slug": "creativity"
+    },
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "The Outstanding Work of Jon Malkemus",
   "url": "https://www.smashingmagazine.com/2009/11/outstanding-work-jon-malkemus/"

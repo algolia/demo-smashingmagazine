@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Rachel McCollin",
+  "authorUrl": "https://www.smashingmagazine.com/author/rachel-mccollin-2/",
   "commentCount": 32,
   "description": "Here are four ways to make your WordPress blog or website mobile-friendly, ranging from the quick and dirty to the complex but potentially very beautiful.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/05/twenty-eleven-desktop.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/05/creating-mobile-optimized-websites-using-wordpress/",
   "publishedDate": 1337815821,
   "tags": [
-    "Responsive Web Design"
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "Creating Mobile-Optimized Websites Using WordPress",
   "url": "https://www.smashingmagazine.com/2012/05/creating-mobile-optimized-websites-using-wordpress/"

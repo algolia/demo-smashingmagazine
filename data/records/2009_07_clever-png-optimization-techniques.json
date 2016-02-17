@@ -1,13 +1,20 @@
 {
-  "author": "@chikuyonok",
+  "author": "Sergey Chikuyonok",
+  "authorUrl": "https://www.smashingmagazine.com/author/sergey-chikuyonok/",
   "commentCount": 178,
   "description": "As a web designer you might be already familiar with the PNG image format which offers a full-featured transparency. It&#39;s a lossless, robust, very good replacement of the elder GIF image format. As...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illucopernicsummarizer.gif",
   "objectID": "https://www.smashingmagazine.com/2009/07/clever-png-optimization-techniques/",
   "publishedDate": 1247639641,
   "tags": [
-    "Optimization",
-    "PNG"
+    {
+      "name": "Optimization",
+      "slug": "optimization"
+    },
+    {
+      "name": "PNG",
+      "slug": "png"
+    }
   ],
   "title": "Clever PNG Optimization Techniques",
   "url": "https://www.smashingmagazine.com/2009/07/clever-png-optimization-techniques/"

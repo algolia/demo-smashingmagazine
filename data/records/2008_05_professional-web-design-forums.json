@@ -1,14 +1,24 @@
 {
-  "author": "@SeanHodge",
+  "author": "Sean Hodge",
+  "authorUrl": "https://www.smashingmagazine.com/author/sean-hodge/",
   "commentCount": 40,
   "description": "Web design-related forums are a place where you interact with other designers, exchange ideas or discuss your first drafts. When you have a problem, you can post the issue, and then receive feedbac...",
   "image": "https://www.smashingmagazine.com/images/web-design-forums/wordpress.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/05/professional-web-design-forums/",
   "publishedDate": 1209604820,
   "tags": [
-    "Tools",
-    "Useful",
-    "Web Design"
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Useful",
+      "slug": "useful"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Professional Web Design Forums",
   "url": "https://www.smashingmagazine.com/2008/05/professional-web-design-forums/"

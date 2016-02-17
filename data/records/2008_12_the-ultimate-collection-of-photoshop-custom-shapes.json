@@ -1,14 +1,24 @@
 {
-  "author": "@stevensnell",
+  "author": "Steven Snell",
+  "authorUrl": "https://www.smashingmagazine.com/author/stevensnell/",
   "commentCount": 244,
   "description": "This post highlights 80 different sets of photoshop custom shapes (over 2,500 individual shapes) in several different categories.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/shapes2.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/12/the-ultimate-collection-of-photoshop-custom-shapes/",
   "publishedDate": 1229023233,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Photoshop"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    }
   ],
   "title": "The Ultimate Collection Of Photoshop Custom Shapes",
   "url": "https://www.smashingmagazine.com/2008/12/the-ultimate-collection-of-photoshop-custom-shapes/"

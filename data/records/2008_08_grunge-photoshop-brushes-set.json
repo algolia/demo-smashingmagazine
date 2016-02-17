@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 71,
   "description": "In our previous releases we focused on icons and Wordpress-themes; however, there is a variety of further tools graphic designers need on a regular basis. For instance, Photoshop brushes. We have m...",
   "image": "https://www.smashingmagazine.com/images/grunge-photoshop-brushes/grunge.gif",
   "objectID": "https://www.smashingmagazine.com/2008/08/grunge-photoshop-brushes-set/",
   "publishedDate": 1218540949,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Grunge"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Grunge",
+      "slug": "grunge"
+    }
   ],
   "title": "Grunge Photoshop Brushes Set",
   "url": "https://www.smashingmagazine.com/2008/08/grunge-photoshop-brushes-set/"

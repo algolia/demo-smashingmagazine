@@ -1,14 +1,24 @@
 {
-  "author": "@leenjones",
+  "author": "Colleen Jones",
+  "authorUrl": "https://www.smashingmagazine.com/author/colleen-jones/",
   "commentCount": 45,
   "description": "Content, content, content. It’s an obvious part of any interactive experience. In fact, you’ve probably heard content is king, or queen, or some sort of royalty. Yet, content is elusive. Often, you...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/03/make-your-content-make-a-difference.png",
   "objectID": "https://www.smashingmagazine.com/2011/04/make-your-content-make-a-difference/",
   "publishedDate": 1302580330,
   "tags": [
-    "Content",
-    "Copywriting",
-    "Editorial"
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "Copywriting",
+      "slug": "copywriting"
+    },
+    {
+      "name": "Editorial",
+      "slug": "editorial"
+    }
   ],
   "title": "Make Your Content Make a Difference",
   "url": "https://www.smashingmagazine.com/2011/04/make-your-content-make-a-difference/"

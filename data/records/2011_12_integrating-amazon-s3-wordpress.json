@@ -1,14 +1,24 @@
 {
-  "author": "@codediesel",
+  "author": "Sameer Borate",
+  "authorUrl": "https://www.smashingmagazine.com/author/sameer-borate/",
   "commentCount": 36,
   "description": "Take advantage of the combined power of Amazon S3 and WordPress. Everything you need to get up and running with your own Amazon S3 setup.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/amazon-wp-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/12/integrating-amazon-s3-wordpress/",
   "publishedDate": 1322722517,
   "tags": [
-    "Techniques (WP)",
-    "Tutorials",
-    "Workflow"
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Integrating Amazon S3 With WordPress",
   "url": "https://www.smashingmagazine.com/2011/12/integrating-amazon-s3-wordpress/"

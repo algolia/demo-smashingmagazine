@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Diogo Terror",
+  "authorUrl": "https://www.smashingmagazine.com/author/diogo-terror/",
   "commentCount": 106,
   "description": "Also known as International Style, the Swiss Style does not simply describe a style of graphic design made in Switzerland. It became famous through the art of very talented Swiss graphic designers,...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/swiss.gif",
   "objectID": "https://www.smashingmagazine.com/2009/07/lessons-from-swiss-style-graphic-design/",
   "publishedDate": 1247823412,
   "tags": [
-    "Inspiration",
-    "Legacy",
-    "Showcases",
-    "Typography"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Legacy",
+      "slug": "legacy"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Lessons From Swiss Style Graphic Design",
   "url": "https://www.smashingmagazine.com/2009/07/lessons-from-swiss-style-graphic-design/"

@@ -1,13 +1,20 @@
 {
-  "author": "@webdesigncore",
+  "author": "Aquil Akhter",
+  "authorUrl": "https://www.smashingmagazine.com/author/aquil-akhter/",
   "commentCount": 70,
   "description": "Floral typography is the technique that combines typography, calligraphy and lettering to create dynamic, &quot;flourishing&quot; designs. With the help of floral elements you can create very tempting and vi...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/lettering.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/05/gorgeous-examples-of-floral-typography/",
   "publishedDate": 1243070229,
   "tags": [
-    "Calligraphy",
-    "Typography"
+    {
+      "name": "Calligraphy",
+      "slug": "calligraphy"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Gorgeous Examples of Floral Typography",
   "url": "https://www.smashingmagazine.com/2009/05/gorgeous-examples-of-floral-typography/"

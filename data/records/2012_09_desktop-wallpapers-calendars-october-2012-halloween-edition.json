@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 98,
   "description": "Free Halloween-themed desktop wallpapers created by artists for October 2012. Versions with a calendar and without a calendar are available.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/halloween-cat.gif",
   "objectID": "https://www.smashingmagazine.com/2012/09/desktop-wallpapers-calendars-october-2012-halloween-edition/",
   "publishedDate": 1348998399,
   "tags": [
-    "Halloween",
-    "Wallpapers"
+    {
+      "name": "Halloween",
+      "slug": "halloween"
+    },
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Free Quality Desktop Wallpapers: October 2012 (Halloween Edition)",
   "url": "https://www.smashingmagazine.com/2012/09/desktop-wallpapers-calendars-october-2012-halloween-edition/"

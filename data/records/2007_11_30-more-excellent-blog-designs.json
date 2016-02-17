@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 111,
   "description": "It&#39;s not hard to design a weblog, but it&#39;s getting harder when you try to achieve a unique weblog design. It doesn&#39;t matter what weblog-engine you are using — frequently used themes tend to become ...",
   "image": "https://www.smashingmagazine.com/images/excellent-blog-designs/iamsup.jpg",
   "objectID": "https://www.smashingmagazine.com/2007/11/30-more-excellent-blog-designs/",
   "publishedDate": 1195761257,
   "tags": [
-    "Web Design"
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "30 More Excellent Blog Designs",
   "url": "https://www.smashingmagazine.com/2007/11/30-more-excellent-blog-designs/"

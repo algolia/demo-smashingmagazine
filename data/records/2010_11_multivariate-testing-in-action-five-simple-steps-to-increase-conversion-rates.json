@@ -1,15 +1,28 @@
 {
-  "author": "@wingify",
+  "author": "Paras Chopra",
+  "authorUrl": "https://www.smashingmagazine.com/author/paras-chopra/",
   "commentCount": 38,
   "description": "The attention span on the Web has been decreasing ever since Google had arrived and changed the rules of the game. Now with millions of results available on any topic imaginable, the window to grab...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/10-usability-nightmares.png",
   "objectID": "https://www.smashingmagazine.com/2010/11/multivariate-testing-in-action-five-simple-steps-to-increase-conversion-rates/",
   "publishedDate": 1290567821,
   "tags": [
-    "Conversion",
-    "E-Commerce",
-    "Performance",
-    "Testing"
+    {
+      "name": "Conversion",
+      "slug": "conversion"
+    },
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    },
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "Testing",
+      "slug": "testing"
+    }
   ],
   "title": "Multivariate Testing in Action: Five Simple Steps to Increase Conversion Rates",
   "url": "https://www.smashingmagazine.com/2010/11/multivariate-testing-in-action-five-simple-steps-to-increase-conversion-rates/"

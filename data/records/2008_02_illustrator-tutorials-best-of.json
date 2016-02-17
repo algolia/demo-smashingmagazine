@@ -1,16 +1,32 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 134,
   "description": "Over years Adobe Illustrator has become the standard application when it comes to illustration design. Artists, illustrators and graphic designers use Illustrator to create vector-based graphics wh...",
   "image": "https://www.smashingmagazine.com/images/illustrator2/logo.gif",
   "objectID": "https://www.smashingmagazine.com/2008/02/illustrator-tutorials-best-of/",
   "publishedDate": 1202195078,
   "tags": [
-    "Adobe",
-    "CG",
-    "Illustrator",
-    "Software",
-    "Tutorials"
+    {
+      "name": "Adobe",
+      "slug": "adobe"
+    },
+    {
+      "name": "CG",
+      "slug": "cg"
+    },
+    {
+      "name": "Illustrator",
+      "slug": "illustrator"
+    },
+    {
+      "name": "Software",
+      "slug": "software"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "Adobe Illustrator Tutorials - Best Of",
   "url": "https://www.smashingmagazine.com/2008/02/illustrator-tutorials-best-of/"

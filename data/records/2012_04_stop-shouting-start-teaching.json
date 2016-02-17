@@ -1,13 +1,20 @@
 {
-  "author": "@chrbutler",
+  "author": "Christopher Butler",
+  "authorUrl": "https://www.smashingmagazine.com/author/christopher-butler/",
   "commentCount": 40,
   "description": "Imagine you are in a classroom. Let&#39;s say a high school classroom. You&#39;re sitting at your desk, listening to your favorite teacher—the one who inspired you, the one who got you excited about that t...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/abstract-blueish-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/04/stop-shouting-start-teaching/",
   "publishedDate": 1335193940,
   "tags": [
-    "E-Commerce",
-    "Marketing"
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    },
+    {
+      "name": "Marketing",
+      "slug": "marketing"
+    }
   ],
   "title": "Stop Shouting. Start Teaching.",
   "url": "https://www.smashingmagazine.com/2012/04/stop-shouting-start-teaching/"

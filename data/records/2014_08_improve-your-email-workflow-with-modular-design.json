@@ -1,15 +1,28 @@
 {
-  "author": "@briangraves",
+  "author": "Brian Graves",
+  "authorUrl": "https://www.smashingmagazine.com/author/briangraves/",
   "commentCount": 17,
   "description": "In this article you learn how to put in place a solid email workflow and regularly ship engaging and mobile-friendly emails with ease.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/08/illu-email.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/08/improve-your-email-workflow-with-modular-design/",
   "publishedDate": 1407137569,
   "tags": [
-    "Design Patterns",
-    "Emails",
-    "Marketing",
-    "Workflow"
+    {
+      "name": "Design Patterns",
+      "slug": "design-patterns"
+    },
+    {
+      "name": "Emails",
+      "slug": "emails"
+    },
+    {
+      "name": "Marketing",
+      "slug": "marketing"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Improve Your Email Workflow With Modular Design",
   "url": "https://www.smashingmagazine.com/2014/08/improve-your-email-workflow-with-modular-design/"

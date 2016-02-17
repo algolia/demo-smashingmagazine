@@ -1,14 +1,24 @@
 {
-  "author": "@51degreesmobi",
+  "author": "James Rosewell",
+  "authorUrl": "https://www.smashingmagazine.com/author/jamesrosewell/",
   "commentCount": 5,
   "description": "James Rosewell outlines common challenges and how to configure Google’s new Universal Analytics to efficiently, using custom dimensions, enhanced link tracking and server-side data feeds.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/10/illu-analytics.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/11/enabling-multiscreen-tracking-with-google-analytics/",
   "publishedDate": 1415782820,
   "tags": [
-    "Analytics",
-    "Devices",
-    "Performance"
+    {
+      "name": "Analytics",
+      "slug": "analytics"
+    },
+    {
+      "name": "Devices",
+      "slug": "devices"
+    },
+    {
+      "name": "Performance",
+      "slug": "performance"
+    }
   ],
   "title": "Enabling Multiscreen Tracking With Google Analytics",
   "url": "https://www.smashingmagazine.com/2014/11/enabling-multiscreen-tracking-with-google-analytics/"

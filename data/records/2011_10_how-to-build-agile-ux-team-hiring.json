@@ -1,14 +1,24 @@
 {
-  "author": "@jboogie",
+  "author": "Jeff Gothelf",
+  "authorUrl": "https://www.smashingmagazine.com/author/jeff-gothelf/",
   "commentCount": 5,
   "description": "As you build and grow an agile UX team, hiring becomes a central point of impact for the team. Understanding what to look for in designers and how to assess their potential success (or failure) in ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/agile2sml.png",
   "objectID": "https://www.smashingmagazine.com/2011/10/how-to-build-agile-ux-team-hiring/",
   "publishedDate": 1319686477,
   "tags": [
-    "Process",
-    "Productivity",
-    "Software"
+    {
+      "name": "Process",
+      "slug": "process"
+    },
+    {
+      "name": "Productivity",
+      "slug": "productivity"
+    },
+    {
+      "name": "Software",
+      "slug": "software"
+    }
   ],
   "title": "How To Build An Agile UX Team: Hiring",
   "url": "https://www.smashingmagazine.com/2011/10/how-to-build-agile-ux-team-hiring/"

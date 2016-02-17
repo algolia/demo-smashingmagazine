@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "C. Knight, J. Glaser",
+  "authorUrl": "https://www.smashingmagazine.com/author/carolyn-knight-and-jessica-glaser/",
   "commentCount": 8,
   "description": "In this article, we will explore the use of drawing and mark-making as an integral part of the creative process. As with most designers, being sure that we explore and select the most successful, m...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/organized-office-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/09/drawing-mark-making-creative-way-maximize-design-ideas-type/",
   "publishedDate": 1347019245,
   "tags": [
-    "Typography"
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "The Creative Way To Maximize Design Ideas With Type",
   "url": "https://www.smashingmagazine.com/2012/09/drawing-mark-making-creative-way-maximize-design-ideas-type/"

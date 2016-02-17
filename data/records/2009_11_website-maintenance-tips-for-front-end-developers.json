@@ -1,17 +1,36 @@
 {
-  "author": "@ImpressiveWebs",
+  "author": "Louis Lazaris",
+  "authorUrl": "https://www.smashingmagazine.com/author/louis-lazaris/",
   "commentCount": 59,
   "description": "One of the biggest advantages of online media over print is the ability to change, update, and enhance online media at virtually anytime, with virtually no negative side effects. In fact, if a webs...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/sketch.png",
   "objectID": "https://www.smashingmagazine.com/2009/11/website-maintenance-tips-for-front-end-developers/",
   "publishedDate": 1257333825,
   "tags": [
-    "Bugs",
-    "Business",
-    "Documentation",
-    "Maintenance",
-    "Security",
-    "Web Design"
+    {
+      "name": "Bugs",
+      "slug": "bugs"
+    },
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Documentation",
+      "slug": "documentation"
+    },
+    {
+      "name": "Maintenance",
+      "slug": "maintenance"
+    },
+    {
+      "name": "Security",
+      "slug": "security"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Website Maintenance Tips for Front-End Developers",
   "url": "https://www.smashingmagazine.com/2009/11/website-maintenance-tips-for-front-end-developers/"

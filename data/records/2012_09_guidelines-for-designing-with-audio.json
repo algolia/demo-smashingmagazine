@@ -1,12 +1,16 @@
 {
-  "author": "@kjkausha",
+  "author": "Karen Kaushansky",
+  "authorUrl": "https://www.smashingmagazine.com/author/karen-kaushansky/",
   "commentCount": 2,
   "description": "Audio is used as a feedback mechanism when users interact with many of their everyday devices, such as mobile phones, cars, toys and robots. There are many subtleties to designing with audio in ord...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/bell-ringing-black-grey-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/09/guidelines-for-designing-with-audio/",
   "publishedDate": 1347590260,
   "tags": [
-    "UI"
+    {
+      "name": "UI",
+      "slug": "ui"
+    }
   ],
   "title": "Guidelines For Designing With Audio",
   "url": "https://www.smashingmagazine.com/2012/09/guidelines-for-designing-with-audio/"

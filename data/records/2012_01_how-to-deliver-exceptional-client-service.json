@@ -1,16 +1,32 @@
 {
-  "author": "@jeremymgirard",
+  "author": "Jeremy Girard",
+  "authorUrl": "https://www.smashingmagazine.com/author/jeremy-girard/",
   "commentCount": 32,
   "description": "This article details a few ways of how to take your client service to the next level and deliver a better experience, starting with the most important aspect: the relationships that you establish w...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/cloud-speeches.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/01/how-to-deliver-exceptional-client-service/",
   "publishedDate": 1327500146,
   "tags": [
-    "Business",
-    "Clients",
-    "Communication",
-    "Customer Service",
-    "Workflow"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Clients",
+      "slug": "clients"
+    },
+    {
+      "name": "Communication",
+      "slug": "communication"
+    },
+    {
+      "name": "Customer Service",
+      "slug": "customer-service"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "How To Deliver Exceptional Client Service",
   "url": "https://www.smashingmagazine.com/2012/01/how-to-deliver-exceptional-client-service/"

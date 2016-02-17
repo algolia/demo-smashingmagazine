@@ -1,14 +1,24 @@
 {
-  "author": "@richardshepherd",
+  "author": "Richard Shepherd",
+  "authorUrl": "https://www.smashingmagazine.com/author/richard-shepherd/",
   "commentCount": 64,
   "description": "CSS3 is a wonderful thing, but it’s easy to be bamboozled by the transforms and animations (many of which are vendor-specific) and forget about the nuts-and-bolts selectors that have also been adde...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/05/css3-styling1.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/03/how-to-use-css3-pseudo-classes/",
   "publishedDate": 1301444659,
   "tags": [
-    "CSS",
-    "CSS3",
-    "Essentials"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "CSS3",
+      "slug": "css3"
+    },
+    {
+      "name": "Essentials",
+      "slug": "essentials"
+    }
   ],
   "title": "How To Use CSS3 Pseudo-Classes",
   "url": "https://www.smashingmagazine.com/2011/03/how-to-use-css3-pseudo-classes/"

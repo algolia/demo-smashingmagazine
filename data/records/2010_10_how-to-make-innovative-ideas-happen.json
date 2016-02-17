@@ -1,14 +1,24 @@
 {
-  "author": "@roberthartland",
+  "author": "Robert Hartland",
+  "authorUrl": "https://www.smashingmagazine.com/author/robert-hartland/",
   "commentCount": 58,
   "description": "In one of his recent presentations, Frans Johansson explained why groundbreaking innovators generate and execute far more ideas than their counterparts. After watching his presentation The Secret T...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/idea.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/10/how-to-make-innovative-ideas-happen/",
   "publishedDate": 1287722781,
   "tags": [
-    "Ideas",
-    "Innovation",
-    "Inspiration"
+    {
+      "name": "Ideas",
+      "slug": "ideas"
+    },
+    {
+      "name": "Innovation",
+      "slug": "innovation"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "How To Make Innovative Ideas Happen",
   "url": "https://www.smashingmagazine.com/2010/10/how-to-make-innovative-ideas-happen/"

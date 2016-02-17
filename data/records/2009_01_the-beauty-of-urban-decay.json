@@ -1,12 +1,16 @@
 {
-  "author": "@rob_e_bowen",
+  "author": "Robert Bowen",
+  "authorUrl": "https://www.smashingmagazine.com/author/robert-bowen/",
   "commentCount": 105,
   "description": "The city is a fantastic source of beauty and inspiration, with all the glitz and glamour glistening beneath the city lights. But there is another side of the city altogether, one rife with its own ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/urban.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/01/the-beauty-of-urban-decay/",
   "publishedDate": 1232305218,
   "tags": [
-    "Photography"
+    {
+      "name": "Photography",
+      "slug": "photography"
+    }
   ],
   "title": "The Beauty Of Urban Decay",
   "url": "https://www.smashingmagazine.com/2009/01/the-beauty-of-urban-decay/"

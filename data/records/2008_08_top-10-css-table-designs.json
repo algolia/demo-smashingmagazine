@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Rick Christie",
+  "authorUrl": "https://www.smashingmagazine.com/author/rickchristie/",
   "commentCount": 433,
   "description": "Tables have got to be one of the most difficult objects to style in the Web, thanks to the cryptic markup, the amount of detail we have to take care of, and lack of browser compatibility.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/csstables2.gif",
   "objectID": "https://www.smashingmagazine.com/2008/08/top-10-css-table-designs/",
   "publishedDate": 1218621184,
   "tags": [
-    "CSS",
-    "Tables"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Tables",
+      "slug": "tables"
+    }
   ],
   "title": "Top 10 CSS Table Designs",
   "url": "https://www.smashingmagazine.com/2008/08/top-10-css-table-designs/"

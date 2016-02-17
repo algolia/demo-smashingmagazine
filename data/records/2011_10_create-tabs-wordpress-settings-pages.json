@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Elio Rivero",
+  "authorUrl": "https://www.smashingmagazine.com/author/elio-rivero/",
   "commentCount": 32,
   "description": "Learn how to implement tabs in the WordPress Admin area and download a demo WP theme that uses the code",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wordpress-arrow-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/10/create-tabs-wordpress-settings-pages/",
   "publishedDate": 1319086900,
   "tags": [
-    "Tutorials"
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "How to Create Tabs in WordPress Settings Pages",
   "url": "https://www.smashingmagazine.com/2011/10/create-tabs-wordpress-settings-pages/"

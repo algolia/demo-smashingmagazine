@@ -1,13 +1,20 @@
 {
-  "author": "@KaylaMaeKnight",
+  "author": "Kayla Knight",
+  "authorUrl": "https://www.smashingmagazine.com/author/kayla-knight/",
   "commentCount": 0,
   "description": "In this article, we review some design solutions that are now possible with CSS, whether with the new advanced CSS3 or with prior versions.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2010/10/letterpress.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/11/photoshop-inspired-techniques-100-css/",
   "publishedDate": 1290512878,
   "tags": [
-    "CSS",
-    "CSS3"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "CSS3",
+      "slug": "css3"
+    }
   ],
   "title": "Photoshop-Inspired Techniques with 100% CSS",
   "url": "https://www.smashingmagazine.com/2010/11/photoshop-inspired-techniques-100-css/"

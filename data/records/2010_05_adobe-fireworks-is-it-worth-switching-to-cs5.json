@@ -1,14 +1,24 @@
 {
-  "author": "@optimiced",
+  "author": "Michel Bozgounov",
+  "authorUrl": "https://www.smashingmagazine.com/author/michel-bozgounov/",
   "commentCount": 223,
   "description": "Adobe Fireworks is the Swiss Army knife for many developers and Web, UX, UI and graphic designers. The application is known for its versatility, excellent blend of vector and bitmap tools and power...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/fireworks-cs5.png",
   "objectID": "https://www.smashingmagazine.com/2010/05/adobe-fireworks-is-it-worth-switching-to-cs5/",
   "publishedDate": 1274482133,
   "tags": [
-    "Fireworks",
-    "Techniques",
-    "Workflow"
+    {
+      "name": "Fireworks",
+      "slug": "fireworks"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Adobe Fireworks: Is It Worth Switching to CS5?",
   "url": "https://www.smashingmagazine.com/2010/05/adobe-fireworks-is-it-worth-switching-to-cs5/"

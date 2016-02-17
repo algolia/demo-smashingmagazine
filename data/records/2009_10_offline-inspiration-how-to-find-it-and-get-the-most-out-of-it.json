@@ -1,13 +1,20 @@
 {
-  "author": "@KaylaMaeKnight",
+  "author": "Kayla Knight",
+  "authorUrl": "https://www.smashingmagazine.com/author/kayla-knight/",
   "commentCount": 49,
   "description": "Inspiration is vital for any designer. This is why so many CSS galleries, design galleries and artistic showcases are floating around on the Web. Designers use these at certain times for a quick fi...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/inspiration-offline.png",
   "objectID": "https://www.smashingmagazine.com/2009/10/offline-inspiration-how-to-find-it-and-get-the-most-out-of-it/",
   "publishedDate": 1256688909,
   "tags": [
-    "Art",
-    "Inspiration"
+    {
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "Offline Inspiration: How To Find It and Get The Most Out Of It",
   "url": "https://www.smashingmagazine.com/2009/10/offline-inspiration-how-to-find-it-and-get-the-most-out-of-it/"

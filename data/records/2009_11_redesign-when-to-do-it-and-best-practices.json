@@ -1,15 +1,28 @@
 {
-  "author": "@KaylaMaeKnight",
+  "author": "Kayla Knight",
+  "authorUrl": "https://www.smashingmagazine.com/author/kayla-knight/",
   "commentCount": 54,
   "description": "Redesigning a website is a big job (needless to say) and should be handled with care. Many of us with a portfolio, blog or other website have probably thought about a redesign or at least know we n...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/portfolios.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/11/redesign-when-to-do-it-and-best-practices/",
   "publishedDate": 1257918157,
   "tags": [
-    "Performance",
-    "Redesign",
-    "Validation",
-    "Web Design"
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "Redesign",
+      "slug": "redesign"
+    },
+    {
+      "name": "Validation",
+      "slug": "validation"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Redesign: When To Relaunch The Site and Best Practices",
   "url": "https://www.smashingmagazine.com/2009/11/redesign-when-to-do-it-and-best-practices/"

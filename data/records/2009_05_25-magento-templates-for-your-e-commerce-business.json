@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Dkumar M.",
+  "authorUrl": "https://www.smashingmagazine.com/author/dkumar-m/",
   "commentCount": 122,
   "description": "Magento is a popular open source e-commerce software platform that has a modular architecture and is extremely flexible. It comes with a number of online shop maintenance capabilities. It is also s...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/magento.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/05/25-magento-templates-for-your-e-commerce-business/",
   "publishedDate": 1241525383,
   "tags": [
-    "Magento",
-    "Resources",
-    "Themes"
+    {
+      "name": "Magento",
+      "slug": "magento"
+    },
+    {
+      "name": "Resources",
+      "slug": "resources"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "25+ Magento Templates For Your E-Commerce Business",
   "url": "https://www.smashingmagazine.com/2009/05/25-magento-templates-for-your-e-commerce-business/"

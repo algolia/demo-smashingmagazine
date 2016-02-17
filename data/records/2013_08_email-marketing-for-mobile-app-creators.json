@@ -1,16 +1,32 @@
 {
-  "author": "@yarrcat",
+  "author": "Ros Hodgekiss",
+  "authorUrl": "https://www.smashingmagazine.com/author/ros-hodgekiss/",
   "commentCount": 7,
   "description": "In this post, we’ll focus on how to get a head start with email marketing and how to announce the launch and measure results. Along the way, we’ll share techniques and code snippets from solid mark...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/08/illu-email.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/08/email-marketing-for-mobile-app-creators/",
   "publishedDate": 1376435029,
   "tags": [
-    "Apps",
-    "Business",
-    "Content Strategy",
-    "Emails",
-    "Marketing"
+    {
+      "name": "Apps",
+      "slug": "apps"
+    },
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Content Strategy",
+      "slug": "content-strategy"
+    },
+    {
+      "name": "Emails",
+      "slug": "emails"
+    },
+    {
+      "name": "Marketing",
+      "slug": "marketing"
+    }
   ],
   "title": "Email Marketing For Mobile App Creators",
   "url": "https://www.smashingmagazine.com/2013/08/email-marketing-for-mobile-app-creators/"

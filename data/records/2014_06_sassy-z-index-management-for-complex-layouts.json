@@ -1,14 +1,24 @@
 {
-  "author": "@jackiebackwards",
+  "author": "Jackie Balzer",
+  "authorUrl": "https://www.smashingmagazine.com/author/jackiebalzer/",
   "commentCount": 42,
   "description": "An article explaining how to increment and manage z-index values in your CSS to keep the code clean, maintainable and sane.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/06/02-behance-opt-500.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/06/sassy-z-index-management-for-complex-layouts/",
   "publishedDate": 1402577545,
   "tags": [
-    "CSS",
-    "Frameworks",
-    "Sass"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Frameworks",
+      "slug": "frameworks"
+    },
+    {
+      "name": "Sass",
+      "slug": "sass"
+    }
   ],
   "title": "Sassy Z-Index Management For Complex Layouts",
   "url": "https://www.smashingmagazine.com/2014/06/sassy-z-index-management-for-complex-layouts/"

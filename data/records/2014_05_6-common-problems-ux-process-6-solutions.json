@@ -1,14 +1,24 @@
 {
-  "author": "@chrisdaaaaay",
+  "author": "chrisday",
+  "authorUrl": "https://www.smashingmagazine.com/author/chrisday/",
   "commentCount": 34,
   "description": "This article covers 6 common problems with the UX process, and 6 solutions.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/05/common-ux-problems.png",
   "objectID": "https://www.smashingmagazine.com/2014/05/6-common-problems-ux-process-6-solutions/",
   "publishedDate": 1399467612,
   "tags": [
-    "Interaction Design",
-    "Usability",
-    "User Experience"
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Six Common Problems With The UX Process, And Six Solutions!",
   "url": "https://www.smashingmagazine.com/2014/05/6-common-problems-ux-process-6-solutions/"

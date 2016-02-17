@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 114,
   "description": "It&#39;s quite easy to get stuck in creativity blocks, but it&#39;s damn hard to get out of them. Particularly if you are out of time and don&#39;t want to compromise your professional principles selecting the...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/60-elegant.png",
   "objectID": "https://www.smashingmagazine.com/2007/05/60-elegant-and-visually-appealling-designs/",
   "publishedDate": 1179773345,
   "tags": [
-    "Flash",
-    "Galleries",
-    "Inspiration",
-    "Showcases"
+    {
+      "name": "Flash",
+      "slug": "flash"
+    },
+    {
+      "name": "Galleries",
+      "slug": "galleries"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    }
   ],
   "title": "60 Elegant and Visually Appealing Designs",
   "url": "https://www.smashingmagazine.com/2007/05/60-elegant-and-visually-appealling-designs/"

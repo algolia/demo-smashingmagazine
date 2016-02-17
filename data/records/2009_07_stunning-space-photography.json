@@ -1,12 +1,16 @@
 {
-  "author": "@vailancio",
+  "author": "Vailancio Rodrigues",
+  "authorUrl": "https://www.smashingmagazine.com/author/vailrodrigues/",
   "commentCount": 119,
   "description": "Space has many beautiful mysteries hidden inside. Many people have tried and are still trying to uncover those mysteries. In this inspirational post, we present beautiful photographs from space exp...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/space3.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/07/stunning-space-photography/",
   "publishedDate": 1248410256,
   "tags": [
-    "Photography"
+    {
+      "name": "Photography",
+      "slug": "photography"
+    }
   ],
   "title": "Stunning Space Photography",
   "url": "https://www.smashingmagazine.com/2009/07/stunning-space-photography/"

@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Léonie Watson & Chaals McCathie Nevile",
+  "authorUrl": "https://www.smashingmagazine.com/author/leoniewatsonchaalsnevile/",
   "commentCount": 25,
   "description": "Léonie Watson and Chaals McCathie Nevile explain accessibility APIs to make informed decisions about accessible design so users get information they need.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/03/excerpt-accessibilityapi.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/03/web-accessibility-with-accessibility-api/",
   "publishedDate": 1426496408,
   "tags": [
-    "API",
-    "Accessibility",
-    "User Experience"
+    {
+      "name": "Accessibility",
+      "slug": "accessibility"
+    },
+    {
+      "name": "API",
+      "slug": "api"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Accessibility APIs: A Key To Web Accessibility",
   "url": "https://www.smashingmagazine.com/2015/03/web-accessibility-with-accessibility-api/"

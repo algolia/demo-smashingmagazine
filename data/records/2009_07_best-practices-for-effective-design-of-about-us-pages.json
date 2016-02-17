@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Mark Nutter",
+  "authorUrl": "https://www.smashingmagazine.com/author/mark-nutter/",
   "commentCount": 97,
   "description": "The &quot;about me&quot;-page is one of the most overlooked pages in development and one of the highest ranked pages on many websites. In a world that&#39;s becoming increasingly connected through the Web, it&#39;s ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ninja.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/07/best-practices-for-effective-design-of-about-us-pages/",
   "publishedDate": 1246404176,
   "tags": [
-    "Portfolios",
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Portfolios",
+      "slug": "portfolios"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Best Practices For Effective Design Of \"About me\"-Pages",
   "url": "https://www.smashingmagazine.com/2009/07/best-practices-for-effective-design-of-about-us-pages/"

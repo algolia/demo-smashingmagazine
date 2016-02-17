@@ -1,14 +1,24 @@
 {
-  "author": "@senongo",
+  "author": "Senongo Akpem",
+  "authorUrl": "https://www.smashingmagazine.com/author/senongo-akpem/",
   "commentCount": 14,
   "description": "Senongo Akpem analyzes some key features of case studies and provides tips on how to establish a human-centered design process for designing case studies.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/10/08-paper-zoom-feature-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/",
   "publishedDate": 1423746407,
   "tags": [
-    "Case Studies",
-    "Process",
-    "Workflow"
+    {
+      "name": "Case Studies",
+      "slug": "case-studies"
+    },
+    {
+      "name": "Process",
+      "slug": "process"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Designing Case Studies: Showcasing A Human-Centered Design Process",
   "url": "https://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/"

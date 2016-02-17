@@ -1,15 +1,28 @@
 {
-  "author": "@robinrendle",
+  "author": "Robin Rendle",
+  "authorUrl": "https://www.smashingmagazine.com/author/robin-rendle/",
   "commentCount": 18,
   "description": "The form of the book is merely a tool, a sometimes wonderfully beautiful and effective tool, but a tool nonetheless. It is the ideas within that give us wonder, and these tools must be built for th...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/comic-reading-newspaper-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/02/the-journey-from-writer-to-reader/",
   "publishedDate": 1328716667,
   "tags": [
-    "Content",
-    "Design Informer",
-    "Emotional Design",
-    "Web Design"
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Emotional Design",
+      "slug": "emotional-design"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "A Craft Of Consequences: Reader, Writer And Emotional Design",
   "url": "https://www.smashingmagazine.com/2012/02/the-journey-from-writer-to-reader/"

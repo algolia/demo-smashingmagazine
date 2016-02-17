@@ -1,14 +1,24 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 34,
   "description": "A collection of the icon sets that I have personally downloaded and use on a daily basis.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/icon-set-1.png",
   "objectID": "https://www.smashingmagazine.com/2010/06/my-favorite-icon-sets/",
   "publishedDate": 1276263977,
   "tags": [
-    "Design Informer",
-    "Freebies",
-    "Icons"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "My Favourite Free Icon Sets For Web Design",
   "url": "https://www.smashingmagazine.com/2010/06/my-favorite-icon-sets/"

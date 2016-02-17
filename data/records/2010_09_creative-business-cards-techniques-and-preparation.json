@@ -1,16 +1,32 @@
 {
-  "author": "@LisaValuyskaya",
+  "author": "Lisa Valuyskaya",
+  "authorUrl": "https://www.smashingmagazine.com/author/lisa-valuyskaya/",
   "commentCount": 95,
   "description": "Plenty of creative business card showcases are available out there. Many of these are beautifully done and well thought out, and they serve as inspiration for those who would like their business ca...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/business-card3.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/09/creative-business-cards-techniques-and-preparation/",
   "publishedDate": 1283909657,
   "tags": [
-    "Business",
-    "Business Cards",
-    "CMYK",
-    "Inspiration",
-    "Print"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Business Cards",
+      "slug": "business-cards"
+    },
+    {
+      "name": "CMYK",
+      "slug": "cmyk"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Print",
+      "slug": "print"
+    }
   ],
   "title": "Designing and Producing Creative Business Cards: Techniques and Details",
   "url": "https://www.smashingmagazine.com/2010/09/creative-business-cards-techniques-and-preparation/"

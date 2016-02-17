@@ -1,14 +1,24 @@
 {
-  "author": "@danielpataki",
+  "author": "Daniel Pataki",
+  "authorUrl": "https://www.smashingmagazine.com/author/daniel-pataki/",
   "commentCount": 53,
   "description": "Make your website&#39;s emails look awesome with this complete guide to customizing WordPress emails with complete control over all the details.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/writing-code-illu22.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/10/create-perfect-emails-wordpress-website/",
   "publishedDate": 1319518713,
   "tags": [
-    "Content Strategy",
-    "Emails",
-    "Plugins"
+    {
+      "name": "Content Strategy",
+      "slug": "content-strategy"
+    },
+    {
+      "name": "Emails",
+      "slug": "emails"
+    },
+    {
+      "name": "Plugins",
+      "slug": "plugins"
+    }
   ],
   "title": "Create Perfect Emails For Your WordPress Website",
   "url": "https://www.smashingmagazine.com/2011/10/create-perfect-emails-wordpress-website/"

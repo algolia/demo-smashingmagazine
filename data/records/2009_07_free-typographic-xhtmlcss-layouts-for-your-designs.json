@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 159,
   "description": "In May we announced the Typographic Layout Design Contest that aimed to collect beautiful typographic (X)HTML+CSS-based layouts created by the design community and release them for free as a gift f...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/05/typography-main.gif",
   "objectID": "https://www.smashingmagazine.com/2009/07/free-typographic-xhtmlcss-layouts-for-your-designs/",
   "publishedDate": 1247037531,
   "tags": [
-    "CSS",
-    "Freebies",
-    "Layouts"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Layouts",
+      "slug": "layouts"
+    }
   ],
   "title": "Free Typographic XHTML/CSS-Layouts For Your Designs",
   "url": "https://www.smashingmagazine.com/2009/07/free-typographic-xhtmlcss-layouts-for-your-designs/"

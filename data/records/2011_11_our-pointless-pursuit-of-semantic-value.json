@@ -1,14 +1,24 @@
 {
-  "author": "@divya",
+  "author": "Divya Manian",
+  "authorUrl": "https://www.smashingmagazine.com/author/divya-manian/",
   "commentCount": 175,
   "description": "Allow me to paint a picture. You are busy creating a website. You have a thought, “Oh, now I have to add an element.”",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/11/article-footer-code-illu-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/11/our-pointless-pursuit-of-semantic-value/",
   "publishedDate": 1320980942,
   "tags": [
-    "HTML",
-    "HTML5",
-    "Semantics"
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "HTML5",
+      "slug": "html5"
+    },
+    {
+      "name": "Semantics",
+      "slug": "semantics"
+    }
   ],
   "title": "Our Pointless Pursuit Of Semantic Value",
   "url": "https://www.smashingmagazine.com/2011/11/our-pointless-pursuit-of-semantic-value/"

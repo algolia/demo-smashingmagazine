@@ -1,14 +1,24 @@
 {
-  "author": "@jboogie",
+  "author": "Jeff Gothelf",
+  "authorUrl": "https://www.smashingmagazine.com/author/jeff-gothelf/",
   "commentCount": 4,
   "description": "We’ll discuss how to integrate the UX designer into the agile process and team structure. For many designers, coming into an agile environment feels like settling in a new country. There are differ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/agile3sml.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/11/how-build-agile-ux-team-integration/",
   "publishedDate": 1320293860,
   "tags": [
-    "Process",
-    "Productivity",
-    "Software"
+    {
+      "name": "Process",
+      "slug": "process"
+    },
+    {
+      "name": "Productivity",
+      "slug": "productivity"
+    },
+    {
+      "name": "Software",
+      "slug": "software"
+    }
   ],
   "title": "How To Build An Agile UX Team: Integration",
   "url": "https://www.smashingmagazine.com/2011/11/how-build-agile-ux-team-integration/"

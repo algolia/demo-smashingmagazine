@@ -1,12 +1,16 @@
 {
-  "author": "@retinart",
+  "author": "Alexander Charchar",
+  "authorUrl": "https://www.smashingmagazine.com/author/alexander-charchar/",
   "commentCount": 15,
   "description": "Stuck, and want to get moving? Design what you don’t know. Writers are often given the advice to “write what you know.” Weaker wordsmiths would consider this justification to simply write what’s in...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/10/typewriter-inspiration-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/10/design-what-you-dont-know/",
   "publishedDate": 1414508235,
   "tags": [
-    "Mental Health"
+    {
+      "name": "Mental Health",
+      "slug": "mental-health"
+    }
   ],
   "title": "Feeling Stuck? Design What You Don't Know",
   "url": "https://www.smashingmagazine.com/2014/10/design-what-you-dont-know/"

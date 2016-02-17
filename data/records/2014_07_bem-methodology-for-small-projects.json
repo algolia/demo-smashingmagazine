@@ -1,16 +1,32 @@
 {
-  "author": "@ingdir",
+  "author": "Maxim Shirshin",
+  "authorUrl": "https://www.smashingmagazine.com/author/maksim-shirshin/",
   "commentCount": 33,
   "description": "Methodologies aren&#39;t just useful for large companies. This article explains how the BEM methodology can be used for small projects.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/07/bem-methodology-opt.png",
   "objectID": "https://www.smashingmagazine.com/2014/07/bem-methodology-for-small-projects/",
   "publishedDate": 1405602025,
   "tags": [
-    "CSS",
-    "HTML5",
-    "JavaScript",
-    "Techniques",
-    "jQuery"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "HTML5",
+      "slug": "html5"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "jQuery",
+      "slug": "jquery"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Scaling Down The BEM Methodology For Small Projects",
   "url": "https://www.smashingmagazine.com/2014/07/bem-methodology-for-small-projects/"

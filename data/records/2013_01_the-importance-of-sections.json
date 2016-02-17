@@ -1,13 +1,20 @@
 {
-  "author": "@heydonworks",
+  "author": "Heydon Pickering",
+  "authorUrl": "https://www.smashingmagazine.com/author/heydon-pickering/",
   "commentCount": 95,
   "description": "This article explores how sections can improve your document structure and solve problems, and why they are an important contribution to the semantic Web.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/01/the-importance-of-sections.png",
   "objectID": "https://www.smashingmagazine.com/2013/01/the-importance-of-sections/",
   "publishedDate": 1358483372,
   "tags": [
-    "HTML5",
-    "Semantics"
+    {
+      "name": "HTML5",
+      "slug": "html5"
+    },
+    {
+      "name": "Semantics",
+      "slug": "semantics"
+    }
   ],
   "title": "The Importance Of HTML5 Sectioning Elements",
   "url": "https://www.smashingmagazine.com/2013/01/the-importance-of-sections/"

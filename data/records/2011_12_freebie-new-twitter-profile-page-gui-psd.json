@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 20,
   "description": "Download free new Twitter GUI PSD template, with all layers in vectors, compatible with Photoshop CS4+.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/twitter672.png",
   "objectID": "https://www.smashingmagazine.com/2011/12/freebie-new-twitter-profile-page-gui-psd/",
   "publishedDate": 1324560580,
   "tags": [
-    "Freebies",
-    "PSD"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "PSD",
+      "slug": "psd"
+    }
   ],
   "title": "Freebie: Download New Twitter Profile GUI PSD - Smashing Magazine",
   "url": "https://www.smashingmagazine.com/2011/12/freebie-new-twitter-profile-page-gui-psd/"

@@ -1,15 +1,28 @@
 {
-  "author": "@danielpataki",
+  "author": "Daniel Pataki",
+  "authorUrl": "https://www.smashingmagazine.com/author/daniel-pataki/",
   "commentCount": 62,
   "description": "Today, WordPress 4.0 has been released. According to the official version numbering, WordPress 4.0 is no more or less significant than 3.9 was or 4.1 will be. That being said, a new major release i...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/08/wordpress-media-grid-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/08/a-tour-of-wordpress-4-0/",
   "publishedDate": 1409139165,
   "tags": [
-    "Optimization",
-    "Plugins",
-    "Techniques (WP)",
-    "Tools"
+    {
+      "name": "Optimization",
+      "slug": "optimization"
+    },
+    {
+      "name": "Plugins",
+      "slug": "plugins"
+    },
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "A Quick Tour Of WordPress 4.0",
   "url": "https://www.smashingmagazine.com/2014/08/a-tour-of-wordpress-4-0/"

@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Chauncey Wilson",
+  "authorUrl": "https://www.smashingmagazine.com/author/chauncey-wilson/",
   "commentCount": 20,
   "description": "Brainwriting is an easy alternative to face-to-face brainstorming, which often yields more ideas in less time than traditional group brainstorming.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/12/brainwriting-4-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/12/using-brainwriting-for-rapid-idea-generation/",
   "publishedDate": 1387163003,
   "tags": [
-    "Business",
-    "Communication",
-    "Ideation"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Communication",
+      "slug": "communication"
+    },
+    {
+      "name": "Ideation",
+      "slug": "ideation"
+    }
   ],
   "title": "Using Brainwriting For Rapid Idea Generation",
   "url": "https://www.smashingmagazine.com/2013/12/using-brainwriting-for-rapid-idea-generation/"

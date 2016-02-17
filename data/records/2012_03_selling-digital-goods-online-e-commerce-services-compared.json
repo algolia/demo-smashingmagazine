@@ -1,12 +1,16 @@
 {
-  "author": "@SachaGreif",
+  "author": "Sacha Greif",
+  "authorUrl": "https://www.smashingmagazine.com/author/sacha-g/",
   "commentCount": 84,
   "description": "A common way to earn passive income is to sell digital goods such as eBooks, WordPress themes, etc. But how exactly should you sell them?",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/colour-pattern-freebies-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/03/selling-digital-goods-online-e-commerce-services-compared/",
   "publishedDate": 1333028818,
   "tags": [
-    "E-Commerce"
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    }
   ],
   "title": "Selling Digital Goods Online",
   "url": "https://www.smashingmagazine.com/2012/03/selling-digital-goods-online-e-commerce-services-compared/"

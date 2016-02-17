@@ -1,13 +1,20 @@
 {
-  "author": "@codepo8",
+  "author": "Christian Heilmann",
+  "authorUrl": "https://www.smashingmagazine.com/author/christian-heilmann/",
   "commentCount": 96,
   "description": "Website performance is a hugely important topic, so much so that the big companies of the Web are obsessed with it. For the Googles, Yahoos, Amazons and eBays, slow websites mean fewer users and le...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/performance.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/01/page-performance-what-to-know-and-what-you-can-do/",
   "publishedDate": 1262753285,
   "tags": [
-    "PHP",
-    "Performance"
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "PHP",
+      "slug": "php"
+    }
   ],
   "title": "Website Performance: What To Know and What You Can Do",
   "url": "https://www.smashingmagazine.com/2010/01/page-performance-what-to-know-and-what-you-can-do/"

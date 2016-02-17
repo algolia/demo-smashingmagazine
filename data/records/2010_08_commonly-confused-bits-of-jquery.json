@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Andy Croxall",
+  "authorUrl": "https://www.smashingmagazine.com/author/andy-croxall/",
   "commentCount": 89,
   "description": "The explosion of JavaScript libraries and frameworks such as jQuery onto the front-end development scene has opened up the power of JavaScript to a far wider audience than ever before. It was born ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2010/08/glossyblack.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/08/commonly-confused-bits-of-jquery/",
   "publishedDate": 1280894655,
   "tags": [
-    "Essentials",
-    "jQuery"
+    {
+      "name": "Essentials",
+      "slug": "essentials"
+    },
+    {
+      "name": "jQuery",
+      "slug": "jquery"
+    }
   ],
   "title": "Commonly Confused Bits Of jQuery",
   "url": "https://www.smashingmagazine.com/2010/08/commonly-confused-bits-of-jquery/"

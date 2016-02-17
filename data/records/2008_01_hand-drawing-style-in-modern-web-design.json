@@ -1,18 +1,40 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 68,
   "description": "The most valuable and innovative ideas had all been handwritten first. That&#39;s no big news, since designers tend to produce first sketches as paper prototypes anyway; still it&#39;s important, because w...",
   "image": "https://www.smashingmagazine.com/images/handmade/simian.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/01/hand-drawing-style-in-modern-web-design/",
   "publishedDate": 1199351042,
   "tags": [
-    "Drawing",
-    "Handwriting",
-    "Inspiration",
-    "Lettering",
-    "Paintings",
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Drawing",
+      "slug": "drawing"
+    },
+    {
+      "name": "Handwriting",
+      "slug": "handwriting"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Lettering",
+      "slug": "lettering"
+    },
+    {
+      "name": "Paintings",
+      "slug": "paintings"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Hand-Drawing Style In Modern Web Design",
   "url": "https://www.smashingmagazine.com/2008/01/hand-drawing-style-in-modern-web-design/"

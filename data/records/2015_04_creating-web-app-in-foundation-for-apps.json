@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Stephen Saucier",
+  "authorUrl": "https://www.smashingmagazine.com/author/stephensaucier/",
   "commentCount": 19,
   "description": "Stephen Saucier shows how to create a web app using the RESTful API, caching and many of the features that Foundation for Apps and AngularJS offer.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/04/excerpt-starwars.png",
   "objectID": "https://www.smashingmagazine.com/2015/04/creating-web-app-in-foundation-for-apps/",
   "publishedDate": 1430208055,
   "tags": [
-    "AngularJS",
-    "Apps",
-    "Frameworks"
+    {
+      "name": "AngularJS",
+      "slug": "angularjs"
+    },
+    {
+      "name": "Apps",
+      "slug": "apps"
+    },
+    {
+      "name": "Frameworks",
+      "slug": "frameworks"
+    }
   ],
   "title": "Creating A Complete Web App In Foundation For Apps",
   "url": "https://www.smashingmagazine.com/2015/04/creating-web-app-in-foundation-for-apps/"

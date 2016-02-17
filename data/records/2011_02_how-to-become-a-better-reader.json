@@ -1,14 +1,24 @@
 {
-  "author": "@divisi0nby0",
+  "author": "Jonathan Phillips",
+  "authorUrl": "https://www.smashingmagazine.com/author/jonathan-phillips/",
   "commentCount": 42,
   "description": "Here are six tips for you to bear in mind the next time you&#39;re reading something online.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/semicolon-illu00.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/02/how-to-become-a-better-reader/",
   "publishedDate": 1298251335,
   "tags": [
-    "Design Informer",
-    "Opinion Column",
-    "Skills"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    },
+    {
+      "name": "Skills",
+      "slug": "skills"
+    }
   ],
   "title": "How To Become A Better Reader Online",
   "url": "https://www.smashingmagazine.com/2011/02/how-to-become-a-better-reader/"

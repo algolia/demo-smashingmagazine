@@ -1,15 +1,28 @@
 {
-  "author": "@lehtimaeki",
+  "author": "Juhani Lehtimaki",
+  "authorUrl": "https://www.smashingmagazine.com/author/juhani-lehtimaki/",
   "commentCount": 31,
   "description": "In this article, we’ll explain the application-building process and ecosystem for Android that could cause problems if misunderstood.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/mobiles-illu-324135.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/06/getting-to-know-android/",
   "publishedDate": 1338514795,
   "tags": [
-    "Android",
-    "Apps",
-    "Design Patterns",
-    "User Experience"
+    {
+      "name": "Android",
+      "slug": "android"
+    },
+    {
+      "name": "Apps",
+      "slug": "apps"
+    },
+    {
+      "name": "Design Patterns",
+      "slug": "design-patterns"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Getting To Know The Android Platform: Building, Testing And Distributing Apps",
   "url": "https://www.smashingmagazine.com/2012/06/getting-to-know-android/"

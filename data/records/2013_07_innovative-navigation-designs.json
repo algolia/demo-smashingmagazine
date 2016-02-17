@@ -1,14 +1,24 @@
 {
-  "author": "@shavaughnhaack",
+  "author": "Shavaughn Haack",
+  "authorUrl": "https://www.smashingmagazine.com/author/shavaughn-haack/",
   "commentCount": 37,
   "description": "Showcase of creative and innovative navigation designs for your inspiration.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/07/innovative-navigation-designs.png",
   "objectID": "https://www.smashingmagazine.com/2013/07/innovative-navigation-designs/",
   "publishedDate": 1373535786,
   "tags": [
-    "Inspiration",
-    "Navigation",
-    "Web Design"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Navigation",
+      "slug": "navigation"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Creative And Innovative Navigation Designs",
   "url": "https://www.smashingmagazine.com/2013/07/innovative-navigation-designs/"

@@ -1,14 +1,24 @@
 {
-  "author": "@mel_in_media",
+  "author": "Melanie Lang",
+  "authorUrl": "https://www.smashingmagazine.com/author/melanie-lang/",
   "commentCount": 35,
   "description": "An extensive list of useful and inspirational podcasts for designers and developers.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/06/podcasts-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/04/podcasts-for-designers-developers/",
   "publishedDate": 1366379809,
   "tags": [
-    "Inspiration",
-    "Useful",
-    "Videos"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Useful",
+      "slug": "useful"
+    },
+    {
+      "name": "Videos",
+      "slug": "videos"
+    }
   ],
   "title": "Listen, Watch And Share!",
   "url": "https://www.smashingmagazine.com/2013/04/podcasts-for-designers-developers/"

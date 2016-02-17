@@ -1,14 +1,24 @@
 {
-  "author": "@s2imon",
+  "author": "Simon Schmid",
+  "authorUrl": "https://www.smashingmagazine.com/author/simon-schmid/",
   "commentCount": 10,
   "description": "In this post, you’ll learn what to look out for when creating your own small marketing campaigns and how these elements fit together in existing campaigns around the Web.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/campaign.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/10/strategies-design-marketing-campaigns/",
   "publishedDate": 1381710236,
   "tags": [
-    "Business",
-    "Content",
-    "Interaction Design"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    }
   ],
   "title": "Smart, Effective Strategies To Design Marketing Campaigns",
   "url": "https://www.smashingmagazine.com/2013/10/strategies-design-marketing-campaigns/"

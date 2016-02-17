@@ -1,13 +1,20 @@
 {
-  "author": "@speider",
+  "author": "Speider Schneider",
+  "authorUrl": "https://www.smashingmagazine.com/author/jonathan-schneider/",
   "commentCount": 315,
   "description": "Smashing Editorial: Please notice that the language in some parts of this article may be very informal. If you think you might be offended, please stop reading this article now. I hate the division...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/soldier.png",
   "objectID": "https://www.smashingmagazine.com/2010/07/yin-and-yang-oil-and-water-creative-and-marketing/",
   "publishedDate": 1279587684,
   "tags": [
-    "Business",
-    "Workflow"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "The Creative vs. The Marketing Team: Yin And Yang, Oil And Water",
   "url": "https://www.smashingmagazine.com/2010/07/yin-and-yang-oil-and-water-creative-and-marketing/"

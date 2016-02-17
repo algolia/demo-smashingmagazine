@@ -1,12 +1,16 @@
 {
-  "author": "@zurb",
+  "author": "ZURB",
+  "authorUrl": "https://www.smashingmagazine.com/author/dmitry-dragilev/",
   "commentCount": 49,
   "description": "There comes a point in every website design when you simply want to give the website a little spice to impress the visitor and make it memorable. You want that sexy interaction to capture the user&#39;...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/css-55.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/06/spice-up-your-website-with-jquery-goodness/",
   "publishedDate": 1276570381,
   "tags": [
-    "jQuery"
+    {
+      "name": "jQuery",
+      "slug": "jquery"
+    }
   ],
   "title": "Spicing Up Your Website With jQuery Goodness",
   "url": "https://www.smashingmagazine.com/2010/06/spice-up-your-website-with-jquery-goodness/"

@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 45,
   "description": "This freebie offers vectors, all scalable, Adobe Photoshop PSDs as well as Fireworks PNGs. It is a set that is a collection of widely used UI elements, including volume, zoom, player, view, and dow...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/web-icons-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/12/freebie-free-vector-web-icons-91-icons/",
   "publishedDate": 1325178888,
   "tags": [
-    "Freebies",
-    "Icons"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Freebie: Free Vector Web Icons (91 Icons)",
   "url": "https://www.smashingmagazine.com/2011/12/freebie-free-vector-web-icons-91-icons/"

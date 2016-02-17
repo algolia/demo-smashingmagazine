@@ -1,14 +1,24 @@
 {
-  "author": "@Smash_Scribe",
+  "author": "Jan Constantin",
+  "authorUrl": "https://www.smashingmagazine.com/author/jan-constantin/",
   "commentCount": 26,
   "description": "A comprehensive overview of technical and design conferences for web designers, front-end developers and UX specialists in January–June 2016.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2008/03/hdr-67.jpg",
   "objectID": "https://www.smashingmagazine.com/2016/01/upcoming-web-design-conferences-january-june-2016/",
   "publishedDate": 1452084097,
   "tags": [
-    "Community",
-    "Conferences",
-    "Inspiration"
+    {
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "name": "Conferences",
+      "slug": "conferences"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "Upcoming Web Design Conferences (January–June 2016)",
   "url": "https://www.smashingmagazine.com/2016/01/upcoming-web-design-conferences-january-june-2016/"

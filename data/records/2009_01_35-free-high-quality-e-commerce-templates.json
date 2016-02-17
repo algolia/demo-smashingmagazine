@@ -1,15 +1,28 @@
 {
-  "author": "@stevensnell",
+  "author": "Steven Snell",
+  "authorUrl": "https://www.smashingmagazine.com/author/stevensnell/",
   "commentCount": 173,
   "description": "A comprehensive overview of free high-quality E-Commerce templates for WordPress, Magento, CubeCart, Zen Cart, Prestashop, osCommerce etc.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illualt.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/01/35-free-high-quality-e-commerce-templates/",
   "publishedDate": 1232910013,
   "tags": [
-    "E-Commerce",
-    "Resources",
-    "Templates",
-    "Themes"
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    },
+    {
+      "name": "Resources",
+      "slug": "resources"
+    },
+    {
+      "name": "Templates",
+      "slug": "templates"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "35 Free High-Quality E-Commerce Templates",
   "url": "https://www.smashingmagazine.com/2009/01/35-free-high-quality-e-commerce-templates/"

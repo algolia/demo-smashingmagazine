@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 466,
   "description": "Just recently we asked you to let us know what theme you would like us to release next. Among numerous comments we found many request for a gallery-theme that could be particularly useful for portf...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/gallery.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/05/download-gallery-a-free-wordpress-theme/",
   "publishedDate": 1241392005,
   "tags": [
-    "Freebies",
-    "Themes"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "Download \"Gallery\": A Free WordPress Theme",
   "url": "https://www.smashingmagazine.com/2009/05/download-gallery-a-free-wordpress-theme/"

@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 5,
   "description": "In this article we release three more exclusive interviews as well as two conference videos featuring Brad Frost, Andy Clarke and Nicole Sullivan.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/conferences-01.png",
   "objectID": "https://www.smashingmagazine.com/2013/03/smashing-conference-exclusive-videos-and-interviews-part-2/",
   "publishedDate": 1362585142,
   "tags": [
-    "Community",
-    "Inspiration",
-    "Interviews"
+    {
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Interviews",
+      "slug": "interviews"
+    }
   ],
   "title": "Videos And Interviews With Brad Frost, Andy Clarke and Nicole Sullivan",
   "url": "https://www.smashingmagazine.com/2013/03/smashing-conference-exclusive-videos-and-interviews-part-2/"

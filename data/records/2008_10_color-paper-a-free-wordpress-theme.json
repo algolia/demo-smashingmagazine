@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 181,
   "description": "We are offering you the opportunity to showcase your work in our magazine by releasing a high-quality freebie. We try to keep high standards and we have high expectations because we want our reader...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wtheme.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/10/color-paper-a-free-wordpress-theme/",
   "publishedDate": 1225375237,
   "tags": [
-    "Freebies",
-    "Themes"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "Color Paper: A Free WordPress Theme",
   "url": "https://www.smashingmagazine.com/2008/10/color-paper-a-free-wordpress-theme/"

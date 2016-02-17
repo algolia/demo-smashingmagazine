@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 131,
   "description": "Every now and then we look around, select fresh free high-quality fonts and present them to you in a brief overview. The choice is enormous, so the time you need to find them is usually time you sh...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/fonts-baurete.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/12/25-new-free-high-quality-fonts-typography/",
   "publishedDate": 1292553652,
   "tags": [
-    "Fonts",
-    "Free Fonts",
-    "Typography"
+    {
+      "name": "Fonts",
+      "slug": "fonts"
+    },
+    {
+      "name": "Free Fonts",
+      "slug": "free-fonts"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "25 New Free High-Quality Fonts",
   "url": "https://www.smashingmagazine.com/2010/12/25-new-free-high-quality-fonts-typography/"

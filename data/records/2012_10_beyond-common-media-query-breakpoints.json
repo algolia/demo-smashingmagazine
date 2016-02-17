@@ -1,14 +1,24 @@
 {
-  "author": "@drewbrolik",
+  "author": "Drew Thomas",
+  "authorUrl": "https://www.smashingmagazine.com/author/andrew-thomas/",
   "commentCount": 47,
   "description": "Chances are that your responsive websites have media query breakpoints at precisely the tablet and mobile widths, essentially creating three different versions of a website with the same code. Ofte...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/10/devices1.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/10/beyond-common-media-query-breakpoints/",
   "publishedDate": 1351046941,
   "tags": [
-    "CSS",
-    "Media Queries",
-    "Responsive Web Design"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Media Queries",
+      "slug": "media-queries"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "Looking Beyond Common Media Query Breakpoints",
   "url": "https://www.smashingmagazine.com/2012/10/beyond-common-media-query-breakpoints/"

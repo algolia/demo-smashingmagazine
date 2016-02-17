@@ -1,13 +1,20 @@
 {
-  "author": "@fetchcreative",
+  "author": "Stuart Silverstein",
+  "authorUrl": "https://www.smashingmagazine.com/author/stuart-silverstein/",
   "commentCount": 20,
   "description": "To answer the question of how a different perspective leads to a creative solution, we need to understand a little neuropsychology and what happens in the brain when you are solving a problem.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/brushesphotoshop-illu22.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/09/changing-perpective-new-look-old-problems/",
   "publishedDate": 1346678270,
   "tags": [
-    "Creativity",
-    "Inspiration"
+    {
+      "name": "Creativity",
+      "slug": "creativity"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "Changing Perspective: A New Look At Old Problems",
   "url": "https://www.smashingmagazine.com/2012/09/changing-perpective-new-look-old-problems/"

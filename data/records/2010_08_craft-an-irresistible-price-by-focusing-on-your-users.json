@@ -1,13 +1,20 @@
 {
-  "author": "@nathan_ford",
+  "author": "Nathan Ford",
+  "authorUrl": "https://www.smashingmagazine.com/author/nathan-ford/",
   "commentCount": 24,
   "description": "Price influences behavior. In order to craft an excellent user experience, the price — and how your users interact with that price — must be central to the development of the product, especially ap...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/nail.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/08/craft-an-irresistible-price-by-focusing-on-your-users/",
   "publishedDate": 1280976179,
   "tags": [
-    "Business",
-    "Pricing"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Pricing",
+      "slug": "pricing"
+    }
   ],
   "title": "Craft An Irresistible Price By Focusing On Your Users",
   "url": "https://www.smashingmagazine.com/2010/08/craft-an-irresistible-price-by-focusing-on-your-users/"

@@ -1,14 +1,24 @@
 {
-  "author": "@ZackGrossbart",
+  "author": "Zack Grossbart",
+  "authorUrl": "https://www.smashingmagazine.com/author/zack-grossbart/",
   "commentCount": 2,
   "description": "This article looks at actions in Cocos2D and see how to combine them to create complex and custom effects in iPhone games.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/mobile-04.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/04/realistic-iphone-games-cocos2d/",
   "publishedDate": 1366074865,
   "tags": [
-    "Games",
-    "iOS",
-    "iPhone"
+    {
+      "name": "Games",
+      "slug": "games"
+    },
+    {
+      "name": "iOS",
+      "slug": "ios"
+    },
+    {
+      "name": "iPhone",
+      "slug": "iphone"
+    }
   ],
   "title": "Creating Realistic iPhone Games With Cocos2D",
   "url": "https://www.smashingmagazine.com/2013/04/realistic-iphone-games-cocos2d/"

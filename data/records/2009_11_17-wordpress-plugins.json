@@ -1,12 +1,16 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 22,
   "description": "The great thing about WordPress is they have tons of plugins that you can download for free. From SEO to Analytics, if there is a feature...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wordpress-11.png",
   "objectID": "https://www.smashingmagazine.com/2009/11/17-wordpress-plugins/",
   "publishedDate": 1257091552,
   "tags": [
-    "Design Informer"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    }
   ],
   "title": "17 Useful Wordpress Plugins That You Should Install On Your Own Blog",
   "url": "https://www.smashingmagazine.com/2009/11/17-wordpress-plugins/"

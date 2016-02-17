@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Alex Holt",
+  "authorUrl": "https://www.smashingmagazine.com/author/alex-holt/",
   "commentCount": 211,
   "description": "When used correctly, jQuery can help you make your website more interactive, interesting and exciting. This article will share some best practices and examples for using the popular Javascript fram...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2010/10/packingdesign37b.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/09/jquery-examples-and-best-practices/",
   "publishedDate": 1221549347,
   "tags": [
-    "JavaScript",
-    "jQuery"
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "jQuery",
+      "slug": "jquery"
+    }
   ],
   "title": "jQuery and JavaScript Coding: Examples and Best Practices",
   "url": "https://www.smashingmagazine.com/2008/09/jquery-examples-and-best-practices/"

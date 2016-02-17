@@ -1,12 +1,16 @@
 {
-  "author": "@vailancio",
+  "author": "Vailancio Rodrigues",
+  "authorUrl": "https://www.smashingmagazine.com/author/vailrodrigues/",
   "commentCount": 116,
   "description": "Among all different types of photography showcased on the Smashing Magazine, underwater photography is probably one of the most difficult ones. It requires a very specialized equipment and the know...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/water.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/10/25-beautiful-examples-of-underwater-photography/",
   "publishedDate": 1224424453,
   "tags": [
-    "Photography"
+    {
+      "name": "Photography",
+      "slug": "photography"
+    }
   ],
   "title": "50 Stunning Underwater Photos",
   "url": "https://www.smashingmagazine.com/2008/10/25-beautiful-examples-of-underwater-photography/"

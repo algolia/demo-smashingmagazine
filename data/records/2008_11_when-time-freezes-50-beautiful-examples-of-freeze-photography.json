@@ -1,12 +1,16 @@
 {
-  "author": "@vailancio",
+  "author": "Vailancio Rodrigues",
+  "authorUrl": "https://www.smashingmagazine.com/author/vailrodrigues/",
   "commentCount": 67,
   "description": "A digital camera, some fast-moving subject, and a bit of knowledge about how to take the best pictures of moving subjects will launch you on the road to some of the most interesting photographs you...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/drops.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/11/when-time-freezes-50-beautiful-examples-of-freeze-photography/",
   "publishedDate": 1225635576,
   "tags": [
-    "Photography"
+    {
+      "name": "Photography",
+      "slug": "photography"
+    }
   ],
   "title": "Celebration Of High-Speed Photography",
   "url": "https://www.smashingmagazine.com/2008/11/when-time-freezes-50-beautiful-examples-of-freeze-photography/"

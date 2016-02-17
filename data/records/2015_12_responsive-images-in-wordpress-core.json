@@ -1,14 +1,24 @@
 {
-  "author": "@tevko",
+  "author": "Tim Evko",
+  "authorUrl": "https://www.smashingmagazine.com/author/timevko/",
   "commentCount": 17,
   "description": "Employing responsive images in a large CMS can be very difficult. Luckily, if you&#39;re using WordPress, it&#39;s now built right into the core of WordPress.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/12/wordpress-logo-stacked-rgb-opt.png",
   "objectID": "https://www.smashingmagazine.com/2015/12/responsive-images-in-wordpress-core/",
   "publishedDate": 1450950941,
   "tags": [
-    "Images",
-    "Responsive Web Design",
-    "Techniques (WP)"
+    {
+      "name": "Images",
+      "slug": "images"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    },
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    }
   ],
   "title": "Responsive Images Now Landed In WordPress Core",
   "url": "https://www.smashingmagazine.com/2015/12/responsive-images-in-wordpress-core/"

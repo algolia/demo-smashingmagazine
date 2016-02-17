@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 88,
   "description": "Today we are glad to release Quartz Icon Pack, a set with 90 clean, sharp and (hopefully) useful icons for your project. This set was designed by our friend, a Romanian designer Andy Gongea especia...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/icons.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/06/freebie-release-quartz-icon-set/",
   "publishedDate": 1245309623,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Icons"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Freebie Release: Quartz Icon Set",
   "url": "https://www.smashingmagazine.com/2009/06/freebie-release-quartz-icon-set/"

@@ -1,14 +1,24 @@
 {
-  "author": "@photoshopweblog",
+  "author": "Dirk Metzmacher",
+  "authorUrl": "https://www.smashingmagazine.com/author/dirk-metzmacher/",
   "commentCount": 101,
   "description": "When it comes to designing in Photoshop, there is a myriad of ways one could use to achieve a certain result, especially when it comes to photo retouching. Designers use technique they are most con...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/photography.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/03/useful-photoshop-tips-and-tricks-for-photo-retouching/",
   "publishedDate": 1299640563,
   "tags": [
-    "Photoshop",
-    "Retouching",
-    "Techniques"
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "Retouching",
+      "slug": "retouching"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Useful Photoshop Tips And Tricks For Photo Retouching",
   "url": "https://www.smashingmagazine.com/2011/03/useful-photoshop-tips-and-tricks-for-photo-retouching/"

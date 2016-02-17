@@ -1,13 +1,20 @@
 {
-  "author": "@erangalperin",
+  "author": "Eran Galperin",
+  "authorUrl": "https://www.smashingmagazine.com/author/eran-galperin/",
   "commentCount": 88,
   "description": "PayPal is the most popular platform for receiving online payments today. The ease of opening a PayPal account and receiving payments compared to opening a merchant account with a traditional paymen...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/09/paypal-logo.jpeg",
   "objectID": "https://www.smashingmagazine.com/2011/09/getting-started-with-the-paypal-api/",
   "publishedDate": 1315189176,
   "tags": [
-    "API",
-    "PHP"
+    {
+      "name": "API",
+      "slug": "api"
+    },
+    {
+      "name": "PHP",
+      "slug": "php"
+    }
   ],
   "title": "Getting Started With The PayPal API",
   "url": "https://www.smashingmagazine.com/2011/09/getting-started-with-the-paypal-api/"

@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Mike Cunsolo",
+  "authorUrl": "https://www.smashingmagazine.com/author/mike-cunsolo/",
   "commentCount": 58,
   "description": "We’ll look briefly at what Grunt can do, before jumping into how to set up and use its various plugins to do all of the heavy lifting in a project.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/10/grunt-js-opt.png",
   "objectID": "https://www.smashingmagazine.com/2013/10/get-up-running-grunt/",
   "publishedDate": 1383016893,
   "tags": [
-    "HTML",
-    "JavaScript",
-    "Tools",
-    "Workflow"
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Get Up And Running With Grunt",
   "url": "https://www.smashingmagazine.com/2013/10/get-up-running-grunt/"

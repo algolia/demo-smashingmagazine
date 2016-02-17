@@ -1,14 +1,24 @@
 {
-  "author": "@Smash_Scribe",
+  "author": "Jan Constantin",
+  "authorUrl": "https://www.smashingmagazine.com/author/jan-constantin/",
   "commentCount": 52,
   "description": "This case study analyzes the current trends and common practices in Web typography by examining the typographic choices of 50 well-respected websites.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/typo-3.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/05/typographic-design-patterns-practices-case-study-2013/",
   "publishedDate": 1368757549,
   "tags": [
-    "Trends",
-    "Typography",
-    "Web Design"
+    {
+      "name": "Trends",
+      "slug": "trends"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Typographic Design Patterns And Current Practices (2013 Edition)",
   "url": "https://www.smashingmagazine.com/2013/05/typographic-design-patterns-practices-case-study-2013/"

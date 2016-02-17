@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Josh Medrano",
+  "authorUrl": "https://www.smashingmagazine.com/author/josh-medrano/",
   "commentCount": 20,
   "description": "I’ll let you in on a little secret that really isn’t much of a secret at all: Content is king, and your design will never dethrone it.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/content-meaning/glimmer.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/08/content-meaning/",
   "publishedDate": 1314353136,
   "tags": [
-    "Content",
-    "Design Informer",
-    "Opinion Column"
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    }
   ],
   "title": "Content Meaning",
   "url": "https://www.smashingmagazine.com/2011/08/content-meaning/"

@@ -1,12 +1,16 @@
 {
-  "author": "@vasilis",
+  "author": "Vasilis van Gemert",
+  "authorUrl": "https://www.smashingmagazine.com/author/vasilis-van-gemert/",
   "commentCount": 38,
   "description": "How classic typographic theory can help you determine the right logical breakpoints for your responsive website.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/typo-11.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/03/logical-breakpoints-responsive-design/",
   "publishedDate": 1362152191,
   "tags": [
-    "Typography"
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Logical Breakpoints For Your Responsive Design",
   "url": "https://www.smashingmagazine.com/2013/03/logical-breakpoints-responsive-design/"

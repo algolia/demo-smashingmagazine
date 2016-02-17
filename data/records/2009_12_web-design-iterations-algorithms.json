@@ -1,13 +1,20 @@
 {
-  "author": "@aditgupta",
+  "author": "Adit Gupta",
+  "authorUrl": "https://www.smashingmagazine.com/author/adit-gupta/",
   "commentCount": 58,
   "description": "If you were to ask me what’s the best way to showcase your creativity, then I would definitely say that it is in designing a website.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/iteration.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/12/web-design-iterations-algorithms/",
   "publishedDate": 1262245642,
   "tags": [
-    "Design Informer",
-    "Web Design"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Web Design Iterations and Algorithms",
   "url": "https://www.smashingmagazine.com/2009/12/web-design-iterations-algorithms/"

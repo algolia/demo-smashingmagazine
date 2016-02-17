@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 46,
   "description": "We love beautiful typography, and we appreciate the efforts of designers who come up with great typographic techniques and tools or who just share their knowledge with fellow designers. We are alwa...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/type-100.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/05/50-helpful-typography-tools-and-resources/",
   "publishedDate": 1273131426,
   "tags": [
-    "Tools",
-    "Typography"
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "50 Helpful Typography Tools And Resources",
   "url": "https://www.smashingmagazine.com/2010/05/50-helpful-typography-tools-and-resources/"

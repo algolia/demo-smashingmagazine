@@ -1,14 +1,24 @@
 {
-  "author": "@slicknet",
+  "author": "Nicholas C. Zakas",
+  "authorUrl": "https://www.smashingmagazine.com/author/nicholas-c-zakas/",
   "commentCount": 14,
   "description": "What if there was a way to automatically detect incorrect patterns in JavaScript with pluggable runtime rules, or plugins? Meet ESLint.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/09/eslint-opt.png",
   "objectID": "https://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/",
   "publishedDate": 1443520736,
   "tags": [
-    "JavaScript",
-    "Testing",
-    "Workflow"
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Testing",
+      "slug": "testing"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "ESLint: The Next-Generation JavaScript Linter",
   "url": "https://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/"

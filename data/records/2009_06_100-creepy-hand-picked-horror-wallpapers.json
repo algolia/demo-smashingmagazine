@@ -1,13 +1,20 @@
 {
-  "author": "@webdesigncore",
+  "author": "Aquil Akhter",
+  "authorUrl": "https://www.smashingmagazine.com/author/aquil-akhter/",
   "commentCount": 164,
   "description": "Today&#39;s desktop wallpaper collection is all about horror. Wallpaper can convey the depths of emotion and feeling and whatever you want them to convey. You will always find a wallpaper to express yo...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/horror2.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/06/100-creepy-hand-picked-horror-wallpapers/",
   "publishedDate": 1245281242,
   "tags": [
-    "Horror",
-    "Wallpapers"
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "100 Creepy Hand-Picked Horror Wallpapers",
   "url": "https://www.smashingmagazine.com/2009/06/100-creepy-hand-picked-horror-wallpapers/"

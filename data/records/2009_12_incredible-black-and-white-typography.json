@@ -1,14 +1,24 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 38,
   "description": "In the world of design, black and white definitely have their place. Using black and white can definitely add a touch of class.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/black-white-typo.png",
   "objectID": "https://www.smashingmagazine.com/2009/12/incredible-black-and-white-typography/",
   "publishedDate": 1259930791,
   "tags": [
-    "Design Informer",
-    "Inspiration",
-    "Typography"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Incredible Black and White Typography",
   "url": "https://www.smashingmagazine.com/2009/12/incredible-black-and-white-typography/"

@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 3,
   "description": "So, do you like challenges? Now, this one is going to smash you alright. Meet SmashingConf San Francisco 2016, packed with smart front-end and UX techniques — CSS/JavaScript architecture, SVG, Flex...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/10/sf16-500.png",
   "objectID": "https://www.smashingmagazine.com/2015/10/the-journey-of-your-life-time-meet-smashingconf-san-francisco-2016/",
   "publishedDate": 1445964952,
   "tags": [
-    "SmashingConf"
+    {
+      "name": "SmashingConf",
+      "slug": "smashingconf"
+    }
   ],
   "title": "“This One Is Going To Be A Game Changer.” Meet SmashingConf San Francisco 2016",
   "url": "https://www.smashingmagazine.com/2015/10/the-journey-of-your-life-time-meet-smashingconf-san-francisco-2016/"

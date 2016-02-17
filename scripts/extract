@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 require 'rubygems'
 require 'bundler/setup'
+require 'slugify'
 require_relative '../lib/helper_download'
 require_relative '../lib/helper_extract'
 require_relative '../lib/helper_selector'
@@ -80,15 +81,25 @@ class SmashingSelector
 
   # The author
   def record_author(doc)
-    attribute(doc, 'meta[name="twitter:creator"]', 'content')
+    element(doc, 'li[property=author] a[rel=author]').text
+  end
+
+  # Author url
+  def record_author_url(doc)
+    attribute(doc, 'li[property=author] a[rel=author]', 'href')
   end
 
   # Tags
   def record_tags(doc)
-    tags = element(doc, 'meta[property="article:tag"]').map do |meta|
-      attribute(doc, meta, 'content')
+    tags = []
+    element(doc, 'meta[property="article:tag"]').map do |meta|
+      name = attribute(doc, meta, 'content')
+      tags << {
+        name: name,
+        slug: name.slugify
+      }
     end
-    tags.sort
+    tags
   end
 
   # Number of comments

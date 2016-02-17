@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Anders Andersen & Tobias Järlund",
+  "authorUrl": "https://www.smashingmagazine.com/author/anders-andersen/",
   "commentCount": 38,
   "description": "In this article, we will share our responsive image technique, the “padding-bottom” technique, which we researched and implemented on the mobile version of the Swedish news website Aftonbladet.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/09/frontpage-image_mini.png",
   "objectID": "https://www.smashingmagazine.com/2013/09/responsive-images-performance-problem-case-study/",
   "publishedDate": 1379294906,
   "tags": [
-    "Case Studies",
-    "Performance",
-    "Responsive Web Design"
+    {
+      "name": "Case Studies",
+      "slug": "case-studies"
+    },
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "Addressing The Responsive Images Performance Problem: A Case Study",
   "url": "https://www.smashingmagazine.com/2013/09/responsive-images-performance-problem-case-study/"

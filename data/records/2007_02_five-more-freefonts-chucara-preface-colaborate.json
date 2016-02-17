@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 9,
   "description": "High quality freefonts are always nice to have, but usually they are extremely hard to find. Usually it requires much time and patience to get a lead on some gorgeous typofaces out there. Every wee...",
   "image": "https://www.smashingmagazine.com/images/freefonts-more/freefont-004.png",
   "objectID": "https://www.smashingmagazine.com/2007/02/five-more-freefonts-chucara-preface-colaborate/",
   "publishedDate": 1172298166,
   "tags": [
-    "Downloads",
-    "Free Fonts",
-    "Freebies",
-    "Typography"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Free Fonts",
+      "slug": "free-fonts"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "5 More Free Fonts: Chúcara, Preface, Colaborate",
   "url": "https://www.smashingmagazine.com/2007/02/five-more-freefonts-chucara-preface-colaborate/"

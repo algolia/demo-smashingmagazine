@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Guest Author",
+  "authorUrl": "https://www.smashingmagazine.com/author/guest-author/",
   "commentCount": 81,
   "description": "Having a good relationship with your hosting provider is perhaps not crucial, but pretty darn close to it if you want to maintain a fully functional website. Remember that even though you are the c...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/isphosting.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/03/9-steps-to-a-happy-relationship-with-your-hosting-provider/",
   "publishedDate": 1238310247,
   "tags": [
-    "Business",
-    "DNS",
-    "Servers"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "DNS",
+      "slug": "dns"
+    },
+    {
+      "name": "Servers",
+      "slug": "servers"
+    }
   ],
   "title": "9 Steps To A Happy Relationship With Your Hosting Provider",
   "url": "https://www.smashingmagazine.com/2009/03/9-steps-to-a-happy-relationship-with-your-hosting-provider/"

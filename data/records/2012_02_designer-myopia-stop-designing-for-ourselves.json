@@ -1,13 +1,20 @@
 {
-  "author": "@rianvdm",
+  "author": "Rian van der Merwe",
+  "authorUrl": "https://www.smashingmagazine.com/author/rian-van-der-merwe/",
   "commentCount": 28,
   "description": "In this article, we’ll discuss “designer myopia”: the all-too-common phenomenon whereby, despite our best intentions, we sometimes design with a nearsightedness that results in website...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/flyer-design-patterns-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/02/designer-myopia-stop-designing-for-ourselves/",
   "publishedDate": 1329191469,
   "tags": [
-    "Process",
-    "Usability"
+    {
+      "name": "Process",
+      "slug": "process"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "Designer Myopia: How To Stop Designing For Ourselves",
   "url": "https://www.smashingmagazine.com/2012/02/designer-myopia-stop-designing-for-ourselves/"

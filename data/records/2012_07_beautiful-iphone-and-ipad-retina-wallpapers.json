@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 5,
   "description": "In this article we present you a great collection of iPhone and iPad wallpaper sources, including lots of different designs and styles, from artistic and abstract to photographic and illustrated im...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/shark-tank.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/07/beautiful-iphone-and-ipad-retina-wallpapers/",
   "publishedDate": 1343730950,
   "tags": [
-    "Inspiration",
-    "Photography",
-    "Wallpapers"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Photography",
+      "slug": "photography"
+    },
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Beautiful iPhone And iPad Retina Wallpapers",
   "url": "https://www.smashingmagazine.com/2012/07/beautiful-iphone-and-ipad-retina-wallpapers/"

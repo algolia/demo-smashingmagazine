@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Rachel McCollin",
+  "authorUrl": "https://www.smashingmagazine.com/author/rachel-mccollin-2/",
   "commentCount": 7,
   "description": "In this article, we’ll focus on navigation menus and detail a few approaches to making them work better on mobile devices.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/04/compassdesign-ipad.png",
   "objectID": "https://www.smashingmagazine.com/2012/06/responsive-menus-enhancing-navigation-on-mobile-websites/",
   "publishedDate": 1340857952,
   "tags": [
-    "CSS",
-    "Navigation",
-    "Responsive Web Design"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Navigation",
+      "slug": "navigation"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "Responsive Menus: Enhancing Navigation On Mobile Websites",
   "url": "https://www.smashingmagazine.com/2012/06/responsive-menus-enhancing-navigation-on-mobile-websites/"

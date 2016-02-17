@@ -1,12 +1,16 @@
 {
-  "author": "@keirwhitaker",
+  "author": "Keir Whitaker",
+  "authorUrl": "https://www.smashingmagazine.com/author/keir-whitaker/",
   "commentCount": 35,
   "description": "If you were asked today to recommend a web development framework to a new developer, which one would you choose and why?",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/10/framework-poll.png",
   "objectID": "https://www.smashingmagazine.com/2011/10/which-framework-would-you-recommend-to-a-new-developer/",
   "publishedDate": 1317773536,
   "tags": [
-    "Frameworks"
+    {
+      "name": "Frameworks",
+      "slug": "frameworks"
+    }
   ],
   "title": "Poll: Which Framework Would You Recommend To A New Developer?",
   "url": "https://www.smashingmagazine.com/2011/10/which-framework-would-you-recommend-to-a-new-developer/"

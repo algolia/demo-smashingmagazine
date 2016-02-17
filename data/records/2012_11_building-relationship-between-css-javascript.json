@@ -1,14 +1,24 @@
 {
-  "author": "@csskarma",
+  "author": "Tim Wright",
+  "authorUrl": "https://www.smashingmagazine.com/author/tim-wright/",
   "commentCount": 57,
   "description": "This article shows how to open up lines of communication between CSS and JavaScript and lean on the strengths of each language.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/11/CSS-JavaScript-500.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/11/building-relationship-between-css-javascript/",
   "publishedDate": 1353299412,
   "tags": [
-    "CSS",
-    "JavaScript",
-    "Techniques"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Building A Relationship Between CSS & JavaScript",
   "url": "https://www.smashingmagazine.com/2012/11/building-relationship-between-css-javascript/"

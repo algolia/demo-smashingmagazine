@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 3,
   "description": "A showcase of some amazing and creative Toy Story artworks. Make sure to look at all of them and you will see a surprise at the end.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/toy-story-art.png",
   "objectID": "https://www.smashingmagazine.com/2009/11/creative-toy-story-artwork/",
   "publishedDate": 1259329640,
   "tags": [
-    "Design Informer",
-    "Inspiration"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "Creative Toy Story Artwork",
   "url": "https://www.smashingmagazine.com/2009/11/creative-toy-story-artwork/"

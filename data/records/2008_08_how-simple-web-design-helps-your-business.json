@@ -1,13 +1,20 @@
 {
-  "author": "@glenstansberry",
+  "author": "Glen Stansberry",
+  "authorUrl": "https://www.smashingmagazine.com/author/glenstansberry/",
   "commentCount": 121,
   "description": "Many e-commerce sites these days tend to be loaded down with too much information on their landing pages. The reasoning for cluttered e-commerce sites is simple: the more information you can cram o...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illumarginalspalten.gif",
   "objectID": "https://www.smashingmagazine.com/2008/08/how-simple-web-design-helps-your-business/",
   "publishedDate": 1219750530,
   "tags": [
-    "Business",
-    "Clients"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Clients",
+      "slug": "clients"
+    }
   ],
   "title": "How Simple Web Design Helps Your Business",
   "url": "https://www.smashingmagazine.com/2008/08/how-simple-web-design-helps-your-business/"

@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 104,
   "description": "With Flash you can do more than just displaying videos. You can create stunning visual experience and offer your visitors incredible user interaction. Although Flash is definitely not the favourite...",
   "image": "https://www.smashingmagazine.com/images/flash/cubamoon.jpg",
   "objectID": "https://www.smashingmagazine.com/2007/10/65-excellent-flash-designs/",
   "publishedDate": 1193785011,
   "tags": [
-    "Flash",
-    "Showcases"
+    {
+      "name": "Flash",
+      "slug": "flash"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    }
   ],
   "title": "65 Excellent Flash Designs",
   "url": "https://www.smashingmagazine.com/2007/10/65-excellent-flash-designs/"

@@ -1,12 +1,16 @@
 {
-  "author": "@sickdesigner",
+  "author": "Radu Chelariu",
+  "authorUrl": "https://www.smashingmagazine.com/author/radu-chelariu/",
   "commentCount": 55,
   "description": "By using the resolution media query, we can distinguish between physically small and large devices to adjust design elements accordingly.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/device-screen.png",
   "objectID": "https://www.smashingmagazine.com/2013/03/responsive-web-design-with-physical-units/",
   "publishedDate": 1363842498,
   "tags": [
-    "Responsive Web Design"
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "Responsive Web Design With Physical Units",
   "url": "https://www.smashingmagazine.com/2013/03/responsive-web-design-with-physical-units/"

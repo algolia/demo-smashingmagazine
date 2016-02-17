@@ -1,15 +1,28 @@
 {
-  "author": "@AllieGrayFree",
+  "author": "Allie Gray Freeland",
+  "authorUrl": "https://www.smashingmagazine.com/author/allie-gray/",
   "commentCount": 23,
   "description": "Content strategy is a beast with many heads, names and trajectories. To approach it is to be sucked in full force. Even so, as crucial as content strategy is, conveying its gravity to a big audienc...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/03/content-strategy-optimizing-your-efforts-for-success.png",
   "objectID": "https://www.smashingmagazine.com/2011/06/content-strategy-optimizing-your-efforts-for-success/",
   "publishedDate": 1307070959,
   "tags": [
-    "Business",
-    "Content",
-    "Copywriting",
-    "Web Design"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "Copywriting",
+      "slug": "copywriting"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Content Strategy: Optimizing Your Efforts For Success",
   "url": "https://www.smashingmagazine.com/2011/06/content-strategy-optimizing-your-efforts-for-success/"

@@ -1,13 +1,20 @@
 {
-  "author": "@luc4leone",
+  "author": "Luca Leone",
+  "authorUrl": "https://www.smashingmagazine.com/author/lucaleone/",
   "commentCount": 30,
   "description": "While designing an interface, it&#39;s almost obvious to start with drawing. But is it the best way? What about writing conversations instead?",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/07/illu-designinteraction.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/07/how-do-you-design-interaction/",
   "publishedDate": 1405964909,
   "tags": [
-    "Interaction Design",
-    "User Experience"
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "How Do You Design Interaction?",
   "url": "https://www.smashingmagazine.com/2014/07/how-do-you-design-interaction/"

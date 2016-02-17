@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 87,
   "description": "These are great times for front-end developers. After months of exaggerated excitement about HTML5 and CSS3, the web design community now starts coming up with CSS techniques that actually put newl...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/css-technique.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/10/50-new-useful-css-techniques-tutorials-and-tools/",
   "publishedDate": 1286862124,
   "tags": [
-    "CSS",
-    "Resources",
-    "Techniques"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Resources",
+      "slug": "resources"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "50 New Useful CSS Techniques, Tutorials and Tools",
   "url": "https://www.smashingmagazine.com/2010/10/50-new-useful-css-techniques-tutorials-and-tools/"

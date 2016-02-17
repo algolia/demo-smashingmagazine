@@ -1,15 +1,28 @@
 {
-  "author": "@danredding",
+  "author": "Dan Redding",
+  "authorUrl": "https://www.smashingmagazine.com/author/dan-redding/",
   "commentCount": 33,
   "description": "Marcin Wichary’s fascination with the relationship between humans and machines began at an early age. As a boy in Poland, he was mesmerized by the interaction between arcade patrons and the video g...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/06/marcin.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/07/interview-google-marcin-wichary/",
   "publishedDate": 1310093467,
   "tags": [
-    "Inspiration",
-    "Interviews",
-    "Opinion Column",
-    "Workflow"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Interviews",
+      "slug": "interviews"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Inside Google's User Experience Lab: An Interview With Google’s Marcin Wichary",
   "url": "https://www.smashingmagazine.com/2011/07/interview-google-marcin-wichary/"

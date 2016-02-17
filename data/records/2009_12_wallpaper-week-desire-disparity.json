@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 10,
   "description": "This wallpaper is entitled Desire and Disparity and was designed by an up-and-coming designer from Sweden, Tobias Ahlin.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wallpaper-desire.png",
   "objectID": "https://www.smashingmagazine.com/2009/12/wallpaper-week-desire-disparity/",
   "publishedDate": 1260737003,
   "tags": [
-    "Design Informer",
-    "Wallpapers"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Wallpaper of the Week - Desire and Disparity",
   "url": "https://www.smashingmagazine.com/2009/12/wallpaper-week-desire-disparity/"

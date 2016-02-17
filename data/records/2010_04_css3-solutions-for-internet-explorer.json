@@ -1,14 +1,24 @@
 {
-  "author": "@ImpressiveWebs",
+  "author": "Louis Lazaris",
+  "authorUrl": "https://www.smashingmagazine.com/author/louis-lazaris/",
   "commentCount": 228,
   "description": "CSS3 is probably the hottest trend in web design right now, allowing developers the opportunity to implement a number of solutions into their projects with some very straightforward CSS while avoid...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ie6.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/04/css3-solutions-for-internet-explorer/",
   "publishedDate": 1272420593,
   "tags": [
-    "CSS",
-    "CSS3",
-    "Internet Explorer"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "CSS3",
+      "slug": "css3"
+    },
+    {
+      "name": "Internet Explorer",
+      "slug": "internet-explorer"
+    }
   ],
   "title": "CSS3 Solutions for Internet Explorer",
   "url": "https://www.smashingmagazine.com/2010/04/css3-solutions-for-internet-explorer/"

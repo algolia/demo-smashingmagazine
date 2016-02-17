@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 131,
   "description": "Over the last months we have seen a strong trend towards more individual web designs. These designs often use realistic motifs from our regular life as visuals. However, apart from visual design el...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/layouts.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/09/40-creative-design-layouts-getting-out-of-the-box/",
   "publishedDate": 1220444083,
   "tags": [
-    "Inspiration",
-    "Showcases"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    }
   ],
   "title": "40 Creative Design Layouts: Getting Out Of The Box",
   "url": "https://www.smashingmagazine.com/2008/09/40-creative-design-layouts-getting-out-of-the-box/"

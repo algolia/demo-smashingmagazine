@@ -1,14 +1,24 @@
 {
-  "author": "@dimsemenov",
+  "author": "Dmitry Semenov",
+  "authorUrl": "https://www.smashingmagazine.com/author/dmitry-semenov/",
   "commentCount": 102,
   "description": "In this article, Dmitry Semenov shares the techniques he used for creating Magnific Popup, an open-source lightbox plugin focused on performance.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/sunflower-code-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/05/truly-responsive-lightbox/",
   "publishedDate": 1367457580,
   "tags": [
-    "CSS",
-    "Plugins",
-    "Responsive Web Design"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Plugins",
+      "slug": "plugins"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "Magnific Popup, A Truly Responsive Lightbox (For jQuery And Zepto.js)",
   "url": "https://www.smashingmagazine.com/2013/05/truly-responsive-lightbox/"

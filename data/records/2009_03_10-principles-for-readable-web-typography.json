@@ -1,13 +1,20 @@
 {
-  "author": "@themccronin",
+  "author": "Matt Cronin",
+  "authorUrl": "https://www.smashingmagazine.com/author/matt-cronin/",
   "commentCount": 49,
   "description": "Readability is one of the more important aspects of Web design usability. Readable text affects how users process the information in the content. Poor readability scares readers away from the conte...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/typer.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/03/10-principles-for-readable-web-typography/",
   "publishedDate": 1237349826,
   "tags": [
-    "Showcases",
-    "Typography"
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "10 Principles For Readable Web Typography",
   "url": "https://www.smashingmagazine.com/2009/03/10-principles-for-readable-web-typography/"

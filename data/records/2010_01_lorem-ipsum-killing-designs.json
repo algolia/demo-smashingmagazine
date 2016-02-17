@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Kyle Fiedler",
+  "authorUrl": "https://www.smashingmagazine.com/author/kyle-fiedler/",
   "commentCount": 205,
   "description": "By adding Lorem Ipsum to the design you are essentially dressing your king before you know his size. By now you should have heard the meme that content is king.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/lorem.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/01/lorem-ipsum-killing-designs/",
   "publishedDate": 1262745056,
   "tags": [
-    "Content",
-    "Design Informer",
-    "Opinion Column",
-    "Web Design"
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Lorem Ipsum is Killing Your Designs",
   "url": "https://www.smashingmagazine.com/2010/01/lorem-ipsum-killing-designs/"

@@ -1,14 +1,24 @@
 {
-  "author": "@luke_reimer",
+  "author": "Luke Reimer",
+  "authorUrl": "https://www.smashingmagazine.com/author/luke-reimer/",
   "commentCount": 284,
   "description": "With all of the buzz going on in our Web community about HTML5 and Flash, I&#39;ve decided to dive into the fray and offer my thoughts as a 10-year veteran of both Web design and Flash development. Let...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/css-15.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/05/html5-and-flash-why-its-not-a-war-and-why-flash-wont-die/",
   "publishedDate": 1274142827,
   "tags": [
-    "Flash",
-    "HTML5",
-    "Standards"
+    {
+      "name": "Flash",
+      "slug": "flash"
+    },
+    {
+      "name": "HTML5",
+      "slug": "html5"
+    },
+    {
+      "name": "Standards",
+      "slug": "standards"
+    }
   ],
   "title": "HTML5 And Flash: Why It's Not A War, And Why Flash Won't Die",
   "url": "https://www.smashingmagazine.com/2010/05/html5-and-flash-why-its-not-a-war-and-why-flash-wont-die/"

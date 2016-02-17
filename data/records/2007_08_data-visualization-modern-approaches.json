@@ -1,17 +1,36 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 166,
   "description": "Data presentation can be beautiful, elegant and descriptive. There is a variety of conventional ways to visualize data - tables, histograms, pie charts and bar graphs are being used every day, in e...",
   "image": "https://www.smashingmagazine.com/images/data-visualization/webtrends2007.jpg",
   "objectID": "https://www.smashingmagazine.com/2007/08/data-visualization-modern-approaches/",
   "publishedDate": 1186025921,
   "tags": [
-    "Data Visualization",
-    "Diagrams",
-    "Maps",
-    "Statistics",
-    "Tools",
-    "Visualizations"
+    {
+      "name": "Data Visualization",
+      "slug": "data-visualization"
+    },
+    {
+      "name": "Diagrams",
+      "slug": "diagrams"
+    },
+    {
+      "name": "Maps",
+      "slug": "maps"
+    },
+    {
+      "name": "Statistics",
+      "slug": "statistics"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Visualizations",
+      "slug": "visualizations"
+    }
   ],
   "title": "Data Visualization: Modern Approaches",
   "url": "https://www.smashingmagazine.com/2007/08/data-visualization-modern-approaches/"

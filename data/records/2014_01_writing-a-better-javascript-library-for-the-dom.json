@@ -1,14 +1,24 @@
 {
-  "author": "@chemerisuk",
+  "author": "Maksim Chemerisuk",
+  "authorUrl": "https://www.smashingmagazine.com/author/maksim-chemerisuk/",
   "commentCount": 53,
   "description": "In this article, Maksim Chemerisuk introduces live extensions and better-dom - a new Javascript library for working with the DOM.The objective was to review existing APIs and solutions and to build...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/01/illu-jquery.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/01/writing-a-better-javascript-library-for-the-dom/",
   "publishedDate": 1389576452,
   "tags": [
-    "CSS",
-    "JavaScript",
-    "jQuery"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "jQuery",
+      "slug": "jquery"
+    }
   ],
   "title": "Writing A Better JavaScript Library For The DOM",
   "url": "https://www.smashingmagazine.com/2014/01/writing-a-better-javascript-library-for-the-dom/"

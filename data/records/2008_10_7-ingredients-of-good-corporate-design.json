@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "György Fekete",
+  "authorUrl": "https://www.smashingmagazine.com/author/feketeg/",
   "commentCount": 82,
   "description": "It’s hard to define design. We have a broad range of definitions to choose from: design refers not only to graphic design, but to design strategy, too. It is used in a variety of industries, such a...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/bbc.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/10/7-ingredients-of-good-corporate-design/",
   "publishedDate": 1223294840,
   "tags": [
-    "Corporate",
-    "Logo Design",
-    "Principles"
+    {
+      "name": "Corporate",
+      "slug": "corporate"
+    },
+    {
+      "name": "Logo Design",
+      "slug": "logo-design"
+    },
+    {
+      "name": "Principles",
+      "slug": "principles"
+    }
   ],
   "title": "7 Ingredients Of Good Corporate Design",
   "url": "https://www.smashingmagazine.com/2008/10/7-ingredients-of-good-corporate-design/"

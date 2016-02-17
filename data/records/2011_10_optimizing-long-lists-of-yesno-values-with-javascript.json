@@ -1,12 +1,16 @@
 {
-  "author": "@leaverou",
+  "author": "Lea Verou",
+  "authorUrl": "https://www.smashingmagazine.com/author/lea-verou/",
   "commentCount": 65,
   "description": "Very frequently in Web development (and programming in general), you need to store a long list of boolean values (yes/no, true/false, checked/unchecked… you get the idea) into something that accept...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/logo.png",
   "objectID": "https://www.smashingmagazine.com/2011/10/optimizing-long-lists-of-yesno-values-with-javascript/",
   "publishedDate": 1319018134,
   "tags": [
-    "JavaScript"
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    }
   ],
   "title": "Optimizing Long Lists Of Yes / No Values With JavaScript",
   "url": "https://www.smashingmagazine.com/2011/10/optimizing-long-lists-of-yesno-values-with-javascript/"

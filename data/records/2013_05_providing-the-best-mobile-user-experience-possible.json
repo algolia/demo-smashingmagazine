@@ -1,12 +1,16 @@
 {
-  "author": "@luca_passani",
+  "author": "Luca Passani",
+  "authorUrl": "https://www.smashingmagazine.com/author/luca-passani/",
   "commentCount": 28,
   "description": "An article on how to use a hybrid client- and server-side approach to deliver a great user experience to desktop, tablet and mobile users alike.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/mobile-07.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/05/providing-the-best-mobile-user-experience-possible/",
   "publishedDate": 1368498670,
   "tags": [
-    "User Experience"
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Providing The Best Mobile User Experience Possible",
   "url": "https://www.smashingmagazine.com/2013/05/providing-the-best-mobile-user-experience-possible/"

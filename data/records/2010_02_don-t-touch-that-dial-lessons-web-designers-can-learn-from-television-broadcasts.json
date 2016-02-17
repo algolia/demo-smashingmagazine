@@ -1,13 +1,20 @@
 {
-  "author": "@ImpressiveWebs",
+  "author": "Louis Lazaris",
+  "authorUrl": "https://www.smashingmagazine.com/author/louis-lazaris/",
   "commentCount": 43,
   "description": "Each year, the battle for television ratings begins. Networks unveil their latest creations, jockeying for position in the ratings race, doing everything and anything within their means to gain and...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/404-page-illu101.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/02/don-t-touch-that-dial-lessons-web-designers-can-learn-from-television-broadcasts/",
   "publishedDate": 1265169702,
   "tags": [
-    "TV",
-    "Web Design"
+    {
+      "name": "TV",
+      "slug": "tv"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Don't Touch That Dial — Lessons Web Designers Can Learn From Television Broadcasts",
   "url": "https://www.smashingmagazine.com/2010/02/don-t-touch-that-dial-lessons-web-designers-can-learn-from-television-broadcasts/"

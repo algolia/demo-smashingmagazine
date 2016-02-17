@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 32,
   "description": "Designing and developing an e-commerce website takes a lot of brain power, knowledge and research before starting. Not only do you have to please your client with a beautiful layout and thoughtful ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/racingcartsillu.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/12/smashing-ebook-ecommerce/",
   "publishedDate": 1291781773,
   "tags": [
-    "Smashing eBooks"
+    {
+      "name": "Smashing eBooks",
+      "slug": "smashing-ebooks"
+    }
   ],
   "title": "New Smashing eBook: How to Create Selling E-Commerce Websites",
   "url": "https://www.smashingmagazine.com/2010/12/smashing-ebook-ecommerce/"

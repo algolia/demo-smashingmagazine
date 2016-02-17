@@ -1,14 +1,24 @@
 {
-  "author": "@imjustcreative",
+  "author": "Graham Smith",
+  "authorUrl": "https://www.smashingmagazine.com/author/graham-smith/",
   "commentCount": 84,
   "description": "I read somewhere that showing your client the full range of your creative ideas during a project is important, the rationale being that the client is entitled to see the ideas coming from the creat...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/clients4.png",
   "objectID": "https://www.smashingmagazine.com/2009/12/discuss-how-many-ideas-do-you-show-clients/",
   "publishedDate": 1261962724,
   "tags": [
-    "Business",
-    "Clients",
-    "Ideas"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Clients",
+      "slug": "clients"
+    },
+    {
+      "name": "Ideas",
+      "slug": "ideas"
+    }
   ],
   "title": "How Many Ideas Do You Show Your Clients?",
   "url": "https://www.smashingmagazine.com/2009/12/discuss-how-many-ideas-do-you-show-clients/"

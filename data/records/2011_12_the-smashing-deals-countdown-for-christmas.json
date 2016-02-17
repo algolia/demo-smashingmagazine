@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 16,
   "description": "This year, we’d love to help you out with your Christmas presents. We have some truly smashing Christmas deals lined up for you, and with very affordable, special prices for our dear readers and cu...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/smashing-cat-xmas.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/12/the-smashing-deals-countdown-for-christmas/",
   "publishedDate": 1323904998,
   "tags": [
-    "Smashing Books",
-    "Smashing eBooks"
+    {
+      "name": "Smashing Books",
+      "slug": "smashing-books"
+    },
+    {
+      "name": "Smashing eBooks",
+      "slug": "smashing-ebooks"
+    }
   ],
   "title": "The Smashing Deals Countdown For Christmas",
   "url": "https://www.smashingmagazine.com/2011/12/the-smashing-deals-countdown-for-christmas/"

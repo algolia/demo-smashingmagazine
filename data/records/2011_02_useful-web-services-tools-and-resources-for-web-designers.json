@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 0,
   "description": "We know how hard it is to find good useful tools that all of your developers and designers out there spend hours searching for.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/01/useful-web-services101.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/02/useful-web-services-tools-and-resources-for-web-designers/",
   "publishedDate": 1297146308,
   "tags": [
-    "Resources",
-    "Tools"
+    {
+      "name": "Resources",
+      "slug": "resources"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "Useful Web Services, Tools and Resources For Web Designers",
   "url": "https://www.smashingmagazine.com/2011/02/useful-web-services-tools-and-resources-for-web-designers/"

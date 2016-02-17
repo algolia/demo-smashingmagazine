@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Alastair Johnston",
+  "authorUrl": "https://www.smashingmagazine.com/author/alastair-johnston/",
   "commentCount": 16,
   "description": "It has been said that “we read best what we read most”. This quote was used as a type specimen in Emigre magazine in the late 1980′s by Zuzana Licko. It was written in defense of her typefaces, who...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/type-duck-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/03/weird-and-wonderful-yet-still-illegible/",
   "publishedDate": 1332343046,
   "tags": [
-    "Global Web Design",
-    "Inspiration",
-    "Typography"
+    {
+      "name": "Global Web Design",
+      "slug": "global-web-design"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Weird And Wonderful, Yet Still Illegible",
   "url": "https://www.smashingmagazine.com/2012/03/weird-and-wonderful-yet-still-illegible/"

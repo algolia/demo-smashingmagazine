@@ -1,14 +1,24 @@
 {
-  "author": "@lawrencehowlett",
+  "author": "Lawrence Howlett",
+  "authorUrl": "https://www.smashingmagazine.com/author/lawrence-howlett/",
   "commentCount": 29,
   "description": "Lawrence Howlett explains what is important to consider when creating a front-end testing plan and how to test efficiently accross browsers, devices and web pages.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/10/testing-excerpt.png",
   "objectID": "https://www.smashingmagazine.com/2014/11/how-to-create-your-own-front-end-website-testing-plan/",
   "publishedDate": 1416827528,
   "tags": [
-    "Devices",
-    "Testing",
-    "Web Development"
+    {
+      "name": "Devices",
+      "slug": "devices"
+    },
+    {
+      "name": "Testing",
+      "slug": "testing"
+    },
+    {
+      "name": "Web Development",
+      "slug": "web-development"
+    }
   ],
   "title": "How To Create Your Own Front-End Website Testing Plan",
   "url": "https://www.smashingmagazine.com/2014/11/how-to-create-your-own-front-end-website-testing-plan/"

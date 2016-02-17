@@ -1,14 +1,24 @@
 {
-  "author": "@danielwaisberg",
+  "author": "Daniel Waisberg",
+  "authorUrl": "https://www.smashingmagazine.com/author/daniel-waisberg/",
   "commentCount": 5,
   "description": "In this post we discuss a way to avoid bad implementations by putting into place a process that requires users to report on changes made to Google Analytics accounts. This not only helps avoiding m...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/analytics-safe.png",
   "objectID": "https://www.smashingmagazine.com/2012/04/keep-your-analytics-data-safe-and-clean/",
   "publishedDate": 1333376955,
   "tags": [
-    "Analytics",
-    "Statistics",
-    "Tools"
+    {
+      "name": "Analytics",
+      "slug": "analytics"
+    },
+    {
+      "name": "Statistics",
+      "slug": "statistics"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "Keep Your Analytics Data Safe And Clean",
   "url": "https://www.smashingmagazine.com/2012/04/keep-your-analytics-data-safe-and-clean/"

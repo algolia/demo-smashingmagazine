@@ -1,16 +1,32 @@
 {
-  "author": "@smashingmag",
+  "author": "Ashley Ringrose",
+  "authorUrl": "https://www.smashingmagazine.com/author/ashley-ringrose/",
   "commentCount": 303,
   "description": "Album cover art is often considered to be one of the &quot;extincted&quot; fields in modern graphics design. In times when digital copies are cheaper and quicker to get, album covers have somehow lost their ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/covers2.gif",
   "objectID": "https://www.smashingmagazine.com/2008/08/35-beautiful-music-album-covers/",
   "publishedDate": 1217778091,
   "tags": [
-    "Art",
-    "Covers",
-    "Illustrations",
-    "Music",
-    "Photography"
+    {
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "name": "Covers",
+      "slug": "covers"
+    },
+    {
+      "name": "Illustrations",
+      "slug": "illustrations"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Photography",
+      "slug": "photography"
+    }
   ],
   "title": "35 Beautiful Music Album Covers",
   "url": "https://www.smashingmagazine.com/2008/08/35-beautiful-music-album-covers/"

@@ -1,13 +1,20 @@
 {
-  "author": "@MaggieMacnab",
+  "author": "Maggie Macnab",
+  "authorUrl": "https://www.smashingmagazine.com/author/maggie-macnab/",
   "commentCount": 12,
   "description": "Maggie Macnab explores fundamental creative strategies for designing effective logos. Part three explains how geometry influences logo design.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/06/p3-01-geometry-tools-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/06/effective-logo-design-geometry/",
   "publishedDate": 1435062214,
   "tags": [
-    "Logo Design",
-    "Visual Design"
+    {
+      "name": "Logo Design",
+      "slug": "logo-design"
+    },
+    {
+      "name": "Visual Design",
+      "slug": "visual-design"
+    }
   ],
   "title": "Effective Logo Design, Part 3: Geometry",
   "url": "https://www.smashingmagazine.com/2015/06/effective-logo-design-geometry/"

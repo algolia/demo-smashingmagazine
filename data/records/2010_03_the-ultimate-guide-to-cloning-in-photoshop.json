@@ -1,12 +1,16 @@
 {
-  "author": "@secondfret",
+  "author": "Joshua Johnson",
+  "authorUrl": "https://www.smashingmagazine.com/author/joshua-johnson/",
   "commentCount": 97,
   "description": "Photoshop&#39;s wide array of cloning tools is the cause of many of the absolute best and worst works created with the application. In a skilled and experienced hand, these tools lead to phenomenal res...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/cloning.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/03/the-ultimate-guide-to-cloning-in-photoshop/",
   "publishedDate": 1269906566,
   "tags": [
-    "Photoshop"
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    }
   ],
   "title": "The Ultimate Guide To Cloning In Photoshop",
   "url": "https://www.smashingmagazine.com/2010/03/the-ultimate-guide-to-cloning-in-photoshop/"

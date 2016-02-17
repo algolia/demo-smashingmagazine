@@ -1,13 +1,20 @@
 {
-  "author": "@blisster138",
+  "author": "Joshua Bullock",
+  "authorUrl": "https://www.smashingmagazine.com/author/joshua-bullock/",
   "commentCount": 50,
   "description": "Every designer has their own workflow when starting a new project, even if it’s only loosely defined in their head. A typical Web project goes through a variety of steps from inception to launch, w...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/03/workflow-fireworks.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/06/developing-a-design-workflow-in-adobe-fireworks/",
   "publishedDate": 1339389449,
   "tags": [
-    "Fireworks",
-    "Workflow"
+    {
+      "name": "Fireworks",
+      "slug": "fireworks"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Developing A Design Workflow In Adobe Fireworks",
   "url": "https://www.smashingmagazine.com/2012/06/developing-a-design-workflow-in-adobe-fireworks/"

@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 69,
   "description": "Although CSS is generally considered a simple and straightforward language, sometimes it requires creativity, skill and a bit of experimentation. The good news is that designers and developers worl...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/css8.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/02/50-css-and-javascript-techniques-for-layouts-forms-and-visual-effects/",
   "publishedDate": 1266459944,
   "tags": [
-    "CSS",
-    "Layouts",
-    "Techniques"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Layouts",
+      "slug": "layouts"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "50 Useful Coding Techniques (CSS Layouts, Visual Effects and Forms)",
   "url": "https://www.smashingmagazine.com/2010/02/50-css-and-javascript-techniques-for-layouts-forms-and-visual-effects/"

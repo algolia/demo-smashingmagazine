@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 128,
   "description": "In case you&#39;ve been looking for a nice e-commerce theme for your website or any ongoing projects, today we&#39;ve got something for you. We&#39;re releasing yet another freebie — a Prestashop and WordPress...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/vertical-align.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/06/free-prestashop-and-wordpress-e-commerce-theme-velvet-sky/",
   "publishedDate": 1309053717,
   "tags": [
-    "Freebies",
-    "Themes"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "Free Prestashop and WordPress E-Commerce Theme: Velvet Sky",
   "url": "https://www.smashingmagazine.com/2011/06/free-prestashop-and-wordpress-e-commerce-theme-velvet-sky/"

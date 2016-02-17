@@ -1,13 +1,20 @@
 {
-  "author": "@secondfret",
+  "author": "Joshua Johnson",
+  "authorUrl": "https://www.smashingmagazine.com/author/joshua-johnson/",
   "commentCount": 46,
   "description": "An overview and benchmark of 15 airlines websites, common mistakes, smart solutions and lessons learned — both in terms of UX and front-end performance.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/11/zurich-flight-behind-500px-opt.png",
   "objectID": "https://www.smashingmagazine.com/2015/11/airline-websites-2015-front-end-performance-ux-lessons-learned/",
   "publishedDate": 1447175546,
   "tags": [
-    "Performance",
-    "UX"
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "UX",
+      "slug": "ux"
+    }
   ],
   "title": "The State Of Airline Websites 2015: Lessons Learned",
   "url": "https://www.smashingmagazine.com/2015/11/airline-websites-2015-front-end-performance-ux-lessons-learned/"

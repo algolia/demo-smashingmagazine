@@ -1,13 +1,20 @@
 {
-  "author": "@anthviv",
+  "author": "Anthony Viviano",
+  "authorUrl": "https://www.smashingmagazine.com/author/anthony-viviano/",
   "commentCount": 39,
   "description": "Why Lean UX is not a process in which each tool is rigidly applied, but rather a set of principles that may be used to guide you to better, more desirable solutions for users.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/lean-ux-illu-opt.png",
   "objectID": "https://www.smashingmagazine.com/2014/01/lean-ux-manifesto-principle-driven-design/",
   "publishedDate": 1389143833,
   "tags": [
-    "Usability",
-    "User Experience"
+    {
+      "name": "Usability",
+      "slug": "usability"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "The Lean UX Manifesto: Principle-Driven Design",
   "url": "https://www.smashingmagazine.com/2014/01/lean-ux-manifesto-principle-driven-design/"

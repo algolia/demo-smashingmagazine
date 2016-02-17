@@ -1,14 +1,24 @@
 {
-  "author": "@yaili",
+  "author": "Inayaili de Leon",
+  "authorUrl": "https://www.smashingmagazine.com/author/inayaili-de-leon/",
   "commentCount": 171,
   "description": "Cascading Style Sheets were introduced 13 years ago, and the widely adopted CSS 2.1 standard has existed for 11 years now. When we look at websites that were created 11 years ago, it&#39;s clear that w...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/css3.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/06/take-your-design-to-the-next-level-with-css3/",
   "publishedDate": 1245021627,
   "tags": [
-    "CSS",
-    "CSS3",
-    "Techniques"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "CSS3",
+      "slug": "css3"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Take Your Design To The Next Level With CSS3",
   "url": "https://www.smashingmagazine.com/2009/06/take-your-design-to-the-next-level-with-css3/"

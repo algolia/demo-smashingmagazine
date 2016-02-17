@@ -1,15 +1,28 @@
 {
-  "author": "@vailancio",
+  "author": "Vailancio Rodrigues",
+  "authorUrl": "https://www.smashingmagazine.com/author/vailrodrigues/",
   "commentCount": 66,
   "description": "It doesn&#39;t matter whether you are a designer, a developer, an artist or an amateur learner – at some point you need to improve the quality of the original picture or video. You may want to retouch ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/videomotion.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/05/best-tutorials-for-cinematic-visual-effects/",
   "publishedDate": 1241410665,
   "tags": [
-    "Adobe",
-    "CG",
-    "Tutorials",
-    "Videos"
+    {
+      "name": "Adobe",
+      "slug": "adobe"
+    },
+    {
+      "name": "CG",
+      "slug": "cg"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    },
+    {
+      "name": "Videos",
+      "slug": "videos"
+    }
   ],
   "title": "Best Tutorials For Cinematic Visual Effects",
   "url": "https://www.smashingmagazine.com/2009/05/best-tutorials-for-cinematic-visual-effects/"

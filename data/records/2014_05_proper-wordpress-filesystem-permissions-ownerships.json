@@ -1,14 +1,24 @@
 {
-  "author": "@bfintal",
+  "author": "Benjamin Intal",
+  "authorUrl": "https://www.smashingmagazine.com/author/benjamin-intal/",
   "commentCount": 45,
   "description": "In this article, we will teach you all about wordpress filesystem permissions and ownership.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/04/illu-permission.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/05/proper-wordpress-filesystem-permissions-ownerships/",
   "publishedDate": 1399538822,
   "tags": [
-    "Security",
-    "Servers",
-    "Techniques (WP)"
+    {
+      "name": "Security",
+      "slug": "security"
+    },
+    {
+      "name": "Servers",
+      "slug": "servers"
+    },
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    }
   ],
   "title": "Proper WordPress Filesystem Permissions And Ownerships",
   "url": "https://www.smashingmagazine.com/2014/05/proper-wordpress-filesystem-permissions-ownerships/"

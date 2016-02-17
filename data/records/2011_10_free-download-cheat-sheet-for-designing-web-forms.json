@@ -1,14 +1,24 @@
 {
-  "author": "@mrjoe",
+  "author": "Joe Leech",
+  "authorUrl": "https://www.smashingmagazine.com/author/joe-leech/",
   "commentCount": 40,
   "description": "Free Forms Crib Sheet. The crib sheet contains an Omnigraffle template, Photoshop (PSD) and PDF examples for you to download and use how you wish.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/10/form_design.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/10/free-download-cheat-sheet-for-designing-web-forms/",
   "publishedDate": 1317959555,
   "tags": [
-    "Freebies",
-    "Tools",
-    "Usability"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "Free Download: Cheat Sheet For Designing Web Forms",
   "url": "https://www.smashingmagazine.com/2011/10/free-download-cheat-sheet-for-designing-web-forms/"

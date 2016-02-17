@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 42,
   "description": "We released a couple of Wordpress themes over the last months. Some of them were praised, the others were torn apart, but we always tried to always offer a variety of different styles. And today is...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/asc.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/12/ascii-one-a-free-wordpress-theme/",
   "publishedDate": 1228175637,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Themes"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "ASCII One: A Free WordPress Theme",
   "url": "https://www.smashingmagazine.com/2008/12/ascii-one-a-free-wordpress-theme/"

@@ -1,13 +1,20 @@
 {
-  "author": "@joezimjs",
+  "author": "Joseph Zimmerman",
+  "authorUrl": "https://www.smashingmagazine.com/author/joseph-zimmerman/",
   "commentCount": 14,
   "description": "In this article we&#39;ll discuss the module system that is included in Backbone.Marionette.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/logo.png",
   "objectID": "https://www.smashingmagazine.com/2013/04/thorough-introduction-backbone-marionette-part-2-modules/",
   "publishedDate": 1364863747,
   "tags": [
-    "Frameworks",
-    "JavaScript"
+    {
+      "name": "Frameworks",
+      "slug": "frameworks"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    }
   ],
   "title": "A Thorough Introduction To Backbone.Marionette (Part 2)",
   "url": "https://www.smashingmagazine.com/2013/04/thorough-introduction-backbone-marionette-part-2-modules/"

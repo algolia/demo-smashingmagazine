@@ -1,15 +1,28 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 16,
   "description": "Ask the Expert is our weekly series. Maintaining multiple websites is the theme for this week. Nick La is this week&#39;s expert.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/nick-laa.png",
   "objectID": "https://www.smashingmagazine.com/2009/11/maintaining-multiple-websites-nick-la-ask-expert/",
   "publishedDate": 1259154643,
   "tags": [
-    "Design Informer",
-    "Inspiration",
-    "Interviews",
-    "Opinion Column"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Interviews",
+      "slug": "interviews"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    }
   ],
   "title": "Ask the Expert - Maintaining Multiple Websites with Nick La",
   "url": "https://www.smashingmagazine.com/2009/11/maintaining-multiple-websites-nick-la-ask-expert/"

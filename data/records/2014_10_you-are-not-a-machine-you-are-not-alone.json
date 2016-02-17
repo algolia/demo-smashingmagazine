@@ -1,12 +1,16 @@
 {
-  "author": "@boagworld",
+  "author": "Paul Boag",
+  "authorUrl": "https://www.smashingmagazine.com/author/paul-boag/",
   "commentCount": 99,
   "description": "Paul Boag reminds us that we are not computers, nor machines. We&#39;re just human beings and we need to take care of ourselves in every way possible.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/10/kaputt-from-working-illu-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/10/you-are-not-a-machine-you-are-not-alone/",
   "publishedDate": 1414418779,
   "tags": [
-    "Mental Health"
+    {
+      "name": "Mental Health",
+      "slug": "mental-health"
+    }
   ],
   "title": "You Are Not A Machine. You Are Not Alone.",
   "url": "https://www.smashingmagazine.com/2014/10/you-are-not-a-machine-you-are-not-alone/"

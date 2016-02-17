@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Colin Ramsay",
+  "authorUrl": "https://www.smashingmagazine.com/author/colin-ramsay/",
   "commentCount": 41,
   "description": "Understanding scope in programming is key to appreciating how your variables interact with the rest of your code. In some languages, this can be quite straightforward, but JavaScript&#39;s anonymous fu...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/formu.gif",
   "objectID": "https://www.smashingmagazine.com/2009/08/what-you-need-to-know-about-javascript-scope/",
   "publishedDate": 1249093730,
   "tags": [
-    "JavaScript"
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    }
   ],
   "title": "What You Need To Know About JavaScript Scope",
   "url": "https://www.smashingmagazine.com/2009/08/what-you-need-to-know-about-javascript-scope/"

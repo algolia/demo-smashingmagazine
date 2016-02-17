@@ -1,14 +1,24 @@
 {
-  "author": "@djsauble",
+  "author": "Daniel Sauble",
+  "authorUrl": "https://www.smashingmagazine.com/author/danielsauble/",
   "commentCount": 4,
   "description": "Do you conduct user tests? Are they a regular part of your practice? Would you like to do more of them? What’s keeping you from doing more of them?",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/11/conference-attendees-b-w-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/11/how-to-run-user-tests-at-a-conference/",
   "publishedDate": 1415187127,
   "tags": [
-    "Prototyping",
-    "Usability",
-    "User Research"
+    {
+      "name": "Prototyping",
+      "slug": "prototyping"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    },
+    {
+      "name": "User Research",
+      "slug": "user-research"
+    }
   ],
   "title": "How To Run User Tests At A Conference",
   "url": "https://www.smashingmagazine.com/2014/11/how-to-run-user-tests-at-a-conference/"

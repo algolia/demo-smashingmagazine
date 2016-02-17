@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 85,
   "description": "We have been publishing articles about CSS3 for a while now, and we keep receiving angry e-mails from some developers who complain that it doesn&#39;t make sense to use CSS3 today. Yes, Internet Explor...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/experiment.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/06/start-using-css3-today-techniques-and-tutorials/",
   "publishedDate": 1276742173,
   "tags": [
-    "CSS",
-    "Resources",
-    "Techniques",
-    "Tutorials"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Resources",
+      "slug": "resources"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "Start Using CSS3 Today: Techniques and Tutorials",
   "url": "https://www.smashingmagazine.com/2010/06/start-using-css3-today-techniques-and-tutorials/"

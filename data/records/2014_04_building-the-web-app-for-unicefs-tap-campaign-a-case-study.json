@@ -1,16 +1,32 @@
 {
-  "author": "@nickjonastic",
+  "author": "Nick Jonas, Francis Villanueva",
+  "authorUrl": "https://www.smashingmagazine.com/author/nick-jonas-und-francis-villanueva/",
   "commentCount": 8,
   "description": "The Unicef’s Tap Campaign, presented the challenge of combining the accessibility of a mobile website with the native capabilities, UI and overall experience that someone would expect of a native app.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/04/00-intro-tab-water.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/04/building-the-web-app-for-unicefs-tap-campaign-a-case-study/",
   "publishedDate": 1397001945,
   "tags": [
-    "Apps",
-    "Case Studies",
-    "Responsive Web Design",
-    "Techniques",
-    "iOS"
+    {
+      "name": "Apps",
+      "slug": "apps"
+    },
+    {
+      "name": "Case Studies",
+      "slug": "case-studies"
+    },
+    {
+      "name": "iOS",
+      "slug": "ios"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Building The Web App For Unicef's Tap Campaign: A Case Study",
   "url": "https://www.smashingmagazine.com/2014/04/building-the-web-app-for-unicefs-tap-campaign-a-case-study/"

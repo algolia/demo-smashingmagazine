@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Sarah & Adrienne Kahn",
+  "authorUrl": "https://www.smashingmagazine.com/author/sarah-kahn/",
   "commentCount": 70,
   "description": "One of the main goals of having a website, whether it be a portfolio website or a business website, is to declare your presence on the Web. There are thousands upon thousands of websites out there;...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ruster.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/11/designing-memorable-websites-showcase-of-creative-designs/",
   "publishedDate": 1289443966,
   "tags": [
-    "Inspiration",
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Designing Memorable Websites: Showcase of Creative Designs",
   "url": "https://www.smashingmagazine.com/2010/11/designing-memorable-websites-showcase-of-creative-designs/"

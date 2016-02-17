@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Yogev Ahuvia",
+  "authorUrl": "https://www.smashingmagazine.com/author/yogev-ahuvia/",
   "commentCount": 91,
   "description": "This article wants to help you understand the strengths and weaknesses of infinite scrolling.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/brushesphotoshop-illu22.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/05/infinite-scrolling-lets-get-to-the-bottom-of-this/",
   "publishedDate": 1367538999,
   "tags": [
-    "Navigation",
-    "Trends",
-    "User Experience",
-    "Web Design"
+    {
+      "name": "Navigation",
+      "slug": "navigation"
+    },
+    {
+      "name": "Trends",
+      "slug": "trends"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Infinite Scrolling: Let's Get To The Bottom Of This",
   "url": "https://www.smashingmagazine.com/2013/05/infinite-scrolling-lets-get-to-the-bottom-of-this/"

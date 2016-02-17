@@ -1,15 +1,28 @@
 {
-  "author": "@circa1977",
+  "author": "Mark Reeves",
+  "authorUrl": "https://www.smashingmagazine.com/author/mark-reeves/",
   "commentCount": 25,
   "description": "How can we as Web designers and developers sell our clients on the value which we see in supporting mobile devices every day. We’re well-versed in tactics and techniques for adapting our work to mo...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/responsive-gagdets.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/04/how-to-sell-the-value-of-mobile-to-clients/",
   "publishedDate": 1365155733,
   "tags": [
-    "Business",
-    "Clients",
-    "Content",
-    "Web Design"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Clients",
+      "slug": "clients"
+    },
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "How To Sell The Value Of Mobile To Clients",
   "url": "https://www.smashingmagazine.com/2013/04/how-to-sell-the-value-of-mobile-to-clients/"

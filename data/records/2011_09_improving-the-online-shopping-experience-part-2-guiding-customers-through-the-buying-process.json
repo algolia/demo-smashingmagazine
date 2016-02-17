@@ -1,15 +1,28 @@
 {
-  "author": "@lycerejo",
+  "author": "Lyndon Cerejo",
+  "authorUrl": "https://www.smashingmagazine.com/author/lyndon-cerejo/",
   "commentCount": 23,
   "description": "Part 1 of “Improving the Online Shopping Experience” focused on the upper part of the purchase funnel and on ways to get customers to your website and to find your products. Today, we move down the...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/animation-people-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/09/improving-the-online-shopping-experience-part-2-guiding-customers-through-the-buying-process/",
   "publishedDate": 1316661916,
   "tags": [
-    "Psychology",
-    "SEO",
-    "Search",
-    "Usability"
+    {
+      "name": "Psychology",
+      "slug": "psychology"
+    },
+    {
+      "name": "Search",
+      "slug": "search"
+    },
+    {
+      "name": "SEO",
+      "slug": "seo"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "Improving The Online Shopping Experience, Part 2: Guiding Customers Through The Buying Process",
   "url": "https://www.smashingmagazine.com/2011/09/improving-the-online-shopping-experience-part-2-guiding-customers-through-the-buying-process/"

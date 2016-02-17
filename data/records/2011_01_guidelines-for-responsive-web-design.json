@@ -1,13 +1,20 @@
 {
-  "author": "@KaylaMaeKnight",
+  "author": "Kayla Knight",
+  "authorUrl": "https://www.smashingmagazine.com/author/kayla-knight/",
   "commentCount": 156,
   "description": "Almost every new client these days wants a mobile version of their website. It’s practically essential after all: one design for the BlackBerry...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2010/11/portrait-landscape.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/",
   "publishedDate": 1294813347,
   "tags": [
-    "CSS",
-    "Responsive Web Design"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "Responsive Web Design: What It Is and How To Use It",
   "url": "https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/"

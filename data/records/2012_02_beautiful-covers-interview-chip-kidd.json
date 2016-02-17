@@ -1,13 +1,20 @@
 {
-  "author": "@spyze",
+  "author": "Spyros Zevelakis",
+  "authorUrl": "https://www.smashingmagazine.com/author/spyros-zevelakis/",
   "commentCount": 11,
   "description": "The work of Chip Kidd spans design, writing and, most recently, rock ’n’ roll. He definitely has the charisma to get ahead in that third field.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/chip-kidd-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/02/beautiful-covers-interview-chip-kidd/",
   "publishedDate": 1329703234,
   "tags": [
-    "Inspiration",
-    "Interviews"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Interviews",
+      "slug": "interviews"
+    }
   ],
   "title": "Beautiful Covers: An Interview With Chip Kidd",
   "url": "https://www.smashingmagazine.com/2012/02/beautiful-covers-interview-chip-kidd/"

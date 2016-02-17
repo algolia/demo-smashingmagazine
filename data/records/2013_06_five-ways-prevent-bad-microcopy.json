@@ -1,14 +1,24 @@
 {
-  "author": "@writebeard",
+  "author": "Bill Beard",
+  "authorUrl": "https://www.smashingmagazine.com/author/bill-beard/",
   "commentCount": 18,
   "description": "This article talks about five ways to make sure your website’s microcopy doesn’t end up sinking your UX.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ux-7.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/06/five-ways-prevent-bad-microcopy/",
   "publishedDate": 1371452797,
   "tags": [
-    "Interaction Design",
-    "Usability",
-    "User Experience"
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Five Ways To Prevent Bad Microcopy",
   "url": "https://www.smashingmagazine.com/2013/06/five-ways-prevent-bad-microcopy/"

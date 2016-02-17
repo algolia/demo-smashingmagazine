@@ -1,15 +1,28 @@
 {
-  "author": "@webfliccy",
+  "author": "Felicity Evans",
+  "authorUrl": "https://www.smashingmagazine.com/author/felicity-evans/",
   "commentCount": 39,
   "description": "Social media is more than a buzzword. It’s now a lifestyle decision for a lot of companies. Many individuals and organizations have abandoned a traditional web presence (which used to mean a websit...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/i-heart-email.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/07/email-is-still-important-and-here-is-why/",
   "publishedDate": 1311561669,
   "tags": [
-    "Business",
-    "Communication",
-    "Emails",
-    "Workflow"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Communication",
+      "slug": "communication"
+    },
+    {
+      "name": "Emails",
+      "slug": "emails"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Email Is (Still) Important And Here Is Why",
   "url": "https://www.smashingmagazine.com/2011/07/email-is-still-important-and-here-is-why/"

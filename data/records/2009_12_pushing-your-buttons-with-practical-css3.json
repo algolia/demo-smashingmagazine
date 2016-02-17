@@ -1,15 +1,28 @@
 {
-  "author": "@zurb",
+  "author": "ZURB",
+  "authorUrl": "https://www.smashingmagazine.com/author/dmitry-dragilev/",
   "commentCount": 115,
   "description": "CSS3 is the partially implemented sequel to the CSS2 spec we all know and love. It&#39;s already popping up in new browsers such as Firefox 3.5, Safari 4 and Chrome. In this article, the first of the a...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/buttons2.png",
   "objectID": "https://www.smashingmagazine.com/2009/12/pushing-your-buttons-with-practical-css3/",
   "publishedDate": 1259732715,
   "tags": [
-    "Buttons",
-    "CSS",
-    "CSS3",
-    "Techniques"
+    {
+      "name": "Buttons",
+      "slug": "buttons"
+    },
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "CSS3",
+      "slug": "css3"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Pushing Your Buttons With Practical CSS3",
   "url": "https://www.smashingmagazine.com/2009/12/pushing-your-buttons-with-practical-css3/"

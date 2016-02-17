@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Obaid ur Rehman",
+  "authorUrl": "https://www.smashingmagazine.com/author/obaid-ur-rehman/",
   "commentCount": 44,
   "description": "Art is not restricted to any medium, nor is digital painting. Yes, you read that right: &quot;digital painting.&quot; It is a new trend in today’s technologically brilliant world that won&#39;t go away any time ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/paths.png",
   "objectID": "https://www.smashingmagazine.com/2009/11/35-incredible-digital-painting-tutorials/",
   "publishedDate": 1258066809,
   "tags": [
-    "Drawing",
-    "Illustrations",
-    "Paintings",
-    "Tutorials"
+    {
+      "name": "Drawing",
+      "slug": "drawing"
+    },
+    {
+      "name": "Illustrations",
+      "slug": "illustrations"
+    },
+    {
+      "name": "Paintings",
+      "slug": "paintings"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "35 Incredible Digital Painting Tutorials",
   "url": "https://www.smashingmagazine.com/2009/11/35-incredible-digital-painting-tutorials/"

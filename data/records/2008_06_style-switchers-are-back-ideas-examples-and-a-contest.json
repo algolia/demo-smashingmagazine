@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 141,
   "description": "Design a style switcher and win an Apple Cinema 20 Flat Panel Display with 16.7 million colors, 400:1 contrast ratio, 0.258 mm dot pitch, 16 ms response time and 170-degree viewing angles. Yes, tha...",
   "image": "https://www.smashingmagazine.com/images/styleswitcher/apple.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/06/style-switchers-are-back-ideas-examples-and-a-contest/",
   "publishedDate": 1212638994,
   "tags": [
-    "Contests",
-    "Styleswitchers"
+    {
+      "name": "Contests",
+      "slug": "contests"
+    },
+    {
+      "name": "Styleswitchers",
+      "slug": "styleswitchers"
+    }
   ],
   "title": "Style Switchers Are Back: Ideas, Examples and a Contest",
   "url": "https://www.smashingmagazine.com/2008/06/style-switchers-are-back-ideas-examples-and-a-contest/"

@@ -1,14 +1,24 @@
 {
-  "author": "@matejlatin",
+  "author": "Matej Latin",
+  "authorUrl": "https://www.smashingmagazine.com/author/matejlatin/",
   "commentCount": 21,
   "description": "How do you balance the creative control you give to the users, the usability of the product they make with your tool and the flexibility of that tool?",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/06/titles-newspaper-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/06/user-total-control-designers-nightmare/",
   "publishedDate": 1402937829,
   "tags": [
-    "User Experience",
-    "User Interaction",
-    "Visual Design"
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    },
+    {
+      "name": "User Interaction",
+      "slug": "user-interaction"
+    },
+    {
+      "name": "Visual Design",
+      "slug": "visual-design"
+    }
   ],
   "title": "A User In Total Control Is A Designer's Nightmare",
   "url": "https://www.smashingmagazine.com/2014/06/user-total-control-designers-nightmare/"

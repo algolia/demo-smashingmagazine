@@ -1,14 +1,24 @@
 {
-  "author": "@m0ckduck",
+  "author": "Dan Mayer",
+  "authorUrl": "https://www.smashingmagazine.com/author/dan-mayer/",
   "commentCount": 42,
   "description": "Mention Jamaican music to someone who isn’t a fan and you can bet that a fairly predictable image pops into the head of your listener. Chances are this image looks something like the cover of Bim S...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/jamaican-covers-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/07/design-legacy-a-social-history-of-jamaican-album-covers/",
   "publishedDate": 1311911541,
   "tags": [
-    "Covers",
-    "Inspiration",
-    "Legacy"
+    {
+      "name": "Covers",
+      "slug": "covers"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Legacy",
+      "slug": "legacy"
+    }
   ],
   "title": "Design Legacy: A Social History Of Jamaican Album Covers",
   "url": "https://www.smashingmagazine.com/2011/07/design-legacy-a-social-history-of-jamaican-album-covers/"

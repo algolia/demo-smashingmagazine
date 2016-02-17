@@ -1,14 +1,24 @@
 {
-  "author": "@ImpressiveWebs",
+  "author": "Louis Lazaris",
+  "authorUrl": "https://www.smashingmagazine.com/author/louis-lazaris/",
   "commentCount": 70,
   "description": "How To Use The :before And :after Pseudo-Elements In CSS",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/07/pseudo-element-icons.png",
   "objectID": "https://www.smashingmagazine.com/2011/07/learning-to-use-the-before-and-after-pseudo-elements-in-css/",
   "publishedDate": 1310541765,
   "tags": [
-    "CSS",
-    "Essentials",
-    "Techniques"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Essentials",
+      "slug": "essentials"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Learning To Use The :before And :after Pseudo-Elements In CSS",
   "url": "https://www.smashingmagazine.com/2011/07/learning-to-use-the-before-and-after-pseudo-elements-in-css/"

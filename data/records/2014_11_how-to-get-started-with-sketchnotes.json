@@ -1,16 +1,32 @@
 {
-  "author": "@smashingmag",
+  "author": "Elisabeth Irgens",
+  "authorUrl": "https://www.smashingmagazine.com/author/elisabethirgens/",
   "commentCount": 53,
   "description": "People make all sorts of visual notes. An army of sketchnoters is out there, and everyone has their own style when creating their sketchnotes. Some do amazing sketches and lavish letters. Some tran...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/11/sketchnoting-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/11/how-to-get-started-with-sketchnotes/",
   "publishedDate": 1415629571,
   "tags": [
-    "Inspiration",
-    "Sketching",
-    "Techniques",
-    "Tools",
-    "Workflow"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Sketching",
+      "slug": "sketching"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "How To Get Started With Sketchnotes",
   "url": "https://www.smashingmagazine.com/2014/11/how-to-get-started-with-sketchnotes/"

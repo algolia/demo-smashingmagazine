@@ -1,14 +1,24 @@
 {
-  "author": "@dsternlicht",
+  "author": "Daniel Sternlicht",
+  "authorUrl": "https://www.smashingmagazine.com/author/daniel-sternlicht/",
   "commentCount": 54,
   "description": "A portfolio is a must-have for any designer or developer who wants to stake their claim on the Web. It should be as unique as possible, and with a bit of HTML, ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/04/1.png",
   "objectID": "https://www.smashingmagazine.com/2012/05/develop-a-one-of-a-kind-cssjs-based-game-portfolio/",
   "publishedDate": 1338163405,
   "tags": [
-    "CSS",
-    "HTML",
-    "JavaScript"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    }
   ],
   "title": "Develop A One-Of-A-Kind CSS / JS-Based Game Portfolio",
   "url": "https://www.smashingmagazine.com/2012/05/develop-a-one-of-a-kind-cssjs-based-game-portfolio/"

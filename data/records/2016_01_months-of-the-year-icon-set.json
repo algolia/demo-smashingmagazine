@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/newsletter-team/",
   "commentCount": 4,
   "description": "New Years&#39; Eve is not far past, and yet one twelfth of the new year is already behind us. We think this is a great time to release the first new free icon set of the year. So without further ado, t...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2016/01/mockup-02.jpg",
   "objectID": "https://www.smashingmagazine.com/2016/01/months-of-the-year-icon-set/",
   "publishedDate": 1454056527,
   "tags": [
-    "Freebies",
-    "Icons"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Freebie: The Months Of The Year Icon Set (12 Icons PSD, AI, EPS, SVG, PNG)",
   "url": "https://www.smashingmagazine.com/2016/01/months-of-the-year-icon-set/"

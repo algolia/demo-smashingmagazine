@@ -1,12 +1,16 @@
 {
-  "author": "@SiobhanPMcKeown",
+  "author": "Siobhan McKeown",
+  "authorUrl": "https://www.smashingmagazine.com/author/siobhan-mckeown/",
   "commentCount": 15,
   "description": "In-depth article packed with useful tips from some of the best WordPress pros. Learn valuable insights and improve your WordPress workflow.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wp-10.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/03/practical-tips-top-wordpress-pros/",
   "publishedDate": 1363755076,
   "tags": [
-    "Techniques (WP)"
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    }
   ],
   "title": "Practical Tips from Top WordPress Pros",
   "url": "https://www.smashingmagazine.com/2013/03/practical-tips-top-wordpress-pros/"

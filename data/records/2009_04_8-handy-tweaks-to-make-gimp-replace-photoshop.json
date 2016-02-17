@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Simon Moore",
+  "authorUrl": "https://www.smashingmagazine.com/author/simon-moore/",
   "commentCount": 231,
   "description": "GIMP is the favorite graphics editing program of many designers and graphic artists. It is free and compatible with Windows, Mac and Linux (the two big reasons for its popularity). It has a wide ar...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/gimp.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/04/8-handy-tweaks-to-make-gimp-replace-photoshop/",
   "publishedDate": 1238715639,
   "tags": [
-    "Gimp",
-    "Photoshop",
-    "Techniques"
+    {
+      "name": "Gimp",
+      "slug": "gimp"
+    },
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Handy Tweaks To Make GIMP Replace Photoshop",
   "url": "https://www.smashingmagazine.com/2009/04/8-handy-tweaks-to-make-gimp-replace-photoshop/"

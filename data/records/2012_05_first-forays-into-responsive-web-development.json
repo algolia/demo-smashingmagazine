@@ -1,12 +1,16 @@
 {
-  "author": "@gavynmckenzie",
+  "author": "Gavyn McKenzie",
+  "authorUrl": "https://www.smashingmagazine.com/author/gavyn-mckenzie/",
   "commentCount": 29,
   "description": "Does responsive design translate well from the text-heavy Web design blogosphere to the cold hard reality of commercial systems?",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/responsive-content.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/05/first-forays-into-responsive-web-development/",
   "publishedDate": 1337297418,
   "tags": [
-    "Responsive Web Design"
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "A Foot On The Bottom Rung: First Forays Into Responsive Web Development",
   "url": "https://www.smashingmagazine.com/2012/05/first-forays-into-responsive-web-development/"

@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "DArgo Smith",
+  "authorUrl": "https://www.smashingmagazine.com/author/dargo-smith/",
   "commentCount": 64,
   "description": "A lot of what is seen on TV commercials, catalogues flyers, posters, banners and internet advertisments are made by someone in the world of design or commissioned by someone in the world of art. As...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illustrators.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/04/20-talented-and-impressive-illustrators/",
   "publishedDate": 1240655965,
   "tags": [
-    "Illustrations",
-    "Showcases"
+    {
+      "name": "Illustrations",
+      "slug": "illustrations"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    }
   ],
   "title": "20 Talented and Impressive Illustrators",
   "url": "https://www.smashingmagazine.com/2009/04/20-talented-and-impressive-illustrators/"

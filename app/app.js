@@ -27,7 +27,8 @@ let Search = {
   transformItem(input) {
     let data = {
       url: input.url,
-      image: input.image
+      image: input.image,
+      authorUrl: input.authorUrl
     };
 
     // Add the number of comments
@@ -40,7 +41,6 @@ let Search = {
     // Display date in human readable form
     data.date = moment.unix(input.publishedDate).format('MMMM Do, YYYY');
 
-
     // Pass highlighted versions
     data.title = Search.getHighlightedValue(input, 'title');
     data.author = Search.getHighlightedValue(input, 'author');
@@ -48,7 +48,6 @@ let Search = {
 
     // TODO: Highlight tags
     data.tags = input.tags;
-
 
     // Keep a json version of the data, for easy debugging
     data._initialData = JSON.stringify(input, null, 2);

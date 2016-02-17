@@ -1,13 +1,20 @@
 {
-  "author": "@codepo8",
+  "author": "Christian Heilmann",
+  "authorUrl": "https://www.smashingmagazine.com/author/christian-heilmann/",
   "commentCount": 74,
   "description": "Almost every movie has a scene in which a character pull the protagonist aside and says, &quot;There&#39;s something you should know about .&quot; Most of the time, we find out some dark secret about a supposed ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ajax.png",
   "objectID": "https://www.smashingmagazine.com/2010/02/some-things-you-should-know-about-ajax/",
   "publishedDate": 1265781554,
   "tags": [
-    "AJAX",
-    "Techniques"
+    {
+      "name": "AJAX",
+      "slug": "ajax"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Developing Sites With AJAX: Design Challenges and Common Issues",
   "url": "https://www.smashingmagazine.com/2010/02/some-things-you-should-know-about-ajax/"

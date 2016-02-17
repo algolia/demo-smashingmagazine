@@ -1,14 +1,24 @@
 {
-  "author": "@thedistricts",
+  "author": "Dan Nisbet",
+  "authorUrl": "https://www.smashingmagazine.com/author/dan-nisbet/",
   "commentCount": 32,
   "description": "In this article, we’ll see how to start that journey by creating a stronger foundation for collaborating with Adobe Fireworks, even before the design process begins.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/04/fireworks-small-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/04/collaborating-with-adobe-fireworks-on-large-design-teams/",
   "publishedDate": 1398689346,
   "tags": [
-    "Communication",
-    "Fireworks",
-    "Workflow"
+    {
+      "name": "Communication",
+      "slug": "communication"
+    },
+    {
+      "name": "Fireworks",
+      "slug": "fireworks"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Collaborating With Adobe Fireworks On Large Design Teams",
   "url": "https://www.smashingmagazine.com/2014/04/collaborating-with-adobe-fireworks-on-large-design-teams/"

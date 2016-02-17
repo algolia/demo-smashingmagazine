@@ -1,14 +1,24 @@
 {
-  "author": "@rob_e_bowen",
+  "author": "Robert Bowen",
+  "authorUrl": "https://www.smashingmagazine.com/author/robert-bowen/",
   "commentCount": 112,
   "description": "When scouring the design field, searching for stand-out artistic expression and fluid composition, one area that should always catch the eye, is poster design. Moreover, concert poster design, whic...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/concertposters.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/09/60-inspiring-concert-posters-from-10-amazing-artists/",
   "publishedDate": 1222598623,
   "tags": [
-    "Art",
-    "Illustrations",
-    "Posters"
+    {
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "name": "Illustrations",
+      "slug": "illustrations"
+    },
+    {
+      "name": "Posters",
+      "slug": "posters"
+    }
   ],
   "title": "60 Concert Posters From Ten Amazing Artists",
   "url": "https://www.smashingmagazine.com/2008/09/60-inspiring-concert-posters-from-10-amazing-artists/"

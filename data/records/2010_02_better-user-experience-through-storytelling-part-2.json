@@ -1,14 +1,24 @@
 {
-  "author": "@iamfinch",
+  "author": "Francisco Inchauste",
+  "authorUrl": "https://www.smashingmagazine.com/author/francisco-inchauste/",
   "commentCount": 19,
   "description": "In the first part of this Better User Experience With Storytelling series, we explored some of the basic structures and story patterns found in myths and religions. We saw how these patterns contin...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ux4.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/02/better-user-experience-through-storytelling-part-2/",
   "publishedDate": 1265859434,
   "tags": [
-    "Emotional Design",
-    "Usability",
-    "User Experience"
+    {
+      "name": "Emotional Design",
+      "slug": "emotional-design"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Better User Experience With Storytelling – Part 2",
   "url": "https://www.smashingmagazine.com/2010/02/better-user-experience-through-storytelling-part-2/"

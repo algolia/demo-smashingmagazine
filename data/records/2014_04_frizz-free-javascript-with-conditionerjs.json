@@ -1,15 +1,28 @@
 {
-  "author": "@rikschennink",
+  "author": "Rik Schennink",
+  "authorUrl": "https://www.smashingmagazine.com/author/rik-schennink/",
   "commentCount": 20,
   "description": "ConditionerJS will help you combine all contextual information to pinpoint the right moment to load the functionality you need",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/04/01-before-after1.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/04/frizz-free-javascript-with-conditionerjs/",
   "publishedDate": 1396481553,
   "tags": [
-    "CSS",
-    "Frameworks",
-    "JavaScript",
-    "Techniques"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Frameworks",
+      "slug": "frameworks"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Frizz-Free JavaScript With ConditionerJS",
   "url": "https://www.smashingmagazine.com/2014/04/frizz-free-javascript-with-conditionerjs/"

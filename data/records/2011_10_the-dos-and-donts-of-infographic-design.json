@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Amy Balliett",
+  "authorUrl": "https://www.smashingmagazine.com/author/amy-balliett/",
   "commentCount": 98,
   "description": "Infographics are visual representations of information, or “data viz” as the cool kids call it these days. The term “data viz” comes from “data visualization,” which implies that sets of data will ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/call-to-action-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/10/the-dos-and-donts-of-infographic-design/",
   "publishedDate": 1318551977,
   "tags": [
-    "Data Visualization",
-    "Infographics"
+    {
+      "name": "Data Visualization",
+      "slug": "data-visualization"
+    },
+    {
+      "name": "Infographics",
+      "slug": "infographics"
+    }
   ],
   "title": "The Do's And Don'ts Of Infographic Design",
   "url": "https://www.smashingmagazine.com/2011/10/the-dos-and-donts-of-infographic-design/"

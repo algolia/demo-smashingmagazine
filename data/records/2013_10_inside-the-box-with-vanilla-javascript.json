@@ -1,14 +1,24 @@
 {
-  "author": "@ImpressiveWebs",
+  "author": "Louis Lazaris",
+  "authorUrl": "https://www.smashingmagazine.com/author/louis-lazaris/",
   "commentCount": 54,
   "description": "In this article, Louis Lazaris introduces you to some pure JavaScript features from deep inside the language’s syntax, which you can use today but might not have ever considered before.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/10/illu-vanilla.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/10/inside-the-box-with-vanilla-javascript/",
   "publishedDate": 1381094290,
   "tags": [
-    "HTML",
-    "JavaScript",
-    "Techniques"
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Thinking Inside The Box With Vanilla JavaScript",
   "url": "https://www.smashingmagazine.com/2013/10/inside-the-box-with-vanilla-javascript/"

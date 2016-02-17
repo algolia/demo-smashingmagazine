@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 78,
   "description": "Dark designs can be really stunning. I mean, really. In Web 2.0 designers try to do their best to impress their visitors and in many cases they definitely succeed in doing so.  As a second (out of ...",
   "image": "https://www.smashingmagazine.com/images/darklayouts/darklayout-0000.jpg",
   "objectID": "https://www.smashingmagazine.com/2007/01/30-dark-designs-you-shouldve-seen/",
   "publishedDate": 1168717423,
   "tags": [
-    "Inspiration",
-    "Layouts",
-    "Showcases"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Layouts",
+      "slug": "layouts"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    }
   ],
   "title": "30 Dark Designs You Should've Seen",
   "url": "https://www.smashingmagazine.com/2007/01/30-dark-designs-you-shouldve-seen/"

@@ -1,14 +1,24 @@
 {
-  "author": "@danielmckenzie",
+  "author": "Dan McKenzie",
+  "authorUrl": "https://www.smashingmagazine.com/author/dan-mckenzie/",
   "commentCount": 4,
   "description": "More than ever, designers are being asked to create experiences for a variety of mobile devices. As tablet adoption increases and we move into the post-PC world, companies will compete for users’ a...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/08/android-cover.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/08/designing-for-android-tablets/",
   "publishedDate": 1312863197,
   "tags": [
-    "Android",
-    "Responsive Web Design",
-    "Tablets"
+    {
+      "name": "Android",
+      "slug": "android"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    },
+    {
+      "name": "Tablets",
+      "slug": "tablets"
+    }
   ],
   "title": "Designing For Android Tablets",
   "url": "https://www.smashingmagazine.com/2011/08/designing-for-android-tablets/"

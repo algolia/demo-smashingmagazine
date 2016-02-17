@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 213,
   "description": "We always try our best to challenge your artistic abilities and produce some interesting, beautiful and creative artwork. And as designers we usually turn to different sources of inspiration. As a ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wallpapers-january.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/12/desktop-wallpaper-calendar-january-2011-new-year/",
   "publishedDate": 1293768533,
   "tags": [
-    "Wallpapers"
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Desktop Wallpaper Calendar: January 2011",
   "url": "https://www.smashingmagazine.com/2010/12/desktop-wallpaper-calendar-january-2011-new-year/"

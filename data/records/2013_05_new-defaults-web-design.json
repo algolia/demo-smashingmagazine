@@ -1,14 +1,24 @@
 {
-  "author": "@vasilis",
+  "author": "Vasilis van Gemert",
+  "authorUrl": "https://www.smashingmagazine.com/author/vasilis-van-gemert/",
   "commentCount": 62,
   "description": "People keep saying that the Web has changed. But has it really? Let’s take a look at all of the stuff that changed.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/idea-lamps-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/05/new-defaults-web-design/",
   "publishedDate": 1367846527,
   "tags": [
-    "Content",
-    "Navigation",
-    "Web Design"
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "Navigation",
+      "slug": "navigation"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "How Much Has The Web Really Changed?",
   "url": "https://www.smashingmagazine.com/2013/05/new-defaults-web-design/"

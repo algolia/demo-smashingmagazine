@@ -1,12 +1,16 @@
 {
-  "author": "@kjkausha",
+  "author": "Karen Kaushansky",
+  "authorUrl": "https://www.smashingmagazine.com/author/karen-kaushansky/",
   "commentCount": 14,
   "description": "In this article, we’ll explore some of the uses of audio, where we might find it and when it is useful. This is meant not as a tutorial but rather as a discussion of some basics on using audio feed...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/04/buds.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/04/designing-with-audio-what-is-sound-good-for/",
   "publishedDate": 1334716748,
   "tags": [
-    "Interaction Design"
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    }
   ],
   "title": "Designing With Audio: What Is Sound Good For?",
   "url": "https://www.smashingmagazine.com/2012/04/designing-with-audio-what-is-sound-good-for/"

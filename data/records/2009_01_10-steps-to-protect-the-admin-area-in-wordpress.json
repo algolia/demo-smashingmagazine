@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Alex Frison",
+  "authorUrl": "https://www.smashingmagazine.com/author/afrison/",
   "commentCount": 0,
   "description": "The administration area of a Web application is a favorite target of hackers and thus particularly well protected. The same goes for WordPress: when creati",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/logo.png",
   "objectID": "https://www.smashingmagazine.com/2009/01/10-steps-to-protect-the-admin-area-in-wordpress/",
   "publishedDate": 1233004105,
   "tags": [
-    "Security"
+    {
+      "name": "Security",
+      "slug": "security"
+    }
   ],
   "title": "10 Steps To Protect The Admin Area In WordPress",
   "url": "https://www.smashingmagazine.com/2009/01/10-steps-to-protect-the-admin-area-in-wordpress/"

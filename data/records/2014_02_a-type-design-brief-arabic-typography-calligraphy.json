@@ -1,14 +1,24 @@
 {
-  "author": "@arabictype",
+  "author": "Nadine Chahine",
+  "authorUrl": "https://www.smashingmagazine.com/author/nadine-chahine/",
   "commentCount": 25,
   "description": "A type design brief is like a charter path: It asks you questions, and the answers will guide you to where you want to be. Read more...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/arabic-calligraphy-illu.png",
   "objectID": "https://www.smashingmagazine.com/2014/02/a-type-design-brief-arabic-typography-calligraphy/",
   "publishedDate": 1392723813,
   "tags": [
-    "Calligraphy",
-    "Fonts",
-    "Typography"
+    {
+      "name": "Calligraphy",
+      "slug": "calligraphy"
+    },
+    {
+      "name": "Fonts",
+      "slug": "fonts"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "A Type Design Brief: What Is In It, And Why Does It Matter?",
   "url": "https://www.smashingmagazine.com/2014/02/a-type-design-brief-arabic-typography-calligraphy/"

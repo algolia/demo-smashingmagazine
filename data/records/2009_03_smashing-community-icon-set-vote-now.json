@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 42,
   "description": "Two days ago, we invited you to participate in the Smashing Community Icon Set event, in which you would tell us what icons you want and we would design them for you together with the design agency...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/2.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/03/smashing-community-icon-set-vote-now/",
   "publishedDate": 1237563109,
   "tags": [
-    "Contests",
-    "Icons"
+    {
+      "name": "Contests",
+      "slug": "contests"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Smashing Community Icon Set: Vote Now!",
   "url": "https://www.smashingmagazine.com/2009/03/smashing-community-icon-set-vote-now/"

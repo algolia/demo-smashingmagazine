@@ -1,14 +1,24 @@
 {
-  "author": "@coryshaw",
+  "author": "Cory Shaw",
+  "authorUrl": "https://www.smashingmagazine.com/author/coryshaw1/",
   "commentCount": 44,
   "description": "Cory Shaw reflects on some of the mistakes made, the tools used, the workflows and learnings when building the brand new Hawaiian Airlines website.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/10/angular_performance_panel-500px-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/12/lessons-learned-in-big-app-development-hawaiian-airlines/",
   "publishedDate": 1449594992,
   "tags": [
-    "Case Studies",
-    "JavaScript",
-    "User Experience"
+    {
+      "name": "Case Studies",
+      "slug": "case-studies"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Lessons Learned In Big App Development, A Hawaiian Airlines Case Study",
   "url": "https://www.smashingmagazine.com/2015/12/lessons-learned-in-big-app-development-hawaiian-airlines/"

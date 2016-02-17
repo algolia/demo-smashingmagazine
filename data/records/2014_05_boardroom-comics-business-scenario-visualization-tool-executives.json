@@ -1,13 +1,20 @@
 {
-  "author": "@politemachines",
+  "author": "ajayrevels",
+  "authorUrl": "https://www.smashingmagazine.com/author/ajayrevels/",
   "commentCount": 8,
   "description": "Boardroom comics is a visualization tool for executives. In this article, the author provides some guidelines for UX designers who would like to use comics or sequential art to illustrate open-ende...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/05/data-loss-comic-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/05/boardroom-comics-business-scenario-visualization-tool-executives/",
   "publishedDate": 1399985802,
   "tags": [
-    "Business",
-    "Workflow"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Boardroom Comics: A Business-Scenario Visualization Tool For Executives",
   "url": "https://www.smashingmagazine.com/2014/05/boardroom-comics-business-scenario-visualization-tool-executives/"

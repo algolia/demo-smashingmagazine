@@ -1,13 +1,20 @@
 {
-  "author": "@tsharon",
+  "author": "Tomer Sharon",
+  "authorUrl": "https://www.smashingmagazine.com/author/tomer-sharon/",
   "commentCount": 19,
   "description": "This article describes and gives you a tool called the Rainbow Spreadsheet. With it, you will be able to collaboratively observe UX research sessions with team members (or clients).",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/04/rainbow-spreadsheet-preview.png",
   "objectID": "https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/",
   "publishedDate": 1365642443,
   "tags": [
-    "Techniques",
-    "User Research"
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "User Research",
+      "slug": "user-research"
+    }
   ],
   "title": "A Collaborative Lean UX Research Tool",
   "url": "https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/"

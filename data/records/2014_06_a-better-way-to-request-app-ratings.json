@@ -1,13 +1,20 @@
 {
-  "author": "@joshuamauldin",
+  "author": "Joshua Mauldin",
+  "authorUrl": "https://www.smashingmagazine.com/author/joshua-mauldin/",
   "commentCount": 22,
   "description": "No one really wants to be interrupted, much less for something silly while they’re in the middle of doing a billion things. So, why do app ratings follow this pattern? And why don’t developers atte...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/06/ideal-ratings-500-opt.png",
   "objectID": "https://www.smashingmagazine.com/2014/06/a-better-way-to-request-app-ratings/",
   "publishedDate": 1403787636,
   "tags": [
-    "Apps",
-    "Business"
+    {
+      "name": "Apps",
+      "slug": "apps"
+    },
+    {
+      "name": "Business",
+      "slug": "business"
+    }
   ],
   "title": "A Better Way To Request App Ratings",
   "url": "https://www.smashingmagazine.com/2014/06/a-better-way-to-request-app-ratings/"

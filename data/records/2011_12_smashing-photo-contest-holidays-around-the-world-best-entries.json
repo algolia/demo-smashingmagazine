@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 11,
   "description": "The results of the Smashing Magazine&#39;s photo contest for the best photos celebrating Christmas 2012.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ahorn-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/12/smashing-photo-contest-holidays-around-the-world-best-entries/",
   "publishedDate": 1324413184,
   "tags": [
-    "Contests",
-    "Giveaways"
+    {
+      "name": "Contests",
+      "slug": "contests"
+    },
+    {
+      "name": "Giveaways",
+      "slug": "giveaways"
+    }
   ],
   "title": "Smashing Photo Contest \"Holidays Around The World\": Best Entries!",
   "url": "https://www.smashingmagazine.com/2011/12/smashing-photo-contest-holidays-around-the-world-best-entries/"

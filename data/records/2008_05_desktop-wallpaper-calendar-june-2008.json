@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 73,
   "description": "Desktop wallpapers can serve as an excellent source of inspiration. However, if you use some specific wallpaper for a long period of time, it becomes harder to draw inspiration out of it. That&#39;s wh...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/house.png",
   "objectID": "https://www.smashingmagazine.com/2008/05/desktop-wallpaper-calendar-june-2008/",
   "publishedDate": 1212118975,
   "tags": [
-    "Calendars",
-    "Downloads",
-    "Freebies",
-    "Wallpapers"
+    {
+      "name": "Calendars",
+      "slug": "calendars"
+    },
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Desktop Wallpaper Calendar: June 2008",
   "url": "https://www.smashingmagazine.com/2008/05/desktop-wallpaper-calendar-june-2008/"

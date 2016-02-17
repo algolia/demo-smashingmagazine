@@ -1,15 +1,28 @@
 {
-  "author": "@cmcopywriters",
+  "author": "Craig Anderson",
+  "authorUrl": "https://www.smashingmagazine.com/author/craig-anderson/",
   "commentCount": 37,
   "description": "Quality product descriptions can transform e-commerce conversion rates — it&#39;s common to see increases of 30-100%. As well as converting more visitors, search traffic increases drastically when uniq...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/commerce.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/12/ecommerce-copywriting-the-ultimate-guide-to-selling-more/",
   "publishedDate": 1292822913,
   "tags": [
-    "Business",
-    "Copywriting",
-    "E-Commerce",
-    "Web Design"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Copywriting",
+      "slug": "copywriting"
+    },
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "E-Commerce Copywriting: The Guide to Selling More",
   "url": "https://www.smashingmagazine.com/2010/12/ecommerce-copywriting-the-ultimate-guide-to-selling-more/"

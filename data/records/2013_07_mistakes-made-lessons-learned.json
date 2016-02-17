@@ -1,13 +1,20 @@
 {
-  "author": "@jeremymgirard",
+  "author": "Jeremy Girard",
+  "authorUrl": "https://www.smashingmagazine.com/author/jeremy-girard/",
   "commentCount": 22,
   "description": "We all make mistakes. Whether in our design and development work or just in life in general, we all do it. Thankfully, even the biggest mistakes carry valuable lessons.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/mistakes-illu32498237.png",
   "objectID": "https://www.smashingmagazine.com/2013/07/mistakes-made-lessons-learned/",
   "publishedDate": 1374826766,
   "tags": [
-    "Business",
-    "Communication"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Communication",
+      "slug": "communication"
+    }
   ],
   "title": "Mistakes I've Made (And Lessons Learned Along The Way)",
   "url": "https://www.smashingmagazine.com/2013/07/mistakes-made-lessons-learned/"

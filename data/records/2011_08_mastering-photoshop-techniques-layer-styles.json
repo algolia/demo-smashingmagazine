@@ -1,13 +1,20 @@
 {
-  "author": "@attasi",
+  "author": "Tom Giannattasio",
+  "authorUrl": "https://www.smashingmagazine.com/author/thomas-giannattasio/",
   "commentCount": 52,
   "description": "Layer Styles are nothing new. They&#39;ve been used and abused again and again. Despite their ubiquity, or perhaps because of it, many designers do not yet realize the full potential of this handy menu...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/photoshop-07.gif",
   "objectID": "https://www.smashingmagazine.com/2011/08/mastering-photoshop-techniques-layer-styles/",
   "publishedDate": 1313117272,
   "tags": [
-    "Photoshop",
-    "Tutorials"
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "Mastering Photoshop Techniques: Layer Styles",
   "url": "https://www.smashingmagazine.com/2011/08/mastering-photoshop-techniques-layer-styles/"

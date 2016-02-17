@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 254,
   "description": "The wallpapers calendar series will not be discontinued. Next month is the last month in our desktop wallpaper calendar series. In February, you&#39;ll have one last chance to showcase your work by des...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/thisweek.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/01/desktop-wallpaper-calendar-february-2009/",
   "publishedDate": 1233305425,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Wallpapers"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Desktop Wallpaper Calendar: February 2009",
   "url": "https://www.smashingmagazine.com/2009/01/desktop-wallpaper-calendar-february-2009/"

@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Luke Wroblewski",
+  "authorUrl": "https://www.smashingmagazine.com/author/luke-wroblewski/",
   "commentCount": 27,
   "description": "Though many computer applications and operating systems make use of real-world metaphors like the desktop, most software interface design has little to do with how we actually experience the real w...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/flavour-extended.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/09/enhancing-user-interaction-with-first-person-user-interface/",
   "publishedDate": 1253512970,
   "tags": [
-    "Interfaces",
-    "UI",
-    "Usability"
+    {
+      "name": "Interfaces",
+      "slug": "interfaces"
+    },
+    {
+      "name": "UI",
+      "slug": "ui"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "Enhancing User Interaction With First Person User Interface",
   "url": "https://www.smashingmagazine.com/2009/09/enhancing-user-interaction-with-first-person-user-interface/"

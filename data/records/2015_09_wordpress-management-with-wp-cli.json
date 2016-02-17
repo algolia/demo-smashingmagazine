@@ -1,13 +1,20 @@
 {
-  "author": "@kouratoras",
+  "author": "Konstantinos Kouratoras",
+  "authorUrl": "https://www.smashingmagazine.com/author/konstantinos-kouratoras/",
   "commentCount": 13,
   "description": "This post describes the benefits of using and extending WP-CLI, and presents advanced commands to make your WordPress workflow easier.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/08/typing-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/09/wordpress-management-with-wp-cli/",
   "publishedDate": 1443099420,
   "tags": [
-    "Techniques (WP)",
-    "Workflow"
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Advanced WordPress Management With WP-CLI",
   "url": "https://www.smashingmagazine.com/2015/09/wordpress-management-with-wp-cli/"

@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Sarah Bauer",
+  "authorUrl": "https://www.smashingmagazine.com/author/sarah-bauer/",
   "commentCount": 23,
   "description": "This post explains four strategies for improving fluidity of content and design, and we’ll gauge the effectiveness with which several websites use these strategies, taking special note of what we c...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wildsml.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/11/fluidity-content-design-learning-where-wild-things/",
   "publishedDate": 1321509348,
   "tags": [
-    "Communication",
-    "Content"
+    {
+      "name": "Communication",
+      "slug": "communication"
+    },
+    {
+      "name": "Content",
+      "slug": "content"
+    }
   ],
   "title": "Fluidity Of Content And Design: Learning From Where The Wild Things Are",
   "url": "https://www.smashingmagazine.com/2011/11/fluidity-content-design-learning-where-wild-things/"

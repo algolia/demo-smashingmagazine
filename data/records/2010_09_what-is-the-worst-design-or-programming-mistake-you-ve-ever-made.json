@@ -1,16 +1,32 @@
 {
-  "author": "@rob_e_bowen",
+  "author": "Robert Bowen",
+  "authorUrl": "https://www.smashingmagazine.com/author/robert-bowen/",
   "commentCount": 214,
   "description": "Mistakes are made every day in the design and development world. It’s nothing to be ashamed of; it happens. In fact, mistakes are one of the most powerful learning tools at our disposal. Our mistak...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/apple-keyboard-illu88.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/09/what-is-the-worst-design-or-programming-mistake-you-ve-ever-made/",
   "publishedDate": 1284083582,
   "tags": [
-    "Community",
-    "Errors",
-    "Opinion Column",
-    "Security",
-    "Workflow"
+    {
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "name": "Errors",
+      "slug": "errors"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    },
+    {
+      "name": "Security",
+      "slug": "security"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "What Is The Worst Design or Programming Mistake You've Ever Made?",
   "url": "https://www.smashingmagazine.com/2010/09/what-is-the-worst-design-or-programming-mistake-you-ve-ever-made/"

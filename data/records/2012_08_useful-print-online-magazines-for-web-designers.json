@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 33,
   "description": "One of the advantages of working in a creative industry is the amount of quality take their craft seriously. The design community shines in one regard in particular: the design community seems to b...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/drawing-wireframes-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/08/useful-print-online-magazines-for-web-designers/",
   "publishedDate": 1345123322,
   "tags": [
-    "Inspiration"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "Useful Print And Online Magazines For Web Designers",
   "url": "https://www.smashingmagazine.com/2012/08/useful-print-online-magazines-for-web-designers/"

@@ -1,13 +1,20 @@
 {
-  "author": "@boagworld",
+  "author": "Paul Boag",
+  "authorUrl": "https://www.smashingmagazine.com/author/paul-boag/",
   "commentCount": 17,
   "description": "Your users lack confidence. They worry they are doing something wrong on your site and we need to encourage them with positive feedback.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/start-tuning.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/07/are-giving-users-positive-feedback/",
   "publishedDate": 1342538955,
   "tags": [
-    "Opinion Column",
-    "Usability"
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "Are you giving your users some positive feedback",
   "url": "https://www.smashingmagazine.com/2012/07/are-giving-users-positive-feedback/"

@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Alejandro Hernandez",
+  "authorUrl": "https://www.smashingmagazine.com/author/emily-storz/",
   "commentCount": 91,
   "description": "An overview of why full-stack JavaScript might be right for you and how it works its magic.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/11/illu-javascript.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/11/introduction-to-full-stack-javascript/",
   "publishedDate": 1385015093,
   "tags": [
-    "JavaScript",
-    "Techniques",
-    "Tools"
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "An Introduction To Full-Stack JavaScript",
   "url": "https://www.smashingmagazine.com/2013/11/introduction-to-full-stack-javascript/"

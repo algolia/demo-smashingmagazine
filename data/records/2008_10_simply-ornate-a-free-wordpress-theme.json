@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 54,
   "description": "We love our readers. We respect the hard work of designers and developers across the globe. And we do our best to make the web design community stronger and the Web a little bit prettier. Therefore...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/eckard.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/10/simply-ornate-a-free-wordpress-theme/",
   "publishedDate": 1222818421,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Themes"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "Simply Ornate: A Free WordPress Theme",
   "url": "https://www.smashingmagazine.com/2008/10/simply-ornate-a-free-wordpress-theme/"

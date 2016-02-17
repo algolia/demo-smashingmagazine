@@ -1,15 +1,28 @@
 {
-  "author": "@iammarcthomas",
+  "author": "Marc Thomas",
+  "authorUrl": "https://www.smashingmagazine.com/author/marc-thomas/",
   "commentCount": 18,
   "description": "Advertising has always had an uneasy relationship with the media because of ethical considerations on both sides of the printing press.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/idea-lamps-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/11/making-advertising-work-in-a-responsive-world/",
   "publishedDate": 1354167379,
   "tags": [
-    "Advertising",
-    "Business",
-    "Product Strategy",
-    "Responsive Web Design"
+    {
+      "name": "Advertising",
+      "slug": "advertising"
+    },
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Product Strategy",
+      "slug": "product-strategy"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "Making Advertising Work In A Responsive World",
   "url": "https://www.smashingmagazine.com/2012/11/making-advertising-work-in-a-responsive-world/"

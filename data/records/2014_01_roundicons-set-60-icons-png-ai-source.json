@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 29,
   "description": "Everyone loves a good, clean and simple icon set. Today, we’re honored to present to you a set of 60 vector round icons which was cleverly designed by the creative trio at Roundicons and released e...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/roundicons-illu-opt.png",
   "objectID": "https://www.smashingmagazine.com/2014/01/roundicons-set-60-icons-png-ai-source/",
   "publishedDate": 1390569803,
   "tags": [
-    "Freebies",
-    "Icons"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Freebie: Roundicons Icon Set (60 Icons, PNG, SVG, EPS, AI)",
   "url": "https://www.smashingmagazine.com/2014/01/roundicons-set-60-icons-png-ai-source/"

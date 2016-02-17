@@ -1,13 +1,20 @@
 {
-  "author": "@SThompson1489",
+  "author": "Katie Thompson",
+  "authorUrl": "https://www.smashingmagazine.com/author/katie-thompson/",
   "commentCount": 152,
   "description": "For designers approaching a deadline, coffee is a delicious necessity. Lucky for us, having a coffee break is not really difficult. But it&#39;s more than just a 3am fix. With every late-night run to t...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/coffee2.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/08/showcase-of-delicious-coffee-websites/",
   "publishedDate": 1281412704,
   "tags": [
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Showcase Of Delicious Coffee Websites",
   "url": "https://www.smashingmagazine.com/2010/08/showcase-of-delicious-coffee-websites/"

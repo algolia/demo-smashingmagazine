@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Ann Smarty",
+  "authorUrl": "https://www.smashingmagazine.com/author/ann-smarty/",
   "commentCount": 68,
   "description": "The Web is changing along with the weather outside the window, adopting bright autumn-inspired makeovers for seasonal fall sales and special offers. The autumn (or fall) season is primarily associa...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/sale.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/09/showcase-of-web-designs-for-ecommerce-fall-sales/",
   "publishedDate": 1222749156,
   "tags": [
-    "E-Commerce",
-    "Inspiration",
-    "Showcases"
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    }
   ],
   "title": "Showcase Of e-Commerce Fall Sales Designs",
   "url": "https://www.smashingmagazine.com/2008/09/showcase-of-web-designs-for-ecommerce-fall-sales/"

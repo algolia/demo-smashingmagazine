@@ -1,12 +1,16 @@
 {
-  "author": "@jessbordeau",
+  "author": "Jessica Bordeau",
+  "authorUrl": "https://www.smashingmagazine.com/author/jessica-bordeau/",
   "commentCount": 82,
   "description": "In the Web design scene, the sense of community is extremely strong. We always talk about &quot;giving back&quot; and about how much we learn from those who do. A few names are popular and dropped here and t...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/moustache-simple-websites-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/07/an-interview-with-some-smashing-authors/",
   "publishedDate": 1279238372,
   "tags": [
-    "Interviews"
+    {
+      "name": "Interviews",
+      "slug": "interviews"
+    }
   ],
   "title": "Behind The Scenes of Smashing Magazine: Interview With Our Writers",
   "url": "https://www.smashingmagazine.com/2010/07/an-interview-with-some-smashing-authors/"

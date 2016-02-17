@@ -1,17 +1,36 @@
 {
-  "author": "@sixrevisions",
+  "author": "Jacob Gube",
+  "authorUrl": "https://www.smashingmagazine.com/author/jacob-gube/",
   "commentCount": 163,
   "description": "There are many useful Web development tools that integrate in your browser. These in-browser tools are commonly known as add-ons or extensions. Though add-ons and extensions aren&#39;t just for Web dev...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/debug.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/11/15-helpful-in-browser-web-development-tools/",
   "publishedDate": 1227013243,
   "tags": [
-    "Browsers",
-    "Development",
-    "Open Source",
-    "Plugins",
-    "Tools",
-    "Web Design"
+    {
+      "name": "Browsers",
+      "slug": "browsers"
+    },
+    {
+      "name": "Development",
+      "slug": "development"
+    },
+    {
+      "name": "Open Source",
+      "slug": "open-source"
+    },
+    {
+      "name": "Plugins",
+      "slug": "plugins"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "15 Helpful In-Browser Web Development Tools",
   "url": "https://www.smashingmagazine.com/2008/11/15-helpful-in-browser-web-development-tools/"

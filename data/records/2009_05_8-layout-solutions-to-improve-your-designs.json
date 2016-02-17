@@ -1,14 +1,24 @@
 {
-  "author": "@themccronin",
+  "author": "Matt Cronin",
+  "authorUrl": "https://www.smashingmagazine.com/author/matt-cronin/",
   "commentCount": 111,
   "description": "The organization of content is probably one of the most important and influential aspects of any good web design. Organizing information into a well-built layout is the basis of a website, and shou...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/layout-techniques.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/05/8-layout-solutions-to-improve-your-designs/",
   "publishedDate": 1242711635,
   "tags": [
-    "Layouts",
-    "Techniques",
-    "User Interaction"
+    {
+      "name": "Layouts",
+      "slug": "layouts"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "User Interaction",
+      "slug": "user-interaction"
+    }
   ],
   "title": "8 Layout Solutions To Improve Your Designs",
   "url": "https://www.smashingmagazine.com/2009/05/8-layout-solutions-to-improve-your-designs/"

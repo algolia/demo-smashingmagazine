@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Avi Itzkovitch",
+  "authorUrl": "https://www.smashingmagazine.com/author/avi-itzkovitch/",
   "commentCount": 19,
   "description": "This article gives ideas on how to design an adaptive system and inspire designers to consider how smart devices and context aware applications can enhance the user experience.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/12/Sensors-500.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/12/creating-an-adaptive-system-to-enhance-ux/",
   "publishedDate": 1355102623,
   "tags": [
-    "Interaction Design",
-    "UI"
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    },
+    {
+      "name": "UI",
+      "slug": "ui"
+    }
   ],
   "title": "Creating An Adaptive System To Enhance UX",
   "url": "https://www.smashingmagazine.com/2012/12/creating-an-adaptive-system-to-enhance-ux/"

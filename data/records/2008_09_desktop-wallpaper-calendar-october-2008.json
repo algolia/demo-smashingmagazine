@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 138,
   "description": "Desktop wallpapers can serve as an excellent source of inspiration. However, if you use some specific wallpaper for a long period of time, it becomes harder to draw inspiration out of it. That&#39;s wh...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/autumn.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/09/desktop-wallpaper-calendar-october-2008/",
   "publishedDate": 1222687649,
   "tags": [
-    "Calendars",
-    "Wallpapers"
+    {
+      "name": "Calendars",
+      "slug": "calendars"
+    },
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Desktop Wallpaper Calendar: October 2008",
   "url": "https://www.smashingmagazine.com/2008/09/desktop-wallpaper-calendar-october-2008/"

@@ -1,13 +1,20 @@
 {
-  "author": "@leemunroe",
+  "author": "Lee Munroe",
+  "authorUrl": "https://www.smashingmagazine.com/author/lee-munroe/",
   "commentCount": 72,
   "description": "Hyperlinks (or links) connect Web pages. They are what make the Web work, enabling us to travel from one page to the next at the click of a button. As Web Standardistas put it, &quot;without hypertext l...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ampersands2.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/02/the-definitive-guide-to-styling-web-links/",
   "publishedDate": 1266032889,
   "tags": [
-    "SEO",
-    "Web Design"
+    {
+      "name": "SEO",
+      "slug": "seo"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "The Definitive Guide To Styling Web Links",
   "url": "https://www.smashingmagazine.com/2010/02/the-definitive-guide-to-styling-web-links/"

@@ -1,13 +1,20 @@
 {
-  "author": "@blankfade",
+  "author": "David Boot",
+  "authorUrl": "https://www.smashingmagazine.com/author/david-boot/",
   "commentCount": 52,
   "description": "So, you want to develop Ruby on Rails applications? While loads of (introductory) tutorials are available for developing Ruby on Rails applications, there seems to be some uncertainty about setting...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ruby.png",
   "objectID": "https://www.smashingmagazine.com/2011/06/set-up-an-ubuntu-local-development-machine-for-ruby-on-rails/",
   "publishedDate": 1308613593,
   "tags": [
-    "Linux",
-    "Ruby on Rails"
+    {
+      "name": "Linux",
+      "slug": "linux"
+    },
+    {
+      "name": "Ruby on Rails",
+      "slug": "ruby-on-rails"
+    }
   ],
   "title": "Set Up An Ubuntu Local Development Machine For Ruby On Rails",
   "url": "https://www.smashingmagazine.com/2011/06/set-up-an-ubuntu-local-development-machine-for-ruby-on-rails/"

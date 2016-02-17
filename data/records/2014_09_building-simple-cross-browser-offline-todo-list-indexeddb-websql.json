@@ -1,13 +1,20 @@
 {
-  "author": "@andrewsmatt",
+  "author": "Matt Andrews",
+  "authorUrl": "https://www.smashingmagazine.com/author/mattandrews/",
   "commentCount": 24,
   "description": "To support WebSQL, we’ll use an IndexedDB polyfill. This will keep our code clean and easy to maintain, and once all browsers that we care about support IndexedDB natively, we can simply delete the...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/09/illu-vanilla.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/09/building-simple-cross-browser-offline-todo-list-indexeddb-websql/",
   "publishedDate": 1409642729,
   "tags": [
-    "Techniques",
-    "Tools"
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "Building A Simple Cross-Browser Offline To-Do List With IndexedDB And WebSQL",
   "url": "https://www.smashingmagazine.com/2014/09/building-simple-cross-browser-offline-todo-list-indexeddb-websql/"

@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 60,
   "description": "Over decades we&#39;ve used to adapt our habits, behavior and mindset to technology. We&#39;ve improved our productivity by using tools and devices designed especially for the tasks we have to deal with re...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/uinterface.png",
   "objectID": "https://www.smashingmagazine.com/2007/11/monday-inspiration-user-experience-of-the-future/",
   "publishedDate": 1196091251,
   "tags": [
-    "Innovation",
-    "Technology",
-    "UI"
+    {
+      "name": "Innovation",
+      "slug": "innovation"
+    },
+    {
+      "name": "Technology",
+      "slug": "technology"
+    },
+    {
+      "name": "UI",
+      "slug": "ui"
+    }
   ],
   "title": "User Experience Of The Future",
   "url": "https://www.smashingmagazine.com/2007/11/monday-inspiration-user-experience-of-the-future/"

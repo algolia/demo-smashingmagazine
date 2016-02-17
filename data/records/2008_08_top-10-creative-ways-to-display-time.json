@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Guest Author",
+  "authorUrl": "https://www.smashingmagazine.com/author/guest-author/",
   "commentCount": 52,
   "description": "Clocks don&#39;t have to be boring. Of course, clocks need need to remain usable and display current time; however, they can do it in a number of creative ways. You are about to see some of the most cr...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/time.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/08/top-10-creative-ways-to-display-time/",
   "publishedDate": 1218768516,
   "tags": [
-    "Time management",
-    "Visualizations"
+    {
+      "name": "Time management",
+      "slug": "time-management"
+    },
+    {
+      "name": "Visualizations",
+      "slug": "visualizations"
+    }
   ],
   "title": "Top 10 Creative Ways To Display Time",
   "url": "https://www.smashingmagazine.com/2008/08/top-10-creative-ways-to-display-time/"

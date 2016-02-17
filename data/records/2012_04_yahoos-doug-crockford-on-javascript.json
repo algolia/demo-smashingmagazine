@@ -1,13 +1,20 @@
 {
-  "author": "@jacobmcook",
+  "author": "Jacob Cook",
+  "authorUrl": "https://www.smashingmagazine.com/author/jacob-cook/",
   "commentCount": 17,
   "description": "Hear from Yahoo! JavaScript evangelist, Douglas Crockford, on the habits, attitudes and practices of great programmers .",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/04/doug-crockford-image.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/04/yahoos-doug-crockford-on-javascript/",
   "publishedDate": 1335503395,
   "tags": [
-    "JavaScript",
-    "Workflow"
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "How I Work: Yahoo!'s Doug Crockford On JavaScript",
   "url": "https://www.smashingmagazine.com/2012/04/yahoos-doug-crockford-on-javascript/"

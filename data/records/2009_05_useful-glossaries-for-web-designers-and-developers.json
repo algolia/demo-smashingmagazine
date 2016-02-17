@@ -1,18 +1,40 @@
 {
-  "author": "@smashingmag",
+  "author": "Daved Brosche",
+  "authorUrl": "https://www.smashingmagazine.com/author/daved-brosche/",
   "commentCount": 58,
   "description": "In a day in age where there are just as many freelancers as there are university educated designers, developers, and all around web gurus, it is amazing to me how much many of us don’t know or have...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/glossaries.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/05/useful-glossaries-for-web-designers-and-developers/",
   "publishedDate": 1243572731,
   "tags": [
-    "Glossaries",
-    "Marketing",
-    "Photoshop",
-    "SEO",
-    "Typography",
-    "Useful",
-    "Web Design"
+    {
+      "name": "Glossaries",
+      "slug": "glossaries"
+    },
+    {
+      "name": "Marketing",
+      "slug": "marketing"
+    },
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "SEO",
+      "slug": "seo"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    },
+    {
+      "name": "Useful",
+      "slug": "useful"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Useful Glossaries For Web Designers and Developers",
   "url": "https://www.smashingmagazine.com/2009/05/useful-glossaries-for-web-designers-and-developers/"

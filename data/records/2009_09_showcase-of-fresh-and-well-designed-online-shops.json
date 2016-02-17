@@ -1,13 +1,20 @@
 {
-  "author": "@stevensnell",
+  "author": "Steven Snell",
+  "authorUrl": "https://www.smashingmagazine.com/author/stevensnell/",
   "commentCount": 71,
   "description": "E-Commerce websites are often thought of as typically being unattractive or poorly designed. In this post we will feature 35 appealing designs of online shops. Those featured in this post include e...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illuspicebird.gif",
   "objectID": "https://www.smashingmagazine.com/2009/09/showcase-of-fresh-and-well-designed-online-shops/",
   "publishedDate": 1252143285,
   "tags": [
-    "E-Commerce",
-    "Showcases"
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    }
   ],
   "title": "Showcase of Fresh and Well-Designed Online Shops",
   "url": "https://www.smashingmagazine.com/2009/09/showcase-of-fresh-and-well-designed-online-shops/"

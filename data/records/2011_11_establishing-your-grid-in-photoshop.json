@@ -1,13 +1,20 @@
 {
-  "author": "@steveschoeffel",
+  "author": "Steve Schoeffel",
+  "authorUrl": "https://www.smashingmagazine.com/author/steve-schoeffel/",
   "commentCount": 26,
   "description": "Creating a grid is typically one of the very first things you do when starting a design comp. After all, it provides the basic structure on which the rest of your design will lie. In this article, ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/11/smashing-title-slide1.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/11/establishing-your-grid-in-photoshop/",
   "publishedDate": 1320810582,
   "tags": [
-    "Grids",
-    "Photoshop"
+    {
+      "name": "Grids",
+      "slug": "grids"
+    },
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    }
   ],
   "title": "Establishing Your Grid In Photoshop",
   "url": "https://www.smashingmagazine.com/2011/11/establishing-your-grid-in-photoshop/"

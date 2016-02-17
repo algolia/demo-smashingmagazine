@@ -1,14 +1,24 @@
 {
-  "author": "@ryanolson",
+  "author": "Ryan Olson",
+  "authorUrl": "https://www.smashingmagazine.com/author/ryan-olson/",
   "commentCount": 91,
   "description": "This article explains how to develop your WordPress sites using MAMP.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/09/mamp-install.png",
   "objectID": "https://www.smashingmagazine.com/2011/09/developing-wordpress-locally-with-mamp/",
   "publishedDate": 1317185333,
   "tags": [
-    "Admin",
-    "SQL",
-    "Workflow"
+    {
+      "name": "Admin",
+      "slug": "admin"
+    },
+    {
+      "name": "SQL",
+      "slug": "sql"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Developing WordPress Locally With MAMP",
   "url": "https://www.smashingmagazine.com/2011/09/developing-wordpress-locally-with-mamp/"

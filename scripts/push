@@ -15,7 +15,7 @@ slaves = [slave_comment_desc, slave_date_desc]
 settings = {
   attributesToIndex: [
     'title',
-    'unordered(tags)',
+    'unordered(tags.name)',
     'unordered(description)',
     'author'
   ],
@@ -24,7 +24,7 @@ settings = {
     'desc(commentCount)'
   ],
   attributesForFacetting: [
-    'tags'
+    'tags.name'
   ],
   highlightPreTag: '<span class="search-hit--highlight">',
   highlightPostTag: '</span>',

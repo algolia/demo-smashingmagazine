@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Jan Varwig",
+  "authorUrl": "https://www.smashingmagazine.com/author/jan-varwig/",
   "commentCount": 63,
   "description": "If you&#39;re a Web developer who&#39;s been curious about Ruby on Rails but has never gotten around to trying it out because you couldn&#39;t find a suitable overview of its advantages, then this article is f...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ror.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/03/getting-started-with-ruby-on-rails/",
   "publishedDate": 1237484855,
   "tags": [
-    "Ruby on Rails"
+    {
+      "name": "Ruby on Rails",
+      "slug": "ruby-on-rails"
+    }
   ],
   "title": "Getting Started With Ruby On Rails",
   "url": "https://www.smashingmagazine.com/2009/03/getting-started-with-ruby-on-rails/"

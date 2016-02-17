@@ -1,16 +1,32 @@
 {
-  "author": "@cameron_chapman",
+  "author": "Cameron Chapman",
+  "authorUrl": "https://www.smashingmagazine.com/author/cameron-chapman/",
   "commentCount": 3,
   "description": "Web design has evolved at such an extreme rate over the past ten to twenty years that it&#39;s often hard to keep up with current trends and best practices. It wasn&#39;t that long ago that table-based des...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/cartoon-lady-laptop-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/03/best-practices-in-modern-web-design-the-ultimate-round-up/",
   "publishedDate": 1269318604,
   "tags": [
-    "E-Commerce",
-    "Footers",
-    "Time Savers",
-    "Tools",
-    "Web Design"
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    },
+    {
+      "name": "Footers",
+      "slug": "footers"
+    },
+    {
+      "name": "Time Savers",
+      "slug": "time-savers"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Best Practices In Modern Web Design: The Ultimate Round-Up",
   "url": "https://www.smashingmagazine.com/2010/03/best-practices-in-modern-web-design-the-ultimate-round-up/"

@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 109,
   "description": "It was a tough decision to make. Three weeks ago we&#39;ve announced the Smashing Magazine Logo Contest for the most creative, clean and fresh logo for our site. We&#39;ve received over 190 Logos from 105 ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/smashingmaglogoold.jpg",
   "objectID": "https://www.smashingmagazine.com/2007/04/logo-contest-sketches-and-designs/",
   "publishedDate": 1175806208,
   "tags": [
-    "Contests",
-    "Giveaways",
-    "Logo Design"
+    {
+      "name": "Contests",
+      "slug": "contests"
+    },
+    {
+      "name": "Giveaways",
+      "slug": "giveaways"
+    },
+    {
+      "name": "Logo Design",
+      "slug": "logo-design"
+    }
   ],
   "title": "Logo Contest: Sketches and Designs",
   "url": "https://www.smashingmagazine.com/2007/04/logo-contest-sketches-and-designs/"

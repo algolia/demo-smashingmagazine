@@ -1,12 +1,16 @@
 {
-  "author": "@SiobhanPMcKeown",
+  "author": "Siobhan McKeown",
+  "authorUrl": "https://www.smashingmagazine.com/author/siobhan-mckeown/",
   "commentCount": 47,
   "description": "Learn what it takes to become a top WordPress professional by doing what you love in your area of expertise - no development skills required!",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/09/splash3.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/12/become-top-wordpress-professional/",
   "publishedDate": 1354689153,
   "tags": [
-    "Techniques (WP)"
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    }
   ],
   "title": "How to Become a Top WordPress Professional",
   "url": "https://www.smashingmagazine.com/2012/12/become-top-wordpress-professional/"

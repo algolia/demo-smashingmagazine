@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Ivo Weevers",
+  "authorUrl": "https://www.smashingmagazine.com/author/ivo-weevers/",
   "commentCount": 22,
   "description": "A positive first impression is essential to relationships. People look for trust and integrity, and they expect subsequent encounters to reflect and reinforce their first impression. The same princ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/navigation-01.png",
   "objectID": "https://www.smashingmagazine.com/2011/07/seven-guidelines-for-designing-high-performance-mobile-user-experiences/",
   "publishedDate": 1310955701,
   "tags": [
-    "Devices",
-    "User Experience"
+    {
+      "name": "Devices",
+      "slug": "devices"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Seven Guidelines For Designing High-Performance Mobile User Experiences",
   "url": "https://www.smashingmagazine.com/2011/07/seven-guidelines-for-designing-high-performance-mobile-user-experiences/"

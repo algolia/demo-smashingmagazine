@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 146,
   "description": "We, designers, are creative folks. And being creative, we permanently strive for inspiration — innovative approaches, crazy ideas, smashing concepts and, in general, unique designs which can help u...",
   "image": "https://www.smashingmagazine.com/images/blogdesign3/party.png",
   "objectID": "https://www.smashingmagazine.com/2008/02/45-more-excellent-blog-designs/",
   "publishedDate": 1203495644,
   "tags": [
-    "Inspiration",
-    "Layouts",
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Layouts",
+      "slug": "layouts"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "45 More Excellent Blog Designs",
   "url": "https://www.smashingmagazine.com/2008/02/45-more-excellent-blog-designs/"

@@ -1,12 +1,16 @@
 {
-  "author": "@ZackGrossbart",
+  "author": "Zack Grossbart",
+  "authorUrl": "https://www.smashingmagazine.com/author/zack-grossbart/",
   "commentCount": 58,
   "description": "Before drawing anything in a browser, ask yourself three questions: Do you need to support older browsers? Do you need to support Android?",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/poll-results-orange-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/02/web-drawing-throwdown-paper-processing-raphael/",
   "publishedDate": 1329876135,
   "tags": [
-    "JavaScript"
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    }
   ],
   "title": "Web-Drawing Throwdown: Paper.js Vs. Processing.js Vs. Raphael",
   "url": "https://www.smashingmagazine.com/2012/02/web-drawing-throwdown-paper-processing-raphael/"

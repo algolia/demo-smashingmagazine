@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 93,
   "description": "One can discuss whether numerous CSS-galleries challenge our creativity, however they can serve as a quite nice source for inspiration. The galleries of CSS-based designs showcase exemplary design ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2006/12/gal-6.gif",
   "objectID": "https://www.smashingmagazine.com/2006/12/creme-de-la-creme-of-css-list-of-css-galleries/",
   "publishedDate": 1166729047,
   "tags": [
-    "CSS",
-    "Inspiration",
-    "Web Design"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Crème de la crème of CSS: List of CSS Galleries",
   "url": "https://www.smashingmagazine.com/2006/12/creme-de-la-creme-of-css-list-of-css-galleries/"

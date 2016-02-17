@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 117,
   "description": "A couple of weeks ago we published the article Expert Advice for Students and Young Web Designers, in which we presented a group interview with professional designers and developers. We tried to fi...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/presentation-ninja-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/05/women-in-web-design-group-interview/",
   "publishedDate": 1273549199,
   "tags": [
-    "Community",
-    "Interviews",
-    "Opinion Column",
-    "Workflow"
+    {
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "name": "Interviews",
+      "slug": "interviews"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Women In Web Design: Group Interview",
   "url": "https://www.smashingmagazine.com/2010/05/women-in-web-design-group-interview/"

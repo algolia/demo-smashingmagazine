@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 96,
   "description": "This post features free high-quality desktop wallpapers created by artists across the globe for February 2013.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/feb-wallpapers.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/01/desktop-wallpaper-calendars-february-2013/",
   "publishedDate": 1359628094,
   "tags": [
-    "Wallpapers"
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Desktop Wallpaper Calendars: February 2013",
   "url": "https://www.smashingmagazine.com/2013/01/desktop-wallpaper-calendars-february-2013/"

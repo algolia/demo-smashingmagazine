@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Laura Franz",
+  "authorUrl": "https://www.smashingmagazine.com/author/laura-franz/",
   "commentCount": 40,
   "description": "This article looks at two popular approaches to setting weights and styles with the @font-face declaration.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/02/1_organize_text.png",
   "objectID": "https://www.smashingmagazine.com/2013/02/setting-weights-and-styles-at-font-face-declaration/",
   "publishedDate": 1360822481,
   "tags": [
-    "Essentials",
-    "Techniques",
-    "Typography"
+    {
+      "name": "Essentials",
+      "slug": "essentials"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Setting Weights And Styles With The @font-face Declaration",
   "url": "https://www.smashingmagazine.com/2013/02/setting-weights-and-styles-at-font-face-declaration/"

@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 30,
   "description": "Free stuff always comes in handy. We are regularly hunting for free high-quality icons, fonts, wallpapers, plugins and scripts and present them to you, so you don&#39;t need to search for them. As long...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/bear.png",
   "objectID": "https://www.smashingmagazine.com/2008/04/fresh-freebies-typeface-pirates-and-circular-icons/",
   "publishedDate": 1208416502,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Icons",
-    "Typography"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Fresh Freebies: Typeface, Pirates and Circular Icons",
   "url": "https://www.smashingmagazine.com/2008/04/fresh-freebies-typeface-pirates-and-circular-icons/"

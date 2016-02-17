@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Paul Irish & Paul Lewis",
+  "authorUrl": "https://www.smashingmagazine.com/author/paulirishpaullewis/",
   "commentCount": 21,
   "description": "RAIL is a model for breaking down UX into key actions; it provides concrete performance goals and a structure for thinking about performance strategically.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/10/rail-intro.png",
   "objectID": "https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/",
   "publishedDate": 1443771610,
   "tags": [
-    "Performance",
-    "Strategy"
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "Strategy",
+      "slug": "strategy"
+    }
   ],
   "title": "Introducing RAIL: A User-Centric Model For Performance",
   "url": "https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/"

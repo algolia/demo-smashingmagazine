@@ -1,13 +1,20 @@
 {
-  "author": "@AmitDaliot",
+  "author": "Amit Daliot",
+  "authorUrl": "https://www.smashingmagazine.com/author/amitdaliot/",
   "commentCount": 32,
   "description": "Amit Daliot shows us nine functional animations that we embed in a user interface design as part of our process.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/05/animation.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/05/functional-ux-design-animations/",
   "publishedDate": 1431583167,
   "tags": [
-    "Animation",
-    "Usability"
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "Functional Animation In UX Design",
   "url": "https://www.smashingmagazine.com/2015/05/functional-ux-design-animations/"

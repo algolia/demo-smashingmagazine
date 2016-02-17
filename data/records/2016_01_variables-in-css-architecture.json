@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Karen Menezes",
+  "authorUrl": "https://www.smashingmagazine.com/author/karenmenezes/",
   "commentCount": 17,
   "description": "Karen Menezes discusses preprocessor variables and native CSS variables. This article assumes that you are familiar with Sass, LESS, Stylus or PostCSS.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2016/01/preprocessors-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2016/01/variables-in-css-architecture/",
   "publishedDate": 1452613985,
   "tags": [
-    "CSS",
-    "Preprocessors"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Preprocessors",
+      "slug": "preprocessors"
+    }
   ],
   "title": "Variables: The Backbone Of CSS Architecture",
   "url": "https://www.smashingmagazine.com/2016/01/variables-in-css-architecture/"

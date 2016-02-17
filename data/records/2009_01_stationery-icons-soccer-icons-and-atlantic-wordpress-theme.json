@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 51,
   "description": "Last year some of our readers complained about the lack of diversity in the sets we have released in 2008. We&#39;ve heard you, we came up with new ideas and we decided to offer our readers a wide vari...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/bookicon.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/01/stationery-icons-soccer-icons-and-atlantic-wordpress-theme/",
   "publishedDate": 1231140953,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Icons"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Stationery Icons, Soccer Icons And Atlantic WordPress Theme",
   "url": "https://www.smashingmagazine.com/2009/01/stationery-icons-soccer-icons-and-atlantic-wordpress-theme/"

@@ -1,14 +1,24 @@
 {
-  "author": "@shavaughnhaack",
+  "author": "Shavaughn Haack",
+  "authorUrl": "https://www.smashingmagazine.com/author/shavaughn-haack/",
   "commentCount": 26,
   "description": "In this article, Shavaughn Haack analyzes how typography can create experiences for users and establish the personality of the website, looking at around 40 websites with interesting treatments and...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/typo-15.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/08/beautiful-typography-web-design/",
   "publishedDate": 1375777852,
   "tags": [
-    "Fonts",
-    "Typography",
-    "Web Design"
+    {
+      "name": "Fonts",
+      "slug": "fonts"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "A Journey Through Beautiful Typography In Web Design",
   "url": "https://www.smashingmagazine.com/2013/08/beautiful-typography-web-design/"

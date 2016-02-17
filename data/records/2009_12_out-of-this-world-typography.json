@@ -1,14 +1,24 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 45,
   "description": "Here&#39;s a showcase of outer space typography. There is so much that you can do with the outer space, galaxy style.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/out-world-typo.png",
   "objectID": "https://www.smashingmagazine.com/2009/12/out-of-this-world-typography/",
   "publishedDate": 1260396390,
   "tags": [
-    "Design Informer",
-    "Inspiration",
-    "Typography"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Out of This World Typography",
   "url": "https://www.smashingmagazine.com/2009/12/out-of-this-world-typography/"

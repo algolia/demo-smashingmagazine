@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 27,
   "description": "Today we are glad to release Office Mouse Icons Set, a set of 15 unique icons, in .png and in the resolution 128×128px. The icons are designed by Niki Brown, especially for Smashing Magazine and it...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/mouse.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/11/office-mouse-icons-set/",
   "publishedDate": 1226897356,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Icons"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Office Mouse Icons Set",
   "url": "https://www.smashingmagazine.com/2008/11/office-mouse-icons-set/"

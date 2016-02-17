@@ -1,14 +1,24 @@
 {
-  "author": "@boagworld",
+  "author": "Paul Boag",
+  "authorUrl": "https://www.smashingmagazine.com/author/paul-boag/",
   "commentCount": 369,
   "description": "In this article Paul Boag explains why you should not spend money on SEO if you want to be number one on Google.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/12/SEO-2-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/12/seo-the-inconvenient-truth/",
   "publishedDate": 1355226660,
   "tags": [
-    "Business",
-    "Content",
-    "SEO"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "SEO",
+      "slug": "seo"
+    }
   ],
   "title": "The Inconvenient Truth About SEO",
   "url": "https://www.smashingmagazine.com/2012/12/seo-the-inconvenient-truth/"

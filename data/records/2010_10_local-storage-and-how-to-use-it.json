@@ -1,13 +1,20 @@
 {
-  "author": "@codepo8",
+  "author": "Christian Heilmann",
+  "authorUrl": "https://www.smashingmagazine.com/author/christian-heilmann/",
   "commentCount": 38,
   "description": "Storing information locally on a user&#39;s computer is a powerful strategy for a developer who is creating something for the Web. In this article, we&#39;ll look at how easy it is to store information on ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/fireburg2.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/",
   "publishedDate": 1286762342,
   "tags": [
-    "HTML",
-    "HTML5"
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "HTML5",
+      "slug": "html5"
+    }
   ],
   "title": "Local Storage And How To Use It On Websites",
   "url": "https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/"

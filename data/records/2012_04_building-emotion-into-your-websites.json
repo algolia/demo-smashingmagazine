@@ -1,13 +1,20 @@
 {
-  "author": "@SabinaIdler",
+  "author": "Sabina Idler",
+  "authorUrl": "https://www.smashingmagazine.com/author/sabina-idler/",
   "commentCount": 24,
   "description": "Emotional design has become a powerful tool in creating exceptional user experiences for websites. However, emotions did not use to play such an important role on the Web. Actually, they did not us...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/abstract-blueish-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/04/building-emotion-into-your-websites/",
   "publishedDate": 1334197873,
   "tags": [
-    "Content Strategy",
-    "Emotional Design"
+    {
+      "name": "Content Strategy",
+      "slug": "content-strategy"
+    },
+    {
+      "name": "Emotional Design",
+      "slug": "emotional-design"
+    }
   ],
   "title": "Not Just Pretty: Building Emotion Into Your Websites",
   "url": "https://www.smashingmagazine.com/2012/04/building-emotion-into-your-websites/"

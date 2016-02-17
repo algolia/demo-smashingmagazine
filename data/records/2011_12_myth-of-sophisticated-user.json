@@ -1,12 +1,16 @@
 {
-  "author": "@rhjr",
+  "author": "Robert Hoekman Jr",
+  "authorUrl": "https://www.smashingmagazine.com/author/robert-hoekman-jr/",
   "commentCount": 53,
   "description": "When was the last time you had the time and willingness to put up with a poor interface from a company that thought it could get away with it because you’re an experienced user? When was the last t...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/peek-a-boo-illus00.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/12/myth-of-sophisticated-user/",
   "publishedDate": 1325049792,
   "tags": [
-    "User Experience"
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "The Myth Of The Sophisticated User",
   "url": "https://www.smashingmagazine.com/2011/12/myth-of-sophisticated-user/"

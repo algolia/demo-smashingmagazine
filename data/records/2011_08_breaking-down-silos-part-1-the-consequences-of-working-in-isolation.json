@@ -1,15 +1,28 @@
 {
-  "author": "@rianvdm",
+  "author": "Rian van der Merwe",
+  "authorUrl": "https://www.smashingmagazine.com/author/rian-van-der-merwe/",
   "commentCount": 33,
   "description": "If you’ve ever worked at a company of any size, you’ve experienced it. Isolation. Some people love it: the determination that comes from being a lone ranger, boldly going where no one has gone befo...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/08/island.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/08/breaking-down-silos-part-1-the-consequences-of-working-in-isolation/",
   "publishedDate": 1314677183,
   "tags": [
-    "Designers",
-    "Process",
-    "Productivity",
-    "Web Development"
+    {
+      "name": "Designers",
+      "slug": "designers"
+    },
+    {
+      "name": "Process",
+      "slug": "process"
+    },
+    {
+      "name": "Productivity",
+      "slug": "productivity"
+    },
+    {
+      "name": "Web Development",
+      "slug": "web-development"
+    }
   ],
   "title": "Breaking Down Silos, Part 1: The Consequences Of Working In Isolation",
   "url": "https://www.smashingmagazine.com/2011/08/breaking-down-silos-part-1-the-consequences-of-working-in-isolation/"

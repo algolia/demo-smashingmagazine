@@ -1,14 +1,24 @@
 {
-  "author": "@absolutelytrue",
+  "author": "Gerri Elder",
+  "authorUrl": "https://www.smashingmagazine.com/author/gerri-elder/",
   "commentCount": 65,
   "description": "CSS-design is not easy. We need to find workaround across browser inconsistencies, not that easy CSS-concepts and quite counterintuitive CSS-solutions. However, there are effective and useful CSS-t...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/css5.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/06/35-css-lifesavers-for-efficient-web-design/",
   "publishedDate": 1245938374,
   "tags": [
-    "CSS",
-    "Resources",
-    "Tools"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Resources",
+      "slug": "resources"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "35 CSS-Lifesavers For Efficient Web Design",
   "url": "https://www.smashingmagazine.com/2009/06/35-css-lifesavers-for-efficient-web-design/"

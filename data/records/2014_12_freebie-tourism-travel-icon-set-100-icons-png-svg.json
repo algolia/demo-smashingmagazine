@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 20,
   "description": "Everyone loves a good, clean and simple icon set. Today, we’re honored to present to you a set of flat icons that are simple, useful and optimal for apps, websites as well as print. Designed by Fre...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/12/icons-travel-tourism-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/12/freebie-tourism-travel-icon-set-100-icons-png-svg/",
   "publishedDate": 1419343021,
   "tags": [
-    "Freebies"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    }
   ],
   "title": "Freebie: Tourism & Travel Icon Set (100 Icons, PNG, SVG)",
   "url": "https://www.smashingmagazine.com/2014/12/freebie-tourism-travel-icon-set-100-icons-png-svg/"

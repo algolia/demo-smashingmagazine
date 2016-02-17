@@ -1,14 +1,24 @@
 {
-  "author": "@mbarker_84",
+  "author": "Michelle Barker",
+  "authorUrl": "https://www.smashingmagazine.com/author/michellebarker/",
   "commentCount": 31,
   "description": "Michelle Barker shows how to create fast, responsive, fully customizable grids in CSS without touching your markup with Susy, a Sass-based grid framework.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/07/04-susy-grid-opt-small.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/07/smarter-grids-with-sass-and-susy/",
   "publishedDate": 1437396393,
   "tags": [
-    "Grids",
-    "Layouts",
-    "Preprocessors"
+    {
+      "name": "Grids",
+      "slug": "grids"
+    },
+    {
+      "name": "Layouts",
+      "slug": "layouts"
+    },
+    {
+      "name": "Preprocessors",
+      "slug": "preprocessors"
+    }
   ],
   "title": "Smarter Grids With Sass And Susy",
   "url": "https://www.smashingmagazine.com/2015/07/smarter-grids-with-sass-and-susy/"

@@ -1,14 +1,24 @@
 {
-  "author": "@rob_e_bowen",
+  "author": "Robert Bowen",
+  "authorUrl": "https://www.smashingmagazine.com/author/robert-bowen/",
   "commentCount": 39,
   "description": "In a creative field like design, we face an undeniable truth: our wells of inspiration are bound to run dry from time to time. In those periods of imaginative downtime, we seek out sources that can...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/12/inspiration-board-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/11/art-inspiration-for-the-weekend/",
   "publishedDate": 1290910691,
   "tags": [
-    "Art",
-    "Illustrations",
-    "Paintings"
+    {
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "name": "Illustrations",
+      "slug": "illustrations"
+    },
+    {
+      "name": "Paintings",
+      "slug": "paintings"
+    }
   ],
   "title": "Art Inspiration For The Weekend",
   "url": "https://www.smashingmagazine.com/2010/11/art-inspiration-for-the-weekend/"

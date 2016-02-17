@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Tobias Günther",
+  "authorUrl": "https://www.smashingmagazine.com/author/tobias-gunther/",
   "commentCount": 4,
   "description": "In this third and final look at the Git source control system, I will introduce some more advanced concepts and show you some tricks employed by experienced Git users.    As with most things, and a...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/writing-code-illu22.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/08/modern-version-control-with-git-part-3/",
   "publishedDate": 1313100025,
   "tags": [
-    "Git",
-    "Version Control"
+    {
+      "name": "Git",
+      "slug": "git"
+    },
+    {
+      "name": "Version Control",
+      "slug": "version-control"
+    }
   ],
   "title": "Modern Version Control With Git, Part 3",
   "url": "https://www.smashingmagazine.com/2011/08/modern-version-control-with-git-part-3/"

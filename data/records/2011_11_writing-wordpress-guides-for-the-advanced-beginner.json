@@ -1,15 +1,28 @@
 {
-  "author": "@scottmeaney",
+  "author": "Scott Meaney",
+  "authorUrl": "https://www.smashingmagazine.com/author/scott-meaney/",
   "commentCount": 19,
   "description": "This article provides us with tips for sharing code and writing tutorials and guides for the growing number of advanced WordPress beginners.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/11/wp-beginner-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/11/writing-wordpress-guides-for-the-advanced-beginner/",
   "publishedDate": 1320735598,
   "tags": [
-    "Guides",
-    "Plugins",
-    "Themes",
-    "Tutorials"
+    {
+      "name": "Guides",
+      "slug": "guides"
+    },
+    {
+      "name": "Plugins",
+      "slug": "plugins"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "Writing WordPress Guides For The Advanced Beginner",
   "url": "https://www.smashingmagazine.com/2011/11/writing-wordpress-guides-for-the-advanced-beginner/"

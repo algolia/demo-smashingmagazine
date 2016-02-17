@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 51,
   "description": "We all have our favorite client stories, embarrassing design flaws and never-ending user requests which are all just a part of what we, as designers and developers, encounter very often in our dail...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/fleaty-illu88.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/05/smashing-cartoons-may-2011/",
   "publishedDate": 1306286220,
   "tags": [
-    "Cartoons"
+    {
+      "name": "Cartoons",
+      "slug": "cartoons"
+    }
   ],
   "title": "Smashing Cartoons: May 2011",
   "url": "https://www.smashingmagazine.com/2011/05/smashing-cartoons-may-2011/"

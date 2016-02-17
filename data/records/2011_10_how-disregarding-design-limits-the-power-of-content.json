@@ -1,12 +1,16 @@
 {
-  "author": "@chrbutler",
+  "author": "Christopher Butler",
+  "authorUrl": "https://www.smashingmagazine.com/author/christopher-butler/",
   "commentCount": 26,
   "description": "We all need to give serious thought to how design and content interact. Imagery, and especially the subtle interplay of imagery and text, deserve to remain active parts of digital expression.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/type-876.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/10/how-disregarding-design-limits-the-power-of-content/",
   "publishedDate": 1318825391,
   "tags": [
-    "Content"
+    {
+      "name": "Content",
+      "slug": "content"
+    }
   ],
   "title": "How Disregarding Design Limits The Power Of Content",
   "url": "https://www.smashingmagazine.com/2011/10/how-disregarding-design-limits-the-power-of-content/"

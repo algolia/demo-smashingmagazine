@@ -1,12 +1,16 @@
 {
-  "author": "@chriscoyier",
+  "author": "Chris Coyier",
+  "authorUrl": "https://www.smashingmagazine.com/author/chris-coyier/",
   "commentCount": 98,
   "description": "This is our sixth installment of Ask SM, featuring reader questions about Web design focusing on HTML, CSS and JavaScript. These entries are not all questions, but rather quick Twitter responses to...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illucss-editoren.gif",
   "objectID": "https://www.smashingmagazine.com/2009/05/ask-sm-css-quick-question-edition/",
   "publishedDate": 1243208947,
   "tags": [
-    "CSS"
+    {
+      "name": "CSS",
+      "slug": "css"
+    }
   ],
   "title": "Ask SM: CSS Quick-Question Edition",
   "url": "https://www.smashingmagazine.com/2009/05/ask-sm-css-quick-question-edition/"

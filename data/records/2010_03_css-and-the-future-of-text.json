@@ -1,13 +1,20 @@
 {
-  "author": "@yaili",
+  "author": "Inayaili de Leon",
+  "authorUrl": "https://www.smashingmagazine.com/author/inayaili-de-leon/",
   "commentCount": 65,
   "description": "There has been an increasing and sincere interest in typography on the web over the last few years. Most websites rely on text to convey their messages, so it&#39;s not a surprise that text is treated ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/typography4.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/03/css-and-the-future-of-text/",
   "publishedDate": 1267406405,
   "tags": [
-    "CSS",
-    "Typography"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "The Future Of CSS Typography",
   "url": "https://www.smashingmagazine.com/2010/03/css-and-the-future-of-text/"

@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 129,
   "description": "We all love beautiful, usable and impressive web designs. To achieve them, web developers need to focus on many aspects, but basically it all boils down to the question, how well the content is pre...",
   "image": "https://www.smashingmagazine.com/images/beautiful-designs/more-beautiful-designs-01.jpg",
   "objectID": "https://www.smashingmagazine.com/2007/07/inspiration-package-usable-elegant-inspiring-design-showcase/",
   "publishedDate": 1183500841,
   "tags": [
-    "Inspiration",
-    "Showcases"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    }
   ],
   "title": "Inspiration Package: 50 Usable & Elegant Designs",
   "url": "https://www.smashingmagazine.com/2007/07/inspiration-package-usable-elegant-inspiring-design-showcase/"

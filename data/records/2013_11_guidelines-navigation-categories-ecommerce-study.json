@@ -1,14 +1,24 @@
 {
-  "author": "@Baymard",
+  "author": "Christian Holst",
+  "authorUrl": "https://www.smashingmagazine.com/author/christian-holst/",
   "commentCount": 18,
   "description": "Product findability is key to any e-commerce business — after all, if customers can’t find a product, they can’t buy it.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/11/gilt-lack-of-crosssell.png",
   "objectID": "https://www.smashingmagazine.com/2013/11/guidelines-navigation-categories-ecommerce-study/",
   "publishedDate": 1384141820,
   "tags": [
-    "E-Commerce",
-    "Navigation",
-    "Usability"
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    },
+    {
+      "name": "Navigation",
+      "slug": "navigation"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "An E-Commerce Study: Guidelines For Better Navigation And Categories",
   "url": "https://www.smashingmagazine.com/2013/11/guidelines-navigation-categories-ecommerce-study/"

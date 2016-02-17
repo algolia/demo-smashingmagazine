@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 1,
   "description": "We continue to collect most beautiful high quality freefonts, which can be used for both private and professional projects without any restrictions whatsoever. They are hard to find, but the search...",
   "image": "https://www.smashingmagazine.com/images/freefonts/tallys/ta1.gif",
   "objectID": "https://www.smashingmagazine.com/2006/11/tallys-freefont-of-the-week/",
   "publishedDate": 1162398623,
   "tags": [
-    "Downloads",
-    "Free Fonts",
-    "Freebies",
-    "Typography"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Free Fonts",
+      "slug": "free-fonts"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Tallys: Free Font of the week",
   "url": "https://www.smashingmagazine.com/2006/11/tallys-freefont-of-the-week/"

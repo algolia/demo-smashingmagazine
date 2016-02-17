@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 81,
   "description": "Getting creative is part of our job. Whatever project we are working on, at some point we need to come up with some nice starting point — some fresh idea which we could explore further, build upon ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/insp.png",
   "objectID": "https://www.smashingmagazine.com/2008/05/where-do-you-draw-inspiration-from/",
   "publishedDate": 1210494349,
   "tags": [
-    "Inspiration"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "Where Do You Draw Inspiration From?",
   "url": "https://www.smashingmagazine.com/2008/05/where-do-you-draw-inspiration-from/"

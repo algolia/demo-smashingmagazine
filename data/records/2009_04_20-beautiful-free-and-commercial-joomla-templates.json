@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Dusty Anderson",
+  "authorUrl": "https://www.smashingmagazine.com/author/cyrus-patten/",
   "commentCount": 82,
   "description": "Joomla is one of the most powerful, robust and feature-rich content management systems out there. Besides being open-source, Joomla is capable of some really stunning designs through the use of mod...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/joomla.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/04/20-beautiful-free-and-commercial-joomla-templates/",
   "publishedDate": 1239420122,
   "tags": [
-    "CMS",
-    "Joomla",
-    "Resources"
+    {
+      "name": "CMS",
+      "slug": "cms"
+    },
+    {
+      "name": "Joomla",
+      "slug": "joomla"
+    },
+    {
+      "name": "Resources",
+      "slug": "resources"
+    }
   ],
   "title": "35 Beautiful Commercial And Free Joomla Templates",
   "url": "https://www.smashingmagazine.com/2009/04/20-beautiful-free-and-commercial-joomla-templates/"

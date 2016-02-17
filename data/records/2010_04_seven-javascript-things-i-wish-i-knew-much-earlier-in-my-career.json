@@ -1,12 +1,16 @@
 {
-  "author": "@codepo8",
+  "author": "Christian Heilmann",
+  "authorUrl": "https://www.smashingmagazine.com/author/christian-heilmann/",
   "commentCount": 146,
   "description": "I&#39;ve been writing JavaScript code for much longer than I care to remember. I am very excited about the language&#39;s recent success; it&#39;s good to be a part of that success story. I&#39;ve written dozens o...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/javascript-objects.png",
   "objectID": "https://www.smashingmagazine.com/2010/04/seven-javascript-things-i-wish-i-knew-much-earlier-in-my-career/",
   "publishedDate": 1271737318,
   "tags": [
-    "JavaScript"
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    }
   ],
   "title": "Seven JavaScript Things I Wish I Knew Much Earlier In My Career",
   "url": "https://www.smashingmagazine.com/2010/04/seven-javascript-things-i-wish-i-knew-much-earlier-in-my-career/"

@@ -1,14 +1,24 @@
 {
-  "author": "@danredding",
+  "author": "Dan Redding",
+  "authorUrl": "https://www.smashingmagazine.com/author/dan-redding/",
   "commentCount": 39,
   "description": "Here is a look at the visual personality of London, based on visits to the city’s major art museums, attendance at the 2009 London Design Festival, and interviews with artists and designers who cal...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/fractal-art-illu-12.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/11/the-beauty-of-london-in-design/",
   "publishedDate": 1257498239,
   "tags": [
-    "Art",
-    "Inspiration",
-    "Legacy"
+    {
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Legacy",
+      "slug": "legacy"
+    }
   ],
   "title": "The Beauty of London in Design",
   "url": "https://www.smashingmagazine.com/2009/11/the-beauty-of-london-in-design/"

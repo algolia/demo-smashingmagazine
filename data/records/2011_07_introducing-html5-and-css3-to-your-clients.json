@@ -1,15 +1,28 @@
 {
-  "author": "@weallneedheroes",
+  "author": "David Martin",
+  "authorUrl": "https://www.smashingmagazine.com/author/david-martin/",
   "commentCount": 48,
   "description": "Since hearing about HTML5 and CSS3, then later reading Hardboiled Web design by Andy Clarke, I have been working on a presentation to help introduce these development methods to my clients. If all ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/07/browser-comp1.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/07/introducing-html5-and-css3-to-your-clients/",
   "publishedDate": 1311811187,
   "tags": [
-    "CSS",
-    "Clients",
-    "HTML",
-    "HTML5"
+    {
+      "name": "Clients",
+      "slug": "clients"
+    },
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "HTML5",
+      "slug": "html5"
+    }
   ],
   "title": "Dear Clients, The Web Has Changed. It's Time To Use CSS3 and HTML5 Now.",
   "url": "https://www.smashingmagazine.com/2011/07/introducing-html5-and-css3-to-your-clients/"

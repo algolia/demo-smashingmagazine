@@ -1,13 +1,20 @@
 {
-  "author": "@retinart",
+  "author": "Alexander Charchar",
+  "authorUrl": "https://www.smashingmagazine.com/author/alexander-charchar/",
   "commentCount": 5,
   "description": "Interview with type designer Khajag Apelian, who studied at KABK (Royal Academy of Art, the Hague). Having started his career studying under some of the best typographic minds in the world, Khajag ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/type-maajoun-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/04/interview-with-type-designer-khajag-apelian/",
   "publishedDate": 1396603865,
   "tags": [
-    "Inspiration",
-    "Interviews"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Interviews",
+      "slug": "interviews"
+    }
   ],
   "title": "\"Type Design Is Not Only About Drawing Letters\"",
   "url": "https://www.smashingmagazine.com/2014/04/interview-with-type-designer-khajag-apelian/"

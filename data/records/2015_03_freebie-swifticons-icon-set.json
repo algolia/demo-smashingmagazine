@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 4,
   "description": "A good freebie is always good to have. Today, we’re happy to release a quite unique icon set: Swifticons.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/03/swifticons-preview-image-500px-opt.png",
   "objectID": "https://www.smashingmagazine.com/2015/03/freebie-swifticons-icon-set/",
   "publishedDate": 1426694727,
   "tags": [
-    "Freebies"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    }
   ],
   "title": "Freebie: Swifticons Icon Set (92x3 Icons, AI, Sketch, PNG, SVG, EPS, PDF)",
   "url": "https://www.smashingmagazine.com/2015/03/freebie-swifticons-icon-set/"

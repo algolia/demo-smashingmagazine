@@ -1,14 +1,24 @@
 {
-  "author": "@ImpressiveWebs",
+  "author": "Louis Lazaris",
+  "authorUrl": "https://www.smashingmagazine.com/author/louis-lazaris/",
   "commentCount": 36,
   "description": "If you&#39;ve been assigned to design or provide the architecture for a large e-commerce project or other information-heavy website whose success depends on content findability, it is vital that the de...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/search-results.png",
   "objectID": "https://www.smashingmagazine.com/2009/09/search-results-design-best-practices-and-design-patterns/",
   "publishedDate": 1254102481,
   "tags": [
-    "Search",
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Search",
+      "slug": "search"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Search Results Design: Best Practices and Design Patterns",
   "url": "https://www.smashingmagazine.com/2009/09/search-results-design-best-practices-and-design-patterns/"

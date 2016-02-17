@@ -1,13 +1,20 @@
 {
-  "author": "@indigomay",
+  "author": "Julia May",
+  "authorUrl": "https://www.smashingmagazine.com/author/julia-may/",
   "commentCount": 176,
   "description": "Despite its privacy issues, Facebook clearly has a key role in global Internet activity. It has become a kind of universal social network, being used for both personal and business needs. For many ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/fb.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/07/designing-a-facebook-fan-page-showcases-tutorials-resources/",
   "publishedDate": 1278466159,
   "tags": [
-    "Facebook",
-    "Web Design"
+    {
+      "name": "Facebook",
+      "slug": "facebook"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Designing A Facebook Fan Page: Showcases, Tutorials, Resources",
   "url": "https://www.smashingmagazine.com/2010/07/designing-a-facebook-fan-page-showcases-tutorials-resources/"

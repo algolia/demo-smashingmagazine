@@ -1,12 +1,16 @@
 {
-  "author": "@chriscoyier",
+  "author": "Chris Coyier",
+  "authorUrl": "https://www.smashingmagazine.com/author/chris-coyier/",
   "commentCount": 68,
   "description": "We like to experiment with new ideas and concepts. We like to challenge ourselves and provide our readers with new formats. This post is the first in our &quot;Ask Smashing Magazine&quot; series, in which we...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/sitemap.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/01/ask-sm-how-to-create-a-colorful-sitemap-with-jquery/",
   "publishedDate": 1232638078,
   "tags": [
-    "jQuery"
+    {
+      "name": "jQuery",
+      "slug": "jquery"
+    }
   ],
   "title": "Ask SM: How Do I Create A Colorful Sitemap With jQuery?",
   "url": "https://www.smashingmagazine.com/2009/01/ask-sm-how-to-create-a-colorful-sitemap-with-jquery/"

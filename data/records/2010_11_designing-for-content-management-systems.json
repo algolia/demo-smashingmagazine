@@ -1,12 +1,16 @@
 {
-  "author": "@rachelandrew",
+  "author": "Rachel Andrew",
+  "authorUrl": "https://www.smashingmagazine.com/author/rachel-andrew/",
   "commentCount": 56,
   "description": "Designing and indeed front-end development for a website that will have content edited by non-technical users poses some problems over and above those you will encounter when developing a site wher...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/db.png",
   "objectID": "https://www.smashingmagazine.com/2010/11/designing-for-content-management-systems/",
   "publishedDate": 1290399660,
   "tags": [
-    "CMS"
+    {
+      "name": "CMS",
+      "slug": "cms"
+    }
   ],
   "title": "Designing for Content Management Systems",
   "url": "https://www.smashingmagazine.com/2010/11/designing-for-content-management-systems/"

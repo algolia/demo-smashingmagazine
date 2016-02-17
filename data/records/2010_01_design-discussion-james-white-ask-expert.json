@@ -1,14 +1,24 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 54,
   "description": "Design discussion is the theme for this interview. The renowned designer, James White is a graphic designer from Halifax, Nova Scotia, Canada.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/james-white.png",
   "objectID": "https://www.smashingmagazine.com/2010/01/design-discussion-james-white-ask-expert/",
   "publishedDate": 1262578562,
   "tags": [
-    "Design Informer",
-    "Interviews",
-    "Opinion Column"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Interviews",
+      "slug": "interviews"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    }
   ],
   "title": "Ask the Expert - Design Discussion with James White",
   "url": "https://www.smashingmagazine.com/2010/01/design-discussion-james-white-ask-expert/"

@@ -1,16 +1,32 @@
 {
-  "author": "@wwfa",
+  "author": "Brad Cooper",
+  "authorUrl": "https://www.smashingmagazine.com/author/brad-cooper/",
   "commentCount": 348,
   "description": "If you want to &quot;go big&quot; visually with a website, delivering complex interaction and a rich experience across a wide range of browsers, Flash is the only way to go. Right? Nope. Given the widespread...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/flash.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/04/the-gradual-disappearance-of-flash-websites/",
   "publishedDate": 1271026692,
   "tags": [
-    "Flash",
-    "Games",
-    "Performance",
-    "Standards",
-    "Web Design"
+    {
+      "name": "Flash",
+      "slug": "flash"
+    },
+    {
+      "name": "Games",
+      "slug": "games"
+    },
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "Standards",
+      "slug": "standards"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "The Gradual Disappearance Of Flash Websites",
   "url": "https://www.smashingmagazine.com/2010/04/the-gradual-disappearance-of-flash-websites/"

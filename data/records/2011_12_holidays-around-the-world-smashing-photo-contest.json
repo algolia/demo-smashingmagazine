@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 13,
   "description": "2012 is around the corner and the year is coming to an end. We&#39;d like to know how upcoming holidays are celebrated in your city. Just send us a photo of your kind of Christmas or New Year&#39;s Eve and...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/xmas-sweets.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/12/holidays-around-the-world-smashing-photo-contest/",
   "publishedDate": 1323235216,
   "tags": [
-    "Contests",
-    "Giveaways"
+    {
+      "name": "Contests",
+      "slug": "contests"
+    },
+    {
+      "name": "Giveaways",
+      "slug": "giveaways"
+    }
   ],
   "title": "Holidays Around The World: Smashing Photo Contest",
   "url": "https://www.smashingmagazine.com/2011/12/holidays-around-the-world-smashing-photo-contest/"

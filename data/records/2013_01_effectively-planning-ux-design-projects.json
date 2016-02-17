@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Jesmond Allen and James Chudley",
+  "authorUrl": "https://www.smashingmagazine.com/author/jesmond-allen-and-james-chudley/",
   "commentCount": 27,
   "description": "Generating a shared vision for the UX design work. Getting early input from different disciplines such as visual designers and developers.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/01/ux-design-photo.jpeg",
   "objectID": "https://www.smashingmagazine.com/2013/01/effectively-planning-ux-design-projects/",
   "publishedDate": 1359010001,
   "tags": [
-    "Research",
-    "Usability",
-    "User Experience"
+    {
+      "name": "Research",
+      "slug": "research"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Effectively Planning UX Design Projects",
   "url": "https://www.smashingmagazine.com/2013/01/effectively-planning-ux-design-projects/"

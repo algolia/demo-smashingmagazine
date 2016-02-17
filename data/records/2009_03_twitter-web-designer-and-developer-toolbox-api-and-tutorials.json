@@ -1,14 +1,24 @@
 {
-  "author": "@speckyboy",
+  "author": "Paul Andrew",
+  "authorUrl": "https://www.smashingmagazine.com/author/paul-andrew/",
   "commentCount": 113,
   "description": "Twitter appears on innumerable personal and professional websites nowadays, whether it is a simple &quot;Follow me&quot; badge in the header or a display of the author&#39;s latest tweets in the sidebar. No long...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/twitter-bird.png",
   "objectID": "https://www.smashingmagazine.com/2009/03/twitter-web-designer-and-developer-toolbox-api-and-tutorials/",
   "publishedDate": 1235968883,
   "tags": [
-    "Business",
-    "Tools",
-    "Twitter"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Twitter",
+      "slug": "twitter"
+    }
   ],
   "title": "50 Twitter Tools and Tutorials For Designers and Developers",
   "url": "https://www.smashingmagazine.com/2009/03/twitter-web-designer-and-developer-toolbox-api-and-tutorials/"

@@ -1,16 +1,32 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 82,
   "description": "If you can&#39;t live without a nice wallpaper on your desktop you might need to invest many hours in the search for the perfect one - that fits to your resolution and has an appealing theme. The quali...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/selected-wallpapers-for-your-desktop.png",
   "objectID": "https://www.smashingmagazine.com/2007/09/selected-wallpapers-for-your-desktop/",
   "publishedDate": 1190329065,
   "tags": [
-    "Backgrounds",
-    "Downloads",
-    "Freebies",
-    "Galleries",
-    "Wallpapers"
+    {
+      "name": "Backgrounds",
+      "slug": "backgrounds"
+    },
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Galleries",
+      "slug": "galleries"
+    },
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Selected Wallpapers For Your Desktop",
   "url": "https://www.smashingmagazine.com/2007/09/selected-wallpapers-for-your-desktop/"

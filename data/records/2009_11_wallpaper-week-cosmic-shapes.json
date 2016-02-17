@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 9,
   "description": "This wallpaper is a colorful wallpaper called Cosmic Shapes. It was inspired by the work of artist James White. Various resolutions are available.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wallpaper-cosmicshape.png",
   "objectID": "https://www.smashingmagazine.com/2009/11/wallpaper-week-cosmic-shapes/",
   "publishedDate": 1258160757,
   "tags": [
-    "Design Informer",
-    "Wallpapers"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Wallpaper of the Week - Cosmic Shapes",
   "url": "https://www.smashingmagazine.com/2009/11/wallpaper-week-cosmic-shapes/"

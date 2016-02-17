@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 0,
   "description": "By now, you might actually know how it works. The good ol’ Smashing Mysteries: the door that would never open and the rain that would never stop. Well, the Mystery continues! To celebrate the launc...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/da-mystery-riddle.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/03/smashing-mystery-riddle-have-you-figured-it-out-yet/",
   "publishedDate": 1395925237,
   "tags": [
-    "Mystery",
-    "Riddles"
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Riddles",
+      "slug": "riddles"
+    }
   ],
   "title": "Smashing Mystery Riddle: Have You Figured It Out Yet?",
   "url": "https://www.smashingmagazine.com/2014/03/smashing-mystery-riddle-have-you-figured-it-out-yet/"

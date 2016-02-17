@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 214,
   "description": "Desktop wallpapers can serve as an excellent source of inspiration. However, if you use some specific wallpaper for a long period of time, it becomes harder to draw inspiration out of it. That’s wh...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wallpaper-october.png",
   "objectID": "https://www.smashingmagazine.com/2009/09/desktop-wallpaper-calendar-october-2009/",
   "publishedDate": 1254274306,
   "tags": [
-    "Calendars",
-    "Wallpapers"
+    {
+      "name": "Calendars",
+      "slug": "calendars"
+    },
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Desktop Wallpaper Calendar: October 2009",
   "url": "https://www.smashingmagazine.com/2009/09/desktop-wallpaper-calendar-october-2009/"

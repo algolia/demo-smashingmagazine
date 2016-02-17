@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 43,
   "description": "The results of the poster design contest &quot;Redesign The Web&quot; with freely available PDFs of the winners and best submissions.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/redesign-the-web-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/08/poster-design-contest-redesign-the-web-redesign-the-world-best-entries/",
   "publishedDate": 1343853351,
   "tags": [
-    "Contests",
-    "Giveaways"
+    {
+      "name": "Contests",
+      "slug": "contests"
+    },
+    {
+      "name": "Giveaways",
+      "slug": "giveaways"
+    }
   ],
   "title": "Poster Design Contest \"Redesign The Web\": The Best Entries",
   "url": "https://www.smashingmagazine.com/2012/08/poster-design-contest-redesign-the-web-redesign-the-world-best-entries/"

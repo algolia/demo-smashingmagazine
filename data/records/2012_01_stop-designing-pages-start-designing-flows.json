@@ -1,12 +1,16 @@
 {
-  "author": "@morganb",
+  "author": "Morgan Brown",
+  "authorUrl": "https://www.smashingmagazine.com/author/morgan-brown/",
   "commentCount": 55,
   "description": "Design flows that are tied to clear objectives allow us to create a positive user experience and a valuable one for the business we’re working for.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/01/funnel-cover.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/01/stop-designing-pages-start-designing-flows/",
   "publishedDate": 1325658354,
   "tags": [
-    "User Experience"
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Stop Designing Pages And Start Designing Flows",
   "url": "https://www.smashingmagazine.com/2012/01/stop-designing-pages-start-designing-flows/"

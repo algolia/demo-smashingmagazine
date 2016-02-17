@@ -1,13 +1,20 @@
 {
-  "author": "@vpieters",
+  "author": "Veerle Pieters",
+  "authorUrl": "https://www.smashingmagazine.com/author/veerle-pieters/",
   "commentCount": 18,
   "description": "This tutorial teaches you the basic steps to create a water lily In illustrator.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/09/water-lily-final2-1.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/09/create-water-lily-illustrator/",
   "publishedDate": 1378312931,
   "tags": [
-    "Illustrator",
-    "Tutorials"
+    {
+      "name": "Illustrator",
+      "slug": "illustrator"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "How To Create A Water Lily In Illustrator",
   "url": "https://www.smashingmagazine.com/2013/09/create-water-lily-illustrator/"

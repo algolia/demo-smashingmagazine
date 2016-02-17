@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 33,
   "description": "We expand our collection of high-quality freefonts we&#39;ve put together few months ago (and started one year ago). Some of newbies are quite old, however they haven&#39;t been known for a while.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/kontrapunkt.png",
   "objectID": "https://www.smashingmagazine.com/2007/01/7-freefonts-you-shouldnt-have-missed/",
   "publishedDate": 1169167641,
   "tags": [
-    "Downloads",
-    "Free Fonts",
-    "Freebies",
-    "Typography"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Free Fonts",
+      "slug": "free-fonts"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "5 Free Fonts You Shouldn't Have Missed",
   "url": "https://www.smashingmagazine.com/2007/01/7-freefonts-you-shouldnt-have-missed/"

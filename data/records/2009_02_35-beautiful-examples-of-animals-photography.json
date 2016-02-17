@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Tim Mercer",
+  "authorUrl": "https://www.smashingmagazine.com/author/tim-mercer/",
   "commentCount": 127,
   "description": "Animal photography is probably one of the most dangerous types of photography. The outcome totally depends on the skills of photographer and the time when the shot is taken. A photographer who uses...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/reptile.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/02/35-beautiful-examples-of-animals-photography/",
   "publishedDate": 1234704420,
   "tags": [
-    "Photography"
+    {
+      "name": "Photography",
+      "slug": "photography"
+    }
   ],
   "title": "35 Beautiful Examples Of Animals Photography",
   "url": "https://www.smashingmagazine.com/2009/02/35-beautiful-examples-of-animals-photography/"

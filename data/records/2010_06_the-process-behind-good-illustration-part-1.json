@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Natalie Sklobovskaya",
+  "authorUrl": "https://www.smashingmagazine.com/author/natalie-sklobovskaya/",
   "commentCount": 34,
   "description": "I&#39;d like to share tenets behind what I think good illustration is, what I learned about the process and technique behind how to execute it.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/behind-good-illu-1.png",
   "objectID": "https://www.smashingmagazine.com/2010/06/the-process-behind-good-illustration-part-1/",
   "publishedDate": 1276179780,
   "tags": [
-    "Design Informer",
-    "Tutorials",
-    "Workflow"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "The Process Behind Good Illustration (Part 1)",
   "url": "https://www.smashingmagazine.com/2010/06/the-process-behind-good-illustration-part-1/"

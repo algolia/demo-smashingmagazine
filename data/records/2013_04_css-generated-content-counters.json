@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Gabriele Romanato",
+  "authorUrl": "https://www.smashingmagazine.com/author/gabriele-romanato/",
   "commentCount": 25,
   "description": "In this article we&#39;ll discuss some possible uses of CSS generated content.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/08/generated_content_start-image-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/04/css-generated-content-counters/",
   "publishedDate": 1365746437,
   "tags": [
-    "CSS",
-    "JavaScript",
-    "Techniques"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "How To Benefit From CSS Generated Content And Counters",
   "url": "https://www.smashingmagazine.com/2013/04/css-generated-content-counters/"

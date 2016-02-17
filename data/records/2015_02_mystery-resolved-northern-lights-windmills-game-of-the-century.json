@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 14,
   "description": "In our previous Smashing Mystery riddles, we turned our little challenges into creative quests. This time it was an exercise of patience and stubbornness — beyond problem solving, of course.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/02/maze.png",
   "objectID": "https://www.smashingmagazine.com/2015/02/mystery-resolved-northern-lights-windmills-game-of-the-century/",
   "publishedDate": 1422893213,
   "tags": [
-    "Mystery",
-    "Riddles"
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Riddles",
+      "slug": "riddles"
+    }
   ],
   "title": "The Mystery Is Resolved: Northern Lights, Windmills And The Game Of The Century",
   "url": "https://www.smashingmagazine.com/2015/02/mystery-resolved-northern-lights-windmills-game-of-the-century/"

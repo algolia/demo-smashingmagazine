@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 21,
   "description": "A New Mystery, A New Design Challenge — Our previous mysteries required a lot of tinkering and experimentation but, frankly, quite a bit of luck as well. The most important bit was to come up with ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/03/mystery-riddle-3-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/03/the-mystery-is-resolved-a-story-of-invisible-letters-and-shady-characters/",
   "publishedDate": 1396267958,
   "tags": [
-    "Mystery",
-    "Riddles"
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Riddles",
+      "slug": "riddles"
+    }
   ],
   "title": "The Mystery Is Resolved: A Story Of Muffin Crumbs, Shady Characters And Invisible Letters",
   "url": "https://www.smashingmagazine.com/2014/03/the-mystery-is-resolved-a-story-of-invisible-letters-and-shady-characters/"

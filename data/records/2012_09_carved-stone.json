@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Anne Brady",
+  "authorUrl": "https://www.smashingmagazine.com/author/anne-brady/",
   "commentCount": 19,
   "description": "This article offers insight into the creative thought processes in designing typography solutions for a memorial.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/a-a-typeface-illus.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/09/carved-stone/",
   "publishedDate": 1348140818,
   "tags": [
-    "Creativity",
-    "Typography",
-    "Workflow"
+    {
+      "name": "Creativity",
+      "slug": "creativity"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Typography Carved In Stone",
   "url": "https://www.smashingmagazine.com/2012/09/carved-stone/"

@@ -1,13 +1,20 @@
 {
-  "author": "@willhacker",
+  "author": "Will Hacker",
+  "authorUrl": "https://www.smashingmagazine.com/author/will-hacker/",
   "commentCount": 15,
   "description": "Validating a design through user testing is necessary for the success of almost any product. And it’s even more critical in the mobile application space, where context and individual devices play a...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/mobile-illu-metro.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/08/mobile-prototyping-axure-rp/",
   "publishedDate": 1345170013,
   "tags": [
-    "Apps",
-    "Prototyping"
+    {
+      "name": "Apps",
+      "slug": "apps"
+    },
+    {
+      "name": "Prototyping",
+      "slug": "prototyping"
+    }
   ],
   "title": "Mobile Prototyping With Axure RP",
   "url": "https://www.smashingmagazine.com/2012/08/mobile-prototyping-axure-rp/"

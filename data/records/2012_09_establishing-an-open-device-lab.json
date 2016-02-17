@@ -1,14 +1,24 @@
 {
-  "author": "@viljamis",
+  "author": "Viljami Salminen",
+  "authorUrl": "https://www.smashingmagazine.com/author/viljami-salminen/",
   "commentCount": 33,
   "description": "Managing a personal device lab can be quite hard with an ever expanding number of devices. It’s not only expensive, but also bad for our environment.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/09/helsinki-lab-500.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/09/establishing-an-open-device-lab/",
   "publishedDate": 1348441475,
   "tags": [
-    "Community",
-    "Devices",
-    "Product Strategy"
+    {
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "name": "Devices",
+      "slug": "devices"
+    },
+    {
+      "name": "Product Strategy",
+      "slug": "product-strategy"
+    }
   ],
   "title": "Establishing An Open Device Lab",
   "url": "https://www.smashingmagazine.com/2012/09/establishing-an-open-device-lab/"

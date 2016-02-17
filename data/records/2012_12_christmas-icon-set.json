@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 25,
   "description": "A quality Christmas icon set with 10 icons in resolution 256×256px. Free to use in commercial and private projects.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/chrismas-illustration.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/12/christmas-icon-set/",
   "publishedDate": 1355504520,
   "tags": [
-    "Christmas",
-    "Freebies",
-    "Icons"
+    {
+      "name": "Christmas",
+      "slug": "christmas"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Free Christmas Icon Set (10 Quality Icons, 256×256px PNG) | Smashing Magazine",
   "url": "https://www.smashingmagazine.com/2012/12/christmas-icon-set/"

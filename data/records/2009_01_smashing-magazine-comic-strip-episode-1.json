@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 183,
   "description": "A couple of weeks ago we celebrated Cartoons and Comic Strip Art and, to be honest, there was a good reason why we took some time to research on this topic. The truth is that we are pretty tired of...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/cart.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/01/smashing-magazine-comic-strip-episode-1/",
   "publishedDate": 1232097339,
   "tags": [
-    "Comics"
+    {
+      "name": "Comics",
+      "slug": "comics"
+    }
   ],
   "title": "Smashing Magazine Comic Strip: Episode 1",
   "url": "https://www.smashingmagazine.com/2009/01/smashing-magazine-comic-strip-episode-1/"

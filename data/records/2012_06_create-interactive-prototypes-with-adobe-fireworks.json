@@ -1,14 +1,24 @@
 {
-  "author": "@reinegger",
+  "author": "André Reinegger",
+  "authorUrl": "https://www.smashingmagazine.com/author/andre-reinegger/",
   "commentCount": 49,
   "description": "Prototypes are also essential in Web projects. For example, when you plan an online ordering process, you have to be sure that every step is correct and that no critical elements are missing.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/fireworks.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/06/create-interactive-prototypes-with-adobe-fireworks/",
   "publishedDate": 1340594112,
   "tags": [
-    "Fireworks",
-    "Prototyping",
-    "Tutorials"
+    {
+      "name": "Fireworks",
+      "slug": "fireworks"
+    },
+    {
+      "name": "Prototyping",
+      "slug": "prototyping"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "Create Interactive Prototypes With Adobe Fireworks",
   "url": "https://www.smashingmagazine.com/2012/06/create-interactive-prototypes-with-adobe-fireworks/"

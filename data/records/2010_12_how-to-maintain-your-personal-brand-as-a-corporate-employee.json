@@ -1,13 +1,20 @@
 {
-  "author": "@jboogie",
+  "author": "Jeff Gothelf",
+  "authorUrl": "https://www.smashingmagazine.com/author/jeff-gothelf/",
   "commentCount": 56,
   "description": "A strong personal brand is beneficial on many levels. At the core it differentiates the designer, developer, marketer, etc, from the rest of the pack within crowded disciplines. It functions as a s...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/comic-vintage-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/12/how-to-maintain-your-personal-brand-as-a-corporate-employee/",
   "publishedDate": 1293504190,
   "tags": [
-    "Branding",
-    "Business"
+    {
+      "name": "Branding",
+      "slug": "branding"
+    },
+    {
+      "name": "Business",
+      "slug": "business"
+    }
   ],
   "title": "How to Maintain Your Personal Brand as a Corporate Employee",
   "url": "https://www.smashingmagazine.com/2010/12/how-to-maintain-your-personal-brand-as-a-corporate-employee/"

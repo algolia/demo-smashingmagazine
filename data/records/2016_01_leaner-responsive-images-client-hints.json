@@ -1,5 +1,6 @@
 {
-  "author": "@jonarnes",
+  "author": "Jon Arne Sæterås",
+  "authorUrl": "https://www.smashingmagazine.com/author/jon-arne/",
   "commentCount": 24,
   "description": "Responsive images markup can become pretty ugly pretty quickly. Here&#39;s a technique and strategy for leaner responsive images, using Client Hints.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/12/01-BradFrost-Twitter-opt.png",

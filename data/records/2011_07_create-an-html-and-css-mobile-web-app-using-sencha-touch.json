@@ -1,15 +1,28 @@
 {
-  "author": "@rachelandrew",
+  "author": "Rachel Andrew",
+  "authorUrl": "https://www.smashingmagazine.com/author/rachel-andrew/",
   "commentCount": 36,
   "description": "The world of mobile app development is quickly becoming a crowded and complicated space, especially for those outside of the development niche. “Which development platform should I use?” “Do I go n...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/solution_senchaio_mini.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/07/create-an-html-and-css-mobile-web-app-using-sencha-touch/",
   "publishedDate": 1311035269,
   "tags": [
-    "CSS",
-    "CSS3",
-    "Frameworks",
-    "HTML5"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "CSS3",
+      "slug": "css3"
+    },
+    {
+      "name": "Frameworks",
+      "slug": "frameworks"
+    },
+    {
+      "name": "HTML5",
+      "slug": "html5"
+    }
   ],
   "title": "Create An HTML/CSS Mobile Web App Using Sencha Touch",
   "url": "https://www.smashingmagazine.com/2011/07/create-an-html-and-css-mobile-web-app-using-sencha-touch/"

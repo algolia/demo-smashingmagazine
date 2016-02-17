@@ -1,13 +1,20 @@
 {
-  "author": "@afterux",
+  "author": "Igor Fastovski",
+  "authorUrl": "https://www.smashingmagazine.com/author/igorfastovski/",
   "commentCount": 17,
   "description": "Igor Fastovski explains how screen sizes, resolutions and softwares of mobile devices have improved in recent years, which has made typing a fairly large amount of text quite achievable. A number o...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/03/mobile-devices-final-preview.png",
   "objectID": "https://www.smashingmagazine.com/2015/03/continuous-input-in-mobile-devices-pain-or-gain/",
   "publishedDate": 1425987591,
   "tags": [
-    "Design Patterns",
-    "iOS"
+    {
+      "name": "Design Patterns",
+      "slug": "design-patterns"
+    },
+    {
+      "name": "iOS",
+      "slug": "ios"
+    }
   ],
   "title": "Continuous Input In Mobile Devices: Pain Or Gain?",
   "url": "https://www.smashingmagazine.com/2015/03/continuous-input-in-mobile-devices-pain-or-gain/"

@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 7,
   "description": "A little material design toolbox with a few handy icons, goodies, starter kits and and tools to help you get off the ground faster when designing for Android.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/07/material-design-magery-principles.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/07/material-design-icons-templates-tools/",
   "publishedDate": 1436358613,
   "tags": [
-    "Android",
-    "Material Design",
-    "User Experience"
+    {
+      "name": "Android",
+      "slug": "android"
+    },
+    {
+      "name": "Material Design",
+      "slug": "material-design"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Material Design Icons, Goodies And Starter Kits",
   "url": "https://www.smashingmagazine.com/2015/07/material-design-icons-templates-tools/"

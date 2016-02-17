@@ -1,14 +1,24 @@
 {
-  "author": "@danielpataki",
+  "author": "Daniel Pataki",
+  "authorUrl": "https://www.smashingmagazine.com/author/daniel-pataki/",
   "commentCount": 37,
   "description": "Get the most out of your WordPress-powered site with these awesome tips and tricks for testing WordPress themes.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wp-16.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/05/tips-tricks-testing-wordpress-themes/",
   "publishedDate": 1369805600,
   "tags": [
-    "Techniques",
-    "Techniques (WP)",
-    "Themes"
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "Tips And Tricks For Testing WordPress Themes",
   "url": "https://www.smashingmagazine.com/2013/05/tips-tricks-testing-wordpress-themes/"

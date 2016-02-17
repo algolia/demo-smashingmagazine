@@ -1,14 +1,24 @@
 {
-  "author": "@GionKunz",
+  "author": "Gion Kunz",
+  "authorUrl": "https://www.smashingmagazine.com/author/gionkunz/",
   "commentCount": 31,
   "description": "In this article, Gion Kunz explains how to use Chartist to create your own beautiful responsive charts. You’ll learn some key concepts of Chartist, how to easily extend it and also some advanced fe...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/12/custom-styling.png",
   "objectID": "https://www.smashingmagazine.com/2014/12/chartist-js-open-source-library-responsive-charts/",
   "publishedDate": 1418738273,
   "tags": [
-    "JavaScript",
-    "Responsive Web Design",
-    "SVG"
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    },
+    {
+      "name": "SVG",
+      "slug": "svg"
+    }
   ],
   "title": "Chartist.js, An Open-Source Library For Responsive Charts",
   "url": "https://www.smashingmagazine.com/2014/12/chartist-js-open-source-library-responsive-charts/"

@@ -1,16 +1,32 @@
 {
-  "author": "@svetlindenkov",
+  "author": "Svetlin Denkov",
+  "authorUrl": "https://www.smashingmagazine.com/author/svetlin-denkov/",
   "commentCount": 3,
   "description": "Svetlin Denkow shows how to use the iPad app Blueprint to put together clickthrough prototypes, which help to manage client’s expectations.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/09/01-final-prototype-opt-500.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/09/creating-clickthrough-prototypes-with-blueprint/",
   "publishedDate": 1410351012,
   "tags": [
-    "Interaction Design",
-    "Process",
-    "Productivity",
-    "Tools",
-    "User Experience"
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    },
+    {
+      "name": "Process",
+      "slug": "process"
+    },
+    {
+      "name": "Productivity",
+      "slug": "productivity"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Creating Clickthrough Prototypes With Blueprint",
   "url": "https://www.smashingmagazine.com/2014/09/creating-clickthrough-prototypes-with-blueprint/"

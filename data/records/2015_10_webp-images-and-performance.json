@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Adrian James & Matt Shull",
+  "authorUrl": "https://www.smashingmagazine.com/author/adrianjamesmattshull/",
   "commentCount": 36,
   "description": "WebP delivers lossless and lossy compression for images. A guide on how to provide a cross-browser support for WebP today.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/06/02-photo-comparison-2x-opt-small.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/10/webp-images-and-performance/",
   "publishedDate": 1445673613,
   "tags": [
-    "Case Studies",
-    "Images",
-    "Performance",
-    "WebP"
+    {
+      "name": "Case Studies",
+      "slug": "case-studies"
+    },
+    {
+      "name": "Images",
+      "slug": "images"
+    },
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "WebP",
+      "slug": "webp"
+    }
   ],
   "title": "Guide To Using WebP Images Today: A Case Study",
   "url": "https://www.smashingmagazine.com/2015/10/webp-images-and-performance/"

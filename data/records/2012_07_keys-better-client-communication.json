@@ -1,13 +1,20 @@
 {
-  "author": "@jeremymgirard",
+  "author": "Jeremy Girard",
+  "authorUrl": "https://www.smashingmagazine.com/author/jeremy-girard/",
   "commentCount": 31,
   "description": "Poor communication is a surefire way to damage any project or relationship, but when I dug deeper into this particular case, I realized that lack of communication was not the issue...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/clients-puzzle-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/07/keys-better-client-communication/",
   "publishedDate": 1342423880,
   "tags": [
-    "Clients",
-    "Communication"
+    {
+      "name": "Clients",
+      "slug": "clients"
+    },
+    {
+      "name": "Communication",
+      "slug": "communication"
+    }
   ],
   "title": "Keys To Better Communication With Clients",
   "url": "https://www.smashingmagazine.com/2012/07/keys-better-client-communication/"

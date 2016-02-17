@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Karishma",
+  "authorUrl": "https://www.smashingmagazine.com/author/karishma/",
   "commentCount": 116,
   "description": "Inspiration is all around us: you can derive new ideas from people you meet, places you visit and observations you make. Sometimes it is enough just to take a look around and observe the beauty of ...",
   "image": "https://www.smashingmagazine.com/images/spring-inspiration-pictures/stone.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/03/35-high-quality-pics-for-spring-inspiration/",
   "publishedDate": 1237784150,
   "tags": [
-    "Photography",
-    "Pictures"
+    {
+      "name": "Photography",
+      "slug": "photography"
+    },
+    {
+      "name": "Pictures",
+      "slug": "pictures"
+    }
   ],
   "title": "Beautiful Pictures For Spring Inspiration",
   "url": "https://www.smashingmagazine.com/2009/03/35-high-quality-pics-for-spring-inspiration/"

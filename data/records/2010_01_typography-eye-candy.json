@@ -1,14 +1,24 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 41,
   "description": "If you like typography, then this showcase is definitely for you. Here are just some of the designs that were created from Letterhead Fonts.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/typo-eye-candy.png",
   "objectID": "https://www.smashingmagazine.com/2010/01/typography-eye-candy/",
   "publishedDate": 1263822430,
   "tags": [
-    "Design Informer",
-    "Inspiration",
-    "Typography"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Typography Eye Candy",
   "url": "https://www.smashingmagazine.com/2010/01/typography-eye-candy/"

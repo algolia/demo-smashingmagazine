@@ -1,14 +1,24 @@
 {
-  "author": "@jonathankochis",
+  "author": "Jonathan Kochis",
+  "authorUrl": "https://www.smashingmagazine.com/author/jonathan-kochis/",
   "commentCount": 10,
   "description": "In this article, I&#39;ll show you how you can use data and research to build a better mobile Web. I’ll refer to specific mobile research projects I’ve conducted and build a case for audience surveys, ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/job-for-your-product-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/01/use-data-research-to-build-better-mobile-web/",
   "publishedDate": 1389836800,
   "tags": [
-    "Case Studies",
-    "Marketing",
-    "Product Strategy"
+    {
+      "name": "Case Studies",
+      "slug": "case-studies"
+    },
+    {
+      "name": "Marketing",
+      "slug": "marketing"
+    },
+    {
+      "name": "Product Strategy",
+      "slug": "product-strategy"
+    }
   ],
   "title": "How To Use Data And Research To Build A Better Mobile Web",
   "url": "https://www.smashingmagazine.com/2014/01/use-data-research-to-build-better-mobile-web/"

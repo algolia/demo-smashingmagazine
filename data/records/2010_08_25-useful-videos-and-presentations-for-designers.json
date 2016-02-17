@@ -1,13 +1,20 @@
 {
-  "author": "@LogoTalks",
+  "author": "Otba Mushaweh",
+  "authorUrl": "https://www.smashingmagazine.com/author/otba-mushaweh/",
   "commentCount": 42,
   "description": "With the huge number of design-related conferences and events around the world, the Web gives those of us who cannot attend them a great opportunity to listen and benefit from their great and talen...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/sagmeister.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/08/25-useful-videos-and-presentations-for-designers/",
   "publishedDate": 1281775235,
   "tags": [
-    "Videos",
-    "Workflow"
+    {
+      "name": "Videos",
+      "slug": "videos"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "25 Useful Videos and Presentations for Designers",
   "url": "https://www.smashingmagazine.com/2010/08/25-useful-videos-and-presentations-for-designers/"

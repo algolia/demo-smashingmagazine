@@ -1,16 +1,32 @@
 {
-  "author": "@loufranco",
+  "author": "Lou Franco",
+  "authorUrl": "https://www.smashingmagazine.com/author/lou-franco/",
   "commentCount": 3,
   "description": "With iOS 7’s new Dynamics API, views can be influenced by gravity, attached to each other with springs, and bounced up against boundaries and each other.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/03/angry-birds-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/03/ios7-new-dynamic-app-interactions/",
   "publishedDate": 1395030853,
   "tags": [
-    "Apps",
-    "Interaction Design",
-    "Optimization",
-    "Trends",
-    "iOS"
+    {
+      "name": "Apps",
+      "slug": "apps"
+    },
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    },
+    {
+      "name": "iOS",
+      "slug": "ios"
+    },
+    {
+      "name": "Optimization",
+      "slug": "optimization"
+    },
+    {
+      "name": "Trends",
+      "slug": "trends"
+    }
   ],
   "title": "Getting Your App Ready For iOS 7's New Dynamic Interactions",
   "url": "https://www.smashingmagazine.com/2014/03/ios7-new-dynamic-app-interactions/"

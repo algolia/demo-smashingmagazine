@@ -1,14 +1,24 @@
 {
-  "author": "@rob_e_bowen",
+  "author": "Robert Bowen",
+  "authorUrl": "https://www.smashingmagazine.com/author/robert-bowen/",
   "commentCount": 93,
   "description": "Seeing as we are all human (well, presumably whoever is reading this post anyway), we should recognize that mistakes happen. They even have that saying, &quot;To err is human…,&quot; which goes to show that ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/freelance-wheel.png",
   "objectID": "https://www.smashingmagazine.com/2009/11/critical-mistakes-freelancers-make/",
   "publishedDate": 1259410591,
   "tags": [
-    "Business",
-    "Errors",
-    "Workflow"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Errors",
+      "slug": "errors"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Critical Mistakes Freelancers Make",
   "url": "https://www.smashingmagazine.com/2009/11/critical-mistakes-freelancers-make/"

@@ -1,13 +1,20 @@
 {
-  "author": "@jake_bresnehan",
+  "author": "Jake Bresnehan",
+  "authorUrl": "https://www.smashingmagazine.com/author/jake-bresnehan/",
   "commentCount": 35,
   "description": "This article gives valuable tips on how to prepare for an interview as a front-end developer.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/conference.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/01/preparing-front-end-job-interview/",
   "publishedDate": 1357303483,
   "tags": [
-    "Business",
-    "Workflow"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Preparing For A Front-End Job Interview",
   "url": "https://www.smashingmagazine.com/2013/01/preparing-front-end-job-interview/"

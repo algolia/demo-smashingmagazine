@@ -1,15 +1,28 @@
 {
-  "author": "@arcware",
+  "author": "Dave Donaldson",
+  "authorUrl": "https://www.smashingmagazine.com/author/dave-donaldson/",
   "commentCount": 93,
   "description": "Plugins are a major part of why WordPress powers millions of blogs and websites around the world. The ability to extend WordPress to meet just about any need is a powerful motivator for choosing Wo...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/03/blue-wp-plugin-illustration-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/03/ten-things-every-wordpress-plugin-developer-should-know/",
   "publishedDate": 1299558931,
   "tags": [
-    "Essentials",
-    "PHP",
-    "Plugins",
-    "Techniques (WP)"
+    {
+      "name": "Essentials",
+      "slug": "essentials"
+    },
+    {
+      "name": "PHP",
+      "slug": "php"
+    },
+    {
+      "name": "Plugins",
+      "slug": "plugins"
+    },
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    }
   ],
   "title": "Ten Things Every WordPress Plugin Developer Should Know",
   "url": "https://www.smashingmagazine.com/2011/03/ten-things-every-wordpress-plugin-developer-should-know/"

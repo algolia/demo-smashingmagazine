@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 76,
   "description": "CSS and JavaScript are extremely powerful tools for designers and developers. However, sometimes it&#39;s difficult to come up with the one excellent idea that would solve a problem that you are facing...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/css-techniques2.png",
   "objectID": "https://www.smashingmagazine.com/2010/01/45-powerful-css-javascript-techniques/",
   "publishedDate": 1263288912,
   "tags": [
-    "CSS",
-    "JavaScript",
-    "Resources",
-    "Techniques"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Resources",
+      "slug": "resources"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "45 Powerful CSS/JavaScript-Techniques",
   "url": "https://www.smashingmagazine.com/2010/01/45-powerful-css-javascript-techniques/"

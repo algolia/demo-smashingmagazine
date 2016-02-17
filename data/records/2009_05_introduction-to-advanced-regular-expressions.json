@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Karthik Viswanathan",
+  "authorUrl": "https://www.smashingmagazine.com/author/karthik-viswanathan/",
   "commentCount": 48,
   "description": "Regular expressions (or regex) are a powerful way to traverse large strings in order to find information. They rely on underlying patterns in a string’s structure to work their magic. Unfortunately...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/regex.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/05/introduction-to-advanced-regular-expressions/",
   "publishedDate": 1241591942,
   "tags": [
-    "Regular Expressions"
+    {
+      "name": "Regular Expressions",
+      "slug": "regular-expressions"
+    }
   ],
   "title": "Crucial Concepts Behind Advanced Regular Expressions",
   "url": "https://www.smashingmagazine.com/2009/05/introduction-to-advanced-regular-expressions/"

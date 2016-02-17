@@ -1,12 +1,16 @@
 {
-  "author": "@aditgupta",
+  "author": "Adit Gupta",
+  "authorUrl": "https://www.smashingmagazine.com/author/adit-gupta/",
   "commentCount": 73,
   "description": "Information graphics (or infographics) are used to display information in ways that are more creative than plain old text. These days, they surround us in the media, published works, road signs and...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2010/05/worldofprogramming02.png",
   "objectID": "https://www.smashingmagazine.com/2010/06/designing-the-world-of-programming-infographic/",
   "publishedDate": 1275789099,
   "tags": [
-    "Infographics"
+    {
+      "name": "Infographics",
+      "slug": "infographics"
+    }
   ],
   "title": "Designing The \"World Of Programming\" Infographic",
   "url": "https://www.smashingmagazine.com/2010/06/designing-the-world-of-programming-infographic/"

@@ -1,16 +1,32 @@
 {
-  "author": "@silkstreamnet",
+  "author": "Leigh Mason",
+  "authorUrl": "https://www.smashingmagazine.com/author/leigh-mason/",
   "commentCount": 71,
   "description": "If you&#39;re looking to integrate a credit card payment solution onto your website, the following steps are a guide to applying for, enabling and taking payments online. At first glance, the prospect ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/mobile-design-lila-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/04/taking-credit-card-payments-online-whats-involved/",
   "publishedDate": 1302503102,
   "tags": [
-    "Business",
-    "E-Commerce",
-    "Payment",
-    "Security",
-    "Web Design"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    },
+    {
+      "name": "Payment",
+      "slug": "payment"
+    },
+    {
+      "name": "Security",
+      "slug": "security"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Taking Credit Card Payments Online: What’s Involved?",
   "url": "https://www.smashingmagazine.com/2011/04/taking-credit-card-payments-online-whats-involved/"

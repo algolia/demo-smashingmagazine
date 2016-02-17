@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 29,
   "description": "What can be better than simple, useful and handy tools you can use &quot;on the fly&quot; in the development process? Whether you&#39;d like to test font size, generate online-forms, create rollover-navigation, ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illutopstylepro.gif",
   "objectID": "https://www.smashingmagazine.com/2006/09/list-of-css-tools/",
   "publishedDate": 1157167349,
   "tags": [
-    "CSS",
-    "Resources",
-    "Tools"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Resources",
+      "slug": "resources"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "List of CSS Tools",
   "url": "https://www.smashingmagazine.com/2006/09/list-of-css-tools/"

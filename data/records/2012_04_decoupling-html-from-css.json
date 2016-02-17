@@ -1,13 +1,20 @@
 {
-  "author": "@snookca",
+  "author": "Jonathan Snook",
+  "authorUrl": "https://www.smashingmagazine.com/author/jonathan-snook/",
   "commentCount": 63,
   "description": "For years, the Web standards community has talked about the separation of concerns. Separate your CSS from your JavaScript from your HTML. We all do that, right? CSS goes into its own file; JavaScr...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/05/articles-012.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/04/decoupling-html-from-css/",
   "publishedDate": 1334894996,
   "tags": [
-    "CSS",
-    "HTML"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "HTML",
+      "slug": "html"
+    }
   ],
   "title": "Decoupling HTML From CSS",
   "url": "https://www.smashingmagazine.com/2012/04/decoupling-html-from-css/"

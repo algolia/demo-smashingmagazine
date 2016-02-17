@@ -1,15 +1,28 @@
 {
-  "author": "@joshuamauldin",
+  "author": "Joshua Mauldin",
+  "authorUrl": "https://www.smashingmagazine.com/author/joshua-mauldin/",
   "commentCount": 18,
   "description": "In this article, Joshua Mauldin shares iOS Grid System with you, a free extension for Adobe Fireworks which works with all iOS devices as of March 2013.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/abstract-blueish-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/05/ios-grid-system-free-extension-adobe-fireworks/",
   "publishedDate": 1367470990,
   "tags": [
-    "Extensions",
-    "Fireworks",
-    "Freebies",
-    "iOS"
+    {
+      "name": "Extensions",
+      "slug": "extensions"
+    },
+    {
+      "name": "Fireworks",
+      "slug": "fireworks"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "iOS",
+      "slug": "ios"
+    }
   ],
   "title": "iOS Grid System, A Free Extension For Adobe Fireworks",
   "url": "https://www.smashingmagazine.com/2013/05/ios-grid-system-free-extension-adobe-fireworks/"

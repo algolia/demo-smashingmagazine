@@ -1,12 +1,16 @@
 {
-  "author": "@AlexDawsonUK",
+  "author": "Alexander Dawson",
+  "authorUrl": "https://www.smashingmagazine.com/author/alexander-dawson/",
   "commentCount": 32,
   "description": "We invest time, money and effort into understanding our audience, and the movement toward a more socially networked Web has made us realize the power that visitors have over how our designs are eng...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/colors6.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/10/the-user-is-the-anonymous-web-designer/",
   "publishedDate": 1287014170,
   "tags": [
-    "User Experience"
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "The User Is The Anonymous Web Designer",
   "url": "https://www.smashingmagazine.com/2010/10/the-user-is-the-anonymous-web-designer/"

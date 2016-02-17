@@ -1,16 +1,32 @@
 {
-  "author": "@cameron_chapman",
+  "author": "Cameron Chapman",
+  "authorUrl": "https://www.smashingmagazine.com/author/cameron-chapman/",
   "commentCount": 48,
   "description": "It&#39;s nearly impossible to provide an accurate quote to a prospective web design client without first gathering information about what that particular client needs. Some designers do this in either ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/quest.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/11/web-design-questionnaires-project-sheets-and-work-sheets/",
   "publishedDate": 1290749663,
   "tags": [
-    "Checklists",
-    "Clients",
-    "Downloads",
-    "Useful",
-    "Web Design"
+    {
+      "name": "Checklists",
+      "slug": "checklists"
+    },
+    {
+      "name": "Clients",
+      "slug": "clients"
+    },
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Useful",
+      "slug": "useful"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Web Design Questionnaires, Project Sheets and Work Sheets",
   "url": "https://www.smashingmagazine.com/2010/11/web-design-questionnaires-project-sheets-and-work-sheets/"

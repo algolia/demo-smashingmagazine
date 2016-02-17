@@ -1,13 +1,20 @@
 {
-  "author": "@s2imon",
+  "author": "Simon Schmid",
+  "authorUrl": "https://www.smashingmagazine.com/author/simon-schmid/",
   "commentCount": 21,
   "description": "In this article, we will look at some strategies you can follow, as well as some examples found in the wild, plus a few projects in which the consistent use of emotional design results in a great p...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/see-no-monkey.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/07/the-personality-layer/",
   "publishedDate": 1342565842,
   "tags": [
-    "Emotional Design",
-    "Visual Design"
+    {
+      "name": "Emotional Design",
+      "slug": "emotional-design"
+    },
+    {
+      "name": "Visual Design",
+      "slug": "visual-design"
+    }
   ],
   "title": "The Personality Layer",
   "url": "https://www.smashingmagazine.com/2012/07/the-personality-layer/"

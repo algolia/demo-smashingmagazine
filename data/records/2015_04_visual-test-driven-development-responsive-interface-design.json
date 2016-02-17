@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Ivan Shubin",
+  "authorUrl": "https://www.smashingmagazine.com/author/ivanishubin/",
   "commentCount": 16,
   "description": "Ivan Shubin discusses how testing responsive interface designs can be a laborious task. Until now, implementing a stable and maintainable automated solution for cross-browser and cross-device testi...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/04/devices-illu-opt.png",
   "objectID": "https://www.smashingmagazine.com/2015/04/visual-test-driven-development-responsive-interface-design/",
   "publishedDate": 1428404301,
   "tags": [
-    "Interfaces",
-    "Responsive Web Design",
-    "Testing"
+    {
+      "name": "Interfaces",
+      "slug": "interfaces"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    },
+    {
+      "name": "Testing",
+      "slug": "testing"
+    }
   ],
   "title": "Visual Test-Driven Development For Responsive Interface Design",
   "url": "https://www.smashingmagazine.com/2015/04/visual-test-driven-development-responsive-interface-design/"

@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 69,
   "description": "In December we asked few designers to come up with some creative, beautiful, memorable yet usable icon sets. Some designers had a tight schedule and couldn&#39;t get work done in time, but three design...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ded.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/12/smashing-christmas-icon-sets/",
   "publishedDate": 1229486531,
   "tags": [
-    "Christmas",
-    "Freebies",
-    "Icons"
+    {
+      "name": "Christmas",
+      "slug": "christmas"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Smashing Christmas Icon Sets",
   "url": "https://www.smashingmagazine.com/2008/12/smashing-christmas-icon-sets/"

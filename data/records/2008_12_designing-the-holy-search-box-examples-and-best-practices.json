@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "György Fekete",
+  "authorUrl": "https://www.smashingmagazine.com/author/feketeg/",
   "commentCount": 98,
   "description": "On content-heavy websites, the search box is often the most frequently used design element. From a usability point of view, irritated users use the search function as a last option when looking for...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/search-icon.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/12/designing-the-holy-search-box-examples-and-best-practices/",
   "publishedDate": 1228400972,
   "tags": [
-    "Search",
-    "Showcases",
-    "User Interaction",
-    "Web Design"
+    {
+      "name": "Search",
+      "slug": "search"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "User Interaction",
+      "slug": "user-interaction"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Designing The Holy Search Box: Examples And Best Practices",
   "url": "https://www.smashingmagazine.com/2008/12/designing-the-holy-search-box-examples-and-best-practices/"

@@ -1,15 +1,28 @@
 {
-  "author": "@cameron_chapman",
+  "author": "Cameron Chapman",
+  "authorUrl": "https://www.smashingmagazine.com/author/cameron-chapman/",
   "commentCount": 112,
   "description": "There are specialized terms referring to all sorts of aspects of web design. For someone just getting started in web design, or someone looking to have a site designed, all the technical jargon can...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/404.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/05/web-design-industry-jargon-glossary-and-resources/",
   "publishedDate": 1242857672,
   "tags": [
-    "DNS",
-    "Glossaries",
-    "Useful",
-    "Web Design"
+    {
+      "name": "DNS",
+      "slug": "dns"
+    },
+    {
+      "name": "Glossaries",
+      "slug": "glossaries"
+    },
+    {
+      "name": "Useful",
+      "slug": "useful"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Web Design Industry Jargon: Glossary and Resources",
   "url": "https://www.smashingmagazine.com/2009/05/web-design-industry-jargon-glossary-and-resources/"

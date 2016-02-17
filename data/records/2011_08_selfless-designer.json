@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Rick Monro",
+  "authorUrl": "https://www.smashingmagazine.com/author/rick-monro/",
   "commentCount": 19,
   "description": "How do you approach a new client project? What preconceived thoughts and ideas do you have when embarking on a new job?",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/black-art-anthony-hare.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/08/selfless-designer/",
   "publishedDate": 1312970378,
   "tags": [
-    "Creativity",
-    "Design Informer",
-    "Workflow"
+    {
+      "name": "Creativity",
+      "slug": "creativity"
+    },
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "The Selfless Designer",
   "url": "https://www.smashingmagazine.com/2011/08/selfless-designer/"

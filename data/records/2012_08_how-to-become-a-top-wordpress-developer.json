@@ -1,12 +1,16 @@
 {
-  "author": "@sirjonathan",
+  "author": "Jonathan Wold",
+  "authorUrl": "https://www.smashingmagazine.com/author/jonathan-wold/",
   "commentCount": 151,
   "description": "Read Jonathan Wold&#39;s insight on how to become a top wordpress developer who moves far beyond the basics, and pushes the very boundaries...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wordpress-blue-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/08/how-to-become-a-top-wordpress-developer/",
   "publishedDate": 1345691338,
   "tags": [
-    "Techniques (WP)"
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    }
   ],
   "title": "How To Become A Top WordPress Developer",
   "url": "https://www.smashingmagazine.com/2012/08/how-to-become-a-top-wordpress-developer/"

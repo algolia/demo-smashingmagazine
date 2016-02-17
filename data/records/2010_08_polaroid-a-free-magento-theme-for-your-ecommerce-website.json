@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 43,
   "description": "Today we are glad to release a yet another freebie: Polaroid Magento Theme, a professional design skin for the shops powered by the popular open-source ecommerce web application Magento. The theme ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/magento2.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/08/polaroid-a-free-magento-theme-for-your-ecommerce-website/",
   "publishedDate": 1282641522,
   "tags": [
-    "E-Commerce",
-    "Freebies",
-    "Magento"
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Magento",
+      "slug": "magento"
+    }
   ],
   "title": "Polaroid: A Free Magento Theme For Your E-Commerce Website",
   "url": "https://www.smashingmagazine.com/2010/08/polaroid-a-free-magento-theme-for-your-ecommerce-website/"

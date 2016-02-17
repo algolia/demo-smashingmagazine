@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 56,
   "description": "Today we are glad to release Girl Avatars Icon Set, a set with 21 original avatar icons. This set was designed by Navdeep Raj, the designer of On Stage Icon Set, especially for Smashing Magazine an...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/girly.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/11/girl-avatars-free-psd-vector-icon-set/",
   "publishedDate": 1227599928,
   "tags": [
-    "Avatars",
-    "Downloads",
-    "Freebies",
-    "Icons"
+    {
+      "name": "Avatars",
+      "slug": "avatars"
+    },
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Girl Avatars: Free PSD Vector Icon Set",
   "url": "https://www.smashingmagazine.com/2008/11/girl-avatars-free-psd-vector-icon-set/"

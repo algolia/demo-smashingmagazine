@@ -1,15 +1,28 @@
 {
-  "author": "@thesambarnes",
+  "author": "Sam Barnes",
+  "authorUrl": "https://www.smashingmagazine.com/author/sam-barnes/",
   "commentCount": 42,
   "description": "OK, so this is a yet another article about dealing with clients. But let’s face it — it doesn’t matter how well you can design or code; as a freelancer or if you&#39;re running a digital agency, if you...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/project-productivity.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/01/how-to-remain-productive-when-working-with-clients/",
   "publishedDate": 1295851902,
   "tags": [
-    "Business",
-    "Clients",
-    "Communication",
-    "Workflow"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Clients",
+      "slug": "clients"
+    },
+    {
+      "name": "Communication",
+      "slug": "communication"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Guidelines for Successful Communication With Clients",
   "url": "https://www.smashingmagazine.com/2011/01/how-to-remain-productive-when-working-with-clients/"

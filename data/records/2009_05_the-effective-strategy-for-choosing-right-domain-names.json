@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Christopher Johnson",
+  "authorUrl": "https://www.smashingmagazine.com/author/christopher-johnson/",
   "commentCount": 83,
   "description": "Naming is linguistic design, and a good domain name is an important part of the overall design of a website. A name plays a prominent role when people discover, remember, think about, talk about, s...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/domains.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/05/the-effective-strategy-for-choosing-right-domain-names/",
   "publishedDate": 1241236499,
   "tags": [
-    "Business",
-    "Domains",
-    "Web Design"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Domains",
+      "slug": "domains"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "The Effective Strategy For Choosing Right Domain Names",
   "url": "https://www.smashingmagazine.com/2009/05/the-effective-strategy-for-choosing-right-domain-names/"

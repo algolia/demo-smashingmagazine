@@ -1,13 +1,20 @@
 {
-  "author": "@danielpataki",
+  "author": "Daniel Pataki",
+  "authorUrl": "https://www.smashingmagazine.com/author/daniel-pataki/",
   "commentCount": 9,
   "description": "Daniel Pataki shows you how you can extend ACF by adding your own controls to tailor the experience to your needs.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/09/01-map-and-radio-opt-small.png",
   "objectID": "https://www.smashingmagazine.com/2015/09/extending-advanced-custom-fields-with-your-own-controls/",
   "publishedDate": 1441438978,
   "tags": [
-    "Plugins",
-    "Techniques (WP)"
+    {
+      "name": "Plugins",
+      "slug": "plugins"
+    },
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    }
   ],
   "title": "Extending Advanced Custom Fields With Your Own Controls",
   "url": "https://www.smashingmagazine.com/2015/09/extending-advanced-custom-fields-with-your-own-controls/"

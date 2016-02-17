@@ -1,14 +1,24 @@
 {
-  "author": "@beckywhite11",
+  "author": "Becky White",
+  "authorUrl": "https://www.smashingmagazine.com/author/beckywhite/",
   "commentCount": 5,
   "description": "Chances are you’ve seen it: a child glued to a tablet or smartphone, swiping fearlessly with small, sticky fingers. Guidelines on designing apps for kids.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/12/ParticipatoryDesignSmall-opt.png",
   "objectID": "https://www.smashingmagazine.com/2016/01/designing-apps-for-kids-is-not-childs-play/",
   "publishedDate": 1453282155,
   "tags": [
-    "Kids",
-    "Research",
-    "Usability"
+    {
+      "name": "Kids",
+      "slug": "kids"
+    },
+    {
+      "name": "Research",
+      "slug": "research"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "Designing for Kids Is Not Child's Play",
   "url": "https://www.smashingmagazine.com/2016/01/designing-apps-for-kids-is-not-childs-play/"

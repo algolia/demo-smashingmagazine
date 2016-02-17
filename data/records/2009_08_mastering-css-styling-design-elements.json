@@ -1,13 +1,20 @@
 {
-  "author": "@cameron_chapman",
+  "author": "Cameron Chapman",
+  "authorUrl": "https://www.smashingmagazine.com/author/cameron-chapman/",
   "commentCount": 71,
   "description": "CSS is one of the most important building blocks of modern web design. Standards demand the use of CSS for formatting and styling pages, and with good reason. It’s lighter-weight and capable of muc...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/css-borders-illu101.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/08/mastering-css-styling-design-elements/",
   "publishedDate": 1249256918,
   "tags": [
-    "CSS",
-    "Essentials"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Essentials",
+      "slug": "essentials"
+    }
   ],
   "title": "Mastering CSS, Part 1: Styling Design Elements",
   "url": "https://www.smashingmagazine.com/2009/08/mastering-css-styling-design-elements/"

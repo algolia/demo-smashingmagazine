@@ -1,15 +1,28 @@
 {
-  "author": "@cameron_chapman",
+  "author": "Cameron Chapman",
+  "authorUrl": "https://www.smashingmagazine.com/author/cameron-chapman/",
   "commentCount": 24,
   "description": "Image captions are an often-overlooked element of Web design. They’re often thought of more in terms of function than form. As long as they include the proper photo credits or identifying informati...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/image-caption.png",
   "objectID": "https://www.smashingmagazine.com/2008/11/image-caption-design-simply-elegant-or-boldly-graphic/",
   "publishedDate": 1225804923,
   "tags": [
-    "Inspiration",
-    "Showcases",
-    "Techniques",
-    "Web Design"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Image Caption Design: Techniques and Trends",
   "url": "https://www.smashingmagazine.com/2008/11/image-caption-design-simply-elegant-or-boldly-graphic/"

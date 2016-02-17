@@ -1,14 +1,24 @@
 {
-  "author": "@thesambarnes",
+  "author": "Sam Barnes",
+  "authorUrl": "https://www.smashingmagazine.com/author/sam-barnes/",
   "commentCount": 103,
   "description": "When all else fails, you could always tell the client flat out that they’re wrong. This is always a risky move, because clients will react differently. Some will appreciate it, while others will fi...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/clients-hulk.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/12/how-to-explain-to-clients-that-they-are-wrong/",
   "publishedDate": 1260402970,
   "tags": [
-    "Business",
-    "Clients",
-    "Communication"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Clients",
+      "slug": "clients"
+    },
+    {
+      "name": "Communication",
+      "slug": "communication"
+    }
   ],
   "title": "How To Explain To Clients That They Are Wrong",
   "url": "https://www.smashingmagazine.com/2009/12/how-to-explain-to-clients-that-they-are-wrong/"

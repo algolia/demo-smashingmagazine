@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 55,
   "description": "Is there such thing as a talented designer? Or is good design a skill? Or maybe to be a great designer, you need a combination of both.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/design-skill.png",
   "objectID": "https://www.smashingmagazine.com/2011/08/design-talent-design-skill/",
   "publishedDate": 1312511342,
   "tags": [
-    "Design Informer",
-    "Skills"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Skills",
+      "slug": "skills"
+    }
   ],
   "title": "Design Talent or Design Skill?",
   "url": "https://www.smashingmagazine.com/2011/08/design-talent-design-skill/"

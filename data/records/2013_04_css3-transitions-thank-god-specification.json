@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Rodney Rehm",
+  "authorUrl": "https://www.smashingmagazine.com/author/rodney-rehm/",
   "commentCount": 23,
   "description": "This article is packed with a number of helpful specifications, as well as quirks and issues you should be aware of when working with CSS3 transitions.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/logo.png",
   "objectID": "https://www.smashingmagazine.com/2013/04/css3-transitions-thank-god-specification/",
   "publishedDate": 1366930590,
   "tags": [
-    "CSS",
-    "CSS3",
-    "Techniques"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "CSS3",
+      "slug": "css3"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Thank God We Have A Specification!",
   "url": "https://www.smashingmagazine.com/2013/04/css3-transitions-thank-god-specification/"

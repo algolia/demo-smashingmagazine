@@ -1,14 +1,24 @@
 {
-  "author": "@danieldurrans",
+  "author": "Daniel Durrans",
+  "authorUrl": "https://www.smashingmagazine.com/author/daniel-durrans/",
   "commentCount": 38,
   "description": "Compositing is a skill and process that spans the entire spectrum of creative industries. At the high end, compositing boasts its own specialized profession in film and television post production a...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/compositing.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/12/compositing-in-adobe-photoshop-time-saving-tips/",
   "publishedDate": 1292472523,
   "tags": [
-    "Photoshop",
-    "Time Savers",
-    "Tools"
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "Time Savers",
+      "slug": "time-savers"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "Compositing in Adobe Photoshop: Time-Saving Tips",
   "url": "https://www.smashingmagazine.com/2010/12/compositing-in-adobe-photoshop-time-saving-tips/"

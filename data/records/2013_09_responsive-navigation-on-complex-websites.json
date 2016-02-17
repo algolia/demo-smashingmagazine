@@ -1,15 +1,28 @@
 {
-  "author": "@jonrundle",
+  "author": "Jon Rundle",
+  "authorUrl": "https://www.smashingmagazine.com/author/jon-rundle/",
   "commentCount": 50,
   "description": "In this article, Jon Rundle illustrates the techniques involved in implementing responsive navigation on a large website by refering to the examples of two his actual clients.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/09/3-seneca-example_mini.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/09/responsive-navigation-on-complex-websites/",
   "publishedDate": 1378861057,
   "tags": [
-    "CSS",
-    "Navigation",
-    "Responsive Web Design",
-    "Techniques"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Navigation",
+      "slug": "navigation"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Responsive Navigation On Complex Websites",
   "url": "https://www.smashingmagazine.com/2013/09/responsive-navigation-on-complex-websites/"

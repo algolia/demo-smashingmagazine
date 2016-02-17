@@ -1,13 +1,20 @@
 {
-  "author": "@dsparks83",
+  "author": "Dave Sparks",
+  "authorUrl": "https://www.smashingmagazine.com/author/david-sparks/",
   "commentCount": 25,
   "description": "When was the last time you made a decision? A big one. What was the outcome? Was it good, and how did you get to that outcome? Every day we all make plenty of decisions without a thought to how we ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/404.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/06/decision-making-models-in-web-development/",
   "publishedDate": 1277269219,
   "tags": [
-    "Business",
-    "Workflow"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Decision-Making Models In Web Development",
   "url": "https://www.smashingmagazine.com/2010/06/decision-making-models-in-web-development/"

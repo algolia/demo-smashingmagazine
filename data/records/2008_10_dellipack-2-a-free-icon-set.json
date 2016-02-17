@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 47,
   "description": "Today we are glad to release The DelliPack 2! icon set. This second set of &quot;delicious icons&quot; contains 15 icons: a build icon, a home icon, an interact icon, a monitor icon, a pen icon, a phone book...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/delli2.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/10/dellipack-2-a-free-icon-set/",
   "publishedDate": 1222898001,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Icons"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Dellipack 2: A Free Icon Set",
   "url": "https://www.smashingmagazine.com/2008/10/dellipack-2-a-free-icon-set/"

@@ -1,14 +1,24 @@
 {
-  "author": "@Smash_Scribe",
+  "author": "Jan Constantin",
+  "authorUrl": "https://www.smashingmagazine.com/author/jan-constantin/",
   "commentCount": 52,
   "description": "An overview of Web development and design events taking place between September 2013 and February 2014.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/conferences-06.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/08/web-design-conferences-and-events/",
   "publishedDate": 1377259953,
   "tags": [
-    "Community",
-    "Conferences",
-    "Inspiration"
+    {
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "name": "Conferences",
+      "slug": "conferences"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "Upcoming Web Design Events (Sept. 2013 – Feb. 2014)",
   "url": "https://www.smashingmagazine.com/2013/08/web-design-conferences-and-events/"

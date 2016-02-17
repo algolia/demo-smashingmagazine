@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Liraz Margalit",
+  "authorUrl": "https://www.smashingmagazine.com/author/lirazmargalit/",
   "commentCount": 24,
   "description": "What is it about our smartphones that makes them more addictive than tablets? We use different devices in different modes, with different goals in mind.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/09/05-mobile-browsing-opt-small.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/11/why-addicted-smartphones-not-tablets/",
   "publishedDate": 1446665440,
   "tags": [
-    "User Experience"
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Why We're Addicted To Our Smartphones, But Not Our Tablets",
   "url": "https://www.smashingmagazine.com/2015/11/why-addicted-smartphones-not-tablets/"

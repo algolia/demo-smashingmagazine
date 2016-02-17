@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 325,
   "description": "Over the last years we’ve featured a number of designers and developers who released their work for free — among other things we presented high-quality free fonts, free Wordpress themes, free wallp...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/swivels.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/08/notepad-chaos-a-free-wordpress-theme/",
   "publishedDate": 1219231713,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Themes"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "Notepad Chaos: A Free Wordpress Theme",
   "url": "https://www.smashingmagazine.com/2008/08/notepad-chaos-a-free-wordpress-theme/"

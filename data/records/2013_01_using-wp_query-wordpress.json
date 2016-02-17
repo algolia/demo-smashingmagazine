@@ -1,13 +1,20 @@
 {
-  "author": "@danielpataki",
+  "author": "Daniel Pataki",
+  "authorUrl": "https://www.smashingmagazine.com/author/daniel-pataki/",
   "commentCount": 41,
   "description": "Learn how to use WP_Query in your WordPress themes to customize your WP loops exactly as you need them.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wp-13.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/01/using-wp_query-wordpress/",
   "publishedDate": 1358145686,
   "tags": [
-    "Techniques (WP)",
-    "Themes"
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "Using WP_Query in WordPress",
   "url": "https://www.smashingmagazine.com/2013/01/using-wp_query-wordpress/"

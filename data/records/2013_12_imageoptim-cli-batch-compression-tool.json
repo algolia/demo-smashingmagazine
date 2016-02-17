@@ -1,13 +1,20 @@
 {
-  "author": "@fold_left",
+  "author": "Jamie Mason",
+  "authorUrl": "https://www.smashingmagazine.com/author/jamie-mason/",
   "commentCount": 58,
   "description": "Meet ImageOptim-CLI, a batch image optimizer which automates the process of optimizing images with ImageAlpha, JPEGmini and ImageOptim.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/imageopt-cli-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/12/imageoptim-cli-batch-compression-tool/",
   "publishedDate": 1387297358,
   "tags": [
-    "Freebies",
-    "Workflow"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "How Optimized Are Your Images? Meet ImageOptim-CLI, a Batch Compression Tool",
   "url": "https://www.smashingmagazine.com/2013/12/imageoptim-cli-batch-compression-tool/"

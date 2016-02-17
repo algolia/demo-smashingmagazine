@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 78,
   "description": "In many situations web designers should avoid Flash and prefer usual text-based presentation. For instance, in most tasks related to pure text presentation Flash is neither necessary nor user-frien...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/flash-gallery.png",
   "objectID": "https://www.smashingmagazine.com/2007/10/flash-based-galleries-for-your-images/",
   "publishedDate": 1192219171,
   "tags": [
-    "Flash",
-    "Galleries",
-    "Resources",
-    "Tools"
+    {
+      "name": "Flash",
+      "slug": "flash"
+    },
+    {
+      "name": "Galleries",
+      "slug": "galleries"
+    },
+    {
+      "name": "Resources",
+      "slug": "resources"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "Flash-Based Galleries For Your Images",
   "url": "https://www.smashingmagazine.com/2007/10/flash-based-galleries-for-your-images/"

@@ -1,15 +1,28 @@
 {
-  "author": "@justinmifsud",
+  "author": "Justin Mifsud",
+  "authorUrl": "https://www.smashingmagazine.com/author/justin-mifsud/",
   "commentCount": 74,
   "description": "In this article, we’ll provide practical guidelines that you can easily follow. These guidelines have been crafted from usability testing, field testing, website tracking, eye tracking, Web analyti...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/11/member-sign-in.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/",
   "publishedDate": 1320728886,
   "tags": [
-    "Forms",
-    "Interfaces",
-    "Usability",
-    "User Experience"
+    {
+      "name": "Forms",
+      "slug": "forms"
+    },
+    {
+      "name": "Interfaces",
+      "slug": "interfaces"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "An Extensive Guide To Web Form Usability",
   "url": "https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/"

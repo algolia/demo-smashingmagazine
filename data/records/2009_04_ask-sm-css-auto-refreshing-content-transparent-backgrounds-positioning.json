@@ -1,12 +1,16 @@
 {
-  "author": "@chriscoyier",
+  "author": "Chris Coyier",
+  "authorUrl": "https://www.smashingmagazine.com/author/chris-coyier/",
   "commentCount": 37,
   "description": "This is our fifth installment of Ask SM, featuring reader questions about Web design, focusing on HTML, CSS and JavaScript. In this post we’ll cover how you can style only the text inputs, refreshi...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/css-problem.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/04/ask-sm-css-auto-refreshing-content-transparent-backgrounds-positioning/",
   "publishedDate": 1239944502,
   "tags": [
-    "CSS"
+    {
+      "name": "CSS",
+      "slug": "css"
+    }
   ],
   "title": "[Ask SM] Transparent Background, Positioning Problem",
   "url": "https://www.smashingmagazine.com/2009/04/ask-sm-css-auto-refreshing-content-transparent-backgrounds-positioning/"

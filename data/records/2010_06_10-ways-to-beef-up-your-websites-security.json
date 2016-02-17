@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Blue Derkin",
+  "authorUrl": "https://www.smashingmagazine.com/author/blue-derkin/",
   "commentCount": 34,
   "description": "Here are 10 effective ways to thwart the best efforts of hackers and improve the level of security on your website.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/03/wordpress-security-opt.png",
   "objectID": "https://www.smashingmagazine.com/2010/06/10-ways-to-beef-up-your-websites-security/",
   "publishedDate": 1276612819,
   "tags": [
-    "Security",
-    "Workflow"
+    {
+      "name": "Security",
+      "slug": "security"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "10 Ways To Beef Up Your Website's Security",
   "url": "https://www.smashingmagazine.com/2010/06/10-ways-to-beef-up-your-websites-security/"

@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 0,
   "description": "Yep, one of those mystery riddles again? To celebrate the launch of SmashingConf NYC, we’ve prepared yet another riddle, and this time it will be a matter of patience and following clues. As usual,...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2016/01/level1-broadway-really-never-sleeps.gif",
   "objectID": "https://www.smashingmagazine.com/2016/01/new-smashing-mystery-riddle-figured-out-yet/",
   "publishedDate": 1453820437,
   "tags": [
-    "Mystery",
-    "Riddles"
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Riddles",
+      "slug": "riddles"
+    }
   ],
   "title": "The New Smashing Mystery Riddle: Have You Figured It Out Yet?",
   "url": "https://www.smashingmagazine.com/2016/01/new-smashing-mystery-riddle-figured-out-yet/"

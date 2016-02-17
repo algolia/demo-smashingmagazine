@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 111,
   "description": "According to classic principles of web design, everything at the bottom of the page isn&#39;t that important. Most users think like that. And most designers are convinced that this is true. Site elemen...",
   "image": "https://www.smashingmagazine.com/images/footer2/cssb.png",
   "objectID": "https://www.smashingmagazine.com/2008/04/footers-in-modern-web-design-creative-examples-and-ideas/",
   "publishedDate": 1207669585,
   "tags": [
-    "Footers",
-    "Ideas",
-    "Navigation",
-    "Web Design"
+    {
+      "name": "Footers",
+      "slug": "footers"
+    },
+    {
+      "name": "Ideas",
+      "slug": "ideas"
+    },
+    {
+      "name": "Navigation",
+      "slug": "navigation"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Footers In Modern Web Design: Creative Examples and Ideas",
   "url": "https://www.smashingmagazine.com/2008/04/footers-in-modern-web-design-creative-examples-and-ideas/"

@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 71,
   "description": "It’s that time of the year again: We’ve started working on the Smashing Book #4! The book will be as ambitious as it is beautiful — a unique, extraordinary artefact, filled with valuable insight fo...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/11/smashing-book-4-hardcover-v3-760px-copy.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/04/smashing-book-4-preorder/",
   "publishedDate": 1366715411,
   "tags": [
-    "Smashing Books"
+    {
+      "name": "Smashing Books",
+      "slug": "smashing-books"
+    }
   ],
   "title": "Pre-Order Your Smashing Book #4: New Perspectives On Web Design",
   "url": "https://www.smashingmagazine.com/2013/04/smashing-book-4-preorder/"

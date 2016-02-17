@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 14,
   "description": "Smashing Magazine is known for lengthy, comprehensive articles. But what about something different for a change? What about shorter, concise pieces with useful tips that you could easily read over ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2016/02/breaking-it-down-to-the-bits-opt.png",
   "objectID": "https://www.smashingmagazine.com/2016/02/breaking-it-down-to-the-bits-how-the-internet-dns-and-https-work/",
   "publishedDate": 1454596042,
   "tags": [
-    "DNS",
-    "HTTPS",
-    "Performance",
-    "Quick Tips"
+    {
+      "name": "DNS",
+      "slug": "dns"
+    },
+    {
+      "name": "HTTPS",
+      "slug": "https"
+    },
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "Quick Tips",
+      "slug": "quick-tips"
+    }
   ],
   "title": "Breaking It Down To The Bits: How The Internet, DNS, And HTTPS Work",
   "url": "https://www.smashingmagazine.com/2016/02/breaking-it-down-to-the-bits-how-the-internet-dns-and-https-work/"

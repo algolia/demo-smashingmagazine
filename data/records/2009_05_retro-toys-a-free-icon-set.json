@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 43,
   "description": "Today we are glad to release &quot;Toys&quot;, a retro icon set that was designed by Helen Gkizi and released with Smashing Magazine for its readers. The set contains 9 &quot;toys&quot; icons (png, 128×128px) that may...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/retro-toys.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/05/retro-toys-a-free-icon-set/",
   "publishedDate": 1241947067,
   "tags": [
-    "Freebies",
-    "Icons",
-    "Retro"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    },
+    {
+      "name": "Retro",
+      "slug": "retro"
+    }
   ],
   "title": "Retro Toys: A Free Icon Set",
   "url": "https://www.smashingmagazine.com/2009/05/retro-toys-a-free-icon-set/"

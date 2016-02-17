@@ -1,14 +1,24 @@
 {
-  "author": "@sixrevisions",
+  "author": "Jacob Gube",
+  "authorUrl": "https://www.smashingmagazine.com/author/jacob-gube/",
   "commentCount": 48,
   "description": "JavaScript is a powerful client-side scripting language used in many modern websites and Web applications. In the hands of a skilled Web developer, JavaScript can enhance the user&#39;s experience of t...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/roller.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/02/50-extremely-useful-javascript-tools/",
   "publishedDate": 1234114163,
   "tags": [
-    "JavaScript",
-    "Resources",
-    "Tools"
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Resources",
+      "slug": "resources"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "50 Useful JavaScript Tools",
   "url": "https://www.smashingmagazine.com/2009/02/50-extremely-useful-javascript-tools/"

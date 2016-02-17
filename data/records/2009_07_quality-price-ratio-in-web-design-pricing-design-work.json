@@ -1,13 +1,20 @@
 {
-  "author": "@erskingardner",
+  "author": "Jeff Gardner",
+  "authorUrl": "https://www.smashingmagazine.com/author/jeff-gardner/",
   "commentCount": 152,
   "description": "I’m about to make a bold statement. The quality of a design and the monetary cost of producing or procuring that design have absolutely no relationship whatsoever. It’s a bitter pill to swallow, I ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/pricing2.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/07/quality-price-ratio-in-web-design-pricing-design-work/",
   "publishedDate": 1247542604,
   "tags": [
-    "Business",
-    "Pricing"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Pricing",
+      "slug": "pricing"
+    }
   ],
   "title": "Quality-Price-Ratio in Web Design (Pricing Design Work)",
   "url": "https://www.smashingmagazine.com/2009/07/quality-price-ratio-in-web-design-pricing-design-work/"

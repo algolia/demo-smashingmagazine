@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 96,
   "description": "Here are 20 stunning illustrations of US Soldiers. Let us spend a moment to think about all those families who have just lost a loved one.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/soldiers/1-soldier.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/11/20-stunning-illustrations-us-soldiers/",
   "publishedDate": 1257521461,
   "tags": [
-    "Design Informer",
-    "Inspiration"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "20 Stunning Illustrations of US Soldiers",
   "url": "https://www.smashingmagazine.com/2009/11/20-stunning-illustrations-us-soldiers/"

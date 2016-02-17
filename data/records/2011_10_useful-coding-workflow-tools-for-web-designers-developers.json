@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 55,
   "description": "There are so many excellent tools out there which deserve attention of the community, yet unfortunately remain obscure way too often.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/cola-red-illu101.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/10/useful-coding-workflow-tools-for-web-designers-developers/",
   "publishedDate": 1319779803,
   "tags": [
-    "Tools",
-    "Useful"
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Useful",
+      "slug": "useful"
+    }
   ],
   "title": "Useful Coding Tools and JavaScript Libraries For Web Developers",
   "url": "https://www.smashingmagazine.com/2011/10/useful-coding-workflow-tools-for-web-designers-developers/"

@@ -1,13 +1,20 @@
 {
-  "author": "@_davidtucker_",
+  "author": "David Tucker",
+  "authorUrl": "https://www.smashingmagazine.com/author/davidtucker/",
   "commentCount": 19,
   "description": "David Tucker talks about the process of evaluating MBaaS providers, the core functionalities and the downsides of leveraging this type of solution.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/11/project-occupied-opt-small.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/12/understanding-mobile-back-end-as-a-service/",
   "publishedDate": 1418651578,
   "tags": [
-    "Apps",
-    "Web Development"
+    {
+      "name": "Apps",
+      "slug": "apps"
+    },
+    {
+      "name": "Web Development",
+      "slug": "web-development"
+    }
   ],
   "title": "Understanding Mobile Back End As A Service",
   "url": "https://www.smashingmagazine.com/2014/12/understanding-mobile-back-end-as-a-service/"

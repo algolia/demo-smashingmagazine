@@ -1,15 +1,28 @@
 {
-  "author": "@CompositeC1",
+  "author": "Marcus Wendt",
+  "authorUrl": "https://www.smashingmagazine.com/author/marcus-wendt/",
   "commentCount": 11,
   "description": "In this first article in our two-part series, we’ll look at an HTML5 app that runs natively on Windows 8.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/windowsapp.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/09/online-magazine-app-for-windows-8-part1-html5-app/",
   "publishedDate": 1379549939,
   "tags": [
-    "Apps",
-    "HTML5",
-    "Techniques",
-    "Windows"
+    {
+      "name": "Apps",
+      "slug": "apps"
+    },
+    {
+      "name": "HTML5",
+      "slug": "html5"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Windows",
+      "slug": "windows"
+    }
   ],
   "title": "A Magazine App For Windows 8 using HTML5, Part 1: The App",
   "url": "https://www.smashingmagazine.com/2013/09/online-magazine-app-for-windows-8-part1-html5-app/"

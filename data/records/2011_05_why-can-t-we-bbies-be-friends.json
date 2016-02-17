@@ -1,14 +1,24 @@
 {
-  "author": "@Webcopyplus",
+  "author": "Rick Sloboda",
+  "authorUrl": "https://www.smashingmagazine.com/author/rick-sloboda/",
   "commentCount": 17,
   "description": "These are widespread stereotypes, chiefly shaped within the industry. But what’s the true culprit that hinders teamwork in the industry?",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/grunge-brushes-red-illus.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/05/why-can-t-we-bbies-be-friends/",
   "publishedDate": 1305879594,
   "tags": [
-    "Content",
-    "Creativity",
-    "Design Informer"
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "Creativity",
+      "slug": "creativity"
+    },
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    }
   ],
   "title": "Why Can’t We(bbies) Be Friends?",
   "url": "https://www.smashingmagazine.com/2011/05/why-can-t-we-bbies-be-friends/"

@@ -1,14 +1,24 @@
 {
-  "author": "@TrentWalton",
+  "author": "Trent Walton",
+  "authorUrl": "https://www.smashingmagazine.com/author/trent-walton/",
   "commentCount": 75,
   "description": "As a web community, we’ve made a lot of exciting progress in regards to CSS3. We’ve put properties like text-shadow &amp; border-radius to good use while stepping into background-clip and visual effect...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/css-25.png",
   "objectID": "https://www.smashingmagazine.com/2010/05/css-three-connecting-the-dots/",
   "publishedDate": 1274919501,
   "tags": [
-    "CSS",
-    "CSS3",
-    "Techniques"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "CSS3",
+      "slug": "css3"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Connecting The Dots With CSS3",
   "url": "https://www.smashingmagazine.com/2010/05/css-three-connecting-the-dots/"

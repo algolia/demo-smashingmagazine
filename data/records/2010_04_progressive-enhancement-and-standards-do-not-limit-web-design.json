@@ -1,14 +1,24 @@
 {
-  "author": "@codepo8",
+  "author": "Christian Heilmann",
+  "authorUrl": "https://www.smashingmagazine.com/author/christian-heilmann/",
   "commentCount": 0,
   "description": "Lately I have been getting bored and annoyed with people getting up in arms against Web standards and the ideas of progressive enhancement, claiming that they hold us back from creating a rich, bea...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/process.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/04/progressive-enhancement-and-standards-do-not-limit-web-design/",
   "publishedDate": 1270656935,
   "tags": [
-    "Opinion Column",
-    "Process",
-    "Web Design"
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    },
+    {
+      "name": "Process",
+      "slug": "process"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Progressive Enhancement And Standards Do Not Limit Web Design",
   "url": "https://www.smashingmagazine.com/2010/04/progressive-enhancement-and-standards-do-not-limit-web-design/"

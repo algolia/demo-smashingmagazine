@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 20,
   "description": "Exactly 9 years ago we published the very first article on this very website. Many things changed since then, but one thing remained the same: our obsession for publishing valuable, practical quali...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/09/smashing-9th-birthday-bundle-500.png",
   "objectID": "https://www.smashingmagazine.com/2015/09/its-the-smashing-birthday-party-and-you-are-invited-with-goodies/",
   "publishedDate": 1441717253,
   "tags": [
-    "Smashing Books"
+    {
+      "name": "Smashing Books",
+      "slug": "smashing-books"
+    }
   ],
   "title": "It's The Smashing Birthday Party, And You Are Invited (With Goodies!)",
   "url": "https://www.smashingmagazine.com/2015/09/its-the-smashing-birthday-party-and-you-are-invited-with-goodies/"

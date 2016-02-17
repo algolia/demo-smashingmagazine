@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 330,
   "description": "Israel is a young country with an old heart. It has been quickly built up over the last 60 years as an independent democratic Jewish state and is shockingly cutting edge for a country so new.  It i...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/israel.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/02/shalom-showcase-of-web-design-in-israel/",
   "publishedDate": 1266900790,
   "tags": [
-    "Global Web Design",
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Global Web Design",
+      "slug": "global-web-design"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Shalom! Showcase Of Web Design In Israel",
   "url": "https://www.smashingmagazine.com/2010/02/shalom-showcase-of-web-design-in-israel/"

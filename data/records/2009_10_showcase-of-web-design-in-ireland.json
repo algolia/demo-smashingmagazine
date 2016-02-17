@@ -1,15 +1,28 @@
 {
-  "author": "@leemunroe",
+  "author": "Lee Munroe",
+  "authorUrl": "https://www.smashingmagazine.com/author/lee-munroe/",
   "commentCount": 83,
   "description": "Ireland. The land of the leprechauns, green fields and Guinness. But what about the web industry in Ireland? There have been a host of interesting things happening both North and South of Ireland r...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/plaid-attern-photoshop.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/10/showcase-of-web-design-in-ireland/",
   "publishedDate": 1256277746,
   "tags": [
-    "Global Web Design",
-    "Inspiration",
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Global Web Design",
+      "slug": "global-web-design"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Showcase of Web Design in Ireland",
   "url": "https://www.smashingmagazine.com/2009/10/showcase-of-web-design-in-ireland/"

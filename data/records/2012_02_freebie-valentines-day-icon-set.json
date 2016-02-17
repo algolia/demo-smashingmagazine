@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 28,
   "description": "It is our pleasure to present to you Cuberto‘s fantastic St. Valentine’s free icon set  —  exclusively designed for Smashing Magazine and its loyal readers.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/valentine-illu-icon.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/02/freebie-valentines-day-icon-set/",
   "publishedDate": 1328197112,
   "tags": [
-    "Freebies",
-    "Icons",
-    "PSD"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    },
+    {
+      "name": "PSD",
+      "slug": "psd"
+    }
   ],
   "title": "Freebie: St. Valentine's Day Icon Set (10 PNG/PSD Icons)",
   "url": "https://www.smashingmagazine.com/2012/02/freebie-valentines-day-icon-set/"

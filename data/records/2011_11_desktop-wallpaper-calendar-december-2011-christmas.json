@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 148,
   "description": "Free exclusively designed desktop wallpapers for December 2011, including Christmas wallpapers. Calendar versions are available, too.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/december-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/11/desktop-wallpaper-calendar-december-2011-christmas/",
   "publishedDate": 1322627599,
   "tags": [
-    "Christmas",
-    "Wallpapers"
+    {
+      "name": "Christmas",
+      "slug": "christmas"
+    },
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Desktop Wallpapers: Christmas Edition (December 2011)",
   "url": "https://www.smashingmagazine.com/2011/11/desktop-wallpaper-calendar-december-2011-christmas/"

@@ -1,14 +1,24 @@
 {
-  "author": "@MrBrezina",
+  "author": "David Březina",
+  "authorUrl": "https://www.smashingmagazine.com/author/david-brezina/",
   "commentCount": 16,
   "description": "This article gives you a condensed recipe on how to approach typefaces critically.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/typo-5.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/02/a-critical-approach-to-typefaces/",
   "publishedDate": 1360670653,
   "tags": [
-    "Fonts",
-    "Typography",
-    "Web Design"
+    {
+      "name": "Fonts",
+      "slug": "fonts"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "A Critical Approach To Typefaces",
   "url": "https://www.smashingmagazine.com/2013/02/a-critical-approach-to-typefaces/"

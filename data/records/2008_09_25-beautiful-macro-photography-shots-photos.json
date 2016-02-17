@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Tim Mercer",
+  "authorUrl": "https://www.smashingmagazine.com/author/tim-mercer/",
   "commentCount": 189,
   "description": "Macro photography is the art of taking close-up pictures that reveal details which can&#39;t be seen with the naked eye. For example, while we can see the fly on the wall, our eyes aren&#39;t equipped to m...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/macro.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/09/25-beautiful-macro-photography-shots-photos/",
   "publishedDate": 1221999908,
   "tags": [
-    "Photography"
+    {
+      "name": "Photography",
+      "slug": "photography"
+    }
   ],
   "title": "25 Beautiful Macro Photography Shots",
   "url": "https://www.smashingmagazine.com/2008/09/25-beautiful-macro-photography-shots-photos/"

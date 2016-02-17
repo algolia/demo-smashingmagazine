@@ -1,13 +1,20 @@
 {
-  "author": "@firt",
+  "author": "Maximiliano Firtman",
+  "authorUrl": "https://www.smashingmagazine.com/author/maximilliano-firtman/",
   "commentCount": 12,
   "description": "An article on jQuery Mobile architecture. Learn how to create a jQuery Mobile app and how to extend it with advanced features.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/jquery-mobile.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/03/getting-started-jquery-mobile/",
   "publishedDate": 1364708186,
   "tags": [
-    "Frameworks",
-    "jQuery"
+    {
+      "name": "Frameworks",
+      "slug": "frameworks"
+    },
+    {
+      "name": "jQuery",
+      "slug": "jquery"
+    }
   ],
   "title": "Getting Started With jQuery Mobile ",
   "url": "https://www.smashingmagazine.com/2013/03/getting-started-jquery-mobile/"

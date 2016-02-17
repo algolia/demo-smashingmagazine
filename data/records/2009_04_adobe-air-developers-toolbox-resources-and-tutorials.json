@@ -1,12 +1,16 @@
 {
-  "author": "@speckyboy",
+  "author": "Paul Andrew",
+  "authorUrl": "https://www.smashingmagazine.com/author/paul-andrew/",
   "commentCount": 39,
   "description": "Originally called Apollo, Adobe Air was released in beta back in 2007 and has gone from strength to strength ever since. You can build an Adobe Air app using HTML, JavaScript, Flash or ActionScript...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/air.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/04/adobe-air-developers-toolbox-resources-and-tutorials/",
   "publishedDate": 1239069200,
   "tags": [
-    "Resources"
+    {
+      "name": "Resources",
+      "slug": "resources"
+    }
   ],
   "title": "Adobe AIR Developer's Toolbox: Resources And Tutorials",
   "url": "https://www.smashingmagazine.com/2009/04/adobe-air-developers-toolbox-resources-and-tutorials/"

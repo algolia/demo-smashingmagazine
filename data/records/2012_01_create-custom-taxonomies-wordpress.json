@@ -1,12 +1,16 @@
 {
-  "author": "@kevinlearynet",
+  "author": "Kevin Leary",
+  "authorUrl": "https://www.smashingmagazine.com/author/kevin-leary/",
   "commentCount": 65,
   "description": "Complete guide to mastering WordPress custom taxonomies for ultimate organizational control.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/01/wordpress-taxonomy-graphic.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/01/create-custom-taxonomies-wordpress/",
   "publishedDate": 1325659915,
   "tags": [
-    "Tutorials"
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "How To Create Custom Taxonomies In WordPress",
   "url": "https://www.smashingmagazine.com/2012/01/create-custom-taxonomies-wordpress/"

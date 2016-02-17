@@ -1,15 +1,28 @@
 {
-  "author": "@jankowarpspeed",
+  "author": "Janko Jovanovic",
+  "authorUrl": "https://www.smashingmagazine.com/author/janko-jovanovic/",
   "commentCount": 60,
   "description": "Buttons, whatever their purpose, are important design elements. They could be the end point of a Web form or a call to action. Designers have many reasons to style buttons, including to make them m...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/buttons.png",
   "objectID": "https://www.smashingmagazine.com/2009/11/designing-css-buttons-techniques-and-resources/",
   "publishedDate": 1258525409,
   "tags": [
-    "Buttons",
-    "CSS",
-    "Essentials",
-    "Techniques"
+    {
+      "name": "Buttons",
+      "slug": "buttons"
+    },
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Essentials",
+      "slug": "essentials"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Designing CSS Buttons: Techniques and Resources",
   "url": "https://www.smashingmagazine.com/2009/11/designing-css-buttons-techniques-and-resources/"

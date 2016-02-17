@@ -1,13 +1,20 @@
 {
-  "author": "@jeremymgirard",
+  "author": "Jeremy Girard",
+  "authorUrl": "https://www.smashingmagazine.com/author/jeremy-girard/",
   "commentCount": 15,
   "description": "Learn how to end projects on the right note, and how to help your project stories have happy endings (and many successful sequels).",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/business-10.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/11/happily-ever-after-the-benefits-ending-projects-properly-building-long-term-client-relationships/",
   "publishedDate": 1353682510,
   "tags": [
-    "Business",
-    "Clients"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Clients",
+      "slug": "clients"
+    }
   ],
   "title": "Happily Ever After: How To Build Long-Term Client Relationships | Smashing Magazine",
   "url": "https://www.smashingmagazine.com/2012/11/happily-ever-after-the-benefits-ending-projects-properly-building-long-term-client-relationships/"

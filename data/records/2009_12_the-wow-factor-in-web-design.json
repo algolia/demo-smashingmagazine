@@ -1,15 +1,28 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 133,
   "description": "There are different ways that we remember a website. By the content, the design and by the &quot;Wow&quot; Factor. Read this article to learn more on Web design.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/shell-old-logo-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/12/the-wow-factor-in-web-design/",
   "publishedDate": 1261019960,
   "tags": [
-    "Creativity",
-    "Design Informer",
-    "Opinion Column",
-    "Web Design"
+    {
+      "name": "Creativity",
+      "slug": "creativity"
+    },
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "The \"Wow\" Factor in Web Design",
   "url": "https://www.smashingmagazine.com/2009/12/the-wow-factor-in-web-design/"

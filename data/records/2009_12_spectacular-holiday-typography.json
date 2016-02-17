@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 58,
   "description": "Here are 40 different holiday-themed, typographic designs that we have gathered to relay our greetings to you.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/holiday-typo.png",
   "objectID": "https://www.smashingmagazine.com/2009/12/spectacular-holiday-typography/",
   "publishedDate": 1261610029,
   "tags": [
-    "Design Informer",
-    "Typography"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Spectacular Holiday Typography",
   "url": "https://www.smashingmagazine.com/2009/12/spectacular-holiday-typography/"

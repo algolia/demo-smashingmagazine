@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "SM Guest Author",
+  "authorUrl": "https://www.smashingmagazine.com/author/sm-guest-author/",
   "commentCount": 71,
   "description": "CSS3 makes a designer’s work easier because they’re able to spend less time hacking their CSS and HTML code to work in IE and more time crafting their design.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/css3-illu-green.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/02/use-css3-now/",
   "publishedDate": 1266283548,
   "tags": [
-    "CSS",
-    "Design Informer"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    }
   ],
   "title": "You Can Use CSS3 Right Now",
   "url": "https://www.smashingmagazine.com/2010/02/use-css3-now/"

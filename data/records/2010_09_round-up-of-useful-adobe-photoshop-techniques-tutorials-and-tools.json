@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 61,
   "description": "As web designers, we always have something new to learn. Over the last decade our workflow has changed dramatically — it&#39;s become more sophisticated and highly diversified. Not only do we have a mu...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/photoshop-type.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/09/round-up-of-useful-adobe-photoshop-techniques-tutorials-and-tools/",
   "publishedDate": 1285126902,
   "tags": [
-    "Photoshop",
-    "Techniques",
-    "Tutorials"
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "Useful Adobe Photoshop Techniques, Tutorials and Tools",
   "url": "https://www.smashingmagazine.com/2010/09/round-up-of-useful-adobe-photoshop-techniques-tutorials-and-tools/"

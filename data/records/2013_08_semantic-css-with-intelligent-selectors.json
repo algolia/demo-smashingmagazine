@@ -1,14 +1,24 @@
 {
-  "author": "@heydonworks",
+  "author": "Heydon Pickering",
+  "authorUrl": "https://www.smashingmagazine.com/author/heydon-pickering/",
   "commentCount": 143,
   "description": "In this article, we will explore an alternative approach to styling Web documents, one that marries document semantics to visual design wherever possible. With the use of “intelligent” selectors, w...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/08/illu-selectors.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/08/semantic-css-with-intelligent-selectors/",
   "publishedDate": 1376955652,
   "tags": [
-    "CSS",
-    "HTML",
-    "Semantics"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "Semantics",
+      "slug": "semantics"
+    }
   ],
   "title": "Semantic CSS With Intelligent Selectors",
   "url": "https://www.smashingmagazine.com/2013/08/semantic-css-with-intelligent-selectors/"

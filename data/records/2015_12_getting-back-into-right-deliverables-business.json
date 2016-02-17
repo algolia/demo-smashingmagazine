@@ -1,14 +1,24 @@
 {
-  "author": "@rianvdm",
+  "author": "Rian van der Merwe",
+  "authorUrl": "https://www.smashingmagazine.com/author/rian-van-der-merwe/",
   "commentCount": 2,
   "description": "“Get out of the deliverables business” has become quite a mantra in the lean startup and UX movements. But there is a value in deliverables, too.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/10/01-Chalice-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/12/getting-back-into-right-deliverables-business/",
   "publishedDate": 1449163119,
   "tags": [
-    "Clients",
-    "Designers",
-    "Visual Design"
+    {
+      "name": "Clients",
+      "slug": "clients"
+    },
+    {
+      "name": "Designers",
+      "slug": "designers"
+    },
+    {
+      "name": "Visual Design",
+      "slug": "visual-design"
+    }
   ],
   "title": "Getting Back Into The (Right) Deliverables Business",
   "url": "https://www.smashingmagazine.com/2015/12/getting-back-into-right-deliverables-business/"

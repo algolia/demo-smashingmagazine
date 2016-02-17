@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 49,
   "description": "If you want to get better at something, you have to keep on doing it over and over again. This is why I created this CSS experiment.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/css-poster.png",
   "objectID": "https://www.smashingmagazine.com/2010/05/css-posters/",
   "publishedDate": 1273146262,
   "tags": [
-    "Design Informer",
-    "Inspiration"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "CSS Posters",
   "url": "https://www.smashingmagazine.com/2010/05/css-posters/"

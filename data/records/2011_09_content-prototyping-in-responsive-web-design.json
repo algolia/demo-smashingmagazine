@@ -1,14 +1,24 @@
 {
-  "author": "@bencallahan",
+  "author": "Ben Callahan",
+  "authorUrl": "https://www.smashingmagazine.com/author/ben-callahan/",
   "commentCount": 20,
   "description": "A content prototype is an HTML-and-CSS-based fluid-grid prototype, consisting of layout and typography, that consists of the project’s actual content.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/06/03-testimonial-content-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/09/content-prototyping-in-responsive-web-design/",
   "publishedDate": 1317011518,
   "tags": [
-    "Content",
-    "Prototyping",
-    "Responsive Web Design"
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "Prototyping",
+      "slug": "prototyping"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "Content Prototyping In Responsive Web Design",
   "url": "https://www.smashingmagazine.com/2011/09/content-prototyping-in-responsive-web-design/"

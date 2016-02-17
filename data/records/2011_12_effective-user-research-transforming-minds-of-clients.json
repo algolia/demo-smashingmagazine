@@ -1,14 +1,24 @@
 {
-  "author": "@_leonardsouza_",
+  "author": "Leonard Souza",
+  "authorUrl": "https://www.smashingmagazine.com/author/leonard-souza/",
   "commentCount": 18,
   "description": "Clients that deal with large agencies tend to place their trust in the big brand names of these shops. Freelance designers and small agencies do not always inspire the confidence in clients that la...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/journeysml.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/12/effective-user-research-transforming-minds-of-clients/",
   "publishedDate": 1323150278,
   "tags": [
-    "Clients",
-    "Research",
-    "User Experience"
+    {
+      "name": "Clients",
+      "slug": "clients"
+    },
+    {
+      "name": "Research",
+      "slug": "research"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Effective User Research And Transforming The Minds Of Clients",
   "url": "https://www.smashingmagazine.com/2011/12/effective-user-research-transforming-minds-of-clients/"

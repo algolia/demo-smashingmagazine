@@ -1,15 +1,28 @@
 {
-  "author": "@sfioritto",
+  "author": "Sean Fioritto",
+  "authorUrl": "https://www.smashingmagazine.com/author/sean-fioritto/",
   "commentCount": 19,
   "description": "The future of video in Web design is filled with possibilities. In this article, you will find inspiration, how-tos and a few technical goodies to get you started with modern video on the Web.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/11/illu-video.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/11/the-future-of-video-in-web-design/",
   "publishedDate": 1384748135,
   "tags": [
-    "CSS",
-    "HTML",
-    "JavaScript",
-    "Techniques"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "The Future Of Video In Web Design",
   "url": "https://www.smashingmagazine.com/2013/11/the-future-of-video-in-web-design/"

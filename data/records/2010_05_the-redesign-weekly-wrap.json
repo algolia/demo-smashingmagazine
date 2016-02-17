@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 16,
   "description": "Every weekend, I will be writing a post about the best and most interesting articles, tutorials, reviews and freebies of the week.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/weekly-wrap.png",
   "objectID": "https://www.smashingmagazine.com/2010/05/the-redesign-weekly-wrap/",
   "publishedDate": 1275149406,
   "tags": [
-    "Design Informer",
-    "Redesign"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Redesign",
+      "slug": "redesign"
+    }
   ],
   "title": "Weekly Wrap: The Redesign",
   "url": "https://www.smashingmagazine.com/2010/05/the-redesign-weekly-wrap/"

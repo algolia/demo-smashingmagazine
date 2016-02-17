@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 144,
   "description": "50 Incredible Photography Techniques and Tutorials",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/photogr.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/04/the-ultimate-photography-round-up/",
   "publishedDate": 1240367190,
   "tags": [
-    "Gimp",
-    "Photography",
-    "Techniques",
-    "Tutorials"
+    {
+      "name": "Gimp",
+      "slug": "gimp"
+    },
+    {
+      "name": "Photography",
+      "slug": "photography"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "50 Incredible Photography Techniques and Tutorials",
   "url": "https://www.smashingmagazine.com/2009/04/the-ultimate-photography-round-up/"

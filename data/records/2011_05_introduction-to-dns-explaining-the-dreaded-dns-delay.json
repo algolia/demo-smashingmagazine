@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Paul Tero",
+  "authorUrl": "https://www.smashingmagazine.com/author/paul-tero/",
   "commentCount": 69,
   "description": "Imagine that your biggest client calls because they are having trouble retrieving their email. Or they want to know what their best-selling item is right now. Or their most popular blog post. Perha...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ubuntu-code.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/05/introduction-to-dns-explaining-the-dreaded-dns-delay/",
   "publishedDate": 1306297106,
   "tags": [
-    "DNS",
-    "Servers"
+    {
+      "name": "DNS",
+      "slug": "dns"
+    },
+    {
+      "name": "Servers",
+      "slug": "servers"
+    }
   ],
   "title": "Introduction to DNS: Explaining The Dreaded DNS Delay",
   "url": "https://www.smashingmagazine.com/2011/05/introduction-to-dns-explaining-the-dreaded-dns-delay/"

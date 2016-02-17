@@ -1,12 +1,16 @@
 {
-  "author": "@CasJam",
+  "author": "Brian Casel",
+  "authorUrl": "https://www.smashingmagazine.com/author/briancasel/",
   "commentCount": 28,
   "description": "It’s been three years since Brian Casel had launched his productized service. If it weren’t for the many mistakes he has learned from and lessons he has applied, his business never would have grown...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/01/example-website-rwd-illu-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/01/lessons-learned-building-a-productized-service/",
   "publishedDate": 1421405747,
   "tags": [
-    "Business"
+    {
+      "name": "Business",
+      "slug": "business"
+    }
   ],
   "title": "Lessons Learned Building A Productized Service",
   "url": "https://www.smashingmagazine.com/2015/01/lessons-learned-building-a-productized-service/"

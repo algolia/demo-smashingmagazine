@@ -1,16 +1,32 @@
 {
-  "author": "@smashingmag",
+  "author": "Sébastien",
+  "authorUrl": "https://www.smashingmagazine.com/author/sebastien/",
   "commentCount": 31,
   "description": "Sébastien Fragnaud shows how to start unit test and test-driven development with AngularJS using a well documented toolkit to produce quality code.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/09/02-blackbox-opt-500.png",
   "objectID": "https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/",
   "publishedDate": 1412683411,
   "tags": [
-    "AngularJS",
-    "JavaScript",
-    "Programming",
-    "Testing",
-    "Web Development"
+    {
+      "name": "AngularJS",
+      "slug": "angularjs"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Programming",
+      "slug": "programming"
+    },
+    {
+      "name": "Testing",
+      "slug": "testing"
+    },
+    {
+      "name": "Web Development",
+      "slug": "web-development"
+    }
   ],
   "title": "An Introduction To Unit Testing In AngularJS Applications",
   "url": "https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/"

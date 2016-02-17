@@ -1,13 +1,20 @@
 {
-  "author": "@king_jaffy",
+  "author": "Jason Amunwa",
+  "authorUrl": "https://www.smashingmagazine.com/author/jason-amunwa/",
   "commentCount": 30,
   "description": "This article provides a small selection of tried and true methods that Web designers regularly employ to give a website that bespoke look and feel. Make no mistake: these methods do take extra time...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/coversml.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/07/tips-finely-crafted-website/",
   "publishedDate": 1341370585,
   "tags": [
-    "Interaction Design",
-    "Visual Design"
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    },
+    {
+      "name": "Visual Design",
+      "slug": "visual-design"
+    }
   ],
   "title": "Tips For A Finely Crafted Website",
   "url": "https://www.smashingmagazine.com/2012/07/tips-finely-crafted-website/"

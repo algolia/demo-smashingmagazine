@@ -1,13 +1,20 @@
 {
-  "author": "@mel_in_media",
+  "author": "Melanie Lang",
+  "authorUrl": "https://www.smashingmagazine.com/author/melanie-lang/",
   "commentCount": 8,
   "description": "Cat Noone is a young and talented designer and entrepreneur from Brooklyn, New York, now living and working in Berlin. She worked in the field of special education before jumping into a career that...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/10/cat-noone-178-118-illu.png",
   "objectID": "https://www.smashingmagazine.com/2014/10/interview-with-cat-noone/",
   "publishedDate": 1412937659,
   "tags": [
-    "Inspiration",
-    "Interviews"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Interviews",
+      "slug": "interviews"
+    }
   ],
   "title": "\"Stop Being So Hard On Yourself\": An Interview With Designer And Entrepreneur Cat Noone",
   "url": "https://www.smashingmagazine.com/2014/10/interview-with-cat-noone/"

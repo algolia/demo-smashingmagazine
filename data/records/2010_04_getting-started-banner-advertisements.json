@@ -1,14 +1,24 @@
 {
-  "author": "@shayhowe",
+  "author": "Shay Howe",
+  "authorUrl": "https://www.smashingmagazine.com/author/shay-howe/",
   "commentCount": 26,
   "description": "Outlined here are recommendations to help you design suitable ads, effective, and profitable advertisements.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/gridpak-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/04/getting-started-banner-advertisements/",
   "publishedDate": 1270165643,
   "tags": [
-    "Advertising",
-    "Business",
-    "Design Informer"
+    {
+      "name": "Advertising",
+      "slug": "advertising"
+    },
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    }
   ],
   "title": "Getting Started with Banner Advertisements",
   "url": "https://www.smashingmagazine.com/2010/04/getting-started-banner-advertisements/"

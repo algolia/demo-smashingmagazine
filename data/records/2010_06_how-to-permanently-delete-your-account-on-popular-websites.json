@@ -1,16 +1,32 @@
 {
-  "author": "@cameron_chapman",
+  "author": "Cameron Chapman",
+  "authorUrl": "https://www.smashingmagazine.com/author/cameron-chapman/",
   "commentCount": 218,
   "description": "We all have an increasing number of sites and online services we&#39;re members of, and sometimes it all gets a little overwhelming. At times, we just need to delete our memberships to some sites, eith...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/fb.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/06/how-to-permanently-delete-your-account-on-popular-websites/",
   "publishedDate": 1276224670,
   "tags": [
-    "Facebook",
-    "Productivity",
-    "Tools",
-    "Twitter",
-    "Useful"
+    {
+      "name": "Facebook",
+      "slug": "facebook"
+    },
+    {
+      "name": "Productivity",
+      "slug": "productivity"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Twitter",
+      "slug": "twitter"
+    },
+    {
+      "name": "Useful",
+      "slug": "useful"
+    }
   ],
   "title": "How To Permanently Delete Your Account on Popular Websites",
   "url": "https://www.smashingmagazine.com/2010/06/how-to-permanently-delete-your-account-on-popular-websites/"

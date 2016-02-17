@@ -1,15 +1,28 @@
 {
-  "author": "@JasonAGross",
+  "author": "Jason Gross",
+  "authorUrl": "https://www.smashingmagazine.com/author/jason-gross/",
   "commentCount": 26,
   "description": "Right now is an exciting time to be in the Web design community. Every month we seem to stumble on a new thought-provoking way to put our expanding tool set to use for our clients and the patrons o...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/08/wireframe.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/08/the-neglected-necessities-of-design/",
   "publishedDate": 1312510576,
   "tags": [
-    "CSS",
-    "HTML",
-    "HTML5",
-    "Maintenance"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "HTML5",
+      "slug": "html5"
+    },
+    {
+      "name": "Maintenance",
+      "slug": "maintenance"
+    }
   ],
   "title": "The Neglected Necessities Of Design",
   "url": "https://www.smashingmagazine.com/2011/08/the-neglected-necessities-of-design/"

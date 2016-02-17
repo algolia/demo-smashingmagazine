@@ -1,13 +1,20 @@
 {
-  "author": "@Ohitssamwright",
+  "author": "Sam Wright",
+  "authorUrl": "https://www.smashingmagazine.com/author/sam-wright/",
   "commentCount": 21,
   "description": "In this article we’d like to look at some of the fundamental mistakes behind bad copy.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/09/chuck_norris_joke_mini.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/09/why-copy-is-a-design-issue/",
   "publishedDate": 1378988824,
   "tags": [
-    "Content",
-    "Copywriting"
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "Copywriting",
+      "slug": "copywriting"
+    }
   ],
   "title": "Designing The Words: Why Copy Is A Design Issue",
   "url": "https://www.smashingmagazine.com/2013/09/why-copy-is-a-design-issue/"

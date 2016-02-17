@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 74,
   "description": "2009 was a very successful year for Smashing Magazine. It was a year of ambitious goals and an intense time schedule, which brought many changes over the past year. In 2009 we published more posts ...",
   "image": "https://www.smashingmagazine.com/images/smashing-128.png",
   "objectID": "https://www.smashingmagazine.com/2009/12/smashing-highlights-2009/",
   "publishedDate": 1262062343,
   "tags": [
-    "Highlights"
+    {
+      "name": "Highlights",
+      "slug": "highlights"
+    }
   ],
   "title": "Smashing Highlights 2009",
   "url": "https://www.smashingmagazine.com/2009/12/smashing-highlights-2009/"

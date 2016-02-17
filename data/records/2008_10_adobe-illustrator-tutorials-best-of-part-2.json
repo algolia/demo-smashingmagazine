@@ -1,13 +1,20 @@
 {
-  "author": "@stevensnell",
+  "author": "Steven Snell",
+  "authorUrl": "https://www.smashingmagazine.com/author/stevensnell/",
   "commentCount": 56,
   "description": "It&#39;s been about 7 months since the original Illustrator Tutorials - Best Of was published, and in that time there have been many more noteworthy tutorials released. With all of that new content , i...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illustrat.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/10/adobe-illustrator-tutorials-best-of-part-2/",
   "publishedDate": 1223465649,
   "tags": [
-    "Illustrator",
-    "Tutorials"
+    {
+      "name": "Illustrator",
+      "slug": "illustrator"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "Adobe Illustrator Tutorials - Best Of: Part 2",
   "url": "https://www.smashingmagazine.com/2008/10/adobe-illustrator-tutorials-best-of-part-2/"

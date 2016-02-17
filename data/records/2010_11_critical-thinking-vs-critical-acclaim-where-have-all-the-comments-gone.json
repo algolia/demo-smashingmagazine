@@ -1,14 +1,24 @@
 {
-  "author": "@rob_e_bowen",
+  "author": "Robert Bowen",
+  "authorUrl": "https://www.smashingmagazine.com/author/robert-bowen/",
   "commentCount": 211,
   "description": "Years ago, the online design community was a thriving conversationalist — of sorts — through the comment sections across the community. It was through leaving meaningful comments that the thought-p...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2010/11/typography-270.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/11/critical-thinking-vs-critical-acclaim-where-have-all-the-comments-gone/",
   "publishedDate": 1290136041,
   "tags": [
-    "Community",
-    "Content",
-    "Opinion Column"
+    {
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    }
   ],
   "title": "Where Have All The Comments Gone?",
   "url": "https://www.smashingmagazine.com/2010/11/critical-thinking-vs-critical-acclaim-where-have-all-the-comments-gone/"

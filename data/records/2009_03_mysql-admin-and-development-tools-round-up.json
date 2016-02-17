@@ -1,14 +1,24 @@
 {
-  "author": "@speckyboy",
+  "author": "Paul Andrew",
+  "authorUrl": "https://www.smashingmagazine.com/author/paul-andrew/",
   "commentCount": 122,
   "description": "The most popular and best open source database is MySQL. Simple as that. It is consistently fast , reliabile and very, very easy to use.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/mysql2.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/03/mysql-admin-and-development-tools-round-up/",
   "publishedDate": 1237951056,
   "tags": [
-    "MySQL",
-    "Resources",
-    "SQL"
+    {
+      "name": "MySQL",
+      "slug": "mysql"
+    },
+    {
+      "name": "Resources",
+      "slug": "resources"
+    },
+    {
+      "name": "SQL",
+      "slug": "sql"
+    }
   ],
   "title": "MySQL Admin and Development Tools Round-Up",
   "url": "https://www.smashingmagazine.com/2009/03/mysql-admin-and-development-tools-round-up/"

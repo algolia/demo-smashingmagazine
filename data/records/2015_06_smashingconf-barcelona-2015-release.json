@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 3,
   "description": "With SmashingConf Barcelona, we keep exploring interesting problems, smart solutions and lessons learned from actual projects.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/10/smashingconf-barcelona-feature-image-opt.png",
   "objectID": "https://www.smashingmagazine.com/2015/06/smashingconf-barcelona-2015-release/",
   "publishedDate": 1433847564,
   "tags": [
-    "SmashingConf"
+    {
+      "name": "SmashingConf",
+      "slug": "smashingconf"
+    }
   ],
   "title": "¡Mañana, Mañana! SmashingConf Barcelona 2015",
   "url": "https://www.smashingmagazine.com/2015/06/smashingconf-barcelona-2015-release/"

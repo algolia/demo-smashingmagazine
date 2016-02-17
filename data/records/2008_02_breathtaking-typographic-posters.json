@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 121,
   "description": "You can&#39;t design without type. However, yon can use only type (or mostly only type) to create breath-taking designs. In fact, many graphic designers and artists take exactly this route to communica...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/time.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/02/breathtaking-typographic-posters/",
   "publishedDate": 1203901137,
   "tags": [
-    "Art",
-    "Illustrations",
-    "Posters",
-    "Typography"
+    {
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "name": "Illustrations",
+      "slug": "illustrations"
+    },
+    {
+      "name": "Posters",
+      "slug": "posters"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Breathtaking Typographic Posters",
   "url": "https://www.smashingmagazine.com/2008/02/breathtaking-typographic-posters/"

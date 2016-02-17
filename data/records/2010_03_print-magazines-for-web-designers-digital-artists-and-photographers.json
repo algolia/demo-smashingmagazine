@@ -1,15 +1,28 @@
 {
-  "author": "@ImpressiveWebs",
+  "author": "Louis Lazaris",
+  "authorUrl": "https://www.smashingmagazine.com/author/louis-lazaris/",
   "commentCount": 75,
   "description": "Although much valuable information for all sorts of web and print professionals can be found online, it is often difficult to weed through all the noise and find good quality content. I believe it&#39;...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2009/04/pm44.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/03/print-magazines-for-web-designers-digital-artists-and-photographers/",
   "publishedDate": 1267763574,
   "tags": [
-    "Inspiration",
-    "Magazines",
-    "Photography",
-    "Print"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Magazines",
+      "slug": "magazines"
+    },
+    {
+      "name": "Photography",
+      "slug": "photography"
+    },
+    {
+      "name": "Print",
+      "slug": "print"
+    }
   ],
   "title": "Print Magazines for Web Designers, Digital Artists, and Photographers",
   "url": "https://www.smashingmagazine.com/2010/03/print-magazines-for-web-designers-digital-artists-and-photographers/"

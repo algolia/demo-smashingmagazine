@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Kitty Florido",
+  "authorUrl": "https://www.smashingmagazine.com/author/kitty-florido/",
   "commentCount": 103,
   "description": "There are many applications that can help you work faster and efficiently. Though, not many applications come cheap. For this post we tried to digg deep to find the best selection of free and open ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/mac-apps.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/07/25-open-source-mac-apps-that-will-boost-your-productivity/",
   "publishedDate": 1246771561,
   "tags": [
-    "Apps",
-    "Mac",
-    "Open Source",
-    "Tools"
+    {
+      "name": "Apps",
+      "slug": "apps"
+    },
+    {
+      "name": "Mac",
+      "slug": "mac"
+    },
+    {
+      "name": "Open Source",
+      "slug": "open-source"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "25 Free Mac Apps That Will Boost Your Productivity",
   "url": "https://www.smashingmagazine.com/2009/07/25-open-source-mac-apps-that-will-boost-your-productivity/"

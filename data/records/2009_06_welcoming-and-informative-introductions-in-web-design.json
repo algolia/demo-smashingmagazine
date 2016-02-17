@@ -1,13 +1,20 @@
 {
-  "author": "@themccronin",
+  "author": "Matt Cronin",
+  "authorUrl": "https://www.smashingmagazine.com/author/matt-cronin/",
   "commentCount": 1,
   "description": "Corporate Web design has certain elements designed to attract customers. One of those elements is the introduction. The page or website introduction does what you would think: it introduces the web...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/introduction.png",
   "objectID": "https://www.smashingmagazine.com/2009/06/welcoming-and-informative-introductions-in-web-design/",
   "publishedDate": 1245850941,
   "tags": [
-    "Showcases",
-    "Trends"
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Trends",
+      "slug": "trends"
+    }
   ],
   "title": "Welcoming And Informative Introductions In Web Design",
   "url": "https://www.smashingmagazine.com/2009/06/welcoming-and-informative-introductions-in-web-design/"

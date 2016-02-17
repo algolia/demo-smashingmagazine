@@ -1,12 +1,16 @@
 {
-  "author": "@yaili",
+  "author": "Inayaili de Leon",
+  "authorUrl": "https://www.smashingmagazine.com/author/inayaili-de-leon/",
   "commentCount": 98,
   "description": "CSS is one of the most powerful tools that is available to web designers (if not the most powerful). With it we can completely transform the look of a website in just a couple of minutes, and witho...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2009/08/redesign-the-web.png",
   "objectID": "https://www.smashingmagazine.com/2009/08/taming-advanced-css-selectors/",
   "publishedDate": 1250470203,
   "tags": [
-    "CSS"
+    {
+      "name": "CSS",
+      "slug": "css"
+    }
   ],
   "title": "Taming Advanced CSS Selectors",
   "url": "https://www.smashingmagazine.com/2009/08/taming-advanced-css-selectors/"

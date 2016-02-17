@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 50,
   "description": "Every now and again we take a look around, select fresh high-quality free fonts and present them to you in a brief overview. The choice is enormous, so the time you need to find them is usually the...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illufonts.png",
   "objectID": "https://www.smashingmagazine.com/2008/02/free-fonts-of-the-month-advent-pro-telegrafico/",
   "publishedDate": 1202965002,
   "tags": [
-    "Downloads",
-    "Free Fonts",
-    "Freebies",
-    "Typography"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Free Fonts",
+      "slug": "free-fonts"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Free Fonts Of The Month: Advent Pro, Telegrafico",
   "url": "https://www.smashingmagazine.com/2008/02/free-fonts-of-the-month-advent-pro-telegrafico/"

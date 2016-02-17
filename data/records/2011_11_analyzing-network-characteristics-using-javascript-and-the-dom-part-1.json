@@ -1,13 +1,20 @@
 {
-  "author": "@bluesmoon",
+  "author": "Philip Tellis",
+  "authorUrl": "https://www.smashingmagazine.com/author/philip-tellis/",
   "commentCount": 31,
   "description": "Philip Tellis looks at some methods of manipulating JavaScript to determine various network characteristics from within the browser — characteristics that were previously available only to applicat...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/11/abstract-32432-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/11/analyzing-network-characteristics-using-javascript-and-the-dom-part-1/",
   "publishedDate": 1321247358,
   "tags": [
-    "JavaScript",
-    "Performance"
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Performance",
+      "slug": "performance"
+    }
   ],
   "title": "Analyzing Network Characteristics Using JavaScript And The DOM, Part 1",
   "url": "https://www.smashingmagazine.com/2011/11/analyzing-network-characteristics-using-javascript-and-the-dom-part-1/"

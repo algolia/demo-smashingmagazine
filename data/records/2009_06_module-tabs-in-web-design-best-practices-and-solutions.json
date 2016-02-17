@@ -1,15 +1,28 @@
 {
-  "author": "@sixrevisions",
+  "author": "Jacob Gube",
+  "authorUrl": "https://www.smashingmagazine.com/author/jacob-gube/",
   "commentCount": 38,
   "description": "A module tab is a design pattern where content is separated into different panes, and each pane is viewable one at a time. The user requests content to be displayed by clicking (or in some instance...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/tabs.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/06/module-tabs-in-web-design-best-practices-and-solutions/",
   "publishedDate": 1245799193,
   "tags": [
-    "Navigation",
-    "Showcases",
-    "Tabs",
-    "Techniques"
+    {
+      "name": "Navigation",
+      "slug": "navigation"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Tabs",
+      "slug": "tabs"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Module Tabs in Web Design: Best Practices and Solutions",
   "url": "https://www.smashingmagazine.com/2009/06/module-tabs-in-web-design-best-practices-and-solutions/"

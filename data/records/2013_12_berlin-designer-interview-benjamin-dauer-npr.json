@@ -1,13 +1,20 @@
 {
-  "author": "@HuIsLeona",
+  "author": "Leona Hu",
+  "authorUrl": "https://www.smashingmagazine.com/author/leona-hu/",
   "commentCount": 14,
   "description": "Interview with designer Benjamin Dauer who speaks about why he moved to Berlin and how the design teams work at SoundCloud and NPR.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/benjamin-dauer-illu.png",
   "objectID": "https://www.smashingmagazine.com/2013/12/berlin-designer-interview-benjamin-dauer-npr/",
   "publishedDate": 1386338166,
   "tags": [
-    "Inspiration",
-    "Interviews"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Interviews",
+      "slug": "interviews"
+    }
   ],
   "title": "\"Be Humble, Be Honest, Don't Be Afraid To Fail\"",
   "url": "https://www.smashingmagazine.com/2013/12/berlin-designer-interview-benjamin-dauer-npr/"

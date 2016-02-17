@@ -1,16 +1,32 @@
 {
-  "author": "@smashingmag",
+  "author": "David Knoll",
+  "authorUrl": "https://www.smashingmagazine.com/author/david-knoll/",
   "commentCount": 52,
   "description": "Animated short movies are excellent for tedious coffee breaks and uninspiring monday mornings. To put some beautiful story in a short 2-5 minutes sequence isn&#39;t easy, but even in this case designer...",
   "image": "https://www.smashingmagazine.com/images/animated-movies/starless_night.png",
   "objectID": "https://www.smashingmagazine.com/2008/03/25-brilliant-animated-short-movies/",
   "publishedDate": 1204506846,
   "tags": [
-    "Animation",
-    "Cartoons",
-    "Inspiration",
-    "Movies",
-    "Videos"
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Cartoons",
+      "slug": "cartoons"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Movies",
+      "slug": "movies"
+    },
+    {
+      "name": "Videos",
+      "slug": "videos"
+    }
   ],
   "title": "25 Brilliant Animated Short Movies",
   "url": "https://www.smashingmagazine.com/2008/03/25-brilliant-animated-short-movies/"

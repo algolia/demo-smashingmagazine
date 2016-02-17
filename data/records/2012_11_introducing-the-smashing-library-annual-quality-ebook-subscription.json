@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 25,
   "description": "The Smashing Library is an annual subscription to Smashing Magazine’s eBooks. We guarantee to deliver at least 24 quality eBooks a year.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/07/Smashing-Library-Pop-Up-B.png",
   "objectID": "https://www.smashingmagazine.com/2012/11/introducing-the-smashing-library-annual-quality-ebook-subscription/",
   "publishedDate": 1354037546,
   "tags": [
-    "Smashing eBooks"
+    {
+      "name": "Smashing eBooks",
+      "slug": "smashing-ebooks"
+    }
   ],
   "title": "Introducing The Smashing eBook Library",
   "url": "https://www.smashingmagazine.com/2012/11/introducing-the-smashing-library-annual-quality-ebook-subscription/"

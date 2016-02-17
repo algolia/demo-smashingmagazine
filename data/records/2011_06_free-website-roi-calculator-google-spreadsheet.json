@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Anders Hoff",
+  "authorUrl": "https://www.smashingmagazine.com/author/anders-hoff/",
   "commentCount": 12,
   "description": "In this post we are glad to present to you yet another freebie: the Website ROI Calculator, a free Google Spreadsheet created by Anders Hoff specifically for Smashing Magazine and our readers. Of c...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/writing-code-illu22.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/06/free-website-roi-calculator-google-spreadsheet/",
   "publishedDate": 1308093019,
   "tags": [
-    "Business",
-    "Freebies"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    }
   ],
   "title": "Free Website ROI Calculator (Google Spreadsheet)",
   "url": "https://www.smashingmagazine.com/2011/06/free-website-roi-calculator-google-spreadsheet/"

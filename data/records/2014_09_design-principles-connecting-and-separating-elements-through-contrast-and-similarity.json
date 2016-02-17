@@ -1,15 +1,28 @@
 {
-  "author": "@vangogh",
+  "author": "Steven Bradley",
+  "authorUrl": "https://www.smashingmagazine.com/author/steven-bradley/",
   "commentCount": 12,
   "description": "This is third part of a series on design principles for beginners. The first part covered an introduction to gestalt; the second built on those gestalt principles and showed how many of the fundame...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/09/icons-illu-squares-circles.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/09/design-principles-connecting-and-separating-elements-through-contrast-and-similarity/",
   "publishedDate": 1411387498,
   "tags": [
-    "Creativity",
-    "Design Principles",
-    "Inspiration",
-    "Useful"
+    {
+      "name": "Creativity",
+      "slug": "creativity"
+    },
+    {
+      "name": "Design Principles",
+      "slug": "design-principles"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Useful",
+      "slug": "useful"
+    }
   ],
   "title": "Design Principles: Connecting And Separating Elements Through Contrast And Similarity",
   "url": "https://www.smashingmagazine.com/2014/09/design-principles-connecting-and-separating-elements-through-contrast-and-similarity/"

@@ -1,14 +1,24 @@
 {
-  "author": "@stevensnell",
+  "author": "Steven Snell",
+  "authorUrl": "https://www.smashingmagazine.com/author/stevensnell/",
   "commentCount": 77,
   "description": "Communication is one of the foundational elements of a good website. It is essential for a positive user experience and for a successful website that truly benefits its owners. All types of website...",
   "image": "https://www.smashingmagazine.com/images/clear-effective-communication/gransden.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/02/clear-and-effective-communication-in-web-design/",
   "publishedDate": 1233686597,
   "tags": [
-    "Communication",
-    "Guidelines",
-    "Principles"
+    {
+      "name": "Communication",
+      "slug": "communication"
+    },
+    {
+      "name": "Guidelines",
+      "slug": "guidelines"
+    },
+    {
+      "name": "Principles",
+      "slug": "principles"
+    }
   ],
   "title": "Clear And Effective Communication In Web Design",
   "url": "https://www.smashingmagazine.com/2009/02/clear-and-effective-communication-in-web-design/"

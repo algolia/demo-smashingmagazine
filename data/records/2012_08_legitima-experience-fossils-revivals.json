@@ -1,12 +1,16 @@
 {
-  "author": "@cesarpuertas",
+  "author": "César Puertas",
+  "authorUrl": "https://www.smashingmagazine.com/author/cesar-puertas/",
   "commentCount": 12,
   "description": "The article features the revival process of a typeface lost in time, which in its digital incarnation I’ve named Legitima.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/play-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/08/legitima-experience-fossils-revivals/",
   "publishedDate": 1344221385,
   "tags": [
-    "Typography"
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Legitima Typeface: An Experience Of Fossils And Revivals",
   "url": "https://www.smashingmagazine.com/2012/08/legitima-experience-fossils-revivals/"

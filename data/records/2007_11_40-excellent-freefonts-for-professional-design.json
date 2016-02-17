@@ -1,16 +1,32 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 383,
   "description": "The importance of typography in design can&#39;t be overestimated. The accuracy, precision and balance of geometric forms can give letters the elegance and sharpness they deserve. Besides, elegant font...",
   "image": "https://www.smashingmagazine.com/images/40-freefonts/t06.gif",
   "objectID": "https://www.smashingmagazine.com/2007/11/40-excellent-freefonts-for-professional-design/",
   "publishedDate": 1194559223,
   "tags": [
-    "Downloads",
-    "Fonts",
-    "Free Fonts",
-    "Freebies",
-    "Typography"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Fonts",
+      "slug": "fonts"
+    },
+    {
+      "name": "Free Fonts",
+      "slug": "free-fonts"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "40+ Excellent Freefonts For Professional Design",
   "url": "https://www.smashingmagazine.com/2007/11/40-excellent-freefonts-for-professional-design/"

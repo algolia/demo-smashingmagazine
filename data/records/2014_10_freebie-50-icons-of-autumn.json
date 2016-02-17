@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 15,
   "description": "There are icons that you can find quite easily, and icons that are difficult to come across. With Icons of Autumn, we are humbled to release a set of free 50 autumn-themed EPS icons illustrated in ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/10/autumn-icons-illu.png",
   "objectID": "https://www.smashingmagazine.com/2014/10/freebie-50-icons-of-autumn/",
   "publishedDate": 1412946138,
   "tags": [
-    "Freebies"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    }
   ],
   "title": "Freebie: Icons Of Autumn (50 Icons, EPS)",
   "url": "https://www.smashingmagazine.com/2014/10/freebie-50-icons-of-autumn/"

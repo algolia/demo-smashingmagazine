@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Juliya Izgiyeva",
+  "authorUrl": "https://www.smashingmagazine.com/author/juliya-izgiyeva/",
   "commentCount": 106,
   "description": "Where does the beauty come from? It isn&#39;t necessary to travel around the world in its most quiet places to experience it. Beauty is always near us — you just need to want to explore it. And you can...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/knit.png",
   "objectID": "https://www.smashingmagazine.com/2010/04/the-beauty-of-knitting/",
   "publishedDate": 1271559736,
   "tags": [
-    "Art",
-    "Inspiration"
+    {
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "The Beauty of Knitting, Sewing and Crochet",
   "url": "https://www.smashingmagazine.com/2010/04/the-beauty-of-knitting/"

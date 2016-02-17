@@ -1,16 +1,32 @@
 {
-  "author": "@rob_e_bowen",
+  "author": "Robert Bowen",
+  "authorUrl": "https://www.smashingmagazine.com/author/robert-bowen/",
   "commentCount": 56,
   "description": "Typography talks the talk, to go along with the overall work’s walk, speaking volumes for the artist. This important design element surrounds people daily as they move through their routines, rarel...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/vint.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/10/retro-and-vintage-typography-showcase/",
   "publishedDate": 1225029230,
   "tags": [
-    "Handwriting",
-    "Inspiration",
-    "Retro",
-    "Typography",
-    "Vintage"
+    {
+      "name": "Handwriting",
+      "slug": "handwriting"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Retro",
+      "slug": "retro"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    },
+    {
+      "name": "Vintage",
+      "slug": "vintage"
+    }
   ],
   "title": "Vintage and Retro Typography Showcase",
   "url": "https://www.smashingmagazine.com/2008/10/retro-and-vintage-typography-showcase/"

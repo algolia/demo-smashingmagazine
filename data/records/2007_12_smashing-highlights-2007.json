@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 45,
   "description": "Although Smashing Magazine is quite young, a number of things happened in 2007. Aside from dozens of articles, we&#39;ve organized few contests, re-designed our weblog and we also have released two Wor...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/diva.jpg",
   "objectID": "https://www.smashingmagazine.com/2007/12/smashing-highlights-2007/",
   "publishedDate": 1198721673,
   "tags": [
-    "Highlights"
+    {
+      "name": "Highlights",
+      "slug": "highlights"
+    }
   ],
   "title": "Smashing Highlights 2007",
   "url": "https://www.smashingmagazine.com/2007/12/smashing-highlights-2007/"

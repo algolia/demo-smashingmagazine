@@ -1,15 +1,28 @@
 {
-  "author": "@twostepmedia",
+  "author": "Ben Howdle",
+  "authorUrl": "https://www.smashingmagazine.com/author/ben-howdle/",
   "commentCount": 57,
   "description": "The goal of today’s tutorial is to create a simple Web app for grabbing movie posters from TMDb using jQuery and a JSON-based API.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/09/Screen-Shot-2011-09-10-at-01.24.31-copy.png",
   "objectID": "https://www.smashingmagazine.com/2012/02/beginners-guide-jquery-based-json-api-clients/",
   "publishedDate": 1328759151,
   "tags": [
-    "AJAX",
-    "API",
-    "JavaScript",
-    "jQuery"
+    {
+      "name": "AJAX",
+      "slug": "ajax"
+    },
+    {
+      "name": "API",
+      "slug": "api"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "jQuery",
+      "slug": "jquery"
+    }
   ],
   "title": "A Beginner’s Guide To jQuery-Based JSON API Clients",
   "url": "https://www.smashingmagazine.com/2012/02/beginners-guide-jquery-based-json-api-clients/"

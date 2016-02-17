@@ -1,16 +1,32 @@
 {
-  "author": "@burning_",
+  "author": "Mark Cossey",
+  "authorUrl": "https://www.smashingmagazine.com/author/mark-cossey/",
   "commentCount": 63,
   "description": "I watched a TV documentary the other day about a professional soccer player. As well as his normal soccer training he mixed in training in other sports like boxing and yoga and I thought this sound...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/making-a-cup-of-coffee.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/12/the-designer-s-cross-training-toolkit/",
   "publishedDate": 1292993114,
   "tags": [
-    "Education",
-    "Inspiration",
-    "Opinion Column",
-    "Tools",
-    "Workflow"
+    {
+      "name": "Education",
+      "slug": "education"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "The Designer's Cross-Training Toolkit",
   "url": "https://www.smashingmagazine.com/2010/12/the-designer-s-cross-training-toolkit/"

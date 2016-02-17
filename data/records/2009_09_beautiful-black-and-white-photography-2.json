@@ -1,12 +1,16 @@
 {
-  "author": "@vailancio",
+  "author": "Vailancio Rodrigues",
+  "authorUrl": "https://www.smashingmagazine.com/author/vailrodrigues/",
   "commentCount": 176,
   "description": "Today, in the era of digital technology black and white often awake nostalgic feelings of the 20th century, the good old times when the television was just invented, when people read colorless prin...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/bw.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/09/beautiful-black-and-white-photography-2/",
   "publishedDate": 1252462165,
   "tags": [
-    "Photography"
+    {
+      "name": "Photography",
+      "slug": "photography"
+    }
   ],
   "title": "Beautiful Black and White Photography",
   "url": "https://www.smashingmagazine.com/2009/09/beautiful-black-and-white-photography-2/"

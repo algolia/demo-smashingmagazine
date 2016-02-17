@@ -1,13 +1,20 @@
 {
-  "author": "@retinart",
+  "author": "Alexander Charchar",
+  "authorUrl": "https://www.smashingmagazine.com/author/alexander-charchar/",
   "commentCount": 18,
   "description": "In this article, we’ve put together a small collection of plugins and scripts to show a bit of what Adobe&#39;s InDesign can do. More than anything, these will help you work through your documents and ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/indesign.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/08/indesign-scripts-and-plugins-to-speed-up-your-work/",
   "publishedDate": 1376660896,
   "tags": [
-    "Tools",
-    "Workflow"
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Useful InDesign Scripts And Plugins To Speed Up Your Work",
   "url": "https://www.smashingmagazine.com/2013/08/indesign-scripts-and-plugins-to-speed-up-your-work/"

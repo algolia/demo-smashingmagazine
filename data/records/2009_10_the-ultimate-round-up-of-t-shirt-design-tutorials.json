@@ -1,15 +1,28 @@
 {
-  "author": "@callumchapman",
+  "author": "Callum Chapman",
+  "authorUrl": "https://www.smashingmagazine.com/author/callum-chapman/",
   "commentCount": 37,
   "description": "Among all of the graphic designers in the world, many of them have probably had a go at designing some cool artwork for t-shirts. The t-shirt, after all, is one of the world&#39;s most purchased produc...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/tshirts.png",
   "objectID": "https://www.smashingmagazine.com/2009/10/the-ultimate-round-up-of-t-shirt-design-tutorials/",
   "publishedDate": 1255663936,
   "tags": [
-    "CMYK",
-    "Drawing",
-    "T-shirts",
-    "Tutorials"
+    {
+      "name": "CMYK",
+      "slug": "cmyk"
+    },
+    {
+      "name": "Drawing",
+      "slug": "drawing"
+    },
+    {
+      "name": "T-shirts",
+      "slug": "t-shirts"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "The Ultimate Round-Up Of T-Shirt Design Tutorials",
   "url": "https://www.smashingmagazine.com/2009/10/the-ultimate-round-up-of-t-shirt-design-tutorials/"

@@ -1,14 +1,24 @@
 {
-  "author": "@jrainsford",
+  "author": "John Rainsford",
+  "authorUrl": "https://www.smashingmagazine.com/author/john-rainsford/",
   "commentCount": 43,
   "description": "Getting t-shirts printed is an ideal way to promote your business, organization or event. They are a promotional item that people can actually use, and they have the added bonus of being an adverti...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/screen-printing.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/12/preparing-artwork-for-screen-printing-in-adobe-illustrator/",
   "publishedDate": 1291693167,
   "tags": [
-    "CMYK",
-    "Illustrator",
-    "Tutorials"
+    {
+      "name": "CMYK",
+      "slug": "cmyk"
+    },
+    {
+      "name": "Illustrator",
+      "slug": "illustrator"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "Preparing Artwork for Screen Printing in Adobe Illustrator",
   "url": "https://www.smashingmagazine.com/2010/12/preparing-artwork-for-screen-printing-in-adobe-illustrator/"

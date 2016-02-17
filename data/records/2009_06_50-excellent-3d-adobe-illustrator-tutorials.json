@@ -1,15 +1,28 @@
 {
-  "author": "@naldzgraphics",
+  "author": "Ronald Bien",
+  "authorUrl": "https://www.smashingmagazine.com/author/ronald-bien/",
   "commentCount": 61,
   "description": "Adobe Illustrator is one of the best applications for making graphic artwork like logos, print designs and Web pages. As time goes on, more and more Illustrator techniques are introduced by talente...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/3d.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/06/50-excellent-3d-adobe-illustrator-tutorials/",
   "publishedDate": 1245130825,
   "tags": [
-    "3D",
-    "Drawing",
-    "Illustrator",
-    "Tutorials"
+    {
+      "name": "3D",
+      "slug": "3d"
+    },
+    {
+      "name": "Drawing",
+      "slug": "drawing"
+    },
+    {
+      "name": "Illustrator",
+      "slug": "illustrator"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "50 Excellent 3D Adobe Illustrator Tutorials",
   "url": "https://www.smashingmagazine.com/2009/06/50-excellent-3d-adobe-illustrator-tutorials/"

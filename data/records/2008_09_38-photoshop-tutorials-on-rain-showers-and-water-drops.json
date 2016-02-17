@@ -1,14 +1,24 @@
 {
-  "author": "@glenstansberry",
+  "author": "Glen Stansberry",
+  "authorUrl": "https://www.smashingmagazine.com/author/glenstansberry/",
   "commentCount": 72,
   "description": "With fall just around the corner, designers are looking for ways to complement their work with Fall imagery like water droplets, rain on leaves and fall rain showers. Including rain or water drops ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/rainy2.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/09/38-photoshop-tutorials-on-rain-showers-and-water-drops/",
   "publishedDate": 1222335542,
   "tags": [
-    "Photoshop",
-    "Techniques",
-    "Tutorials"
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "40 Photoshop Tutorials On Rain Showers and Water Drops",
   "url": "https://www.smashingmagazine.com/2008/09/38-photoshop-tutorials-on-rain-showers-and-water-drops/"

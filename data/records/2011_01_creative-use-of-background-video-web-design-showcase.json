@@ -1,15 +1,28 @@
 {
-  "author": "@aygul",
+  "author": "Aygul Zagidullina",
+  "authorUrl": "https://www.smashingmagazine.com/author/aygul-zagidullina/",
   "commentCount": 93,
   "description": "Since its early days, video has been one of the most powerful and efficient tools of visual communication. It is able to deliver a direct and clear message to a broad audience as well as focus view...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/play-button-illu88.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/01/creative-use-of-background-video-web-design-showcase/",
   "publishedDate": 1294280846,
   "tags": [
-    "Backgrounds",
-    "Showcases",
-    "Videos",
-    "Web Design"
+    {
+      "name": "Backgrounds",
+      "slug": "backgrounds"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Videos",
+      "slug": "videos"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Creative Use of Video in Web Design: Background Videos",
   "url": "https://www.smashingmagazine.com/2011/01/creative-use-of-background-video-web-design-showcase/"

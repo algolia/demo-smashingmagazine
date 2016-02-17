@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 90,
   "description": "This wallpaper is entitled KISS, which is short for “Keep it simple stupid!” It’s been one of my favorite quotes, especially in design. Go ahead, start keeping it simple and download this wallpaper.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illuair5.gif",
   "objectID": "https://www.smashingmagazine.com/2010/02/wallpaper-week-kiss/",
   "publishedDate": 1267273384,
   "tags": [
-    "Design Informer",
-    "Wallpapers"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Wallpaper of the Week - Kiss",
   "url": "https://www.smashingmagazine.com/2010/02/wallpaper-week-kiss/"

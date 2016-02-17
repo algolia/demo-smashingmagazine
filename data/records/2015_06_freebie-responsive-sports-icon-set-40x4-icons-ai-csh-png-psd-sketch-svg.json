@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 12,
   "description": "Free set of 40 sports icons in four styles and six formats. Each icon comes in four styles: flat colored, glyph, Google material palette and line strokes.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/06/material-opt-small.png",
   "objectID": "https://www.smashingmagazine.com/2015/06/freebie-responsive-sports-icon-set-40x4-icons-ai-csh-png-psd-sketch-svg/",
   "publishedDate": 1434216360,
   "tags": [
-    "Freebies",
-    "Icons"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Freebie: Responsive Sports Icon Set",
   "url": "https://www.smashingmagazine.com/2015/06/freebie-responsive-sports-icon-set-40x4-icons-ai-csh-png-psd-sketch-svg/"

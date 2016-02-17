@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 37,
   "description": "Every now and again we take a look around, select “fresh” high-quality free fonts and present them to you in a brief overview. The choice is enormous, so the time you need to find them is usually t...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/freeb.gif",
   "objectID": "https://www.smashingmagazine.com/2008/05/free-fonts-of-the-month-freebooter-script-cora-basic/",
   "publishedDate": 1210592872,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Typography"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Free Fonts Of The Month: Freebooter Script, Cora Basic",
   "url": "https://www.smashingmagazine.com/2008/05/free-fonts-of-the-month-freebooter-script-cora-basic/"

@@ -1,13 +1,20 @@
 {
-  "author": "@ImpressiveWebs",
+  "author": "Louis Lazaris",
+  "authorUrl": "https://www.smashingmagazine.com/author/louis-lazaris/",
   "commentCount": 252,
   "description": "I was pretty excited when I came up with the idea of examining and showcasing some of the most famous beer and alcohol-related websites from a number of countries around the world. After all, who d...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/beer.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/12/the-unusable-and-superficial-world-of-beer-and-alcohol-websites/",
   "publishedDate": 1260153488,
   "tags": [
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "The Unusable and Superficial World of Beer and Alcohol Websites",
   "url": "https://www.smashingmagazine.com/2009/12/the-unusable-and-superficial-world-of-beer-and-alcohol-websites/"

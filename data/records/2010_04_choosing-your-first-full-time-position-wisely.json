@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Nick Burd",
+  "authorUrl": "https://www.smashingmagazine.com/author/nick-burd/",
   "commentCount": 32,
   "description": "Being a college student looking for your first full time job can be stressful. What do you look for when you are searching for your first job?",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/first-position.png",
   "objectID": "https://www.smashingmagazine.com/2010/04/choosing-your-first-full-time-position-wisely/",
   "publishedDate": 1271950302,
   "tags": [
-    "Business",
-    "Design Informer",
-    "Skills",
-    "Workflow"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Skills",
+      "slug": "skills"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Choosing Your First Full Time Position Wisely",
   "url": "https://www.smashingmagazine.com/2010/04/choosing-your-first-full-time-position-wisely/"

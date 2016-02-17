@@ -1,14 +1,24 @@
 {
-  "author": "@wellmedicated",
+  "author": "Andrew Lindstrom",
+  "authorUrl": "https://www.smashingmagazine.com/author/andrew-lindstrom/",
   "commentCount": 211,
   "description": "We all know that first impressions are important, right? Well, the same goes for film. The opening title sequence of a film is that film&#39;s opportunity to make a good first impression on you, the vi...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/bond.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/12/30-unforgettable-movie-title-sequences/",
   "publishedDate": 1229660158,
   "tags": [
-    "Art",
-    "Movies",
-    "Videos"
+    {
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "name": "Movies",
+      "slug": "movies"
+    },
+    {
+      "name": "Videos",
+      "slug": "videos"
+    }
   ],
   "title": "30 Unforgettable Movie Opening Sequences",
   "url": "https://www.smashingmagazine.com/2008/12/30-unforgettable-movie-title-sequences/"

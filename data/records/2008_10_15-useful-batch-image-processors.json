@@ -1,13 +1,20 @@
 {
-  "author": "@glenstansberry",
+  "author": "Glen Stansberry",
+  "authorUrl": "https://www.smashingmagazine.com/author/glenstansberry/",
   "commentCount": 119,
   "description": "Whether you’re a Web developer, Web designer or blogger, you’ve probably had to deal with the headache of converting many images to different sizes and formats. It’s not much fun if you have to con...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/batch.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/10/15-useful-batch-image-processors/",
   "publishedDate": 1222950330,
   "tags": [
-    "Open Source",
-    "Tools"
+    {
+      "name": "Open Source",
+      "slug": "open-source"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "15 Useful Batch Image Processors",
   "url": "https://www.smashingmagazine.com/2008/10/15-useful-batch-image-processors/"

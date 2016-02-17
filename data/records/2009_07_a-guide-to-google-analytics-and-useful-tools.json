@@ -1,13 +1,20 @@
 {
-  "author": "@speckyboy",
+  "author": "Paul Andrew",
+  "authorUrl": "https://www.smashingmagazine.com/author/paul-andrew/",
   "commentCount": 83,
   "description": "Google Analytics is undoubtedly the most widely used web analytics application. Emerged from and based upon the analytics-package developed by Urchin Software Corporation (which was bought by Googl...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/analytics.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/07/a-guide-to-google-analytics-and-useful-tools/",
   "publishedDate": 1247714899,
   "tags": [
-    "Analytics",
-    "Tools"
+    {
+      "name": "Analytics",
+      "slug": "analytics"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "A Guide To Google Analytics And Useful Tools",
   "url": "https://www.smashingmagazine.com/2009/07/a-guide-to-google-analytics-and-useful-tools/"

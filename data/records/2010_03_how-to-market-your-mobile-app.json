@@ -1,14 +1,24 @@
 {
-  "author": "@flarup",
+  "author": "Michael Flarup",
+  "authorUrl": "https://www.smashingmagazine.com/author/michael-flarup/",
   "commentCount": 78,
   "description": "App Store is a competitive environment. Against more than 140,000 apps, all screaming for attention, how do you make sure your app gets its time in the spotlight? What does it take to get good medi...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2010/02/howtomarket.png",
   "objectID": "https://www.smashingmagazine.com/2010/03/how-to-market-your-mobile-app/",
   "publishedDate": 1267585163,
   "tags": [
-    "Apps",
-    "Business",
-    "Marketing"
+    {
+      "name": "Apps",
+      "slug": "apps"
+    },
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Marketing",
+      "slug": "marketing"
+    }
   ],
   "title": "How To Market Your Mobile Application",
   "url": "https://www.smashingmagazine.com/2010/03/how-to-market-your-mobile-app/"

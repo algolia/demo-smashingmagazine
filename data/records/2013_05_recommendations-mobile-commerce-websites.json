@@ -1,13 +1,20 @@
 {
-  "author": "@Baymard",
+  "author": "Christian Holst",
+  "authorUrl": "https://www.smashingmagazine.com/author/christian-holst/",
   "commentCount": 29,
   "description": "This article shares ten fundamental recommendations from a large-scale usability study focusing specifically on m-commerce and set out to explore the entire mobile shopping experience.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ux-8.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/05/recommendations-mobile-commerce-websites/",
   "publishedDate": 1369106685,
   "tags": [
-    "Usability",
-    "User Research"
+    {
+      "name": "Usability",
+      "slug": "usability"
+    },
+    {
+      "name": "User Research",
+      "slug": "user-research"
+    }
   ],
   "title": "Exploring Ten Fundamental Aspects Of M-Commerce Usability",
   "url": "https://www.smashingmagazine.com/2013/05/recommendations-mobile-commerce-websites/"

@@ -1,13 +1,20 @@
 {
-  "author": "@tjvantoll",
+  "author": "TJ VanToll",
+  "authorUrl": "https://www.smashingmagazine.com/author/tj-vantoll/",
   "commentCount": 26,
   "description": "Many basic best practices for accessibility are forgotten on mobile websites. Developers implement complex solutions such as responsive design and responsive images, yet forget about basic techniqu...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/10/enter-key.png",
   "objectID": "https://www.smashingmagazine.com/2014/05/mobile-accessibility-why-care-what-can-you-do/",
   "publishedDate": 1400649495,
   "tags": [
-    "Accessibility",
-    "User Experience"
+    {
+      "name": "Accessibility",
+      "slug": "accessibility"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Mobile And Accessibility: Why You Should Care And What You Can Do About It",
   "url": "https://www.smashingmagazine.com/2014/05/mobile-accessibility-why-care-what-can-you-do/"

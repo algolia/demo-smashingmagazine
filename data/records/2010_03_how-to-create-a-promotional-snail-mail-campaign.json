@@ -1,14 +1,24 @@
 {
-  "author": "@danredding",
+  "author": "Dan Redding",
+  "authorUrl": "https://www.smashingmagazine.com/author/dan-redding/",
   "commentCount": 49,
   "description": "It’s important to promote your design business. This is especially true when economic times are challenging, you’ve got news to announce, or you’re simply hungry for growth. Many forms of promotion...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/promo-mailer.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/03/how-to-create-a-promotional-snail-mail-campaign/",
   "publishedDate": 1268702878,
   "tags": [
-    "Advertising",
-    "Business",
-    "Business Cards"
+    {
+      "name": "Advertising",
+      "slug": "advertising"
+    },
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Business Cards",
+      "slug": "business-cards"
+    }
   ],
   "title": "How to Create a Promotional Snail Mail Campaign",
   "url": "https://www.smashingmagazine.com/2010/03/how-to-create-a-promotional-snail-mail-campaign/"

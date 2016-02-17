@@ -1,13 +1,20 @@
 {
-  "author": "@dfadeyev",
+  "author": "Dmitry Fadeyev",
+  "authorUrl": "https://www.smashingmagazine.com/author/dmitry-fadeyev/",
   "commentCount": 203,
   "description": "As a Web designer you&#39;re undoubtedly familiar with CSS, the style sheet language used to format markup on Web pages. CSS itself is extremely simple, consisting of rule sets and declaration blocks—w...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/css-10.png",
   "objectID": "https://www.smashingmagazine.com/2010/12/using-the-less-css-preprocessor-for-smarter-style-sheets/",
   "publishedDate": 1291606645,
   "tags": [
-    "CSS",
-    "Less"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Less",
+      "slug": "less"
+    }
   ],
   "title": "Using the LESS CSS Preprocessor for Smarter Style Sheets",
   "url": "https://www.smashingmagazine.com/2010/12/using-the-less-css-preprocessor-for-smarter-style-sheets/"

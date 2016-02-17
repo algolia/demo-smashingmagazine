@@ -1,12 +1,16 @@
 {
-  "author": "@helloanselm",
+  "author": "Anselm Hannemann",
+  "authorUrl": "https://www.smashingmagazine.com/author/anselm-hannemann/",
   "commentCount": 0,
   "description": "I often think about our responsibility as web developers. I compare our job to a health worker, to a craftsman, and I realize that we have a pretty easy job in most cases. Usually, nobody’s life wi...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2016/02/vector-networks-opt.png",
   "objectID": "https://www.smashingmagazine.com/2016/02/web-development-reading-list-124/",
   "publishedDate": 1455281844,
   "tags": [
-    "Web Development Reading List"
+    {
+      "name": "Web Development Reading List",
+      "slug": "web-development-reading-list"
+    }
   ],
   "title": "Web Dev. Reading List #124: Responsibility, Flexbox Order, And More",
   "url": "https://www.smashingmagazine.com/2016/02/web-development-reading-list-124/"

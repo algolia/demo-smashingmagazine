@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Elja Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/elja-friedman/",
   "commentCount": 432,
   "description": "Today we are glad to release a beautiful, simple and clean portfolio WordPress theme — SimpleFolio, designed by Omar E. Corrales and released for Smashing Magazine and its readers. SimpleFolio is a...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/simplefolio.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/02/simplefolio-a-free-clean-portfolio-wordpress-theme/",
   "publishedDate": 1265528145,
   "tags": [
-    "Freebies",
-    "Themes"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "SimpleFolio: A Free Clean Portfolio WordPress Theme",
   "url": "https://www.smashingmagazine.com/2010/02/simplefolio-a-free-clean-portfolio-wordpress-theme/"

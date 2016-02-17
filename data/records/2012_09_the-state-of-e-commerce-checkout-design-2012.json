@@ -1,14 +1,24 @@
 {
-  "author": "@Baymard",
+  "author": "Christian Holst",
+  "authorUrl": "https://www.smashingmagazine.com/author/christian-holst/",
   "commentCount": 47,
   "description": "A walkthrough of interesting data and stats found when benchmarking the checkout process design of the top 100 grossing e-commerce websites.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/08/step-distribution-new.png",
   "objectID": "https://www.smashingmagazine.com/2012/09/the-state-of-e-commerce-checkout-design-2012/",
   "publishedDate": 1346728137,
   "tags": [
-    "E-Commerce",
-    "Studies",
-    "User Research"
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    },
+    {
+      "name": "Studies",
+      "slug": "studies"
+    },
+    {
+      "name": "User Research",
+      "slug": "user-research"
+    }
   ],
   "title": "The State Of E-Commerce Checkout Design 2012",
   "url": "https://www.smashingmagazine.com/2012/09/the-state-of-e-commerce-checkout-design-2012/"

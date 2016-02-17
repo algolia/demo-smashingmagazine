@@ -1,14 +1,24 @@
 {
-  "author": "@vailancio",
+  "author": "Vailancio Rodrigues",
+  "authorUrl": "https://www.smashingmagazine.com/author/vailrodrigues/",
   "commentCount": 39,
   "description": "Although static graphics is obviously much easier to scan and therefore can be easily perceived, motion graphics brings dynamics and life into otherwise static content. Animation can help designers...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/motion.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/05/the-ultimate-motion-graphics-tutorials-round-up/",
   "publishedDate": 1243288406,
   "tags": [
-    "CG",
-    "Tutorials",
-    "Videos"
+    {
+      "name": "CG",
+      "slug": "cg"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    },
+    {
+      "name": "Videos",
+      "slug": "videos"
+    }
   ],
   "title": "The Ultimate Motion Graphics Tutorials Round-Up",
   "url": "https://www.smashingmagazine.com/2009/05/the-ultimate-motion-graphics-tutorials-round-up/"

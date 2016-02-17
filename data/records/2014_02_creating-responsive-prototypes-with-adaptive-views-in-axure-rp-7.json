@@ -1,14 +1,24 @@
 {
-  "author": "@willhacker",
+  "author": "Will Hacker",
+  "authorUrl": "https://www.smashingmagazine.com/author/will-hacker/",
   "commentCount": 33,
   "description": "Creating responsive prototypes without writing code is now possible with Axure RP 7’s new adaptive views feature. The feature enables you to create one page in Axure RP with several “views.”",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wireframing-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/02/creating-responsive-prototypes-with-adaptive-views-in-axure-rp-7/",
   "publishedDate": 1393381281,
   "tags": [
-    "Interaction Design",
-    "Techniques",
-    "User Experience"
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Creating Responsive Prototypes With Adaptive Views In Axure RP 7",
   "url": "https://www.smashingmagazine.com/2014/02/creating-responsive-prototypes-with-adaptive-views-in-axure-rp-7/"

@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Karen Menezes",
+  "authorUrl": "https://www.smashingmagazine.com/author/karenmenezes/",
   "commentCount": 28,
   "description": "Karen Menezes explains clipping with the clip-path property. It&#39;s akin to cutting a shape (like a circle or a pentagon) from a rectangular piece of paper. The property belongs to the “CSS Masking M...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/05/example-pic-for-code-pen-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/05/creating-responsive-shapes-with-clip-path/",
   "publishedDate": 1431344762,
   "tags": [
-    "CSS",
-    "Responsive Web Design"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "Creating Responsive Shapes With Clip-Path And Breaking Out Of The Box",
   "url": "https://www.smashingmagazine.com/2015/05/creating-responsive-shapes-with-clip-path/"

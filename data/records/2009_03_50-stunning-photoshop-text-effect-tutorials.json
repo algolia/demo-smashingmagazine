@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Andrew Gibson",
+  "authorUrl": "https://www.smashingmagazine.com/author/andrew-gibson/",
   "commentCount": 215,
   "description": "Photoshop’s text and layer tools can be used to create some really awesome effects. We’ve put together a list of 60 of the best tutorials we could find to help you stay up to date on the latest tre...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/copp.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/03/50-stunning-photoshop-text-effect-tutorials/",
   "publishedDate": 1236184230,
   "tags": [
-    "CG",
-    "Photoshop",
-    "Text",
-    "Tutorials"
+    {
+      "name": "CG",
+      "slug": "cg"
+    },
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "Text",
+      "slug": "text"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "50 Stunning Photoshop Text Effect Tutorials",
   "url": "https://www.smashingmagazine.com/2009/03/50-stunning-photoshop-text-effect-tutorials/"

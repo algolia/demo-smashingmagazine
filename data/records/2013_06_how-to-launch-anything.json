@@ -1,14 +1,24 @@
 {
-  "author": "@nathanbarry",
+  "author": "Nathan Barry",
+  "authorUrl": "https://www.smashingmagazine.com/author/nathan-barry/",
   "commentCount": 53,
   "description": "Plenty of great ideas and tips of what you can do to successfully launch your next product.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/06/launch-a-project_2.png",
   "objectID": "https://www.smashingmagazine.com/2013/06/how-to-launch-anything/",
   "publishedDate": 1372413811,
   "tags": [
-    "Business",
-    "Community",
-    "Useful"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "name": "Useful",
+      "slug": "useful"
+    }
   ],
   "title": "How To Launch Anything",
   "url": "https://www.smashingmagazine.com/2013/06/how-to-launch-anything/"

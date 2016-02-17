@@ -1,13 +1,20 @@
 {
-  "author": "@jordanmoore",
+  "author": "Jordan Moore",
+  "authorUrl": "https://www.smashingmagazine.com/author/jordan-moore/",
   "commentCount": 28,
   "description": "This article discusses some of the lesser practiced elements of the responsive web design ecosystem, under the umbrella of responsible web design: context-sensitive interactions, performance and pr...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/03/rwd-img2a-500.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/03/responsible-web-design/",
   "publishedDate": 1362976228,
   "tags": [
-    "Optimization",
-    "Performance"
+    {
+      "name": "Optimization",
+      "slug": "optimization"
+    },
+    {
+      "name": "Performance",
+      "slug": "performance"
+    }
   ],
   "title": "Responsible Considerations For Responsive Web Design",
   "url": "https://www.smashingmagazine.com/2013/03/responsible-web-design/"

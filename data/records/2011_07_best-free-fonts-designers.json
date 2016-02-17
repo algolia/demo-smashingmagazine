@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 17,
   "description": "Here are some of my favorite websites to obtain high-quality free fonts that you can immediately start using on your projects.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illurss82.png",
   "objectID": "https://www.smashingmagazine.com/2011/07/best-free-fonts-designers/",
   "publishedDate": 1311070943,
   "tags": [
-    "Design Informer",
-    "Free Fonts"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Free Fonts",
+      "slug": "free-fonts"
+    }
   ],
   "title": "The Best Free Fonts for Designers",
   "url": "https://www.smashingmagazine.com/2011/07/best-free-fonts-designers/"

@@ -1,14 +1,24 @@
 {
-  "author": "@ebrunborg",
+  "author": "Espen Brunborg",
+  "authorUrl": "https://www.smashingmagazine.com/author/espen-brunborg/",
   "commentCount": 181,
   "description": "Since Elliot Jay Stocks so poignantly told us to destroy the Web 2.0 look, we’ve witnessed a de-shinification of the Web, with fewer glass buttons, beveled edges, reflections, special-offer badges,...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/coversml.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/03/symptoms-of-epidemic-web-design-trends/",
   "publishedDate": 1331788088,
   "tags": [
-    "Opinion Column",
-    "Trends",
-    "Visual Design"
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    },
+    {
+      "name": "Trends",
+      "slug": "trends"
+    },
+    {
+      "name": "Visual Design",
+      "slug": "visual-design"
+    }
   ],
   "title": "Symptoms Of An Epidemic: Web Design Trends",
   "url": "https://www.smashingmagazine.com/2012/03/symptoms-of-epidemic-web-design-trends/"

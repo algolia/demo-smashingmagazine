@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 54,
   "description": "Every now and again we take a look around, select “fresh” high-quality free fonts and present them to you in a brief overview. The choice is enormous, so the time you need to find them is usually t...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/grungetype.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/09/free-fonts-of-the-month-myndraine-museo-sans/",
   "publishedDate": 1222151540,
   "tags": [
-    "Downloads",
-    "Free Fonts",
-    "Freebies",
-    "Typography"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Free Fonts",
+      "slug": "free-fonts"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Free Fonts Of The Month: Myndraine, Museo Sans",
   "url": "https://www.smashingmagazine.com/2008/09/free-fonts-of-the-month-myndraine-museo-sans/"

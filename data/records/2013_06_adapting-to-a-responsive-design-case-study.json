@@ -1,14 +1,24 @@
 {
-  "author": "@duckymatt",
+  "author": "Matt Gibson",
+  "authorUrl": "https://www.smashingmagazine.com/author/matt-gibson/",
   "commentCount": 76,
   "description": "A story of what a design agency learned during redesigning their own agency&#39;s website and a review of their our process of creating a new responsive design.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/07/Bildschirmfoto-2011-07-21-um-13-36-15-in-Responsive-Web-Design-Techniques-Tools-and-Tutorials2.png",
   "objectID": "https://www.smashingmagazine.com/2013/06/adapting-to-a-responsive-design-case-study/",
   "publishedDate": 1371527074,
   "tags": [
-    "Case Studies",
-    "Responsive Web Design",
-    "Techniques"
+    {
+      "name": "Case Studies",
+      "slug": "case-studies"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Adapting To A Responsive Design (Case Study)",
   "url": "https://www.smashingmagazine.com/2013/06/adapting-to-a-responsive-design-case-study/"

@@ -1,15 +1,28 @@
 {
-  "author": "@kouratoras",
+  "author": "Konstantinos Kouratoras",
+  "authorUrl": "https://www.smashingmagazine.com/author/konstantinos-kouratoras/",
   "commentCount": 53,
   "description": "Complete guide to using WordPress shortcodes to streamline your workflow. In-depth tutorial includes many awesome shortcode examples.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/shortcodeswp.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/05/wordpress-shortcodes-complete-guide/",
   "publishedDate": 1335848128,
   "tags": [
-    "Functions",
-    "Guides",
-    "PHP",
-    "Shortcodes"
+    {
+      "name": "Functions",
+      "slug": "functions"
+    },
+    {
+      "name": "Guides",
+      "slug": "guides"
+    },
+    {
+      "name": "PHP",
+      "slug": "php"
+    },
+    {
+      "name": "Shortcodes",
+      "slug": "shortcodes"
+    }
   ],
   "title": "WordPress Shortcodes: A Complete Guide",
   "url": "https://www.smashingmagazine.com/2012/05/wordpress-shortcodes-complete-guide/"

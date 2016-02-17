@@ -1,14 +1,24 @@
 {
-  "author": "@benthinkin",
+  "author": "Ben Gremillion",
+  "authorUrl": "https://www.smashingmagazine.com/author/ben-gremillion/",
   "commentCount": 16,
   "description": "Ben Gremillion introduces a system for testing responsively in the Foudation development to make sure that nothing is broken at launch on different devices.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/03/01-visual-checklist-opt-small.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/03/simple-real-and-bug-free-foundation-development/",
   "publishedDate": 1427449817,
   "tags": [
-    "CSS",
-    "Frameworks",
-    "Responsive Web Design"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Frameworks",
+      "slug": "frameworks"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "Simple, Real And Bug-Free Foundation Development",
   "url": "https://www.smashingmagazine.com/2015/03/simple-real-and-bug-free-foundation-development/"

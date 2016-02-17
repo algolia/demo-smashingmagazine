@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Gabriele Romanato",
+  "authorUrl": "https://www.smashingmagazine.com/author/gabriele-romanato/",
   "commentCount": 51,
   "description": "In this series of articles, we’ll cover in depth a practical implementation of session storage by creating a complete e-commerce shopping cart with the sessionStorage object and jQuery.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/04/code-react-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/02/create-client-side-shopping-cart/",
   "publishedDate": 1392256759,
   "tags": [
-    "HTML",
-    "JavaScript",
-    "PHP",
-    "jQuery"
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "jQuery",
+      "slug": "jquery"
+    },
+    {
+      "name": "PHP",
+      "slug": "php"
+    }
   ],
   "title": "Creating A Client-Side Shopping Cart",
   "url": "https://www.smashingmagazine.com/2014/02/create-client-side-shopping-cart/"

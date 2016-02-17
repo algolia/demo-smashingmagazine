@@ -1,16 +1,32 @@
 {
-  "author": "@jcreamer898",
+  "author": "Jonathan Creamer",
+  "authorUrl": "https://www.smashingmagazine.com/author/jonathancreamer/",
   "commentCount": 29,
   "description": "Find out why isomorphic apps might just give us the best of both worlds: using JavaScript in both places, and delivering to the user a good experience by sending down something they can see quickly...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/04/code-functions-illu-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/04/react-to-the-future-with-isomorphic-apps/",
   "publishedDate": 1429617978,
   "tags": [
-    "API",
-    "Apps",
-    "JavaScript",
-    "Node.js",
-    "React"
+    {
+      "name": "API",
+      "slug": "api"
+    },
+    {
+      "name": "Apps",
+      "slug": "apps"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Node.js",
+      "slug": "node-js"
+    },
+    {
+      "name": "React",
+      "slug": "react"
+    }
   ],
   "title": "React To The Future With Isomorphic Apps",
   "url": "https://www.smashingmagazine.com/2015/04/react-to-the-future-with-isomorphic-apps/"

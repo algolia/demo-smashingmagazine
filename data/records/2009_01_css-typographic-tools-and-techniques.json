@@ -1,15 +1,28 @@
 {
-  "author": "@nourayehia",
+  "author": "Noura Yehia",
+  "authorUrl": "https://www.smashingmagazine.com/author/noura-yehia/",
   "commentCount": 97,
   "description": "Typography is elegant when it is attractive and communicates the designer’s ideas. When chosen wisely and used carefully, it can be very effective in supporting the overall design. Designers are al...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/typet.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/01/css-typographic-tools-and-techniques/",
   "publishedDate": 1233082825,
   "tags": [
-    "Tools",
-    "Typography",
-    "Useful",
-    "Web Design"
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    },
+    {
+      "name": "Useful",
+      "slug": "useful"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "50 Useful Design Tools For Beautiful Web Typography",
   "url": "https://www.smashingmagazine.com/2009/01/css-typographic-tools-and-techniques/"

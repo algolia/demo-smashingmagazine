@@ -1,12 +1,16 @@
 {
-  "author": "@jeremymgirard",
+  "author": "Jeremy Girard",
+  "authorUrl": "https://www.smashingmagazine.com/author/jeremy-girard/",
   "commentCount": 48,
   "description": "There comes a point in the career of many Web designers where the logical progression in that career is to take on a leadership position. A logical step or not, when a designer “assumes” this type ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/presentation-ninja-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/11/assuming-leadership-design-agency/",
   "publishedDate": 1321421276,
   "tags": [
-    "Business"
+    {
+      "name": "Business",
+      "slug": "business"
+    }
   ],
   "title": "Assuming Leadership In Your Design Agency",
   "url": "https://www.smashingmagazine.com/2011/11/assuming-leadership-design-agency/"

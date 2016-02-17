@@ -1,14 +1,24 @@
 {
-  "author": "@iA",
+  "author": "Oliver Reichenstein",
+  "authorUrl": "https://www.smashingmagazine.com/author/oliver-reichenstein/",
   "commentCount": 115,
   "description": "There he goes, the web designer, stepping up to the counter of an empty McDonald’s at 3 o’clock in the morning. He is scanning the overhead menu, putting a cheeseburger in his mental shopping baske...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/mcdonalds.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/10/brand-user-experience-the-interface-of-a-cheeseburger/",
   "publishedDate": 1256394009,
   "tags": [
-    "Branding",
-    "Business",
-    "User Interaction"
+    {
+      "name": "Branding",
+      "slug": "branding"
+    },
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "User Interaction",
+      "slug": "user-interaction"
+    }
   ],
   "title": "Brand = User Experience: The Interface Of A Cheeseburger",
   "url": "https://www.smashingmagazine.com/2009/10/brand-user-experience-the-interface-of-a-cheeseburger/"

@@ -1,13 +1,20 @@
 {
-  "author": "@inspiredmag",
+  "author": "Catalin Zorzini",
+  "authorUrl": "https://www.smashingmagazine.com/author/catalin-zorzini/",
   "commentCount": 54,
   "description": "It may be the economical slowdown, the climate change, or even a random boost of creativity, but the competition between graphic studios is huge right now. Today, more than ever, you really need to...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/portf2.png",
   "objectID": "https://www.smashingmagazine.com/2009/08/30-fresh-and-inspirational-portfolios-with-a-twist/",
   "publishedDate": 1249438632,
   "tags": [
-    "Portfolios",
-    "Showcases"
+    {
+      "name": "Portfolios",
+      "slug": "portfolios"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    }
   ],
   "title": "30 Fresh and Inspirational Portfolios With A Twist",
   "url": "https://www.smashingmagazine.com/2009/08/30-fresh-and-inspirational-portfolios-with-a-twist/"

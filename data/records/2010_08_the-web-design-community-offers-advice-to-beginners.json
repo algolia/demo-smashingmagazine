@@ -1,13 +1,20 @@
 {
-  "author": "@rob_e_bowen",
+  "author": "Robert Bowen",
+  "authorUrl": "https://www.smashingmagazine.com/author/robert-bowen/",
   "commentCount": 100,
   "description": "At one time or another, we are all newbies. That’s right: you can deny it all you want, but not one of us got into this game with a full deck stacked in our favor. We entered as newbies, born fresh...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/beginners.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/08/the-web-design-community-offers-advice-to-beginners/",
   "publishedDate": 1282102064,
   "tags": [
-    "Community",
-    "Opinion Column"
+    {
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    }
   ],
   "title": "The Web Design Community Offers Advice To Beginners",
   "url": "https://www.smashingmagazine.com/2010/08/the-web-design-community-offers-advice-to-beginners/"

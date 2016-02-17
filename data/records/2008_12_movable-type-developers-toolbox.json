@@ -1,14 +1,24 @@
 {
-  "author": "@stevensnell",
+  "author": "Steven Snell",
+  "authorUrl": "https://www.smashingmagazine.com/author/stevensnell/",
   "commentCount": 33,
   "description": "Because we have published several other comprehensive resources for developers of other content management systems (CMSs), we didn’t want to forget Movable Type. Like the other CMSs we have feature...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/mt.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/12/movable-type-developers-toolbox/",
   "publishedDate": 1228738409,
   "tags": [
-    "CMS",
-    "Resources",
-    "Tools"
+    {
+      "name": "CMS",
+      "slug": "cms"
+    },
+    {
+      "name": "Resources",
+      "slug": "resources"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "Movable Type Developer's Toolbox",
   "url": "https://www.smashingmagazine.com/2008/12/movable-type-developers-toolbox/"

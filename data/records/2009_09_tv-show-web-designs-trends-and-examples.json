@@ -1,14 +1,24 @@
 {
-  "author": "@stevensnell",
+  "author": "Steven Snell",
+  "authorUrl": "https://www.smashingmagazine.com/author/stevensnell/",
   "commentCount": 51,
   "description": "Looking at websites from major industries that involve various forms of media can be interesting practice. In the past we have showcased websites from movies and from musicians on the Billboard cha...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/tv-shows.png",
   "objectID": "https://www.smashingmagazine.com/2009/09/tv-show-web-designs-trends-and-examples/",
   "publishedDate": 1251808592,
   "tags": [
-    "Inspiration",
-    "Showcases",
-    "TV"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "TV",
+      "slug": "tv"
+    }
   ],
   "title": "TV Show Web Designs: Trends and Examples",
   "url": "https://www.smashingmagazine.com/2009/09/tv-show-web-designs-trends-and-examples/"

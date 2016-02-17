@@ -1,15 +1,28 @@
 {
-  "author": "@itsjengordon",
+  "author": "Jen Gordon",
+  "authorUrl": "https://www.smashingmagazine.com/author/jen-gordon/",
   "commentCount": 55,
   "description": "iPhone App Design Trends",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/iphone-app-design-trends/facebook.png",
   "objectID": "https://www.smashingmagazine.com/2009/10/iphone-app-design-trends/",
   "publishedDate": 1255057042,
   "tags": [
-    "Design Patterns",
-    "Showcases",
-    "Trends",
-    "iPhone"
+    {
+      "name": "Design Patterns",
+      "slug": "design-patterns"
+    },
+    {
+      "name": "iPhone",
+      "slug": "iphone"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Trends",
+      "slug": "trends"
+    }
   ],
   "title": "iPhone App Design Trends",
   "url": "https://www.smashingmagazine.com/2009/10/iphone-app-design-trends/"

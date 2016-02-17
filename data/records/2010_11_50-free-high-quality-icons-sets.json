@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 63,
   "description": "Feel free to make yourself a cup of tea or coffee right now because you&#39;ll be investing an hour or so in today&#39;s post. We&#39;ve published our last icons round-up six months ago and since then we&#39;ve co...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/cupcake.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/11/50-free-high-quality-icons-sets/",
   "publishedDate": 1289279905,
   "tags": [
-    "Freebies",
-    "Icons"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "50 New Free High Quality Icons Sets",
   "url": "https://www.smashingmagazine.com/2010/11/50-free-high-quality-icons-sets/"

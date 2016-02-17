@@ -1,14 +1,24 @@
 {
-  "author": "@drawar",
+  "author": "Paul Scrivens",
+  "authorUrl": "https://www.smashingmagazine.com/author/paul-scrivens/",
   "commentCount": 25,
   "description": "What if someone came to you and said, “I’ve designed this great website, but people don’t stay on it. Why?” How would you respond? Would you ask them whether they have done extensive A/B testing? W...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/diagram-raphael-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/05/you-design-it-they-do-it/",
   "publishedDate": 1336125530,
   "tags": [
-    "Opinion Column",
-    "Psychology",
-    "Web Design"
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    },
+    {
+      "name": "Psychology",
+      "slug": "psychology"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "You Design It, They Do It",
   "url": "https://www.smashingmagazine.com/2012/05/you-design-it-they-do-it/"

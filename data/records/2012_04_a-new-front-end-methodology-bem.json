@@ -1,16 +1,32 @@
 {
-  "author": "@toivonens",
+  "author": "Varvara Stepanova",
+  "authorUrl": "https://www.smashingmagazine.com/author/varvara-stepanova/",
   "commentCount": 71,
   "description": "BEM stands for Block, Element, Modifier. It is a methodology, a way of thinking when developing web interfaces. Besides, BEM is a toolkit to develop faster and better.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/03/bem-frontpage.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/",
   "publishedDate": 1334538014,
   "tags": [
-    "CSS",
-    "Frameworks",
-    "HTML",
-    "JavaScript",
-    "Templates"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Frameworks",
+      "slug": "frameworks"
+    },
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Templates",
+      "slug": "templates"
+    }
   ],
   "title": "A New Front-End Methodology: BEM",
   "url": "https://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/"

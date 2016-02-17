@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 71,
   "description": "When it comes to responsive design, it&#39;s not just about fluid images or adaptive layouts. It&#39;s also about the responsive methodology behind the entire design process. In responsive design, we are c...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/08/flexslider-new1.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/08/freebie-responsive-jquery-slider-plugin-flexslider/",
   "publishedDate": 1314156047,
   "tags": [
-    "Frameworks",
-    "Freebies",
-    "Responsive Web Design",
-    "jQuery"
+    {
+      "name": "Frameworks",
+      "slug": "frameworks"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "jQuery",
+      "slug": "jquery"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "Freebie: Responsive jQuery Slider Plugin Flexslider",
   "url": "https://www.smashingmagazine.com/2011/08/freebie-responsive-jquery-slider-plugin-flexslider/"

@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 50,
   "description": "This wallpaper is entitled Colourful Universe and was designed by UK based graphic designer, Simon Page. He is a self-taught graphic designer who loves many aspects of design but his main passions ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/colourful-wallpaper.png",
   "objectID": "https://www.smashingmagazine.com/2010/01/wallpaper-week-colourful-universe/",
   "publishedDate": 1263091839,
   "tags": [
-    "Design Informer",
-    "Wallpapers"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Wallpaper of the Week - Colourful Universe",
   "url": "https://www.smashingmagazine.com/2010/01/wallpaper-week-colourful-universe/"

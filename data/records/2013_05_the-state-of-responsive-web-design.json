@@ -1,13 +1,20 @@
 {
-  "author": "@walterstephanie",
+  "author": "Stéphanie Walter",
+  "authorUrl": "https://www.smashingmagazine.com/author/stephanie-walter/",
   "commentCount": 114,
   "description": "In this article, we will look at what is currently possible, what will be possible in responsive web design in the future using what are not yet standardized properties (such as CSS Level 4 and HTM...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/01/aNote.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/05/the-state-of-responsive-web-design/",
   "publishedDate": 1369791567,
   "tags": [
-    "Responsive Web Design",
-    "Techniques"
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "The State Of Responsive Web Design",
   "url": "https://www.smashingmagazine.com/2013/05/the-state-of-responsive-web-design/"

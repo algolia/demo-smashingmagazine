@@ -1,13 +1,20 @@
 {
-  "author": "@illustratoring",
+  "author": "Laura Coyle",
+  "authorUrl": "https://www.smashingmagazine.com/author/laura-coyle/",
   "commentCount": 48,
   "description": "In this article, Laura Coyle demonstrates the exciting process of making illustrated maps with Google Earth, for a map to appear next to a magazine story about a Wellington beer.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illust-7.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/07/illustrated-maps-in-era-of-google-earth/",
   "publishedDate": 1373880294,
   "tags": [
-    "Illustrator",
-    "Workflow"
+    {
+      "name": "Illustrator",
+      "slug": "illustrator"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "The Joy Of Illustrated Maps In The Era Of Google Earth",
   "url": "https://www.smashingmagazine.com/2013/07/illustrated-maps-in-era-of-google-earth/"

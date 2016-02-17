@@ -1,13 +1,20 @@
 {
-  "author": "@pwhisenhunt",
+  "author": "Phillip Whisenhunt",
+  "authorUrl": "https://www.smashingmagazine.com/author/phillip-whisenhunt/",
   "commentCount": 38,
   "description": "In this article, we’ll explore different design patterns that you can use in your Backbone.js applications, and we’ll look at many of the common gotchas that trip up developers.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/08/illu-backbone.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/08/backbone-js-tips-patterns/",
   "publishedDate": 1376004656,
   "tags": [
-    "Frameworks",
-    "JavaScript"
+    {
+      "name": "Frameworks",
+      "slug": "frameworks"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    }
   ],
   "title": "Backbone.js Tips And Patterns",
   "url": "https://www.smashingmagazine.com/2013/08/backbone-js-tips-patterns/"

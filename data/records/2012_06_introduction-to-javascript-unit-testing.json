@@ -1,13 +1,20 @@
 {
-  "author": "@bassistance",
+  "author": "Jörn Zaefferer",
+  "authorUrl": "https://www.smashingmagazine.com/author/joern-zaefferer/",
   "commentCount": 15,
   "description": "You probably know that testing is good, but the first hurdle to overcome when trying to write unit tests for client-side code is the lack of any actual units; JavaScript code is written for each pa...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/06/prettydate-tests-frontpage1.png",
   "objectID": "https://www.smashingmagazine.com/2012/06/introduction-to-javascript-unit-testing/",
   "publishedDate": 1340749891,
   "tags": [
-    "JavaScript",
-    "Testing"
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Testing",
+      "slug": "testing"
+    }
   ],
   "title": "Introduction To JavaScript Unit Testing",
   "url": "https://www.smashingmagazine.com/2012/06/introduction-to-javascript-unit-testing/"

@@ -1,12 +1,16 @@
 {
-  "author": "@cameron_chapman",
+  "author": "Cameron Chapman",
+  "authorUrl": "https://www.smashingmagazine.com/author/cameron-chapman/",
   "commentCount": 206,
   "description": "College and university websites have a lot of roles to fill. They need to provide information for prospective students (both new and transfer), parents of students and prospective students, current...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/college.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/03/showcase-of-academic-and-higher-education-websites/",
   "publishedDate": 1268967543,
   "tags": [
-    "Showcases"
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    }
   ],
   "title": "Showcase of Academic and Higher Education Websites",
   "url": "https://www.smashingmagazine.com/2010/03/showcase-of-academic-and-higher-education-websites/"

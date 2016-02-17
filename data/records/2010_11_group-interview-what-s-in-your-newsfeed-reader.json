@@ -1,14 +1,24 @@
 {
-  "author": "@indigomay",
+  "author": "Julia May",
+  "authorUrl": "https://www.smashingmagazine.com/author/julia-may/",
   "commentCount": 1,
   "description": "The era of computers and digital technologies made information overload a common issue. According to statistics, today it takes a day to generate the amount of information that fifty years ago woul...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/alfred-extension-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/11/group-interview-what-s-in-your-newsfeed-reader/",
   "publishedDate": 1288849932,
   "tags": [
-    "Community",
-    "Interviews",
-    "RSS"
+    {
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "name": "Interviews",
+      "slug": "interviews"
+    },
+    {
+      "name": "RSS",
+      "slug": "rss"
+    }
   ],
   "title": "Group Interview: What's in Your Newsfeed Reader?",
   "url": "https://www.smashingmagazine.com/2010/11/group-interview-what-s-in-your-newsfeed-reader/"

@@ -1,14 +1,24 @@
 {
-  "author": "@richardshepherd",
+  "author": "Richard Shepherd",
+  "authorUrl": "https://www.smashingmagazine.com/author/richard-shepherd/",
   "commentCount": 57,
   "description": "In 2011 we saw the rise in popularity of two relatively new trends: responsive Web design and the use of HTML’s canvas.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/11/newzealand-homepage.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/03/behind-scenes-tourism-new-zealand/",
   "publishedDate": 1331217130,
   "tags": [
-    "Inspiration",
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Behind The Scenes Of Tourism New Zealand (Case Study)",
   "url": "https://www.smashingmagazine.com/2012/03/behind-scenes-tourism-new-zealand/"

@@ -1,14 +1,24 @@
 {
-  "author": "@SohTanaka",
+  "author": "Soh Tanaka",
+  "authorUrl": "https://www.smashingmagazine.com/author/soh-tanaka/",
   "commentCount": 103,
   "description": "This post is the the next installment of posts featuring &quot;Useful Coding Solutions for Designers and Developers&quot;, a series of posts focusing on unique and creative CSS/JavaScript-techniques being im...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/css-typography.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/11/6-useful-coding-solutions-for-designers-and-developers/",
   "publishedDate": 1258947679,
   "tags": [
-    "CSS",
-    "JavaScript",
-    "Techniques"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "5 Useful Coding Solutions For Designers And Developers",
   "url": "https://www.smashingmagazine.com/2009/11/6-useful-coding-solutions-for-designers-and-developers/"

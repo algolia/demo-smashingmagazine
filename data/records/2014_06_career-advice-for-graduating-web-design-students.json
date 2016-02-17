@@ -1,16 +1,32 @@
 {
-  "author": "@jeremymgirard",
+  "author": "Jeremy Girard",
+  "authorUrl": "https://www.smashingmagazine.com/author/jeremy-girard/",
   "commentCount": 30,
   "description": "This article covers some excellent career advice for graduating web design students. Jeremy Girard shares answers based on the question, “What is the best career advice you’ve ever received?”",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/06/graduation.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/06/career-advice-for-graduating-web-design-students/",
   "publishedDate": 1402663387,
   "tags": [
-    "Communication",
-    "Education",
-    "Human Resources",
-    "Inspiration",
-    "Opinion Column"
+    {
+      "name": "Communication",
+      "slug": "communication"
+    },
+    {
+      "name": "Education",
+      "slug": "education"
+    },
+    {
+      "name": "Human Resources",
+      "slug": "human-resources"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    }
   ],
   "title": "Career Advice For Graduating Web Design Students",
   "url": "https://www.smashingmagazine.com/2014/06/career-advice-for-graduating-web-design-students/"

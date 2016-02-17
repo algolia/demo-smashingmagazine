@@ -1,16 +1,32 @@
 {
-  "author": "@indigomay",
+  "author": "Julia May",
+  "authorUrl": "https://www.smashingmagazine.com/author/julia-may/",
   "commentCount": 109,
   "description": "Professionals in any field should always keep business cards on them because you never know when you&#39;ll meet a potential client, partner or like-minded person. Despite their small size, business ca...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/suitcase-illu101.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/08/business-card-design-starter-kit-showcase-tutorials-templates/",
   "publishedDate": 1281323489,
   "tags": [
-    "Business",
-    "Business Cards",
-    "Inspiration",
-    "Print",
-    "Showcases"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Business Cards",
+      "slug": "business-cards"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Print",
+      "slug": "print"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    }
   ],
   "title": "Business Card Design Starter Kit: Showcase, Tutorials, Templates",
   "url": "https://www.smashingmagazine.com/2010/08/business-card-design-starter-kit-showcase-tutorials-templates/"

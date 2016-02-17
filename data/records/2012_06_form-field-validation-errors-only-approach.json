@@ -1,14 +1,24 @@
 {
-  "author": "@Baymard",
+  "author": "Christian Holst",
+  "authorUrl": "https://www.smashingmagazine.com/author/christian-holst/",
   "commentCount": 49,
   "description": "Error pages for form-field validation are dreadful. You’ve just filled out 20 form fields, yet you get the same bloated page thrown back in your face because a single field failed to validate.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/coversml.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/06/form-field-validation-errors-only-approach/",
   "publishedDate": 1340766799,
   "tags": [
-    "Forms",
-    "Interaction Design",
-    "Usability"
+    {
+      "name": "Forms",
+      "slug": "forms"
+    },
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "Form-Field Validation: The Errors-Only Approach",
   "url": "https://www.smashingmagazine.com/2012/06/form-field-validation-errors-only-approach/"

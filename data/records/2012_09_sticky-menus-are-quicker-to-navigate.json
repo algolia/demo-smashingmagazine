@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Hyrum Denney",
+  "authorUrl": "https://www.smashingmagazine.com/author/hyrum-denney/",
   "commentCount": 110,
   "description": "Does sticky navigation make websites quicker to navigate? Look at the results of Hyrum Denney&#39;s usabillity study in order to find the answer.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/07/sign.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/09/sticky-menus-are-quicker-to-navigate/",
   "publishedDate": 1347330865,
   "tags": [
-    "Interaction Design",
-    "Usability"
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "Sticky Menus Are Quicker To Navigate",
   "url": "https://www.smashingmagazine.com/2012/09/sticky-menus-are-quicker-to-navigate/"

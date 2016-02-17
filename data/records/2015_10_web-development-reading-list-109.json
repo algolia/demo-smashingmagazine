@@ -1,12 +1,16 @@
 {
-  "author": "@helloanselm",
+  "author": "Anselm Hannemann",
+  "authorUrl": "https://www.smashingmagazine.com/author/anselm-hannemann/",
   "commentCount": 3,
   "description": "What’s going on in the industry? What new techniques have emerged recently? What insights, tools, tips and tricks is the web design community talking about? Anselm Hannemann is collecting everythin...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/10/http-login.png",
   "objectID": "https://www.smashingmagazine.com/2015/10/web-development-reading-list-109/",
   "publishedDate": 1445595271,
   "tags": [
-    "Web Development Reading List"
+    {
+      "name": "Web Development Reading List",
+      "slug": "web-development-reading-list"
+    }
   ],
   "title": "Web Development Reading List #109",
   "url": "https://www.smashingmagazine.com/2015/10/web-development-reading-list-109/"

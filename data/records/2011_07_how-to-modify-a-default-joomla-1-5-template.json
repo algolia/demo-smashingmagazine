@@ -1,13 +1,20 @@
 {
-  "author": "@joomlablogger",
+  "author": "Kristoffer Sandven (JoomlaBlogger)",
+  "authorUrl": "https://www.smashingmagazine.com/author/kristoffer-sandven/",
   "commentCount": 19,
   "description": "Joomla is a popular open-source content management system with a lot of possibilities. One of the strengths of Joomla is the vast number of extensions and templates available, both free and commerc...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/07/firebug.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/07/how-to-modify-a-default-joomla-1-5-template/",
   "publishedDate": 1309829318,
   "tags": [
-    "Joomla",
-    "PHP"
+    {
+      "name": "Joomla",
+      "slug": "joomla"
+    },
+    {
+      "name": "PHP",
+      "slug": "php"
+    }
   ],
   "title": "How To Modify A Default Joomla 1.5 Template",
   "url": "https://www.smashingmagazine.com/2011/07/how-to-modify-a-default-joomla-1-5-template/"

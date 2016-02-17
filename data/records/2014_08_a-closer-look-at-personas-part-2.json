@@ -1,13 +1,20 @@
 {
-  "author": "@MoGoltz",
+  "author": "Shlomo Goltz",
+  "authorUrl": "https://www.smashingmagazine.com/author/shlomo-goltz/",
   "commentCount": 12,
   "description": "Part 2 explains an effective method of creating a persona, beginning with knowing nothing about users and ending with a refined perspective.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/08/illu-personas.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-2/",
   "publishedDate": 1407931087,
   "tags": [
-    "User Interaction",
-    "Workflow"
+    {
+      "name": "User Interaction",
+      "slug": "user-interaction"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "A Closer Look At Personas: A Guide To Developing The Right Ones (Part 2)",
   "url": "https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-2/"

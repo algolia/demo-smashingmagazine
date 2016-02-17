@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Mark Nutter",
+  "authorUrl": "https://www.smashingmagazine.com/author/mark-nutter/",
   "commentCount": 115,
   "description": "In one of the recent posts, we looked at some reasons why some developers switch to the Mac. If you&#39;ve decided to make the switch yourself, you can do a lot to make the transition smoother. We will...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/macbook.gif",
   "objectID": "https://www.smashingmagazine.com/2009/06/30-must-have-tweaks-for-your-mac/",
   "publishedDate": 1244096725,
   "tags": [
-    "Apps",
-    "Mac",
-    "Productivity"
+    {
+      "name": "Apps",
+      "slug": "apps"
+    },
+    {
+      "name": "Mac",
+      "slug": "mac"
+    },
+    {
+      "name": "Productivity",
+      "slug": "productivity"
+    }
   ],
   "title": "30 Must-Have Tweaks For Your Mac",
   "url": "https://www.smashingmagazine.com/2009/06/30-must-have-tweaks-for-your-mac/"

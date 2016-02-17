@@ -1,14 +1,24 @@
 {
-  "author": "@uxpin",
+  "author": "Marcin Treder",
+  "authorUrl": "https://www.smashingmagazine.com/author/marcin-treder/",
   "commentCount": 58,
   "description": "There’s a lot of talk about wireframing, but what does our work look like beyond wireframing? Was I the only one with a simplified approach? What can we do to create successful designs? What does t...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/sketch-shoe-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/08/beyond-wireframing-real-life-ux-design-process/",
   "publishedDate": 1346206685,
   "tags": [
-    "Usability",
-    "User Experience",
-    "Web Design"
+    {
+      "name": "Usability",
+      "slug": "usability"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Beyond Wireframing: The Real-Life UX Design Process",
   "url": "https://www.smashingmagazine.com/2012/08/beyond-wireframing-real-life-ux-design-process/"

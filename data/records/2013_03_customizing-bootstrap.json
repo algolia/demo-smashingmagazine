@@ -1,14 +1,24 @@
 {
-  "author": "@thomashpark",
+  "author": "Thomas Park",
+  "authorUrl": "https://www.smashingmagazine.com/author/thomas-park/",
   "commentCount": 61,
   "description": "This article shows some ways to customize Bootstrap to fit your needs, whether it’s a tweak to a button or a full-fledged theme.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/09/buttons.png",
   "objectID": "https://www.smashingmagazine.com/2013/03/customizing-bootstrap/",
   "publishedDate": 1363071034,
   "tags": [
-    "CSS",
-    "Frameworks",
-    "JavaScript"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Frameworks",
+      "slug": "frameworks"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    }
   ],
   "title": "Customizing Bootstrap",
   "url": "https://www.smashingmagazine.com/2013/03/customizing-bootstrap/"

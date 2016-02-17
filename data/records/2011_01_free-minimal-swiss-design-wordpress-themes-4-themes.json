@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 126,
   "description": "In this post we release yet another freebie: an original set of four exclusive minimal, clean WordPress themes designed by Marios Lublinski and released for web design community. As usual, the them...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/swiss-design.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/01/free-minimal-swiss-design-wordpress-themes-4-themes/",
   "publishedDate": 1296105546,
   "tags": [
-    "Freebies",
-    "Themes"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "Free Minimal, Swiss Design WordPress Themes (4 Themes)",
   "url": "https://www.smashingmagazine.com/2011/01/free-minimal-swiss-design-wordpress-themes-4-themes/"

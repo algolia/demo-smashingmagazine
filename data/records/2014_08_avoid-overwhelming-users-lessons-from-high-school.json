@@ -1,14 +1,24 @@
 {
-  "author": "@jbernbach",
+  "author": "Jon Bernbach",
+  "authorUrl": "https://www.smashingmagazine.com/author/jbernbach/",
   "commentCount": 30,
   "description": "Did you ever think about how students and end users can be so alike? What happened to Jon Bernbach in high-school algebra happens to users on websites, web apps and mobile apps every day.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/08/algebra-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/08/avoid-overwhelming-users-lessons-from-high-school/",
   "publishedDate": 1408712211,
   "tags": [
-    "Content Strategy",
-    "User Experience",
-    "User Interaction"
+    {
+      "name": "Content Strategy",
+      "slug": "content-strategy"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    },
+    {
+      "name": "User Interaction",
+      "slug": "user-interaction"
+    }
   ],
   "title": "Ways To Avoid Overwhelming Users: Lessons Learned From My High-School Teachers",
   "url": "https://www.smashingmagazine.com/2014/08/avoid-overwhelming-users-lessons-from-high-school/"

@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Leland Fiegel",
+  "authorUrl": "https://www.smashingmagazine.com/author/leland/",
   "commentCount": 48,
   "description": "When you think of WordPress widgets, you may think they’re just a way to rearrange various items in your blog’s sidebar without touching any code.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illusearch7.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/07/5-useful-and-creative-ways-to-use-wordpress-widgets/",
   "publishedDate": 1247577151,
   "tags": [
-    "Techniques",
-    "Widgets"
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Widgets",
+      "slug": "widgets"
+    }
   ],
   "title": "5 Useful And Creative Ways To Use WordPress Widgets",
   "url": "https://www.smashingmagazine.com/2009/07/5-useful-and-creative-ways-to-use-wordpress-widgets/"

@@ -1,13 +1,20 @@
 {
-  "author": "@DroidPinkman",
+  "author": "Dennis Gaebel Jr",
+  "authorUrl": "https://www.smashingmagazine.com/author/dennisgaebeljr/",
   "commentCount": 30,
   "description": "Flexbox is very, very real today. This case study provides examples of how flexbox can be used in production and what fallback we can choose today.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/11/02-tracks-app-opt-preview.png",
   "objectID": "https://www.smashingmagazine.com/2015/11/flexbox-interfaces-tracks-case-study/",
   "publishedDate": 1446548622,
   "tags": [
-    "CSS",
-    "Flexbox"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Flexbox",
+      "slug": "flexbox"
+    }
   ],
   "title": "Flexbox For Interfaces All The Way: Tracks Case Study",
   "url": "https://www.smashingmagazine.com/2015/11/flexbox-interfaces-tracks-case-study/"

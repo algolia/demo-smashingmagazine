@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 70,
   "description": "We are always looking for creative and talented artists and designers. Once we find them, we ask them to cooperate with us and release something for free. We provide them with the full freedom to s...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/icons2.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/08/on-stage-a-free-icon-set/",
   "publishedDate": 1219843524,
   "tags": [
-    "Freebies",
-    "Icons"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "On-Stage: Free Vector PSD Icon Set",
   "url": "https://www.smashingmagazine.com/2008/08/on-stage-a-free-icon-set/"

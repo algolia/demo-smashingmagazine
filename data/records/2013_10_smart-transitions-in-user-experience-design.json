@@ -1,14 +1,24 @@
 {
-  "author": "@webchaeschtli",
+  "author": "Adrian Zumbrunnen",
+  "authorUrl": "https://www.smashingmagazine.com/author/adrian-zumbrunnen/",
   "commentCount": 71,
   "description": "This article looks at some examples of interaction design in which smart interaction, defined by subtle animation, gently improves the user experience. We’ll share some lessons drawn from various m...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/10/illu-transitions.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/10/smart-transitions-in-user-experience-design/",
   "publishedDate": 1382485872,
   "tags": [
-    "Interaction Design",
-    "Usability",
-    "Visual Design"
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    },
+    {
+      "name": "Visual Design",
+      "slug": "visual-design"
+    }
   ],
   "title": "Smart Transitions In User Experience Design",
   "url": "https://www.smashingmagazine.com/2013/10/smart-transitions-in-user-experience-design/"

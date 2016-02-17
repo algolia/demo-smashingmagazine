@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 34,
   "description": "Every month we take a look around, browse through dozens of fonts collections and select most irresistible typefaces released recently. We collect most beautiful high quality freeware fonts, which ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/brilliant.png",
   "objectID": "https://www.smashingmagazine.com/2007/06/free-brilliant-high-quality-fonts/",
   "publishedDate": 1181316625,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Typography"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "7 Brilliant Free Fonts: Faceplate, Sling, Cicle",
   "url": "https://www.smashingmagazine.com/2007/06/free-brilliant-high-quality-fonts/"

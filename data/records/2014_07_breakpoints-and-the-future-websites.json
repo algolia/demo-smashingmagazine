@@ -1,16 +1,32 @@
 {
-  "author": "@obihill",
+  "author": "Obinwanne Hill",
+  "authorUrl": "https://www.smashingmagazine.com/author/obinwanne-hill/",
   "commentCount": 51,
   "description": "This article looks at breakpoints beyond screen size and explores possibilities and approaches to use them to create truly adaptive experiences on the web.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/07/comparing-responsiveness-illu-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/07/breakpoints-and-the-future-websites/",
   "publishedDate": 1404822683,
   "tags": [
-    "CSS",
-    "JavaScript",
-    "Layouts",
-    "Media Queries",
-    "Responsive Web Design"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Layouts",
+      "slug": "layouts"
+    },
+    {
+      "name": "Media Queries",
+      "slug": "media-queries"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "Breakpoints And The Future Of Websites",
   "url": "https://www.smashingmagazine.com/2014/07/breakpoints-and-the-future-websites/"

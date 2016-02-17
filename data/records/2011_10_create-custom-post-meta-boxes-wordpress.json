@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Justin Tadlock",
+  "authorUrl": "https://www.smashingmagazine.com/author/justin-tadlock/",
   "commentCount": 119,
   "description": "Creating custom meta boxes in WordPress is simple once you&#39;ve created your first one. Let&#39;s discuss what you need to know about meta boxes.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wordpress-17.gif",
   "objectID": "https://www.smashingmagazine.com/2011/10/create-custom-post-meta-boxes-wordpress/",
   "publishedDate": 1317704933,
   "tags": [
-    "Functions",
-    "Techniques (WP)"
+    {
+      "name": "Functions",
+      "slug": "functions"
+    },
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    }
   ],
   "title": "How To Create Custom Post Meta Boxes In WordPress",
   "url": "https://www.smashingmagazine.com/2011/10/create-custom-post-meta-boxes-wordpress/"

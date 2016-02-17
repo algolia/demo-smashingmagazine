@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Ann Edwards",
+  "authorUrl": "https://www.smashingmagazine.com/author/aedwards/",
   "commentCount": 28,
   "description": "Being a designer in an environment where most people adhere to a strict path of logic can be challenging. There are few logic-centric people who understand the value design has to a product or serv...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/apple.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/08/how-to-fit-a-circle-in-a-square-hole/",
   "publishedDate": 1219635870,
   "tags": [
-    "Business",
-    "Workflow"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "How To Fit a Circle In a Square Hole",
   "url": "https://www.smashingmagazine.com/2008/08/how-to-fit-a-circle-in-a-square-hole/"

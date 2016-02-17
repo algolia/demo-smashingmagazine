@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Sachin Dhall",
+  "authorUrl": "https://www.smashingmagazine.com/author/sachindhall/",
   "commentCount": 52,
   "description": "Have you ever fainted from the sheer idea of having to find and replace text in millions of files? Have you ever felt helpless because you needed to search and replace different data 50 times at on...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/automat.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/04/25-text-batch-processing-tools-reviewed/",
   "publishedDate": 1239347708,
   "tags": [
-    "Techniques",
-    "Text",
-    "Tools"
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Text",
+      "slug": "text"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "25 Text Batch Processing Tools Reviewed",
   "url": "https://www.smashingmagazine.com/2009/04/25-text-batch-processing-tools-reviewed/"

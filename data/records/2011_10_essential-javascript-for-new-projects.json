@@ -1,13 +1,20 @@
 {
-  "author": "@keirwhitaker",
+  "author": "Keir Whitaker",
+  "authorUrl": "https://www.smashingmagazine.com/author/keir-whitaker/",
   "commentCount": 20,
   "description": "Like many developers I have a standard set of files that I simply copy into every new project I start.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/resources-12.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/10/essential-javascript-for-new-projects/",
   "publishedDate": 1319678702,
   "tags": [
-    "JavaScript",
-    "Workflow"
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Survey: Essential JavaScript for New Projects",
   "url": "https://www.smashingmagazine.com/2011/10/essential-javascript-for-new-projects/"

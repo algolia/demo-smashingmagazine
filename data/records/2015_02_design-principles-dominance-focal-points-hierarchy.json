@@ -1,14 +1,24 @@
 {
-  "author": "@vangogh",
+  "author": "Steven Bradley",
+  "authorUrl": "https://www.smashingmagazine.com/author/steven-bradley/",
   "commentCount": 25,
   "description": "In this fifth post in a series on design principles, Steven Bradley discusses why dominance, focal points and hierarchy are all important design factors to consider in your design projects.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/02/design-principles-red-dot-illu.png",
   "objectID": "https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/",
   "publishedDate": 1425048733,
   "tags": [
-    "Creativity",
-    "Design Principles",
-    "Inspiration"
+    {
+      "name": "Creativity",
+      "slug": "creativity"
+    },
+    {
+      "name": "Design Principles",
+      "slug": "design-principles"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "Design Principles: Dominance, Focal Points And Hierarchy",
   "url": "https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/"

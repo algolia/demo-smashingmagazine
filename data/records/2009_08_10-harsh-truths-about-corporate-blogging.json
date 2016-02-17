@@ -1,15 +1,28 @@
 {
-  "author": "@boagworld",
+  "author": "Paul Boag",
+  "authorUrl": "https://www.smashingmagazine.com/author/paul-boag/",
   "commentCount": 61,
   "description": "I have reached the conclusion that most organizations have a blog simply because they feel they should. Many marketing departments fail to “get” blogging and have poorly visited blogs with few comm...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/corporate.png",
   "objectID": "https://www.smashingmagazine.com/2009/08/10-harsh-truths-about-corporate-blogging/",
   "publishedDate": 1249774766,
   "tags": [
-    "Blogging",
-    "Business",
-    "Corporate",
-    "Marketing"
+    {
+      "name": "Blogging",
+      "slug": "blogging"
+    },
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Corporate",
+      "slug": "corporate"
+    },
+    {
+      "name": "Marketing",
+      "slug": "marketing"
+    }
   ],
   "title": "10 Harsh Truths About Corporate Blogging",
   "url": "https://www.smashingmagazine.com/2009/08/10-harsh-truths-about-corporate-blogging/"

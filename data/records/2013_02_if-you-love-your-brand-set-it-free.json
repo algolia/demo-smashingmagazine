@@ -1,14 +1,24 @@
 {
-  "author": "@jamsalmeron",
+  "author": "Jose Martinez Salmeron",
+  "authorUrl": "https://www.smashingmagazine.com/author/jose-salmeron/",
   "commentCount": 25,
   "description": "A fresh and liberating approach to defining a brand and why we ought to consider total brand consistency as an unachievable ideal.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/12/mohawk_process_posters_web.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/02/if-you-love-your-brand-set-it-free/",
   "publishedDate": 1360328752,
   "tags": [
-    "Branding",
-    "Business",
-    "Inspiration"
+    {
+      "name": "Branding",
+      "slug": "branding"
+    },
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "If You Love Your Brand, Set It Free",
   "url": "https://www.smashingmagazine.com/2013/02/if-you-love-your-brand-set-it-free/"

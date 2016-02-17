@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 67,
   "description": "Over the last few weeks, our readers have complained that we have been releasing &quot;way too many freebies&quot;. Apparently, we have been posting &quot;too many filler articles&quot; containing freebies that can be...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/lightb.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/12/light-blurs-brushes-and-decoration-pack-for-photoshop/",
   "publishedDate": 1229332780,
   "tags": [
-    "Brushes",
-    "Downloads",
-    "Freebies",
-    "Photoshop"
+    {
+      "name": "Brushes",
+      "slug": "brushes"
+    },
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    }
   ],
   "title": "Light Blurs Brushes and Decoration Pack For Photoshop",
   "url": "https://www.smashingmagazine.com/2008/12/light-blurs-brushes-and-decoration-pack-for-photoshop/"

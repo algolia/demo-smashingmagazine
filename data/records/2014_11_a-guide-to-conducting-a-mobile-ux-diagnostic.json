@@ -1,14 +1,24 @@
 {
-  "author": "@lycerejo",
+  "author": "Lyndon Cerejo",
+  "authorUrl": "https://www.smashingmagazine.com/author/lyndon-cerejo/",
   "commentCount": 2,
   "description": "Lyndon Cerejo describes a process you can follow to evaluate a mobile UX, be it for an app or a website accessed on a mobile device. Read more to find out which steps to follow.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/11/small-icons-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/11/a-guide-to-conducting-a-mobile-ux-diagnostic/",
   "publishedDate": 1415103076,
   "tags": [
-    "User Experience",
-    "User Interaction",
-    "User Research"
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    },
+    {
+      "name": "User Interaction",
+      "slug": "user-interaction"
+    },
+    {
+      "name": "User Research",
+      "slug": "user-research"
+    }
   ],
   "title": "A Guide To Conducting A Mobile UX Diagnostic",
   "url": "https://www.smashingmagazine.com/2014/11/a-guide-to-conducting-a-mobile-ux-diagnostic/"

@@ -1,12 +1,16 @@
 {
-  "author": "@dbushell",
+  "author": "David Bushell",
+  "authorUrl": "https://www.smashingmagazine.com/author/david-bushell/",
   "commentCount": 83,
   "description": "In this article, we’ll look at Scalable Vector Graphics (SVG), one of the most underused technologies in website development today.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/01/resolution-independence.png",
   "objectID": "https://www.smashingmagazine.com/2012/01/resolution-independence-with-svg/",
   "publishedDate": 1326685585,
   "tags": [
-    "CSS"
+    {
+      "name": "CSS",
+      "slug": "css"
+    }
   ],
   "title": "Resolution Independence With SVG",
   "url": "https://www.smashingmagazine.com/2012/01/resolution-independence-with-svg/"

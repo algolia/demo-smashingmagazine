@@ -1,14 +1,24 @@
 {
-  "author": "@firt",
+  "author": "Maximiliano Firtman",
+  "authorUrl": "https://www.smashingmagazine.com/author/maximilliano-firtman/",
   "commentCount": 124,
   "description": "This article covers the relationship between the mobile web and responsive web design and how to apply responsive design intelligently.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/03/01-responsive-design-opt.png",
   "objectID": "https://www.smashingmagazine.com/2014/07/responsive-web-design-should-not-be-your-only-mobile-strategy/",
   "publishedDate": 1406016050,
   "tags": [
-    "Performance",
-    "Responsive Web Design",
-    "User Experience"
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "You May Be Losing Users If Responsive Web Design Is Your Only Mobile Strategy",
   "url": "https://www.smashingmagazine.com/2014/07/responsive-web-design-should-not-be-your-only-mobile-strategy/"

@@ -1,13 +1,20 @@
 {
-  "author": "@johnholtripley",
+  "author": "John Holt Ripley",
+  "authorUrl": "https://www.smashingmagazine.com/author/johnripley/",
   "commentCount": 11,
   "description": "This article is about dealing with @font-face for icon fonts and unicode in a multi-device world.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/05/unicode-bomb-char-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/05/unicode-for-a-multi-device-world/",
   "publishedDate": 1399384357,
   "tags": [
-    "Fonts",
-    "Typography"
+    {
+      "name": "Fonts",
+      "slug": "fonts"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Unicode For A Multi-Device World",
   "url": "https://www.smashingmagazine.com/2014/05/unicode-for-a-multi-device-world/"

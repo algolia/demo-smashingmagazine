@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Jon Arne Sæterås and Luca Passani",
+  "authorUrl": "https://www.smashingmagazine.com/author/jon-arne-and-luca-passani/",
   "commentCount": 25,
   "description": "This article introduces WURFL.js that provides an easy-to-use, reliable and scalable alternative to traditional server-side device detection, all the while complementing other client-side technique...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/07/window-program-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/07/server-side-device-detection-with-javascript/",
   "publishedDate": 1404223121,
   "tags": [
-    "Devices",
-    "JavaScript"
+    {
+      "name": "Devices",
+      "slug": "devices"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    }
   ],
   "title": "Server-Side Device Detection With JavaScript",
   "url": "https://www.smashingmagazine.com/2014/07/server-side-device-detection-with-javascript/"

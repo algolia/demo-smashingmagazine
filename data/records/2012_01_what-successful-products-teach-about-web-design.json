@@ -1,12 +1,16 @@
 {
-  "author": "@yiannis_k",
+  "author": "Yiannis Konstantakopoulos",
+  "authorUrl": "https://www.smashingmagazine.com/author/yiannis-konstantakopoulos/",
   "commentCount": 54,
   "description": "Web design is a craft that is constantly evolving and yet also sometimes sabotaged. The moment a design is released, a new version is born. In the beginning, like a baby, it seems vulnerable and we...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/coversml.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/01/what-successful-products-teach-about-web-design/",
   "publishedDate": 1327382330,
   "tags": [
-    "Product Strategy"
+    {
+      "name": "Product Strategy",
+      "slug": "product-strategy"
+    }
   ],
   "title": "What Successful Products Teach Us About Web Design",
   "url": "https://www.smashingmagazine.com/2012/01/what-successful-products-teach-about-web-design/"

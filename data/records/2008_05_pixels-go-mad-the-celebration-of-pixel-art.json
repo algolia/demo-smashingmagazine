@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 106,
   "description": "Pixel art lives both in and beyond computer screen. Artists design pixel art posters, magazine covers, album covers, desktop wallpapers, paintings, &quot;pixelish&quot; video ads and even pixelated tattoos. ...",
   "image": "https://www.smashingmagazine.com/images/pixel-art/pixel-art-11.png",
   "objectID": "https://www.smashingmagazine.com/2008/05/pixels-go-mad-the-celebration-of-pixel-art/",
   "publishedDate": 1209946724,
   "tags": [
-    "Art",
-    "Inspiration",
-    "Showcases"
+    {
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    }
   ],
   "title": "Pixels Madness — The Celebration Of Pixel Art",
   "url": "https://www.smashingmagazine.com/2008/05/pixels-go-mad-the-celebration-of-pixel-art/"

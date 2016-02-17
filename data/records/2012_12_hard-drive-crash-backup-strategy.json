@@ -1,12 +1,16 @@
 {
-  "author": "@benthinkin",
+  "author": "Ben Gremillion",
+  "authorUrl": "https://www.smashingmagazine.com/author/ben-gremillion/",
   "commentCount": 67,
   "description": "What&#39;s your backup strategy? A review of popular backup strategies and tools to avoid data loss and safe guard your digital assets.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/hard-drive.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/12/hard-drive-crash-backup-strategy/",
   "publishedDate": 1356696269,
   "tags": [
-    "Tools"
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "Backup Strategy: \"My Hard Drive Crashed...\" (and What I Learned From It)",
   "url": "https://www.smashingmagazine.com/2012/12/hard-drive-crash-backup-strategy/"

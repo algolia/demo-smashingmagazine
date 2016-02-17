@@ -1,13 +1,20 @@
 {
-  "author": "@joshuaddodson",
+  "author": "Joshua Dodson",
+  "authorUrl": "https://www.smashingmagazine.com/author/joshua-dodson/",
   "commentCount": 32,
   "description": "Custom post types add a level of flexibility to WordPress that makes this open-source Web development platform more useful on many levels.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/writing-code-illu22.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/02/how-to-use-custom-post-types-to-organize-online-marketing-campaigns/",
   "publishedDate": 1328248741,
   "tags": [
-    "Plugins",
-    "Techniques"
+    {
+      "name": "Plugins",
+      "slug": "plugins"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "How To Use Custom Post Types To Organize Online Marketing Campaigns",
   "url": "https://www.smashingmagazine.com/2012/02/how-to-use-custom-post-types-to-organize-online-marketing-campaigns/"

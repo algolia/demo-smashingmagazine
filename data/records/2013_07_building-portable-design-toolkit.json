@@ -1,14 +1,24 @@
 {
-  "author": "@kosmograd",
+  "author": "Martin Gittins",
+  "authorUrl": "https://www.smashingmagazine.com/author/martin-gittins/",
   "commentCount": 8,
   "description": "In this article, we’ll explore the idea of consciously restricting yourself to a design toolkit that you know, love and trust.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/webdesign-05.png",
   "objectID": "https://www.smashingmagazine.com/2013/07/building-portable-design-toolkit/",
   "publishedDate": 1372856160,
   "tags": [
-    "Inspiration",
-    "Techniques",
-    "Tools"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "Building A Portable Design Toolkit",
   "url": "https://www.smashingmagazine.com/2013/07/building-portable-design-toolkit/"

@@ -1,13 +1,20 @@
 {
-  "author": "@tsharon",
+  "author": "Tomer Sharon",
+  "authorUrl": "https://www.smashingmagazine.com/author/tomer-sharon/",
   "commentCount": 31,
   "description": "Long UX plans or no plans don’t work for people. You must be able to boil a UX research plan down to one page. If you can’t or won’t, then you won’t get buy-in for the research and its results.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/01/heart.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/",
   "publishedDate": 1327557671,
   "tags": [
-    "Research",
-    "Tools"
+    {
+      "name": "Research",
+      "slug": "research"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "The UX Research Plan That Stakeholders Love",
   "url": "https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/"

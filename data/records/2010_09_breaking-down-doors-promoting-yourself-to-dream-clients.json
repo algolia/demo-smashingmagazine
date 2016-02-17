@@ -1,13 +1,20 @@
 {
-  "author": "@speider",
+  "author": "Speider Schneider",
+  "authorUrl": "https://www.smashingmagazine.com/author/jonathan-schneider/",
   "commentCount": 124,
   "description": "There’s a saying that the School of Visual Arts in New York City once used in its ads: “To be good is not enough when you dream of being great.” We all have dream clients that we would like to add ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/shark.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/09/breaking-down-doors-promoting-yourself-to-dream-clients/",
   "publishedDate": 1285751185,
   "tags": [
-    "Business",
-    "Clients"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Clients",
+      "slug": "clients"
+    }
   ],
   "title": "Breaking Down Doors: Promoting Yourself To Dream Clients",
   "url": "https://www.smashingmagazine.com/2010/09/breaking-down-doors-promoting-yourself-to-dream-clients/"

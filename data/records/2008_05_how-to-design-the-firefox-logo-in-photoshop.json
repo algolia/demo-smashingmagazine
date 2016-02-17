@@ -1,13 +1,20 @@
 {
-  "author": "@HenryHoffman",
+  "author": "Henry Hoffman",
+  "authorUrl": "https://www.smashingmagazine.com/author/henryhoffman/",
   "commentCount": 0,
   "description": "This tutorial will go through how you can create the Firefox logo in a scalable Photoshop format. Firstly create a new document at 1024px x 970px and start off with selecting the ellipse tool (U) a...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2016/01/firefox-logo-31.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/05/how-to-design-the-firefox-logo-in-photoshop/",
   "publishedDate": 1209642207,
   "tags": [
-    "Logo Design",
-    "Photoshop"
+    {
+      "name": "Logo Design",
+      "slug": "logo-design"
+    },
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    }
   ],
   "title": "How to Design the Firefox Logo in Photoshop",
   "url": "https://www.smashingmagazine.com/2008/05/how-to-design-the-firefox-logo-in-photoshop/"

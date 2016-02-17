@@ -1,15 +1,28 @@
 {
-  "author": "@ChuiSquared",
+  "author": "Chui Chui Tan",
+  "authorUrl": "https://www.smashingmagazine.com/author/chui-chui-tan/",
   "commentCount": 83,
   "description": "The email newsletter is a powerful marketing and communication tool that has various useful functions. It reminds your users about you; it informs users about your products; it tells them what you ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/emailnewsletter.png",
   "objectID": "https://www.smashingmagazine.com/2010/02/email-newsletters-guidelines-and-examples/",
   "publishedDate": 1266209971,
   "tags": [
-    "Content Strategy",
-    "Emails",
-    "Marketing",
-    "Web Design"
+    {
+      "name": "Content Strategy",
+      "slug": "content-strategy"
+    },
+    {
+      "name": "Emails",
+      "slug": "emails"
+    },
+    {
+      "name": "Marketing",
+      "slug": "marketing"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Email Newsletter Design: Guidelines And Examples",
   "url": "https://www.smashingmagazine.com/2010/02/email-newsletters-guidelines-and-examples/"

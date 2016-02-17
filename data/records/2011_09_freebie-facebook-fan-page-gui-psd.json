@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 62,
   "description": "All layers are vectorized, allowing you to scale up the GUI without loss of quality. The PSD mock-up is 100% pixel-accurate.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/facebook-on-screen-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/09/freebie-facebook-fan-page-gui-psd/",
   "publishedDate": 1315901412,
   "tags": [
-    "Facebook",
-    "Freebies",
-    "PSD"
+    {
+      "name": "Facebook",
+      "slug": "facebook"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "PSD",
+      "slug": "psd"
+    }
   ],
   "title": "Freebie: Facebook Fan Page GUI PSD - Smashing Magazine",
   "url": "https://www.smashingmagazine.com/2011/09/freebie-facebook-fan-page-gui-psd/"

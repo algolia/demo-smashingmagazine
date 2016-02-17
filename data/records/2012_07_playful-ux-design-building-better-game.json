@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "John Ferrara",
+  "authorUrl": "https://www.smashingmagazine.com/author/john-ferrara/",
   "commentCount": 5,
   "description": "Operating successfully in the games domain means learning a new set of competencies, and I don’t want to oversimplify the challenges of designing high-quality game experiences.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/play-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/07/playful-ux-design-building-better-game/",
   "publishedDate": 1343194301,
   "tags": [
-    "Games",
-    "Inspiration",
-    "Navigation"
+    {
+      "name": "Games",
+      "slug": "games"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Navigation",
+      "slug": "navigation"
+    }
   ],
   "title": "Playful UX Design: Building A Better Game",
   "url": "https://www.smashingmagazine.com/2012/07/playful-ux-design-building-better-game/"

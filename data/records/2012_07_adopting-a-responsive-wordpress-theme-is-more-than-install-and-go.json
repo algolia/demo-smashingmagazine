@@ -1,13 +1,20 @@
 {
-  "author": "@benthinkin",
+  "author": "Ben Gremillion",
+  "authorUrl": "https://www.smashingmagazine.com/author/ben-gremillion/",
   "commentCount": 20,
   "description": "Keys to adopting a responsive WordPress theme when working with iOS, Android, and other smaller devices.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/w.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/07/adopting-a-responsive-wordpress-theme-is-more-than-install-and-go/",
   "publishedDate": 1343261325,
   "tags": [
-    "Techniques (WP)",
-    "Themes"
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "Adopting A Responsive WordPress Theme Is More Than Install-And-Go",
   "url": "https://www.smashingmagazine.com/2012/07/adopting-a-responsive-wordpress-theme-is-more-than-install-and-go/"

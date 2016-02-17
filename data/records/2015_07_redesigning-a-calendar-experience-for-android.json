@@ -1,14 +1,24 @@
 {
-  "author": "@Opoloo",
+  "author": "Günther Beyer & Nino Rapin",
+  "authorUrl": "https://www.smashingmagazine.com/author/guentherbeyerninorapin/",
   "commentCount": 19,
   "description": "Günther Beyer and Nino Rapin share the story of redesigning the user experience for one of the most popular calendar tools on Android: Business Calendar.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/07/00-making-time-opt.png",
   "objectID": "https://www.smashingmagazine.com/2015/07/redesigning-a-calendar-experience-for-android/",
   "publishedDate": 1437742540,
   "tags": [
-    "Android",
-    "Case Studies",
-    "User Experience"
+    {
+      "name": "Android",
+      "slug": "android"
+    },
+    {
+      "name": "Case Studies",
+      "slug": "case-studies"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Making Time: Redesigning A Calendar Experience For Android",
   "url": "https://www.smashingmagazine.com/2015/07/redesigning-a-calendar-experience-for-android/"

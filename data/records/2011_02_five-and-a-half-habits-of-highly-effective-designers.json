@@ -1,14 +1,24 @@
 {
-  "author": "@rainypixels",
+  "author": "Nishant Kothary",
+  "authorUrl": "https://www.smashingmagazine.com/author/nishant-kothary/",
   "commentCount": 54,
   "description": "We have theories about everything: why the sky is blue, why apples fall, why bees buzz (and do other unmentionable things), why my boss said a certain thing, why that girl in the restaurant looked ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/habits.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/02/five-and-a-half-habits-of-highly-effective-designers/",
   "publishedDate": 1298006335,
   "tags": [
-    "Business",
-    "Productivity",
-    "Workflow"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Productivity",
+      "slug": "productivity"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Five and a Half Habits of Highly Effective Designers",
   "url": "https://www.smashingmagazine.com/2011/02/five-and-a-half-habits-of-highly-effective-designers/"

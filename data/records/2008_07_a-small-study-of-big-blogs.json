@@ -1,16 +1,32 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 93,
   "description": "We are quite curious; particularly when it comes to design and web-development we want to know just everything. Therefore, following our web form design survey, we have decided to take a closer loo...",
   "image": "https://www.smashingmagazine.com/images/blogsurvey/tpm.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/07/a-small-study-of-big-blogs/",
   "publishedDate": 1216913580,
   "tags": [
-    "Blogging",
-    "Research",
-    "Studies",
-    "Trends",
-    "Web Design"
+    {
+      "name": "Blogging",
+      "slug": "blogging"
+    },
+    {
+      "name": "Research",
+      "slug": "research"
+    },
+    {
+      "name": "Studies",
+      "slug": "studies"
+    },
+    {
+      "name": "Trends",
+      "slug": "trends"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "A Small Design Study Of Big Blogs",
   "url": "https://www.smashingmagazine.com/2008/07/a-small-study-of-big-blogs/"

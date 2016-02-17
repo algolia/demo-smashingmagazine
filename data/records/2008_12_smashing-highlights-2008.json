@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 118,
   "description": "2008 was a successful year for us and for Smashing Magazine. Reviewing what has happened on Smashing Magazine over the last year, we could have told a couple of impressive stories that happened her...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/smashy.gif",
   "objectID": "https://www.smashingmagazine.com/2008/12/smashing-highlights-2008/",
   "publishedDate": 1229951783,
   "tags": [
-    "Highlights"
+    {
+      "name": "Highlights",
+      "slug": "highlights"
+    }
   ],
   "title": "Smashing Highlights 2008",
   "url": "https://www.smashingmagazine.com/2008/12/smashing-highlights-2008/"

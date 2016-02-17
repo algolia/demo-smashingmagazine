@@ -1,14 +1,24 @@
 {
-  "author": "@kevinholesh",
+  "author": "Kevin Holesh",
+  "authorUrl": "https://www.smashingmagazine.com/author/kevin-holesh/",
   "commentCount": 22,
   "description": "A/B testing, also known as split testing, is the method of pitting two versions of a landing page against each other in a battle of conversion.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/07/a-b-testing-illustration.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/07/roadmap-to-becoming-an-a-b-testing-expert/",
   "publishedDate": 1405082437,
   "tags": [
-    "Testing",
-    "User Experience",
-    "User Research"
+    {
+      "name": "Testing",
+      "slug": "testing"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    },
+    {
+      "name": "User Research",
+      "slug": "user-research"
+    }
   ],
   "title": "A Roadmap To Becoming An A/B Testing Expert",
   "url": "https://www.smashingmagazine.com/2014/07/roadmap-to-becoming-an-a-b-testing-expert/"

@@ -1,14 +1,24 @@
 {
-  "author": "@lycerejo",
+  "author": "Lyndon Cerejo",
+  "authorUrl": "https://www.smashingmagazine.com/author/lyndon-cerejo/",
   "commentCount": 6,
   "description": "Each website evaluation captured over 600 points of data across 16 car website features that affect the online car research and shopping UX.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/06/journey.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/06/user-experience-takeaways-from-online-car-shopping/",
   "publishedDate": 1339552706,
   "tags": [
-    "Case Studies",
-    "Design Patterns",
-    "Usability"
+    {
+      "name": "Case Studies",
+      "slug": "case-studies"
+    },
+    {
+      "name": "Design Patterns",
+      "slug": "design-patterns"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "User Experience Takeaways From Online Car Shopping",
   "url": "https://www.smashingmagazine.com/2012/06/user-experience-takeaways-from-online-car-shopping/"

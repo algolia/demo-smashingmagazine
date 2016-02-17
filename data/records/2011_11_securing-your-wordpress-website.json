@@ -1,13 +1,20 @@
 {
-  "author": "@danielpataki",
+  "author": "Daniel Pataki",
+  "authorUrl": "https://www.smashingmagazine.com/author/daniel-pataki/",
   "commentCount": 49,
   "description": "Security is more important than ever. Learn how to secure your site against and protect your data against malicious attacks.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/09/illu-wp-14.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/11/securing-your-wordpress-website/",
   "publishedDate": 1320908645,
   "tags": [
-    "Security",
-    "Techniques (WP)"
+    {
+      "name": "Security",
+      "slug": "security"
+    },
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    }
   ],
   "title": "Securing Your WordPress Website",
   "url": "https://www.smashingmagazine.com/2011/11/securing-your-wordpress-website/"

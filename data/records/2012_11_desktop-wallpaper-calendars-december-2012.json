@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 97,
   "description": "This post features free desktop wallpaper calendars created by artists across the globe for December 2012. You can participate anytime!",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illufrucht.png",
   "objectID": "https://www.smashingmagazine.com/2012/11/desktop-wallpaper-calendars-december-2012/",
   "publishedDate": 1354281514,
   "tags": [
-    "Christmas",
-    "Wallpapers"
+    {
+      "name": "Christmas",
+      "slug": "christmas"
+    },
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Desktop Wallpaper Calendars: December 2012 (Christmas Edition)",
   "url": "https://www.smashingmagazine.com/2012/11/desktop-wallpaper-calendars-december-2012/"

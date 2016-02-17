@@ -1,14 +1,24 @@
 {
-  "author": "@codepo8",
+  "author": "Christian Heilmann",
+  "authorUrl": "https://www.smashingmagazine.com/author/christian-heilmann/",
   "commentCount": 29,
   "description": "In this article Christian Heilmann goes into the details of JavaScript events and how to use them as powerful and incredible useful...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/nodejs-illu-grey.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/08/javascript-events-responding-user/",
   "publishedDate": 1345170862,
   "tags": [
-    "CSS",
-    "JavaScript",
-    "Programming"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Programming",
+      "slug": "programming"
+    }
   ],
   "title": "JavaScript Events And Responding To The User",
   "url": "https://www.smashingmagazine.com/2012/08/javascript-events-responding-user/"

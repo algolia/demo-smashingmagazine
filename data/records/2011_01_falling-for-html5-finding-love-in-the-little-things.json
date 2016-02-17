@@ -1,13 +1,20 @@
 {
-  "author": "@webfliccy",
+  "author": "Felicity Evans",
+  "authorUrl": "https://www.smashingmagazine.com/author/felicity-evans/",
   "commentCount": 0,
   "description": "I&#39;ve lost count of the number of posts that have been written about the big features of HTML5: amongst the most anticipated being rich media (video, audio, canvas) and JavaScript APIs. However, cal...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/01/html5falling.gif",
   "objectID": "https://www.smashingmagazine.com/2011/01/falling-for-html5-finding-love-in-the-little-things/",
   "publishedDate": 1295574257,
   "tags": [
-    "HTML",
-    "HTML5"
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "HTML5",
+      "slug": "html5"
+    }
   ],
   "title": "Falling for HTML5: Finding Love in the Little Things",
   "url": "https://www.smashingmagazine.com/2011/01/falling-for-html5-finding-love-in-the-little-things/"

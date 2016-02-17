@@ -1,12 +1,16 @@
 {
-  "author": "@brianonorio",
+  "author": "Brian Onorio",
+  "authorUrl": "https://www.smashingmagazine.com/author/brianonorio/",
   "commentCount": 52,
   "description": "WordPress can be extended to fit the requirements of a custom data architecture. Brian Onorio shows how to register new data types in a compliant manner.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/04/wordpress-custom-post-type-menu-preview-opt.png",
   "objectID": "https://www.smashingmagazine.com/2015/04/extending-wordpress-custom-content-types/",
   "publishedDate": 1429704281,
   "tags": [
-    "Techniques (WP)"
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    }
   ],
   "title": "Extending WordPress With Custom Content Types",
   "url": "https://www.smashingmagazine.com/2015/04/extending-wordpress-custom-content-types/"

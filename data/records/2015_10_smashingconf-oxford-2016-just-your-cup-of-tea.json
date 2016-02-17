@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 0,
   "description": "Our new conference packed with smart real-life solutions and techniques, ranging from front end to design to UX — and a few delightful surprises.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/10/smashingconf-oxford-balloons.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/10/smashingconf-oxford-2016-just-your-cup-of-tea/",
   "publishedDate": 1444132742,
   "tags": [
-    "SmashingConf"
+    {
+      "name": "SmashingConf",
+      "slug": "smashingconf"
+    }
   ],
   "title": "SmashingConf Oxford 2016: Just Your Cup Of Tea",
   "url": "https://www.smashingmagazine.com/2015/10/smashingconf-oxford-2016-just-your-cup-of-tea/"

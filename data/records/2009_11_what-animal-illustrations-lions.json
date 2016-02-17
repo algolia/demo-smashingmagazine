@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 9,
   "description": "The lion is perhaps one of the most feared animals in the animal kingdom. The lion is known as the king of the jungle...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/magic-wand-yellow-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/11/what-animal-illustrations-lions/",
   "publishedDate": 1258634005,
   "tags": [
-    "Creativity",
-    "Design Informer"
+    {
+      "name": "Creativity",
+      "slug": "creativity"
+    },
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    }
   ],
   "title": "What an Animal - Illustrations of Lions",
   "url": "https://www.smashingmagazine.com/2009/11/what-animal-illustrations-lions/"

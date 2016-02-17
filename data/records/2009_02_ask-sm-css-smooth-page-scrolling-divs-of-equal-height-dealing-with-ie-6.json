@@ -1,13 +1,20 @@
 {
-  "author": "@chriscoyier",
+  "author": "Chris Coyier",
+  "authorUrl": "https://www.smashingmagazine.com/author/chris-coyier/",
   "commentCount": 61,
   "description": "This is our third installment of Ask SM, featuring reader questions about Web design, focusing on HTML, CSS and JavaScript. In this post we&#39;ll cover how you can take care of a smooth page scrolling...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ie.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/02/ask-sm-css-smooth-page-scrolling-divs-of-equal-height-dealing-with-ie-6/",
   "publishedDate": 1235100716,
   "tags": [
-    "CSS",
-    "Internet Explorer"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Internet Explorer",
+      "slug": "internet-explorer"
+    }
   ],
   "title": "Ask SM [CSS/JS]: Divs of Equal Height, Dealing with IE 6",
   "url": "https://www.smashingmagazine.com/2009/02/ask-sm-css-smooth-page-scrolling-divs-of-equal-height-dealing-with-ie-6/"

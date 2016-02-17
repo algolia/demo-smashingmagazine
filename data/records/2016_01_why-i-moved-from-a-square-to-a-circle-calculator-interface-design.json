@@ -1,14 +1,24 @@
 {
-  "author": "@humbird",
+  "author": "C Y Gopinath",
+  "authorUrl": "https://www.smashingmagazine.com/author/cygopinath/",
   "commentCount": 60,
   "description": "Can we improve a traditional numeric interface in calculators? Surely. A case study on redesigning a calculator from scratch, for mobile and touch.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/12/02-iPhones-preview-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2016/01/why-i-moved-from-a-square-to-a-circle-calculator-interface-design/",
   "publishedDate": 1452510825,
   "tags": [
-    "Interaction",
-    "Interaction Design",
-    "Interfaces"
+    {
+      "name": "Interaction",
+      "slug": "interaction"
+    },
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    },
+    {
+      "name": "Interfaces",
+      "slug": "interfaces"
+    }
   ],
   "title": "Why I Moved From A Square To A Circle",
   "url": "https://www.smashingmagazine.com/2016/01/why-i-moved-from-a-square-to-a-circle-calculator-interface-design/"

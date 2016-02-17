@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Natalie Sklobovskaya",
+  "authorUrl": "https://www.smashingmagazine.com/author/natalie-sklobovskaya/",
   "commentCount": 15,
   "description": "I started a list of personal process-oriented thoughts on illustration — ways to help broaden the creative process and make its execution more effective.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/behind-good-illu-3.png",
   "objectID": "https://www.smashingmagazine.com/2010/06/the-process-behind-good-illustration-part-3/",
   "publishedDate": 1277390236,
   "tags": [
-    "Design Informer",
-    "Tutorials",
-    "Workflow"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "The Process Behind Good Illustration (Part 3)",
   "url": "https://www.smashingmagazine.com/2010/06/the-process-behind-good-illustration-part-3/"

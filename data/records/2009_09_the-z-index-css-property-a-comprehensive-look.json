@@ -1,13 +1,20 @@
 {
-  "author": "@ImpressiveWebs",
+  "author": "Louis Lazaris",
+  "authorUrl": "https://www.smashingmagazine.com/author/louis-lazaris/",
   "commentCount": 74,
   "description": "Most CSS properties are quite simple to deal with. Often, applying a CSS property to an element in your markup will have instant results — as soon as you refresh the page, the value set for the pro...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/z-index.png",
   "objectID": "https://www.smashingmagazine.com/2009/09/the-z-index-css-property-a-comprehensive-look/",
   "publishedDate": 1252973182,
   "tags": [
-    "CSS",
-    "Essentials"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Essentials",
+      "slug": "essentials"
+    }
   ],
   "title": "The Z-Index CSS Property: A Comprehensive Look",
   "url": "https://www.smashingmagazine.com/2009/09/the-z-index-css-property-a-comprehensive-look/"

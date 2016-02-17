@@ -1,14 +1,24 @@
 {
-  "author": "@almahoffmann",
+  "author": "Alma Hoffmann",
+  "authorUrl": "https://www.smashingmagazine.com/author/alma-hoffmann/",
   "commentCount": 53,
   "description": "Studying art and design usually starts with a deep exploration of elements and principles. Among these elements, the most basic ones — line, point and plane — usually figure in a work of art or des...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2010/04/faub.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/09/finding-alternative-sources-of-typographic-layout-in-our-surroundings/",
   "publishedDate": 1284454243,
   "tags": [
-    "Inspiration",
-    "Layouts",
-    "Typography"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Layouts",
+      "slug": "layouts"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Finding Alternative Sources Of Typographic Layout In Our Surroundings",
   "url": "https://www.smashingmagazine.com/2010/09/finding-alternative-sources-of-typographic-layout-in-our-surroundings/"

@@ -1,17 +1,36 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 355,
   "description": "Usability and the utility, not the visual design, determine the success or failure of a web-site. Since the visitor of the page is the only person who clicks the mouse and therefore decides everyth...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2008/01/cameron.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/",
   "publishedDate": 1201763809,
   "tags": [
-    "Development",
-    "Guidelines",
-    "Psychology",
-    "UI",
-    "Usability",
-    "Web Design"
+    {
+      "name": "Development",
+      "slug": "development"
+    },
+    {
+      "name": "Guidelines",
+      "slug": "guidelines"
+    },
+    {
+      "name": "Psychology",
+      "slug": "psychology"
+    },
+    {
+      "name": "UI",
+      "slug": "ui"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "10 Principles Of Effective Web Design",
   "url": "https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/"

@@ -1,14 +1,24 @@
 {
-  "author": "@danielpataki",
+  "author": "Daniel Pataki",
+  "authorUrl": "https://www.smashingmagazine.com/author/daniel-pataki/",
   "commentCount": 46,
   "description": "When using WordPress, highly interactive prototypes with great visuals are not at all that difficult to make. A tutorial on getting it right.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/06/01-featured-opt-small.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/06/rapid-front-end-prototyping-with-wordpress/",
   "publishedDate": 1435321619,
   "tags": [
-    "Prototyping",
-    "Techniques (WP)",
-    "Workflow"
+    {
+      "name": "Prototyping",
+      "slug": "prototyping"
+    },
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Rapid Front-End Prototyping With WordPress",
   "url": "https://www.smashingmagazine.com/2015/06/rapid-front-end-prototyping-with-wordpress/"

@@ -1,13 +1,20 @@
 {
-  "author": "@mishunov",
+  "author": "Denys Mishunov",
+  "authorUrl": "https://www.smashingmagazine.com/author/denysmishunov/",
   "commentCount": 6,
   "description": "Performance is about perception. Let&#39;s explore how we can improver user&#39;s perception of time and performance with a few smart techniques.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/10/passive-active-wait-500px-opt.png",
   "objectID": "https://www.smashingmagazine.com/2015/11/why-performance-matters-part-2-perception-management/",
   "publishedDate": 1446730077,
   "tags": [
-    "Psychology",
-    "User Experience"
+    {
+      "name": "Psychology",
+      "slug": "psychology"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Why Performance Matters, Part 2: Perception Management",
   "url": "https://www.smashingmagazine.com/2015/11/why-performance-matters-part-2-perception-management/"

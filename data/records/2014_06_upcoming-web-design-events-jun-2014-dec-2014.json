@@ -1,14 +1,24 @@
 {
-  "author": "@Smash_Scribe",
+  "author": "Jan Constantin",
+  "authorUrl": "https://www.smashingmagazine.com/author/jan-constantin/",
   "commentCount": 64,
   "description": "In this roundup of conferences, we are happy to present you all of the upcoming Web design related conferences, starting June. This might be just the time to get a ticket to conferences in warmer c...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/06/illu-conf.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/06/upcoming-web-design-events-jun-2014-dec-2014/",
   "publishedDate": 1402058837,
   "tags": [
-    "Community",
-    "Conferences",
-    "Inspiration"
+    {
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "name": "Conferences",
+      "slug": "conferences"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "Upcoming Web Design Events (Jun. 2014 – Dec. 2014)",
   "url": "https://www.smashingmagazine.com/2014/06/upcoming-web-design-events-jun-2014-dec-2014/"

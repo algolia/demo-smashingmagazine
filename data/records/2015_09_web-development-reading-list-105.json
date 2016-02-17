@@ -1,12 +1,16 @@
 {
-  "author": "@helloanselm",
+  "author": "Anselm Hannemann",
+  "authorUrl": "https://www.smashingmagazine.com/author/anselm-hannemann/",
   "commentCount": 7,
   "description": "Firefox 41 is out, nginx now supports HTTP/2, subresource integrity is coming and a list of functions, elements, properties and actions that force a layout reflow.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/09/firefox-opt.png",
   "objectID": "https://www.smashingmagazine.com/2015/09/web-development-reading-list-105/",
   "publishedDate": 1443158688,
   "tags": [
-    "Web Development Reading List"
+    {
+      "name": "Web Development Reading List",
+      "slug": "web-development-reading-list"
+    }
   ],
   "title": "Web Development Reading List #105",
   "url": "https://www.smashingmagazine.com/2015/09/web-development-reading-list-105/"

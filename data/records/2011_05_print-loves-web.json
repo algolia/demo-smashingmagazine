@@ -1,13 +1,20 @@
 {
-  "author": "@burning_",
+  "author": "Mark Cossey",
+  "authorUrl": "https://www.smashingmagazine.com/author/mark-cossey/",
   "commentCount": 24,
   "description": "A recent power cut highlighted the fragile and dated way I access content on the Web. I sit in front of a computer which has a number of hardware elements like a keyboard, mouse and monitor — all c...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/smashing-book-smp.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/05/print-loves-web/",
   "publishedDate": 1306123086,
   "tags": [
-    "Content",
-    "User Experience"
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Print Loves Web",
   "url": "https://www.smashingmagazine.com/2011/05/print-loves-web/"

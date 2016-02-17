@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 9,
   "description": "In this article we release videos of some of the Smashing Conference talks along with exclusive interviews with speakers.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/blog-1.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/12/the-smashing-conference-exclusive-videos-interviews/",
   "publishedDate": 1354877845,
   "tags": [
-    "Community",
-    "Inspiration",
-    "Interviews"
+    {
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Interviews",
+      "slug": "interviews"
+    }
   ],
   "title": "Exclusive Videos And Interviews (Part 1)",
   "url": "https://www.smashingmagazine.com/2012/12/the-smashing-conference-exclusive-videos-interviews/"

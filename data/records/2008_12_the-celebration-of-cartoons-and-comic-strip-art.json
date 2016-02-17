@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Andrew Gibson",
+  "authorUrl": "https://www.smashingmagazine.com/author/andrew-gibson/",
   "commentCount": 119,
   "description": "Comics aren&#39;t just for children, as some people might think. There are many comics written with adults in mind, and this is reflected in the depth and scope of the artwork. Comic strips are widely ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/dilbert.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/12/the-celebration-of-cartoons-and-comic-strip-art/",
   "publishedDate": 1230473619,
   "tags": [
-    "Art",
-    "Cartoons",
-    "Comics",
-    "Inspiration"
+    {
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "name": "Cartoons",
+      "slug": "cartoons"
+    },
+    {
+      "name": "Comics",
+      "slug": "comics"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "The Celebration Of Cartoons and Comic Strip Art",
   "url": "https://www.smashingmagazine.com/2008/12/the-celebration-of-cartoons-and-comic-strip-art/"

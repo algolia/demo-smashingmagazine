@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "David Sherwin",
+  "authorUrl": "https://www.smashingmagazine.com/author/david-sherwin/",
   "commentCount": 18,
   "description": "User research helps us to understand how other people live their lives, so that we can respond more effectively to their needs with informed and inspired design solutions.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/09/DesignResearchSpiral.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/",
   "publishedDate": 1379914796,
   "tags": [
-    "Guidelines",
-    "Research",
-    "Tools",
-    "User Research"
+    {
+      "name": "Guidelines",
+      "slug": "guidelines"
+    },
+    {
+      "name": "Research",
+      "slug": "research"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "User Research",
+      "slug": "user-research"
+    }
   ],
   "title": "A Five-Step Process For Conducting User Research",
   "url": "https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/"

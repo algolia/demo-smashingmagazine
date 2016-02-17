@@ -1,16 +1,32 @@
 {
-  "author": "@smashingmag",
+  "author": "Michael Shelton",
+  "authorUrl": "https://www.smashingmagazine.com/author/michael-shelton/",
   "commentCount": 74,
   "description": "Want to save some time? Of course you do! You are probably always looking for ways to do this faster and make that easier, it&#39;s human nature! One of the best ways to save time is experience. The mo...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/tips.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/05/20-time-saving-tips-to-improve-designers-workflow-part-1/",
   "publishedDate": 1243342543,
   "tags": [
-    "Business",
-    "Dreamweaver",
-    "Illustrator",
-    "Photoshop",
-    "Tutorials"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Dreamweaver",
+      "slug": "dreamweaver"
+    },
+    {
+      "name": "Illustrator",
+      "slug": "illustrator"
+    },
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "20 Time-Saving Tips to Improve Designer's Workflow",
   "url": "https://www.smashingmagazine.com/2009/05/20-time-saving-tips-to-improve-designers-workflow-part-1/"

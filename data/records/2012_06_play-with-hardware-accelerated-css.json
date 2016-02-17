@@ -1,13 +1,20 @@
 {
-  "author": "@mrtnkl",
+  "author": "Martin Kool",
+  "authorUrl": "https://www.smashingmagazine.com/author/martin-kool/",
   "commentCount": 16,
   "description": "Most browser vendors now provide graphical hardware acceleration by means of particular CSS rules. Let’s get our hands dirty.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/css-practices-realworld.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/06/play-with-hardware-accelerated-css/",
   "publishedDate": 1340244928,
   "tags": [
-    "CSS3",
-    "Optimization"
+    {
+      "name": "CSS3",
+      "slug": "css3"
+    },
+    {
+      "name": "Optimization",
+      "slug": "optimization"
+    }
   ],
   "title": "Let's Play With Hardware-Accelerated CSS",
   "url": "https://www.smashingmagazine.com/2012/06/play-with-hardware-accelerated-css/"

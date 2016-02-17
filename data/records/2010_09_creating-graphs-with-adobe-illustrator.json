@@ -1,14 +1,24 @@
 {
-  "author": "@GoceMitevski",
+  "author": "Goce Mitevski",
+  "authorUrl": "https://www.smashingmagazine.com/author/goce-mitevski/",
   "commentCount": 28,
   "description": "Office applications are getting very advanced these days offering all sorts of fancy features for data visualization. Graph generation is a standard feature in desktop applications like Microsoft E...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/graphs2.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/09/creating-graphs-with-adobe-illustrator/",
   "publishedDate": 1285726229,
   "tags": [
-    "Illustrator",
-    "Tutorials",
-    "Visualizations"
+    {
+      "name": "Illustrator",
+      "slug": "illustrator"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    },
+    {
+      "name": "Visualizations",
+      "slug": "visualizations"
+    }
   ],
   "title": "Creating Graphs With Adobe Illustrator",
   "url": "https://www.smashingmagazine.com/2010/09/creating-graphs-with-adobe-illustrator/"

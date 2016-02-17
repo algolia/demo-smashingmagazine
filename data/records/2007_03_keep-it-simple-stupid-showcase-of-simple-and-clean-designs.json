@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 66,
   "description": "Let&#39;s put it straight - simplicity is more complex than you probably think it is. To design a web-site in user-friendly tones, presenting all information and removing unnecessary details isn&#39;t easy...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/kiss.png",
   "objectID": "https://www.smashingmagazine.com/2007/03/keep-it-simple-stupid-showcase-of-simple-and-clean-designs/",
   "publishedDate": 1174935269,
   "tags": [
-    "Inspiration",
-    "Showcases",
-    "Simplicity"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Simplicity",
+      "slug": "simplicity"
+    }
   ],
   "title": "Keep It Simple, Stupid!",
   "url": "https://www.smashingmagazine.com/2007/03/keep-it-simple-stupid-showcase-of-simple-and-clean-designs/"

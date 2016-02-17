@@ -1,12 +1,16 @@
 {
-  "author": "@burning_",
+  "author": "Mark Cossey",
+  "authorUrl": "https://www.smashingmagazine.com/author/mark-cossey/",
   "commentCount": 26,
   "description": "When designing an application, an interface or any type of structured content, we must ensure that users understand where they have come from as they arrive at the new page or state. The transition...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/01/mission-transition-new-v3.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/02/mission-transition/",
   "publishedDate": 1330407126,
   "tags": [
-    "Interaction Design"
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    }
   ],
   "title": "Mission Transition",
   "url": "https://www.smashingmagazine.com/2012/02/mission-transition/"

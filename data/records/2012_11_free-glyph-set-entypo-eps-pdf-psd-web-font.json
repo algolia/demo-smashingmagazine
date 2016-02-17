@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 31,
   "description": "A new version of the free glyph set for personal and commercial Web design projects, available in EPS, PDF, PSD, as Typeface and as Web font.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/free-icon-set-entypo.gif",
   "objectID": "https://www.smashingmagazine.com/2012/11/free-glyph-set-entypo-eps-pdf-psd-web-font/",
   "publishedDate": 1351978511,
   "tags": [
-    "Freebies",
-    "Icons"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Freebie: Extended Entypo Glyph Set (EPS, PDF, PSD, Typeface, Web Font)",
   "url": "https://www.smashingmagazine.com/2012/11/free-glyph-set-entypo-eps-pdf-psd-web-font/"

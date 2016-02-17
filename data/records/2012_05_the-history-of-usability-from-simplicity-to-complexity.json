@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Mads Soegaard",
+  "authorUrl": "https://www.smashingmagazine.com/author/mads-soegaard/",
   "commentCount": 10,
   "description": "The story of usability is a perverse journey from simplicity to complexity. That’s right, from simplicity to complexity—not the other way around.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/05/vitruvian.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/05/the-history-of-usability-from-simplicity-to-complexity/",
   "publishedDate": 1337741405,
   "tags": [
-    "Usability"
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "The History Of Usability: From Simplicity To Complexity",
   "url": "https://www.smashingmagazine.com/2012/05/the-history-of-usability-from-simplicity-to-complexity/"

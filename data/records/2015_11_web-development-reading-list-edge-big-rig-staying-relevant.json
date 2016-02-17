@@ -1,12 +1,16 @@
 {
-  "author": "@helloanselm",
+  "author": "Anselm Hannemann",
+  "authorUrl": "https://www.smashingmagazine.com/author/anselm-hannemann/",
   "commentCount": 5,
   "description": "This week in wev development: a new update of Edge, declutter your content, Big Rig library, and notes on how to stay relevant.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/11/microsoft-edge-browser.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/11/web-development-reading-list-edge-big-rig-staying-relevant/",
   "publishedDate": 1447410041,
   "tags": [
-    "Web Development Reading List"
+    {
+      "name": "Web Development Reading List",
+      "slug": "web-development-reading-list"
+    }
   ],
   "title": "Web Development Reading List #112: Edge Update and Performance Monitoring",
   "url": "https://www.smashingmagazine.com/2015/11/web-development-reading-list-edge-big-rig-staying-relevant/"

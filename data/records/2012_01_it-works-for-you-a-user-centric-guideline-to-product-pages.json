@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Sarah Bauer",
+  "authorUrl": "https://www.smashingmagazine.com/author/sarah-bauer/",
   "commentCount": 15,
   "description": "Product pages for e-commerce websites are often rife with ambitious intentions: Recreate the brick-and-mortar shopping experience. Provide users with every last drop of product information. Build a...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/01/scuba_description.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/01/it-works-for-you-a-user-centric-guideline-to-product-pages/",
   "publishedDate": 1326179046,
   "tags": [
-    "Communication",
-    "Content",
-    "E-Commerce"
+    {
+      "name": "Communication",
+      "slug": "communication"
+    },
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    }
   ],
   "title": "It Works For \"You\": A User-Centric Guideline To Product Pages",
   "url": "https://www.smashingmagazine.com/2012/01/it-works-for-you-a-user-centric-guideline-to-product-pages/"

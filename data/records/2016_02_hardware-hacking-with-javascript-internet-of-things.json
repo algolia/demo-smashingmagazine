@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "James Miller & Mate Marschalko",
+  "authorUrl": "https://www.smashingmagazine.com/author/jamesmillermatemarschalko/",
   "commentCount": 20,
   "description": "This article covers the basics of how to get started building for your own Internet of Things (IoT) devices using JavaScript, with a bit of Node.js.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2016/01/image04-preview-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2016/02/hardware-hacking-with-javascript-internet-of-things/",
   "publishedDate": 1454935458,
   "tags": [
-    "Internet Of Things",
-    "JavaScript"
+    {
+      "name": "Internet Of Things",
+      "slug": "internet-of-things"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    }
   ],
   "title": "Hardware Hacking With JavaScript",
   "url": "https://www.smashingmagazine.com/2016/02/hardware-hacking-with-javascript-internet-of-things/"

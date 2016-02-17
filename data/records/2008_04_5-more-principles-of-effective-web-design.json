@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 50,
   "description": "Web design has significantly improved over the last years. It&#39;s more user-friendly and more appealing today — and there is a good reason behind it: over the years we&#39;ve found out that design with f...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/usab.png",
   "objectID": "https://www.smashingmagazine.com/2008/04/5-more-principles-of-effective-web-design/",
   "publishedDate": 1209020945,
   "tags": [
-    "Principles",
-    "Usability"
+    {
+      "name": "Principles",
+      "slug": "principles"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "Five More Principles Of Effective Web Design",
   "url": "https://www.smashingmagazine.com/2008/04/5-more-principles-of-effective-web-design/"

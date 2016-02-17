@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Frank Puscher",
+  "authorUrl": "https://www.smashingmagazine.com/author/frank-puscher/",
   "commentCount": 35,
   "description": "In eCommerce usability improvements usually have a huge impact on conversion rates. However, usability doesn&#39;t only mean better visual guide or better site hierarchy. It also means a better communi...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/conversion2.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/05/optimizing-conversion-rates-its-all-about-usability/",
   "publishedDate": 1242368438,
   "tags": [
-    "Conversion",
-    "E-Commerce",
-    "Optimization",
-    "Usability"
+    {
+      "name": "Conversion",
+      "slug": "conversion"
+    },
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    },
+    {
+      "name": "Optimization",
+      "slug": "optimization"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "Optimizing Conversion Rates: It's All About Usability",
   "url": "https://www.smashingmagazine.com/2009/05/optimizing-conversion-rates-its-all-about-usability/"

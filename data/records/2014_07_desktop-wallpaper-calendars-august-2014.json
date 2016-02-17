@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 55,
   "description": "This post features free desktop wallpapers created by artists across the globe for August 2014 with and without a calendar.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/07/illu-august.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/07/desktop-wallpaper-calendars-august-2014/",
   "publishedDate": 1406794694,
   "tags": [
-    "Wallpapers"
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Desktop Wallpaper Calendars: August 2014",
   "url": "https://www.smashingmagazine.com/2014/07/desktop-wallpaper-calendars-august-2014/"

@@ -1,13 +1,20 @@
 {
-  "author": "@carlosinho",
+  "author": "Karol K",
+  "authorUrl": "https://www.smashingmagazine.com/author/karol/",
   "commentCount": 32,
   "description": "The standard way in which WordPress approaches the archive isn&#39;t user-friendly in every case. Karol K shows us how to build a better archive page.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/04/archivepage-excerpt.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/04/building-custom-wordpress-archive-page/",
   "publishedDate": 1429185876,
   "tags": [
-    "Techniques (WP)",
-    "Themes"
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "Building A Custom Archive Page For WordPress",
   "url": "https://www.smashingmagazine.com/2015/04/building-custom-wordpress-archive-page/"

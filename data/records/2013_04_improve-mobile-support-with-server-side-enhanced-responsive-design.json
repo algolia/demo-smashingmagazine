@@ -1,14 +1,24 @@
 {
-  "author": "@jonarnes",
+  "author": "Jon Arne Sæterås",
+  "authorUrl": "https://www.smashingmagazine.com/author/jon-arne/",
   "commentCount": 26,
   "description": "This case study looks at a pragmatic approach to responsive Web design (RWD), on the basis of a real-world case study, which tried to find the right balance between server-side and client-side tech...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/04/serverclient-500.png",
   "objectID": "https://www.smashingmagazine.com/2013/04/improve-mobile-support-with-server-side-enhanced-responsive-design/",
   "publishedDate": 1365483528,
   "tags": [
-    "Performance",
-    "Responsive Web Design",
-    "Techniques"
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Improve Mobile Support With Server-Side-Enhanced Responsive Design",
   "url": "https://www.smashingmagazine.com/2013/04/improve-mobile-support-with-server-side-enhanced-responsive-design/"

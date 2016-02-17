@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 75,
   "description": "In August we announced the World Of Signage Photo Contest, in which we encouraged designers, artists and photographers to go out with their cameras, shoot attractive typography and public signage a...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/pleaseqhere.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/09/the-beauty-of-public-signage-photo-contest-results/",
   "publishedDate": 1284611931,
   "tags": [
-    "Contests",
-    "Showcases",
-    "Signs",
-    "Typography"
+    {
+      "name": "Contests",
+      "slug": "contests"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Signs",
+      "slug": "signs"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "The Beauty Of Public Signage: Photo Contest Results",
   "url": "https://www.smashingmagazine.com/2010/09/the-beauty-of-public-signage-photo-contest-results/"

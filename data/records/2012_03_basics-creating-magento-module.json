@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Joseph McDermott",
+  "authorUrl": "https://www.smashingmagazine.com/author/joseph-mcdermott/",
   "commentCount": 93,
   "description": "In this tutorial, we will introduce the coding of Magento in the form of a “Hello World”-style module.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/megento-illu.png",
   "objectID": "https://www.smashingmagazine.com/2012/03/basics-creating-magento-module/",
   "publishedDate": 1330556424,
   "tags": [
-    "Frameworks",
-    "Magento"
+    {
+      "name": "Frameworks",
+      "slug": "frameworks"
+    },
+    {
+      "name": "Magento",
+      "slug": "magento"
+    }
   ],
   "title": "The Basics Of Creating A Magento Module",
   "url": "https://www.smashingmagazine.com/2012/03/basics-creating-magento-module/"

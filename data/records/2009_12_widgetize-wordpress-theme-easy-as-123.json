@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Mario Ocon",
+  "authorUrl": "https://www.smashingmagazine.com/author/mario-ocon/",
   "commentCount": 35,
   "description": "Part of what makes WordPress such a user-friendly platform is the endless supply of free widgets. With widgets, you can easily accessorize your blg without any knowledge of coding.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/php-elephant.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/12/widgetize-wordpress-theme-easy-as-123/",
   "publishedDate": 1261357554,
   "tags": [
-    "Design Informer",
-    "Themes"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "Easy as 1-2-3: Widgetize WordPress Themes",
   "url": "https://www.smashingmagazine.com/2009/12/widgetize-wordpress-theme-easy-as-123/"

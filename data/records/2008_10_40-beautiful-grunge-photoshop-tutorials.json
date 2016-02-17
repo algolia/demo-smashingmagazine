@@ -1,14 +1,24 @@
 {
-  "author": "@sixrevisions",
+  "author": "Jacob Gube",
+  "authorUrl": "https://www.smashingmagazine.com/author/jacob-gube/",
   "commentCount": 49,
   "description": "Grunge is a popular trend that attempts to give designs a more organic and realistic look. It also provides a stark contrast to the simplistic, polished, and rigid &quot;web 2.0&quot; trend, opting instead f...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ms.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/10/40-beautiful-grunge-photoshop-tutorials/",
   "publishedDate": 1225206040,
   "tags": [
-    "Grunge",
-    "Photoshop",
-    "Tutorials"
+    {
+      "name": "Grunge",
+      "slug": "grunge"
+    },
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "40 Beautiful Grunge Photoshop Tutorials",
   "url": "https://www.smashingmagazine.com/2008/10/40-beautiful-grunge-photoshop-tutorials/"

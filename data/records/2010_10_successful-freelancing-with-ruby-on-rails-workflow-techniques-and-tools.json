@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Dmitry Belitsky, Grayson Stebbins",
+  "authorUrl": "https://www.smashingmagazine.com/author/dmitry-belitsky/",
   "commentCount": 51,
   "description": "A freelancer is a self-employed person who pursues a profession without a long-term commitment to any particular employer. Your curiosity in this opportunity was probably sparked by posts marked &quot;F...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/60-elegant.png",
   "objectID": "https://www.smashingmagazine.com/2010/10/successful-freelancing-with-ruby-on-rails-workflow-techniques-and-tools/",
   "publishedDate": 1288080408,
   "tags": [
-    "Ruby on Rails"
+    {
+      "name": "Ruby on Rails",
+      "slug": "ruby-on-rails"
+    }
   ],
   "title": "Successful Freelancing With Ruby On Rails: Workflow, Techniques And Tools",
   "url": "https://www.smashingmagazine.com/2010/10/successful-freelancing-with-ruby-on-rails-workflow-techniques-and-tools/"

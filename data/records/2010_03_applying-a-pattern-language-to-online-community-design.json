@@ -1,12 +1,16 @@
 {
-  "author": "@cameron_chapman",
+  "author": "Cameron Chapman",
+  "authorUrl": "https://www.smashingmagazine.com/author/cameron-chapman/",
   "commentCount": 37,
   "description": "A Pattern Language is a book about architecture that was written in the 1970s, before the Web as we know it was even conceived. But the book provides hundreds of valuable patterns for community pla...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/above.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/03/applying-a-pattern-language-to-online-community-design/",
   "publishedDate": 1268887015,
   "tags": [
-    "Community"
+    {
+      "name": "Community",
+      "slug": "community"
+    }
   ],
   "title": "Applying \"A Pattern Language\" To Online Community Design",
   "url": "https://www.smashingmagazine.com/2010/03/applying-a-pattern-language-to-online-community-design/"

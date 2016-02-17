@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 8,
   "description": "This showcase is about whales and is dedicated to Levi the whale. Enjoy these 20 different whale illustrations. Please click on the images and",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illu-whale.png",
   "objectID": "https://www.smashingmagazine.com/2009/11/what-animal-illustrations-whales/",
   "publishedDate": 1258048962,
   "tags": [
-    "Design Informer",
-    "Inspiration"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "What an Animal - Illustrations of Whales",
   "url": "https://www.smashingmagazine.com/2009/11/what-animal-illustrations-whales/"

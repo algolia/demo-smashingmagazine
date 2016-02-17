@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Olawale Oladunni",
+  "authorUrl": "https://www.smashingmagazine.com/author/olawale-oladunni/",
   "commentCount": 40,
   "description": "Part 1 of the Mojo Motors Responsive (Re)Design with Adobe Fireworks: UX And Interaction Design Stage.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/iphone-02.png",
   "objectID": "https://www.smashingmagazine.com/2013/08/mojo-motors-responsive-redesign-with-adobe-fireworks-part-1/",
   "publishedDate": 1377478845,
   "tags": [
-    "Fireworks",
-    "Techniques",
-    "Workflow"
+    {
+      "name": "Fireworks",
+      "slug": "fireworks"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Mojo Motors' Responsive Redesign With Fireworks: UX And Interaction Design",
   "url": "https://www.smashingmagazine.com/2013/08/mojo-motors-responsive-redesign-with-adobe-fireworks-part-1/"

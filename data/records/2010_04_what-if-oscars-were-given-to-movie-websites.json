@@ -1,14 +1,24 @@
 {
-  "author": "@indigomay",
+  "author": "Julia May",
+  "authorUrl": "https://www.smashingmagazine.com/author/julia-may/",
   "commentCount": 114,
   "description": "Many of us today probably use the Web to book tickets and find information about movies. By selling tickets and entertaining visitors, websites help movies succeed at the box office and earn public...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/movie-websites.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/04/what-if-oscars-were-given-to-movie-websites/",
   "publishedDate": 1271202491,
   "tags": [
-    "Movies",
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Movies",
+      "slug": "movies"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "What If Oscars Were Given To Movie Websites?",
   "url": "https://www.smashingmagazine.com/2010/04/what-if-oscars-were-given-to-movie-websites/"

@@ -1,16 +1,32 @@
 {
-  "author": "@jessbordeau",
+  "author": "Jessica Bordeau",
+  "authorUrl": "https://www.smashingmagazine.com/author/jessica-bordeau/",
   "commentCount": 47,
   "description": "A few years ago, you might not have pointed out during a meeting with a potential client that you maintained a blog. Over time, though, blogs have evolved from the being a personal hobby to a serio...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/organized-office-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/08/the-importance-of-consistency-using-editorial-calendars-and-style-guides/",
   "publishedDate": 1283139484,
   "tags": [
-    "Blogging",
-    "Calendars",
-    "Editorial",
-    "Style Guides",
-    "Tools"
+    {
+      "name": "Blogging",
+      "slug": "blogging"
+    },
+    {
+      "name": "Calendars",
+      "slug": "calendars"
+    },
+    {
+      "name": "Editorial",
+      "slug": "editorial"
+    },
+    {
+      "name": "Style Guides",
+      "slug": "style-guides"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "Blogging For Web Designers: Editorial Calendars And Style Guides",
   "url": "https://www.smashingmagazine.com/2010/08/the-importance-of-consistency-using-editorial-calendars-and-style-guides/"

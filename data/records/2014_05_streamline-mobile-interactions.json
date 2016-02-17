@@ -1,15 +1,28 @@
 {
-  "author": "@ngauthier",
+  "author": "Nick Gauthier",
+  "authorUrl": "https://www.smashingmagazine.com/author/nick-gauthier/",
   "commentCount": 22,
   "description": "The mobile web is a harsh environment. In this article, we’ll look at four core ways to help you streamline mobile interactions.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/04/illu-interactions.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/05/streamline-mobile-interactions/",
   "publishedDate": 1401282001,
   "tags": [
-    "Interaction Design",
-    "Performance",
-    "User Experience",
-    "User Interaction"
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    },
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    },
+    {
+      "name": "User Interaction",
+      "slug": "user-interaction"
+    }
   ],
   "title": "Streamlining Mobile Interactions",
   "url": "https://www.smashingmagazine.com/2014/05/streamline-mobile-interactions/"

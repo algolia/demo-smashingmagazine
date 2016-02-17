@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Bruce Lawson",
+  "authorUrl": "https://www.smashingmagazine.com/author/bruce-lawson/",
   "commentCount": 69,
   "description": "Much of the excitement we’ve seen so far about HTML5 has been for the new APIs: local storage, application cache, Web workers, 2-D drawing and the like.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/01/html5-logo-main.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/11/html5-semantics/",
   "publishedDate": 1321602010,
   "tags": [
-    "HTML",
-    "HTML5",
-    "Semantics"
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "HTML5",
+      "slug": "html5"
+    },
+    {
+      "name": "Semantics",
+      "slug": "semantics"
+    }
   ],
   "title": "HTML5 Semantics",
   "url": "https://www.smashingmagazine.com/2011/11/html5-semantics/"

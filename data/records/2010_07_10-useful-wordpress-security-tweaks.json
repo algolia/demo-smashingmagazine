@@ -1,13 +1,20 @@
 {
-  "author": "@catswhocode",
+  "author": "Jean-Baptiste Jung",
+  "authorUrl": "https://www.smashingmagazine.com/author/jean-baptiste-jung/",
   "commentCount": 120,
   "description": "Security has always been a hot topic. Offline, people buy wired homes, car alarms and gadgets to bring their security to the max. Online, security is important, too, especially for people who make ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/child-playing-airplane.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/07/10-useful-wordpress-security-tweaks/",
   "publishedDate": 1277957671,
   "tags": [
-    "Security",
-    "Techniques (WP)"
+    {
+      "name": "Security",
+      "slug": "security"
+    },
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    }
   ],
   "title": "10 Useful WordPress Security Tweaks",
   "url": "https://www.smashingmagazine.com/2010/07/10-useful-wordpress-security-tweaks/"

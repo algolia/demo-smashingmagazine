@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 195,
   "description": "There are literally hundreds of solutions for web-based galleries out there. We’ve selected 30 scripts of impressive slideshows, lightboxes and galleries...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illugalerie24.jpg",
   "objectID": "https://www.smashingmagazine.com/2007/05/30-best-solutions-for-image-galleries-slideshows-lightboxes/",
   "publishedDate": 1179439842,
   "tags": [
-    "Galleries",
-    "Resources"
+    {
+      "name": "Galleries",
+      "slug": "galleries"
+    },
+    {
+      "name": "Resources",
+      "slug": "resources"
+    }
   ],
   "title": "30 Scripts For Galleries, Slideshows and Lightboxes",
   "url": "https://www.smashingmagazine.com/2007/05/30-best-solutions-for-image-galleries-slideshows-lightboxes/"

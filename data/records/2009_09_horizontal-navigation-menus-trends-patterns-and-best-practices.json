@@ -1,14 +1,24 @@
 {
-  "author": "@ImpressiveWebs",
+  "author": "Louis Lazaris",
+  "authorUrl": "https://www.smashingmagazine.com/author/louis-lazaris/",
   "commentCount": 65,
   "description": "The horizontal navigation menu has become a mainstay in Web design. It is safe to say that nowadays most websites use some form of horizontal navigation to facilitate content browsing. The dominanc...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/navigation.png",
   "objectID": "https://www.smashingmagazine.com/2009/09/horizontal-navigation-menus-trends-patterns-and-best-practices/",
   "publishedDate": 1252285297,
   "tags": [
-    "Navigation",
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Navigation",
+      "slug": "navigation"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Horizontal Navigation Menus: Trends, Patterns And Best Practices",
   "url": "https://www.smashingmagazine.com/2009/09/horizontal-navigation-menus-trends-patterns-and-best-practices/"

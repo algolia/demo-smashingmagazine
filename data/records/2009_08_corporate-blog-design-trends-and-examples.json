@@ -1,14 +1,24 @@
 {
-  "author": "@stevensnell",
+  "author": "Steven Snell",
+  "authorUrl": "https://www.smashingmagazine.com/author/stevensnell/",
   "commentCount": 39,
   "description": "With tens of millions of blogs online today, major corporations have started to recognize the value of a corporate blog for communicating with customers. However, corporate blogging is far differen...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/bestbuy.png",
   "objectID": "https://www.smashingmagazine.com/2009/08/corporate-blog-design-trends-and-examples/",
   "publishedDate": 1250726518,
   "tags": [
-    "Blogging",
-    "Corporate",
-    "Showcases"
+    {
+      "name": "Blogging",
+      "slug": "blogging"
+    },
+    {
+      "name": "Corporate",
+      "slug": "corporate"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    }
   ],
   "title": "Corporate Blog Design: Trends And Examples",
   "url": "https://www.smashingmagazine.com/2009/08/corporate-blog-design-trends-and-examples/"

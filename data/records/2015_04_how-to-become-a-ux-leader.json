@@ -1,14 +1,24 @@
 {
-  "author": "@rhjr",
+  "author": "Robert Hoekman Jr",
+  "authorUrl": "https://www.smashingmagazine.com/author/robert-hoekman-jr/",
   "commentCount": 46,
   "description": "Let’s say you run a UX team. Better yet, let’s say you don’t. Let’s say you just want to do great work. You’re a consultant. You’re a newbie. You’re an intern. Your position is irrelevant. So is yo...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/04/smiley-note-illu-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/04/how-to-become-a-ux-leader/",
   "publishedDate": 1429789831,
   "tags": [
-    "Business",
-    "Communication",
-    "Opinion Column"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Communication",
+      "slug": "communication"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    }
   ],
   "title": "How To Become A UX Leader",
   "url": "https://www.smashingmagazine.com/2015/04/how-to-become-a-ux-leader/"

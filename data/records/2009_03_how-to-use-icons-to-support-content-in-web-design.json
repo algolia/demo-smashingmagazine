@@ -1,14 +1,24 @@
 {
-  "author": "@nathanbarry",
+  "author": "Nathan Barry",
+  "authorUrl": "https://www.smashingmagazine.com/author/nathan-barry/",
   "commentCount": 94,
   "description": "Why use icons? Design is all about communication: it doesn&#39;t matter how important or exciting the information that you&#39;re sharing is if you fail to hook your visitors. When initially viewing a webs...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/icos.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/03/how-to-use-icons-to-support-content-in-web-design/",
   "publishedDate": 1236090720,
   "tags": [
-    "Icons",
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Icons",
+      "slug": "icons"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "How To Use Icons To Support Content In Web Design",
   "url": "https://www.smashingmagazine.com/2009/03/how-to-use-icons-to-support-content-in-web-design/"

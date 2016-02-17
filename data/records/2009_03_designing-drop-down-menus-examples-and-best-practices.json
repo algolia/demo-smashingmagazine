@@ -1,14 +1,24 @@
 {
-  "author": "@themccronin",
+  "author": "Matt Cronin",
+  "authorUrl": "https://www.smashingmagazine.com/author/matt-cronin/",
   "commentCount": 141,
   "description": "As a general rule, most Web developers, especially usability enthusiasts, say it is bad practice to use drop-down menus because they are confusing, annoying and oftentimes dysfunctional. From a des...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/dropdown.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/03/designing-drop-down-menus-examples-and-best-practices/",
   "publishedDate": 1237919653,
   "tags": [
-    "Navigation",
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Navigation",
+      "slug": "navigation"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Designing Drop-Down Menus: Examples and Best Practices",
   "url": "https://www.smashingmagazine.com/2009/03/designing-drop-down-menus-examples-and-best-practices/"

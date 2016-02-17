@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Torley Wong",
+  "authorUrl": "https://www.smashingmagazine.com/author/torley-wong/",
   "commentCount": 34,
   "description": "In this post, we’ll stroll through the past and present of ASCII art, assessing the influence of key pioneers, so that you might feel inspired to go forth and create.",
   "image": "http://farm4.static.flickr.com/3109/3187642765_a9231cf97c.jpg?v=0",
   "objectID": "https://www.smashingmagazine.com/2009/01/8-inspiring-highlights-of-ascii-art/",
   "publishedDate": 1232823628,
   "tags": [
-    "Art",
-    "Inspiration",
-    "Legacy"
+    {
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Legacy",
+      "slug": "legacy"
+    }
   ],
   "title": "Eight Inspiring Stories Of ASCII Art",
   "url": "https://www.smashingmagazine.com/2009/01/8-inspiring-highlights-of-ascii-art/"

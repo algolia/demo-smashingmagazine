@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 35,
   "description": "Another day — another fresh freebie. Today we are glad to release The Graphs, a free icon set with 18 various graphs in the formats .png and .max (3D Studio Max). This set was designed by Goce Mite...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/pie.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/11/the-graphs-a-free-icon-set/",
   "publishedDate": 1225675247,
   "tags": [
-    "Diagrams",
-    "Downloads",
-    "Freebies",
-    "Icons"
+    {
+      "name": "Diagrams",
+      "slug": "diagrams"
+    },
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "The Graphs: A Free Icon Set",
   "url": "https://www.smashingmagazine.com/2008/11/the-graphs-a-free-icon-set/"

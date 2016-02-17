@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Frank Puscher",
+  "authorUrl": "https://www.smashingmagazine.com/author/frank-puscher/",
   "commentCount": 15,
   "description": "If you&#39;ve managed to sell a product to a customer, use this opporunity to present further attractive offers to the customer. The topic &quot;behavioral targeting&quot;, a technique that uses information coll...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illugeld.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/05/optimizing-conversion-rates-less-effort-more-customers/",
   "publishedDate": 1243037651,
   "tags": [
-    "Conversion",
-    "E-Commerce",
-    "Personalization",
-    "Usability"
+    {
+      "name": "Conversion",
+      "slug": "conversion"
+    },
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    },
+    {
+      "name": "Personalization",
+      "slug": "personalization"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "Use Conversions To Generate More Conversions",
   "url": "https://www.smashingmagazine.com/2009/05/optimizing-conversion-rates-less-effort-more-customers/"

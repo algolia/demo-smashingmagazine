@@ -1,14 +1,24 @@
 {
-  "author": "@stevensnell",
+  "author": "Steven Snell",
+  "authorUrl": "https://www.smashingmagazine.com/author/stevensnell/",
   "commentCount": 111,
   "description": "Use of texture in Web design is extremely common. Part of the reason textures are so useful to designers is the relative ease of the integrating one into a design if a high-quality textured image a...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/text.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/02/100-beautiful-free-textures/",
   "publishedDate": 1233893424,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Textures"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Textures",
+      "slug": "textures"
+    }
   ],
   "title": "100 Beautiful Free Textures",
   "url": "https://www.smashingmagazine.com/2009/02/100-beautiful-free-textures/"

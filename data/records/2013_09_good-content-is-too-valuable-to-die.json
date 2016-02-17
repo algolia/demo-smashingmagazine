@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 48,
   "description": "Good content is time-consuming. It’s expensive, requires patience and damn hard work. Good content is very difficult to produce and hard to maintain, and it’s way too valuable to die like this.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/net-illu.png",
   "objectID": "https://www.smashingmagazine.com/2013/09/good-content-is-too-valuable-to-die/",
   "publishedDate": 1379607050,
   "tags": [
-    "Community"
+    {
+      "name": "Community",
+      "slug": "community"
+    }
   ],
   "title": "Good Content Is Too Valuable To Die",
   "url": "https://www.smashingmagazine.com/2013/09/good-content-is-too-valuable-to-die/"

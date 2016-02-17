@@ -1,12 +1,16 @@
 {
-  "author": "@helloanselm",
+  "author": "Anselm Hannemann",
+  "authorUrl": "https://www.smashingmagazine.com/author/anselm-hannemann/",
   "commentCount": 6,
   "description": "This week, Firefox 44 has been released to the public. The new version offers better video support (VP9, WebM in addition to h.264) and adds support for Brotli compression (a new, better compressio...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2016/01/web-development-reading-list-122-opt.png",
   "objectID": "https://www.smashingmagazine.com/2016/01/web-development-reading-list-122/",
   "publishedDate": 1454064629,
   "tags": [
-    "Web Development Reading List"
+    {
+      "name": "Web Development Reading List",
+      "slug": "web-development-reading-list"
+    }
   ],
   "title": "Web Development Reading List #122: A Performance Budget Builder, Streams, And The Web Push API",
   "url": "https://www.smashingmagazine.com/2016/01/web-development-reading-list-122/"

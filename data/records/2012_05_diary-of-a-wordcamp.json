@@ -1,12 +1,16 @@
 {
-  "author": "@SiobhanPMcKeown",
+  "author": "Siobhan McKeown",
+  "authorUrl": "https://www.smashingmagazine.com/author/siobhan-mckeown/",
   "commentCount": 21,
   "description": "Siobhan McKeown reports on WordCamp Netherlands: two days of all-WordPress happenings and events - includes video footage, photos, and more!",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wordpress-arrow-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/05/diary-of-a-wordcamp/",
   "publishedDate": 1336711991,
   "tags": [
-    "Community"
+    {
+      "name": "Community",
+      "slug": "community"
+    }
   ],
   "title": "Diary Of A WordCamp",
   "url": "https://www.smashingmagazine.com/2012/05/diary-of-a-wordcamp/"

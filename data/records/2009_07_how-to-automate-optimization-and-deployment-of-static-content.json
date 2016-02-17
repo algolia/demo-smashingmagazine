@@ -1,15 +1,28 @@
 {
-  "author": "@burning_star",
+  "author": "Christian Bäuerlein",
+  "authorUrl": "https://www.smashingmagazine.com/author/christian-baeuerlein/",
   "commentCount": 59,
   "description": "A lot of traffic between users and your site comes from the static content you’re using to set up the user interface, namely layout graphics, Stylesheets and Javascript files.    This article shows...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/optimize.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/07/how-to-automate-optimization-and-deployment-of-static-content/",
   "publishedDate": 1247955133,
   "tags": [
-    "Content",
-    "Optimization",
-    "PHP",
-    "Ruby on Rails"
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "Optimization",
+      "slug": "optimization"
+    },
+    {
+      "name": "PHP",
+      "slug": "php"
+    },
+    {
+      "name": "Ruby on Rails",
+      "slug": "ruby-on-rails"
+    }
   ],
   "title": "How To Automate Optimization and Deployment Of Static Content",
   "url": "https://www.smashingmagazine.com/2009/07/how-to-automate-optimization-and-deployment-of-static-content/"

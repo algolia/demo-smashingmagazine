@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 63,
   "description": "A fresh, new icon set which contains over 250 original high quality PNGs, designed by Oliver Twardowski.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/aroma-freebie.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/11/free-icon-set-for-web-designers-aroma-250-png-icons/",
   "publishedDate": 1321503642,
   "tags": [
-    "Freebies",
-    "Icons"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Free Icon Set For Web Designers: Aroma (250+ PNG Icons)",
   "url": "https://www.smashingmagazine.com/2011/11/free-icon-set-for-web-designers-aroma-250-png-icons/"

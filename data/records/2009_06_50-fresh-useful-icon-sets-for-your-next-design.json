@@ -1,14 +1,24 @@
 {
-  "author": "@speckyboy",
+  "author": "Paul Andrew",
+  "authorUrl": "https://www.smashingmagazine.com/author/paul-andrew/",
   "commentCount": 191,
   "description": "Beautiful and free icon sets always come in handy. Used properly and moderately, icons can be helpful to provide users with memorable metaphors and illustrations that would provide a visual support...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/more-icons.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/06/50-fresh-useful-icon-sets-for-your-next-design/",
   "publishedDate": 1244386389,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Icons"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "50 Fresh Useful Icon Sets For Your Next Design",
   "url": "https://www.smashingmagazine.com/2009/06/50-fresh-useful-icon-sets-for-your-next-design/"

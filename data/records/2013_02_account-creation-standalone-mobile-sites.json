@@ -1,13 +1,20 @@
 {
-  "author": "@Baymard",
+  "author": "Christian Holst",
+  "authorUrl": "https://www.smashingmagazine.com/author/christian-holst/",
   "commentCount": 4,
   "description": "In this UX Design Q&amp;A we cover account creation, standalone mobile websites, and dealing with none-UX designers.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ux-9.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/02/account-creation-standalone-mobile-sites/",
   "publishedDate": 1360205669,
   "tags": [
-    "Interaction Design",
-    "Process"
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    },
+    {
+      "name": "Process",
+      "slug": "process"
+    }
   ],
   "title": "Account Creation, Standalone Mobile Websites, And Dealing With Non-UX Designers",
   "url": "https://www.smashingmagazine.com/2013/02/account-creation-standalone-mobile-sites/"

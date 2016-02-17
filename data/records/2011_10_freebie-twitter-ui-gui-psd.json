@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 26,
   "description": "Smashing Magazine proudly present to you a Twitter UI GUI template, designed by Shelby White which has exclusively been released for Smashing Magazine and its readers.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/twitter-birds-design-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/10/freebie-twitter-ui-gui-psd/",
   "publishedDate": 1318378508,
   "tags": [
-    "Freebies",
-    "PSD"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "PSD",
+      "slug": "psd"
+    }
   ],
   "title": "Freebie: Twitter GUI PSD",
   "url": "https://www.smashingmagazine.com/2011/10/freebie-twitter-ui-gui-psd/"

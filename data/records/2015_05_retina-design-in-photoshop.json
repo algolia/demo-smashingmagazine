@@ -1,14 +1,24 @@
 {
-  "author": "@MurdochCarpentr",
+  "author": "Murdoch Carpenter",
+  "authorUrl": "https://www.smashingmagazine.com/author/murdochcarpenter/",
   "commentCount": 83,
   "description": "Murdoch Carpenter walks you through the problems he faced in creating Retina mockups for tablet devices and explains an easier way with better performance.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/04/01-iassessor-opt.png",
   "objectID": "https://www.smashingmagazine.com/2015/05/retina-design-in-photoshop/",
   "publishedDate": 1431950556,
   "tags": [
-    "Optimization",
-    "Performance",
-    "Photoshop"
+    {
+      "name": "Optimization",
+      "slug": "optimization"
+    },
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    }
   ],
   "title": "A Better Way To Design For Retina In Photoshop",
   "url": "https://www.smashingmagazine.com/2015/05/retina-design-in-photoshop/"

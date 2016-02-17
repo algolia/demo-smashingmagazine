@@ -1,12 +1,16 @@
 {
-  "author": "@willdayble",
+  "author": "Will Dayble",
+  "authorUrl": "https://www.smashingmagazine.com/author/will-dayble/",
   "commentCount": 24,
   "description": "This article is about crafting design products that help real-life users achieve their goals.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/04/whiteboard_small.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/05/how-to-help-a-real-life-knight-achieve-his-goals/",
   "publishedDate": 1367886908,
   "tags": [
-    "Process"
+    {
+      "name": "Process",
+      "slug": "process"
+    }
   ],
   "title": "How To Help A Real-Life Knight Achieve His Goals",
   "url": "https://www.smashingmagazine.com/2013/05/how-to-help-a-real-life-knight-achieve-his-goals/"

@@ -1,16 +1,32 @@
 {
-  "author": "@JasonNMark",
+  "author": "Jason Mark",
+  "authorUrl": "https://www.smashingmagazine.com/author/jason-mark/",
   "commentCount": 66,
   "description": "Twenty minutes after unboxing my first iPad, I realized this device’s potential to revolutionize the world of kiosks. Ten years ago, my team and I worked with Honda to develop touchscreen kiosks fo...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ipad-mounted2.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/11/transform-tablet-affordable-kiosk-clients/",
   "publishedDate": 1353914029,
   "tags": [
-    "Business",
-    "Clients",
-    "Devices",
-    "iOS",
-    "iPad"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Clients",
+      "slug": "clients"
+    },
+    {
+      "name": "Devices",
+      "slug": "devices"
+    },
+    {
+      "name": "iOS",
+      "slug": "ios"
+    },
+    {
+      "name": "iPad",
+      "slug": "ipad"
+    }
   ],
   "title": "Transform A Tablet Into An Affordable Kiosk For Your Clients",
   "url": "https://www.smashingmagazine.com/2012/11/transform-tablet-affordable-kiosk-clients/"

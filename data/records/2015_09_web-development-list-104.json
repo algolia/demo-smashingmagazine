@@ -1,12 +1,16 @@
 {
-  "author": "@helloanselm",
+  "author": "Anselm Hannemann",
+  "authorUrl": "https://www.smashingmagazine.com/author/anselm-hannemann/",
   "commentCount": 6,
   "description": "What&#39;s happening in the industry? What important techniques have emerged recently? What about new case studies, insights, techniques and tools? Our dear friend Anselm Hannemann is keeping track of ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/09/think-outside-the-box.png",
   "objectID": "https://www.smashingmagazine.com/2015/09/web-development-list-104/",
   "publishedDate": 1442587230,
   "tags": [
-    "Web Development Reading List"
+    {
+      "name": "Web Development Reading List",
+      "slug": "web-development-reading-list"
+    }
   ],
   "title": "Web Development Reading List #104",
   "url": "https://www.smashingmagazine.com/2015/09/web-development-list-104/"

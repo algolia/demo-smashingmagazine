@@ -1,13 +1,20 @@
 {
-  "author": "@GoceMitevski",
+  "author": "Goce Mitevski",
+  "authorUrl": "https://www.smashingmagazine.com/author/goce-mitevski/",
   "commentCount": 26,
   "description": "Through random redirection, you could offer your readers a chance to hop randomly through your WordPress posts and possibly discover content they somehow missed.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/04/random-redirection-wordpress-01.png",
   "objectID": "https://www.smashingmagazine.com/2012/04/random-redirection-in-wordpress/",
   "publishedDate": 1334811432,
   "tags": [
-    "Admin",
-    "Techniques"
+    {
+      "name": "Admin",
+      "slug": "admin"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Random Redirection in WordPress",
   "url": "https://www.smashingmagazine.com/2012/04/random-redirection-in-wordpress/"

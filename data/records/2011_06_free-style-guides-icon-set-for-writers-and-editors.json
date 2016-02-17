@@ -1,17 +1,36 @@
 {
-  "author": "@ThomasDesign",
+  "author": "Thomas McGee",
+  "authorUrl": "https://www.smashingmagazine.com/author/thomas-mcgee/",
   "commentCount": 26,
   "description": "Today, we’re excited to present you with a free icon set, called Style Guides. Perfect for websites with an editorial flair, Style Guides features 14 high-quality icons ranging from 32×32 to 512×51...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/a-a-typeface-illus.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/06/free-style-guides-icon-set-for-writers-and-editors/",
   "publishedDate": 1308529947,
   "tags": [
-    "Blogging",
-    "Copywriting",
-    "Editorial",
-    "Freebies",
-    "Icons",
-    "Style Guides"
+    {
+      "name": "Blogging",
+      "slug": "blogging"
+    },
+    {
+      "name": "Copywriting",
+      "slug": "copywriting"
+    },
+    {
+      "name": "Editorial",
+      "slug": "editorial"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    },
+    {
+      "name": "Style Guides",
+      "slug": "style-guides"
+    }
   ],
   "title": "Free Style Guides Icon Set For Writers And Editors",
   "url": "https://www.smashingmagazine.com/2011/06/free-style-guides-icon-set-for-writers-and-editors/"

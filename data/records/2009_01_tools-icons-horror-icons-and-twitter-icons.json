@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 46,
   "description": "We continue to deliver fresh high-quality freebies to our readers and we continue to pursue the diversity of subjects that we are going to cover on Smashing Magazine. From the beginning of the year...",
   "image": "https://www.smashingmagazine.com/images/january-freebies/tool-preview.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/01/tools-icons-horror-icons-and-twitter-icons/",
   "publishedDate": 1231750702,
   "tags": [
-    "Freebies",
-    "Icons",
-    "Twitter"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    },
+    {
+      "name": "Twitter",
+      "slug": "twitter"
+    }
   ],
   "title": "Tools Icons, Horror Icons and Twitter Icons",
   "url": "https://www.smashingmagazine.com/2009/01/tools-icons-horror-icons-and-twitter-icons/"

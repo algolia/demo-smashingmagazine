@@ -1,14 +1,24 @@
 {
-  "author": "@retinart",
+  "author": "Alexander Charchar",
+  "authorUrl": "https://www.smashingmagazine.com/author/alexander-charchar/",
   "commentCount": 46,
   "description": "Alexander Charchar points out that anyone can become a better designer or developer, and explains how to change and start catching up on what has been missed.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/10/brain-chaos-illu-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/10/be-a-better-designer-by-eating-an-elephant/",
   "publishedDate": 1413562340,
   "tags": [
-    "Creativity",
-    "Inspiration",
-    "Opinion Column"
+    {
+      "name": "Creativity",
+      "slug": "creativity"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    }
   ],
   "title": "Be A Better Designer By Eating An Elephant",
   "url": "https://www.smashingmagazine.com/2014/10/be-a-better-designer-by-eating-an-elephant/"

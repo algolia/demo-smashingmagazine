@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Greg Nudelman & Daria Kempka",
+  "authorUrl": "https://www.smashingmagazine.com/author/gregnudelmandariakempka/",
   "commentCount": 12,
   "description": "Greg Nudelmann and Daria Kempka present an inventory-based slider asking for a price, a size, or any other input within a widely distributed range.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/10/illu-slider.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/10/inventory-based-discrete-slider/",
   "publishedDate": 1412769454,
   "tags": [
-    "Android",
-    "Design Patterns",
-    "User Experience",
-    "User Interaction"
+    {
+      "name": "Android",
+      "slug": "android"
+    },
+    {
+      "name": "Design Patterns",
+      "slug": "design-patterns"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    },
+    {
+      "name": "User Interaction",
+      "slug": "user-interaction"
+    }
   ],
   "title": "Mobile Design Pattern: Inventory-Based Discrete Slider",
   "url": "https://www.smashingmagazine.com/2014/10/inventory-based-discrete-slider/"

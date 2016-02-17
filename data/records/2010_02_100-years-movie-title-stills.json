@@ -1,14 +1,24 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 57,
   "description": "This showcase portrays many different movie title stills from the last 100 years. Come to find out that there were some great sites that have already collected hundreds of movie title stills.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/optical-black-white-red.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/02/100-years-movie-title-stills/",
   "publishedDate": 1265170686,
   "tags": [
-    "Creativity",
-    "Design Informer",
-    "Inspiration"
+    {
+      "name": "Creativity",
+      "slug": "creativity"
+    },
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "100 Years of Movie Title Stills",
   "url": "https://www.smashingmagazine.com/2010/02/100-years-movie-title-stills/"

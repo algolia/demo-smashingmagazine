@@ -1,16 +1,32 @@
 {
-  "author": "@smashingmag",
+  "author": "Brian D. Armstrong",
+  "authorUrl": "https://www.smashingmagazine.com/author/brian-d-armstrong/",
   "commentCount": 99,
   "description": "You may have noticed that in certain business and marketing circles there exists a &quot;backlash&quot; against the design community. Despite the rise of attractive, user-friendly solutions, in such cirlces ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/metrics.gif",
   "objectID": "https://www.smashingmagazine.com/2008/07/how-to-communicate-design-decisions-to-clients/",
   "publishedDate": 1216718745,
   "tags": [
-    "Business",
-    "Clients",
-    "Guidelines",
-    "Principles",
-    "Process"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Clients",
+      "slug": "clients"
+    },
+    {
+      "name": "Guidelines",
+      "slug": "guidelines"
+    },
+    {
+      "name": "Principles",
+      "slug": "principles"
+    },
+    {
+      "name": "Process",
+      "slug": "process"
+    }
   ],
   "title": "How To Communicate Design Decisions To Clients?",
   "url": "https://www.smashingmagazine.com/2008/07/how-to-communicate-design-decisions-to-clients/"

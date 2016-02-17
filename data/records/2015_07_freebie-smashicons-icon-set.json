@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 17,
   "description": "The Smashicons freebie set contains 500 icons in four editable variants: outlined, solid, webby and flat in three formats covering all sorts of categories.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/06/Iicons-flat-opt-small.png",
   "objectID": "https://www.smashingmagazine.com/2015/07/freebie-smashicons-icon-set/",
   "publishedDate": 1435939441,
   "tags": [
-    "Freebies",
-    "Icons"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Freebie: Smashicons Icon Set (AI, PSD, Sketch)",
   "url": "https://www.smashingmagazine.com/2015/07/freebie-smashicons-icon-set/"

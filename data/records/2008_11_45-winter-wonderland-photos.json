@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Andrew Gibson",
+  "authorUrl": "https://www.smashingmagazine.com/author/andrew-gibson/",
   "commentCount": 129,
   "description": "As winter approaches in the northern hemisphere and the nights draw in, our thoughts turn to the beauty of ice and snow. Winter photography, especially in the colder parts of the world, is a specia...",
   "image": "https://www.smashingmagazine.com/images/winter-wonderland/pb1.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/11/45-winter-wonderland-photos/",
   "publishedDate": 1227451344,
   "tags": [
-    "Photography"
+    {
+      "name": "Photography",
+      "slug": "photography"
+    }
   ],
   "title": "50 Beautiful Winter Wonderland Photos",
   "url": "https://www.smashingmagazine.com/2008/11/45-winter-wonderland-photos/"

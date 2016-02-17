@@ -1,13 +1,20 @@
 {
-  "author": "@TheNextUX",
+  "author": "Claire Carlson",
+  "authorUrl": "https://www.smashingmagazine.com/author/clairecarlson/",
   "commentCount": 23,
   "description": "Claire Carlson gives tips for foreigners planning to conduct in-home user interviews in Brazil, including parallels with research in India, China and Spain.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/03/conducting-user-research-in-brazil.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/03/conducting-user-research-in-brazil/",
   "publishedDate": 1426256992,
   "tags": [
-    "Case Studies",
-    "User Research"
+    {
+      "name": "Case Studies",
+      "slug": "case-studies"
+    },
+    {
+      "name": "User Research",
+      "slug": "user-research"
+    }
   ],
   "title": "Considerations When Conducting User Research In Other Countries: A Brazilian Case Study",
   "url": "https://www.smashingmagazine.com/2015/03/conducting-user-research-in-brazil/"

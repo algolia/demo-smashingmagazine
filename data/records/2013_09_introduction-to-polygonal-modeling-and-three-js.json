@@ -1,14 +1,24 @@
 {
-  "author": "@jasondemeuse",
+  "author": "Jason Demeuse",
+  "authorUrl": "https://www.smashingmagazine.com/author/jason-demeuse/",
   "commentCount": 17,
   "description": "This article wants to teach Web developers with little 3-D and WebGL experience to create incredibly sophisticated 3-D scenes using Three.js and common JavaScript practices.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/09/illu-threejs.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/09/introduction-to-polygonal-modeling-and-three-js/",
   "publishedDate": 1379377037,
   "tags": [
-    "JavaScript",
-    "Techniques",
-    "Tools"
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "Introduction To Polygonal Modeling And Three.js",
   "url": "https://www.smashingmagazine.com/2013/09/introduction-to-polygonal-modeling-and-three-js/"

@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 29,
   "description": "The new year is just few days away; however, not all parties are planned, not all presents are packed and not all work is done. If you feel under the weather, bored or overwhelmed by the late shopp...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/cartoon.png",
   "objectID": "https://www.smashingmagazine.com/2007/12/funny-and-creative-animated-videos/",
   "publishedDate": 1198892599,
   "tags": [
-    "Animation",
-    "Cartoons",
-    "Videos"
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Cartoons",
+      "slug": "cartoons"
+    },
+    {
+      "name": "Videos",
+      "slug": "videos"
+    }
   ],
   "title": "Funny and Creative Animated Videos",
   "url": "https://www.smashingmagazine.com/2007/12/funny-and-creative-animated-videos/"

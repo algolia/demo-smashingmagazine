@@ -1,13 +1,20 @@
 {
-  "author": "@tadfry",
+  "author": "Tad Fry",
+  "authorUrl": "https://www.smashingmagazine.com/author/tad-fry/",
   "commentCount": 110,
   "description": "Dissonance occurs when something disrupts your consonance. It challenges your beliefs and makes you feel uncomfortable. We can use it in design or copywriting.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/10/spent1.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/10/design-with-dissonance/",
   "publishedDate": 1318480884,
   "tags": [
-    "Communication",
-    "Content"
+    {
+      "name": "Communication",
+      "slug": "communication"
+    },
+    {
+      "name": "Content",
+      "slug": "content"
+    }
   ],
   "title": "Design With Dissonance",
   "url": "https://www.smashingmagazine.com/2011/10/design-with-dissonance/"

@@ -1,13 +1,20 @@
 {
-  "author": "@stevensnell",
+  "author": "Steven Snell",
+  "authorUrl": "https://www.smashingmagazine.com/author/stevensnell/",
   "commentCount": 87,
   "description": "When searching for web design inspiration it&#39;s easy to get caught up looking at the same portfolios, blogs and the typical sites that appeal to fellow designers. However, as a designer there is a s...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/billboard.png",
   "objectID": "https://www.smashingmagazine.com/2008/11/billboard-top-40-design-showcase/",
   "publishedDate": 1227532439,
   "tags": [
-    "Inspiration",
-    "Showcases"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    }
   ],
   "title": "Billboard Top 40 Design Showcase",
   "url": "https://www.smashingmagazine.com/2008/11/billboard-top-40-design-showcase/"

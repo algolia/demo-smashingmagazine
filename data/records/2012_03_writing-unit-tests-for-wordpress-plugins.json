@@ -1,14 +1,24 @@
 {
-  "author": "@ZackGrossbart",
+  "author": "Zack Grossbart",
+  "authorUrl": "https://www.smashingmagazine.com/author/zack-grossbart/",
   "commentCount": 12,
   "description": "When my WordPress plugin had only three users, it didn’t matter much if I broke it. Unit tests saved the day.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wordpress-11.png",
   "objectID": "https://www.smashingmagazine.com/2012/03/writing-unit-tests-for-wordpress-plugins/",
   "publishedDate": 1331090681,
   "tags": [
-    "JavaScript",
-    "Plugins",
-    "Techniques (WP)"
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Plugins",
+      "slug": "plugins"
+    },
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    }
   ],
   "title": "Writing Unit Tests For WordPress Plugins",
   "url": "https://www.smashingmagazine.com/2012/03/writing-unit-tests-for-wordpress-plugins/"

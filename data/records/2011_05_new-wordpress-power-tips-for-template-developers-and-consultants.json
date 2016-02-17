@@ -1,14 +1,24 @@
 {
-  "author": "@jakemgold",
+  "author": "Jacob Goldman",
+  "authorUrl": "https://www.smashingmagazine.com/author/jacob-goldman/",
   "commentCount": 70,
   "description": "It has been a big year for WordPress. If there were still some lingering doubts about its potency as a full-fledged content management system, then the full support for custom taxonomies and custom...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/05/sm11.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/05/new-wordpress-power-tips-for-template-developers-and-consultants/",
   "publishedDate": 1304980862,
   "tags": [
-    "PHP",
-    "Techniques (WP)",
-    "Templates"
+    {
+      "name": "PHP",
+      "slug": "php"
+    },
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    },
+    {
+      "name": "Templates",
+      "slug": "templates"
+    }
   ],
   "title": "New WordPress Power Tips For Template Developers And Consultants",
   "url": "https://www.smashingmagazine.com/2011/05/new-wordpress-power-tips-for-template-developers-and-consultants/"

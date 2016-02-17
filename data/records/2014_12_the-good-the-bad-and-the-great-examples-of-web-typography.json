@@ -1,14 +1,24 @@
 {
-  "author": "@typewolf",
+  "author": "Jeremiah Shoaf",
+  "authorUrl": "https://www.smashingmagazine.com/author/jeremiah-shoaf/",
   "commentCount": 25,
   "description": "Choosing typefaces is an integral part of every web design project. With thousands of typefaces available from hosting services such as Typekit, as well an ever-improving collection of free fonts a...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/12/simply-gum-178-118-illu.png",
   "objectID": "https://www.smashingmagazine.com/2014/12/the-good-the-bad-and-the-great-examples-of-web-typography/",
   "publishedDate": 1419257529,
   "tags": [
-    "Fonts",
-    "Opinion Column",
-    "Typography"
+    {
+      "name": "Fonts",
+      "slug": "fonts"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "The Good, The Bad And The Great Examples Of Web Typography",
   "url": "https://www.smashingmagazine.com/2014/12/the-good-the-bad-and-the-great-examples-of-web-typography/"

@@ -1,13 +1,20 @@
 {
-  "author": "@w3avenue",
+  "author": "Saud Khan",
+  "authorUrl": "https://www.smashingmagazine.com/author/saud-khan/",
   "commentCount": 181,
   "description": "Smashing Magazine has been on Twitter for about a year now (@smashingmag), and it turned out to be a great medium to communicate with our audience, build connections, discuss design-related topics ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/twitter2.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/09/effective-twitter-backgrounds-examples-and-best-practices/",
   "publishedDate": 1253245937,
   "tags": [
-    "Backgrounds",
-    "Twitter"
+    {
+      "name": "Backgrounds",
+      "slug": "backgrounds"
+    },
+    {
+      "name": "Twitter",
+      "slug": "twitter"
+    }
   ],
   "title": "Effective Twitter Backgrounds: Examples and Current Practices",
   "url": "https://www.smashingmagazine.com/2009/09/effective-twitter-backgrounds-examples-and-best-practices/"

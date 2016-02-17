@@ -1,13 +1,20 @@
 {
-  "author": "@ZackGrossbart",
+  "author": "Zack Grossbart",
+  "authorUrl": "https://www.smashingmagazine.com/author/zack-grossbart/",
   "commentCount": 20,
   "description": "This math problem protects governments, runs the Internet and makes online shopping possible. This article shows how it works and explain why it matters.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/11/04-Map-1-opt-43.png",
   "objectID": "https://www.smashingmagazine.com/2015/11/p-vs-np-assumption-that-runs-internet/",
   "publishedDate": 1448637077,
   "tags": [
-    "Performance",
-    "Security"
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "Security",
+      "slug": "security"
+    }
   ],
   "title": "P Vs. NP: The Assumption That Runs The Internet",
   "url": "https://www.smashingmagazine.com/2015/11/p-vs-np-assumption-that-runs-internet/"

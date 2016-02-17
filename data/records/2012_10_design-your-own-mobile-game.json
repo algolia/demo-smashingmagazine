@@ -1,14 +1,24 @@
 {
-  "author": "@eoinmcg",
+  "author": "Eoin McGrath",
+  "authorUrl": "https://www.smashingmagazine.com/author/eoin-mcgrath/",
   "commentCount": 43,
   "description": "Learn how to make a cross-platform mobile game with HTML5. Could HTML5 finally fulfill the holy grail of “write once, run anywhere”?",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/10/mobile-game.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/10/design-your-own-mobile-game/",
   "publishedDate": 1350610187,
   "tags": [
-    "Games",
-    "HTML5",
-    "iPhone"
+    {
+      "name": "Games",
+      "slug": "games"
+    },
+    {
+      "name": "HTML5",
+      "slug": "html5"
+    },
+    {
+      "name": "iPhone",
+      "slug": "iphone"
+    }
   ],
   "title": "How To Design A Mobile Game With HTML5",
   "url": "https://www.smashingmagazine.com/2012/10/design-your-own-mobile-game/"

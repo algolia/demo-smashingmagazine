@@ -1,13 +1,20 @@
 {
-  "author": "@rocktronica",
+  "author": "Tommy Saylor",
+  "authorUrl": "https://www.smashingmagazine.com/author/tommy-iamnotagoodartist/",
   "commentCount": 38,
   "description": "Bookmarklets are small JavaScript-powered applications in link form. Often “one-click” tools and functions, they’re typically used to extend the functionality of the browser and to interact with We...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/11/dec-15-space-race-preview-opt.png",
   "objectID": "https://www.smashingmagazine.com/2010/05/make-your-own-bookmarklets-with-jquery/",
   "publishedDate": 1274611255,
   "tags": [
-    "Bookmarklets",
-    "jQuery"
+    {
+      "name": "Bookmarklets",
+      "slug": "bookmarklets"
+    },
+    {
+      "name": "jQuery",
+      "slug": "jquery"
+    }
   ],
   "title": "Make Your Own Bookmarklets With jQuery",
   "url": "https://www.smashingmagazine.com/2010/05/make-your-own-bookmarklets-with-jquery/"

@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 20,
   "description": "In this post we have gathered some inspiring and useful tech talks and videos from web conferences.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/psych-9.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/11/useful-tech-talks-videos-web-conferences/",
   "publishedDate": 1352471444,
   "tags": [
-    "Conferences",
-    "Inspiration",
-    "Videos"
+    {
+      "name": "Conferences",
+      "slug": "conferences"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Videos",
+      "slug": "videos"
+    }
   ],
   "title": "Useful Talks And Videos From Web Design Conferences",
   "url": "https://www.smashingmagazine.com/2012/11/useful-tech-talks-videos-web-conferences/"

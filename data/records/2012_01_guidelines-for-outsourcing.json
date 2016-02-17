@@ -1,13 +1,20 @@
 {
-  "author": "@documaker",
+  "author": "Nicole Miller",
+  "authorUrl": "https://www.smashingmagazine.com/author/nicole-miller/",
   "commentCount": 1,
   "description": "An extensive overview of everything you need to know to outsource, sub-contract and hire out in your Web design projects.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/money-love.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/01/guidelines-for-outsourcing/",
   "publishedDate": 1326825887,
   "tags": [
-    "Business",
-    "Workflow"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Guidelines For Outsourcing, Sub-Contracting and Hiring Out",
   "url": "https://www.smashingmagazine.com/2012/01/guidelines-for-outsourcing/"

@@ -1,13 +1,20 @@
 {
-  "author": "@benthinkin",
+  "author": "Ben Gremillion",
+  "authorUrl": "https://www.smashingmagazine.com/author/ben-gremillion/",
   "commentCount": 19,
   "description": "As Web technology improves, users expect Web-based widgets to be useful, content to be relevant and interfaces to be snappy. They want to feel confident navigating a website and using its functiona...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/45-fresh.png",
   "objectID": "https://www.smashingmagazine.com/2010/10/test-usability-by-embracing-other-viewpoints/",
   "publishedDate": 1286343868,
   "tags": [
-    "Testing",
-    "Usability"
+    {
+      "name": "Testing",
+      "slug": "testing"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "Test Usability By Embracing Other Viewpoints",
   "url": "https://www.smashingmagazine.com/2010/10/test-usability-by-embracing-other-viewpoints/"

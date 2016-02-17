@@ -1,13 +1,20 @@
 {
-  "author": "@csswizardry",
+  "author": "Harry Roberts",
+  "authorUrl": "https://www.smashingmagazine.com/author/harry-roberts/",
   "commentCount": 125,
   "description": "I think a lot of us CSS authors are doing it wrong. We are selfish by nature; we get into our little bubbles, writing CSS (as amazing as it may be) with only ourselves in mind. How many times have ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/08/labyrinth-comic.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/08/writing-css-for-others/",
   "publishedDate": 1314320260,
   "tags": [
-    "CSS",
-    "Maintenance"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Maintenance",
+      "slug": "maintenance"
+    }
   ],
   "title": "Writing CSS For Others",
   "url": "https://www.smashingmagazine.com/2011/08/writing-css-for-others/"

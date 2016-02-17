@@ -1,15 +1,28 @@
 {
-  "author": "@SeanHodge",
+  "author": "Sean Hodge",
+  "authorUrl": "https://www.smashingmagazine.com/author/sean-hodge/",
   "commentCount": 59,
   "description": "Hyperrealism is an art movement,which requires the same level of technical ability as photorealistic illustration. To get an idea what is actually meant by that, you can take a look at some excelle...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/hyper.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/04/inspirational-hyperreal-vector-artists-and-images/",
   "publishedDate": 1209267463,
   "tags": [
-    "Art",
-    "Illustrations",
-    "Inspiration",
-    "Vectors"
+    {
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "name": "Illustrations",
+      "slug": "illustrations"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Vectors",
+      "slug": "vectors"
+    }
   ],
   "title": "Inspirational Hyperreal Vector Artists and Images",
   "url": "https://www.smashingmagazine.com/2008/04/inspirational-hyperreal-vector-artists-and-images/"

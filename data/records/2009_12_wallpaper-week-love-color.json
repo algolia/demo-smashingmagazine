@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 31,
   "description": "This wallpaper is entitled Love Color. I was inspired by a quote by John Ruskin and decided to make a wallpaper that exhibited a lot of color.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wallpaper-of-week-1.png",
   "objectID": "https://www.smashingmagazine.com/2009/12/wallpaper-week-love-color/",
   "publishedDate": 1261872842,
   "tags": [
-    "Design Informer",
-    "Wallpapers"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Wallpaper of the Week - Love Color",
   "url": "https://www.smashingmagazine.com/2009/12/wallpaper-week-love-color/"

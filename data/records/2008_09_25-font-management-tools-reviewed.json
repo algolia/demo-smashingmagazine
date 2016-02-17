@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Sachin Dhall",
+  "authorUrl": "https://www.smashingmagazine.com/author/sachindhall/",
   "commentCount": 164,
   "description": "If you are one of those people who work with fonts on regular basis, then choosing, comparing and analyzing fonts is a serious business for you. Font management is not always as easy as a walk on t...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/fontmanagement.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/09/25-font-management-tools-reviewed/",
   "publishedDate": 1220586707,
   "tags": [
-    "Reviews",
-    "Tools",
-    "Typography"
+    {
+      "name": "Reviews",
+      "slug": "reviews"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "25 Font Management Tools Reviewed",
   "url": "https://www.smashingmagazine.com/2008/09/25-font-management-tools-reviewed/"

@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Ann Edwards",
+  "authorUrl": "https://www.smashingmagazine.com/author/aedwards/",
   "commentCount": 40,
   "description": "Instead of getting into the heads of successful designers, we should be getting into the head of the audience we&#39;re designing for. There are many ways this can be done, one of which is music. Relyi...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/musicinspiration.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/05/drawing-inspiration-from-music/",
   "publishedDate": 1241921817,
   "tags": [
-    "Inspiration",
-    "Music"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    }
   ],
   "title": "Drawing Inspiration From Music",
   "url": "https://www.smashingmagazine.com/2009/05/drawing-inspiration-from-music/"

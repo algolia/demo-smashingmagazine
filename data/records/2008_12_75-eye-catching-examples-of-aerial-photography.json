@@ -1,12 +1,16 @@
 {
-  "author": "@vailancio",
+  "author": "Vailancio Rodrigues",
+  "authorUrl": "https://www.smashingmagazine.com/author/vailrodrigues/",
   "commentCount": 71,
   "description": "Aerial photography offers a drastically different perspective than the one you get from shooting on the ground. It includes photographs taken from aircraft, helicopters, balloons, rockets, kites, s...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/above.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/12/75-eye-catching-examples-of-aerial-photography/",
   "publishedDate": 1229865392,
   "tags": [
-    "Photography"
+    {
+      "name": "Photography",
+      "slug": "photography"
+    }
   ],
   "title": "The World From Above: The Beauty Of Aerial Photography",
   "url": "https://www.smashingmagazine.com/2008/12/75-eye-catching-examples-of-aerial-photography/"

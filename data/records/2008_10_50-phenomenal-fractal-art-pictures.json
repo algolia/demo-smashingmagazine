@@ -1,12 +1,16 @@
 {
-  "author": "@rob_e_bowen",
+  "author": "Robert Bowen",
+  "authorUrl": "https://www.smashingmagazine.com/author/robert-bowen/",
   "commentCount": 49,
   "description": "In the realm of digital art, so many wonderful and playful genres exist that stimulate the imagination, but so few do it with the intricate style of fractal art.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/fractals.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/10/50-phenomenal-fractal-art-pictures/",
   "publishedDate": 1224213236,
   "tags": [
-    "Inspiration"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "35 Phenomenal Fractal Art Pictures",
   "url": "https://www.smashingmagazine.com/2008/10/50-phenomenal-fractal-art-pictures/"

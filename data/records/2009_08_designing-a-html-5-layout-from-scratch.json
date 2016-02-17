@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Enrique Ramirez",
+  "authorUrl": "https://www.smashingmagazine.com/author/enrique-ramirez/",
   "commentCount": 216,
   "description": "HTML5 and CSS3 have just arrived (kinda), and with them a whole new battle for the ‘best markup’ trophy has begun.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/01-html-baby-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/",
   "publishedDate": 1249336846,
   "tags": [
-    "HTML",
-    "HTML5",
-    "Layouts"
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "HTML5",
+      "slug": "html5"
+    },
+    {
+      "name": "Layouts",
+      "slug": "layouts"
+    }
   ],
   "title": "Coding An HTML 5 Layout From Scratch",
   "url": "https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/"

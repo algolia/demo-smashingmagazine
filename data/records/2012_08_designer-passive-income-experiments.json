@@ -1,14 +1,24 @@
 {
-  "author": "@SachaGreif",
+  "author": "Sacha Greif",
+  "authorUrl": "https://www.smashingmagazine.com/author/sacha-g/",
   "commentCount": 42,
   "description": "Finding ways to earn passive income is a growing concern among many freelance designers. I’ve always loved client work, but I have to admit that after a while the pressure of juggling multiple boss...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/web-icons-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/08/designer-passive-income-experiments/",
   "publishedDate": 1346071007,
   "tags": [
-    "Business",
-    "Clients",
-    "Workflow"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Clients",
+      "slug": "clients"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Passive Income Strategies For Web Designers",
   "url": "https://www.smashingmagazine.com/2012/08/designer-passive-income-experiments/"

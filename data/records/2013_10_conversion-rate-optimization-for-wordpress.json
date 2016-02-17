@@ -1,13 +1,20 @@
 {
-  "author": "@nexcess",
+  "author": "Graeme Caldwell",
+  "authorUrl": "https://www.smashingmagazine.com/author/nicky-helmkamp/",
   "commentCount": 4,
   "description": "Learn how to boost your site&#39;s conversion rate optimization (CRO) with this insightful, informative article.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wp-idea-illu.png",
   "objectID": "https://www.smashingmagazine.com/2013/10/conversion-rate-optimization-for-wordpress/",
   "publishedDate": 1381292137,
   "tags": [
-    "Optimization",
-    "Techniques (WP)"
+    {
+      "name": "Optimization",
+      "slug": "optimization"
+    },
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    }
   ],
   "title": "Conversion Rate Optimization For WordPress",
   "url": "https://www.smashingmagazine.com/2013/10/conversion-rate-optimization-for-wordpress/"

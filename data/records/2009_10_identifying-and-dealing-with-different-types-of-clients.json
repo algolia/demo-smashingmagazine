@@ -1,13 +1,20 @@
 {
-  "author": "@rob_e_bowen",
+  "author": "Robert Bowen",
+  "authorUrl": "https://www.smashingmagazine.com/author/robert-bowen/",
   "commentCount": 159,
   "description": "In business, being able to read people and quickly get a sense of who you&#39;re dealing with is an invaluable skill. It turns your encounter with a client into an opportunity to catch a glimpse of the...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/clients3.png",
   "objectID": "https://www.smashingmagazine.com/2009/10/identifying-and-dealing-with-different-types-of-clients/",
   "publishedDate": 1255562234,
   "tags": [
-    "Business",
-    "Clients"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Clients",
+      "slug": "clients"
+    }
   ],
   "title": "How To Identify and Deal With Different Types Of Clients",
   "url": "https://www.smashingmagazine.com/2009/10/identifying-and-dealing-with-different-types-of-clients/"

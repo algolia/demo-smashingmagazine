@@ -1,16 +1,32 @@
 {
-  "author": "@smashingmag",
+  "author": "Akhtar Sheikha",
+  "authorUrl": "https://www.smashingmagazine.com/author/akhtar-sheikha/",
   "commentCount": 50,
   "description": "Although often used in the wrong context, the motif of ’70s Retro Rainbow designs seems to occur in many modern designs – from products designs to posters and web designs. The rainbow colors are pa...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/rainbow2.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/04/retro-rainbow-tutorials-and-design-showcase/",
   "publishedDate": 1240111433,
   "tags": [
-    "Illustrator",
-    "Photoshop",
-    "Retro",
-    "Tutorials",
-    "Vintage"
+    {
+      "name": "Illustrator",
+      "slug": "illustrator"
+    },
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "Retro",
+      "slug": "retro"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    },
+    {
+      "name": "Vintage",
+      "slug": "vintage"
+    }
   ],
   "title": "Retro Rainbow Tutorials and Design Showcase",
   "url": "https://www.smashingmagazine.com/2009/04/retro-rainbow-tutorials-and-design-showcase/"

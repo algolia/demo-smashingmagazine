@@ -1,13 +1,20 @@
 {
-  "author": "@attasi",
+  "author": "Tom Giannattasio",
+  "authorUrl": "https://www.smashingmagazine.com/author/thomas-giannattasio/",
   "commentCount": 239,
   "description": "We all have shortcuts that are essential to our daily workflow. A majority of them are staples such as Copy (Command + C) and Paste (Command + V), but occasionally we stumble upon a shortcut we wis...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/photoshop3.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/01/obscure-adobe-photoshop-time-savers/",
   "publishedDate": 1263967772,
   "tags": [
-    "Photoshop",
-    "Time Savers"
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "Time Savers",
+      "slug": "time-savers"
+    }
   ],
   "title": "Mastering Photoshop: Unknown Tricks and Time-Savers",
   "url": "https://www.smashingmagazine.com/2010/01/obscure-adobe-photoshop-time-savers/"

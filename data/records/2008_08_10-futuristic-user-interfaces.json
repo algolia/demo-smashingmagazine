@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 82,
   "description": "Good user interfaces are crucial for good user experience. It doesn&#39;t matter how good a technology is — if we, designers, don&#39;t manage to make user interface as intuitive and attractive as possible...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/interface.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/08/10-futuristic-user-interfaces/",
   "publishedDate": 1218983475,
   "tags": [
-    "Inspiration",
-    "User Interaction",
-    "Videos"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "User Interaction",
+      "slug": "user-interaction"
+    },
+    {
+      "name": "Videos",
+      "slug": "videos"
+    }
   ],
   "title": "10 Futuristic User Interfaces",
   "url": "https://www.smashingmagazine.com/2008/08/10-futuristic-user-interfaces/"

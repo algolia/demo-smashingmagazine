@@ -1,14 +1,24 @@
 {
-  "author": "@paj_one",
+  "author": "Pierre Croft",
+  "authorUrl": "https://www.smashingmagazine.com/author/pierrecroft/",
   "commentCount": 18,
   "description": "Information architecture (IA) is one of those buzzwords you’ve probably heard before. In this article, Pierre Croft discusses card sorting, a tried and true technique for doing just that, and also ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/09/3-img-cardsortinternal-lrg-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/10/improving-information-architecture-card-sorting-beginners-guide/",
   "publishedDate": 1413808195,
   "tags": [
-    "Content Strategy",
-    "User Experience",
-    "User Interaction"
+    {
+      "name": "Content Strategy",
+      "slug": "content-strategy"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    },
+    {
+      "name": "User Interaction",
+      "slug": "user-interaction"
+    }
   ],
   "title": "Improving Your Information Architecture With Card Sorting: A Beginner's Guide",
   "url": "https://www.smashingmagazine.com/2014/10/improving-information-architecture-card-sorting-beginners-guide/"

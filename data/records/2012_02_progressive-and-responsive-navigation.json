@@ -1,15 +1,28 @@
 {
-  "author": "@jeremyHixon",
+  "author": "Jeremy Hixon",
+  "authorUrl": "https://www.smashingmagazine.com/author/jeremy-hixon/",
   "commentCount": 81,
   "description": "Developing for the Web can be a difficult yet rewarding job. Given the number of browsers across the number of platforms, it can sometimes be a bit overwhelming.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/02/prog-resp-nav_13.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/02/progressive-and-responsive-navigation/",
   "publishedDate": 1329101223,
   "tags": [
-    "CSS",
-    "HTML",
-    "HTML5",
-    "jQuery"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "HTML5",
+      "slug": "html5"
+    },
+    {
+      "name": "jQuery",
+      "slug": "jquery"
+    }
   ],
   "title": "Progressive And Responsive Navigation",
   "url": "https://www.smashingmagazine.com/2012/02/progressive-and-responsive-navigation/"

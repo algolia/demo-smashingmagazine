@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Paul Tero",
+  "authorUrl": "https://www.smashingmagazine.com/author/paul-tero/",
   "commentCount": 65,
   "description": "Website speed has always been a big issue, and it has become even more important since April 2010, when Google decided to use it in search rankings. However, the focus of the discussion is generall...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/03/performance.gif",
   "objectID": "https://www.smashingmagazine.com/2011/03/speeding-up-your-websites-database/",
   "publishedDate": 1300838709,
   "tags": [
-    "Performance",
-    "Speed"
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "Speed",
+      "slug": "speed"
+    }
   ],
   "title": "Speeding Up Your Website’s Database",
   "url": "https://www.smashingmagazine.com/2011/03/speeding-up-your-websites-database/"

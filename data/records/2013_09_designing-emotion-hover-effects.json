@@ -1,16 +1,32 @@
 {
-  "author": "@dudleystorey",
+  "author": "Dudley Storey",
+  "authorUrl": "https://www.smashingmagazine.com/author/dudley-storey/",
   "commentCount": 18,
   "description": "In this article, Dudley Storey explains how we can use hover effects to design for emotional surprise and stimulation on websites.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/09/illu-hovereffects.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/09/designing-emotion-hover-effects/",
   "publishedDate": 1378095757,
   "tags": [
-    "CSS",
-    "Emotional Design",
-    "HTML",
-    "JavaScript",
-    "jQuery"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Emotional Design",
+      "slug": "emotional-design"
+    },
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "jQuery",
+      "slug": "jquery"
+    }
   ],
   "title": "Designing For Emotion With Hover Effects",
   "url": "https://www.smashingmagazine.com/2013/09/designing-emotion-hover-effects/"

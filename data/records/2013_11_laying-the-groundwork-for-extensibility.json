@@ -1,16 +1,32 @@
 {
-  "author": "@smashingmag",
+  "author": "Extensible Web Manifesto Team",
+  "authorUrl": "https://www.smashingmagazine.com/author/extensible-web-manifesto-team/",
   "commentCount": 2,
   "description": "The Extensible Web Manifesto team explains the document that they have drafted to build consensus among standards participants around a few core ideas.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/11/illu-extensibility.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/11/laying-the-groundwork-for-extensibility/",
   "publishedDate": 1384318915,
   "tags": [
-    "API",
-    "HTML",
-    "HTML5",
-    "JavaScript",
-    "Opinion Column"
+    {
+      "name": "API",
+      "slug": "api"
+    },
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "HTML5",
+      "slug": "html5"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    }
   ],
   "title": "Laying The Groundwork For Extensibility",
   "url": "https://www.smashingmagazine.com/2013/11/laying-the-groundwork-for-extensibility/"

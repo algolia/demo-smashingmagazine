@@ -1,18 +1,40 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 76,
   "description": "As a visual art movement that emerged in the mid 1950s, pop art aims to emphasize the nature of things popular in our daily routine. In pop art, most artists use mechanical means of rendering techn...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/m-m.gif",
   "objectID": "https://www.smashingmagazine.com/2008/07/pop-art-is-alive-classics-and-modern-artworks/",
   "publishedDate": 1216600130,
   "tags": [
-    "Art",
-    "Inspiration",
-    "Legacy",
-    "Paintings",
-    "Retro",
-    "Showcases",
-    "Vintage"
+    {
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Legacy",
+      "slug": "legacy"
+    },
+    {
+      "name": "Paintings",
+      "slug": "paintings"
+    },
+    {
+      "name": "Retro",
+      "slug": "retro"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Vintage",
+      "slug": "vintage"
+    }
   ],
   "title": "Pop Art Is Alive: Classics and Modern Artworks",
   "url": "https://www.smashingmagazine.com/2008/07/pop-art-is-alive-classics-and-modern-artworks/"

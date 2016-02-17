@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 48,
   "description": "TechCrunch launched their redesign. It&#39;s quite different and it&#39;s drawing a lot of criticism and hate. Here are my thoughts on redesign.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/techcrunch.png",
   "objectID": "https://www.smashingmagazine.com/2011/07/techcrunch-redesign/",
   "publishedDate": 1310441571,
   "tags": [
-    "Design Informer",
-    "Redesign"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Redesign",
+      "slug": "redesign"
+    }
   ],
   "title": "TechCrunch Redesign",
   "url": "https://www.smashingmagazine.com/2011/07/techcrunch-redesign/"

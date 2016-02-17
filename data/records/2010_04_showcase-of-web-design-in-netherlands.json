@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Edgar Leijs",
+  "authorUrl": "https://www.smashingmagazine.com/author/edgar-leijs/",
   "commentCount": 122,
   "description": "The Netherlands, also known as the “Low Countries,” is a small, crowded, muddy piece of land through which a few big important rivers fortunately run. In this country, you can find coffee shops, wo...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/surprised.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/04/showcase-of-web-design-in-netherlands/",
   "publishedDate": 1271909419,
   "tags": [
-    "Global Web Design",
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Global Web Design",
+      "slug": "global-web-design"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Showcase Of Web Design In The Netherlands",
   "url": "https://www.smashingmagazine.com/2010/04/showcase-of-web-design-in-netherlands/"

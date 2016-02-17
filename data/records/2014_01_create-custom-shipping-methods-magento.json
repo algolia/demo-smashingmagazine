@@ -1,14 +1,24 @@
 {
-  "author": "@matthewhaworth",
+  "author": "Matthew Haworth",
+  "authorUrl": "https://www.smashingmagazine.com/author/matthew-haworth/",
   "commentCount": 41,
   "description": "In this tutorial, we will use the powerful shipping-method code abstraction in Magento to create a shipping carrier. We will create two shipping methods that provide a fixed shipping price, allow f...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/03/illu-magento.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/01/create-custom-shipping-methods-magento/",
   "publishedDate": 1389754294,
   "tags": [
-    "Magento",
-    "PHP",
-    "Techniques"
+    {
+      "name": "Magento",
+      "slug": "magento"
+    },
+    {
+      "name": "PHP",
+      "slug": "php"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Creating Custom Shipping Methods In Magento",
   "url": "https://www.smashingmagazine.com/2014/01/create-custom-shipping-methods-magento/"

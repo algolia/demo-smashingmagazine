@@ -1,14 +1,24 @@
 {
-  "author": "@Smash_Scribe",
+  "author": "Jan Constantin",
+  "authorUrl": "https://www.smashingmagazine.com/author/jan-constantin/",
   "commentCount": 53,
   "description": "In this roundup of conferences, we are happy to present you all of the upcoming Web Design related conferences, starting from January.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/conferences-worldwide-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/01/upcoming-web-design-events-jan-2014-jun-2014/",
   "publishedDate": 1390403206,
   "tags": [
-    "Community",
-    "Conferences",
-    "Inspiration"
+    {
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "name": "Conferences",
+      "slug": "conferences"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "Upcoming Web Design Events 2014",
   "url": "https://www.smashingmagazine.com/2014/01/upcoming-web-design-events-jan-2014-jun-2014/"

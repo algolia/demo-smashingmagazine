@@ -1,17 +1,36 @@
 {
-  "author": "@pjrvs",
+  "author": "Paul Jarvis",
+  "authorUrl": "https://www.smashingmagazine.com/author/paul-jarvis/",
   "commentCount": 31,
   "description": "In this article, Paul Jarvis demonstrates how he created a self-paced email course that had over 1,000 registrations in the first 24 hours, and almost 2,500 in the first week.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/create-self-paced-email-course-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/02/how-to-create-a-self-paced-email-course/",
   "publishedDate": 1392034939,
   "tags": [
-    "Apps",
-    "Business",
-    "Content Strategy",
-    "Emails",
-    "Newsletters",
-    "Tutorials"
+    {
+      "name": "Apps",
+      "slug": "apps"
+    },
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Content Strategy",
+      "slug": "content-strategy"
+    },
+    {
+      "name": "Emails",
+      "slug": "emails"
+    },
+    {
+      "name": "Newsletters",
+      "slug": "newsletters"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "How To Create A Self-Paced Email Course",
   "url": "https://www.smashingmagazine.com/2014/02/how-to-create-a-self-paced-email-course/"

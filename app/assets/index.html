@@ -1789,9 +1789,9 @@
         <a href="{{url}}" class="search-hit--title">{{{title}}}</a>
         <ul class="search-hit--infos pmd">
           <li class="search-hit--info search-hit--info__date date">{{date}}</li>
-          <li class="search-hit--info search-hit--info__author">By <a href="#">{{{author}}}</a></li>
+          <li class="search-hit--info search-hit--info__author">By <a href="{{authorUrl}}">{{{author}}}</a></li>
           <li class="search-hit--info search-hit--info__tags tags">
-            {{#tags}}<a href="#">{{{.}}}</a>{{/tags}}
+          {{#tags}}<a href="https://www.smashingmagazine.com/tag/{{slug}}/">{{{name}}}</a>{{/tags}}
           </li>
           <li class="search-hit--info search-hit--info__comments comments">{{comments}}</li>
         </ul>

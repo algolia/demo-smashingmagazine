@@ -1,14 +1,24 @@
 {
-  "author": "@nourayehia",
+  "author": "Noura Yehia",
+  "authorUrl": "https://www.smashingmagazine.com/author/noura-yehia/",
   "commentCount": 142,
   "description": "As the Web grows and becomes more dynamic, more and more websites have user-generated content and tools that greatly improve the user experience in terms of usability and accessibility. Interactive...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ajax.png",
   "objectID": "https://www.smashingmagazine.com/2009/03/70-new-useful-ajax-and-javascript-techniques/",
   "publishedDate": 1236499300,
   "tags": [
-    "AJAX",
-    "JavaScript",
-    "Resources"
+    {
+      "name": "AJAX",
+      "slug": "ajax"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "name": "Resources",
+      "slug": "resources"
+    }
   ],
   "title": "70 New, Useful AJAX And JavaScript Techniques",
   "url": "https://www.smashingmagazine.com/2009/03/70-new-useful-ajax-and-javascript-techniques/"

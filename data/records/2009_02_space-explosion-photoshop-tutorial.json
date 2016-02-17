@@ -1,13 +1,20 @@
 {
-  "author": "@IamBramer",
+  "author": "Tyler Bramer",
+  "authorUrl": "https://www.smashingmagazine.com/author/tyler-bramer/",
   "commentCount": 87,
   "description": "Digital space art is one of the most inventive and beautiful art genres of this era. This tutorial shows you how to create your own space scene using three stock photos and Adobe Photoshop. The maj...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/space2.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/02/space-explosion-photoshop-tutorial/",
   "publishedDate": 1235279664,
   "tags": [
-    "Photoshop",
-    "Tutorials"
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "Space Explosion Photoshop Tutorial",
   "url": "https://www.smashingmagazine.com/2009/02/space-explosion-photoshop-tutorial/"

@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Adeel Raza",
+  "authorUrl": "https://www.smashingmagazine.com/author/adeel-raza/",
   "commentCount": 44,
   "description": "Over the last couple of years, mobile devices have managed to gain mainstream popularity. With iPhone, making mobile Web applications finally usable by broad masses, web design can now be applied t...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/iphone-designs/img_0181.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/09/showcase-of-designs-optimized-for-iphone/",
   "publishedDate": 1254004925,
   "tags": [
-    "Design Patterns",
-    "Inspiration",
-    "iOS",
-    "iPhone"
+    {
+      "name": "Design Patterns",
+      "slug": "design-patterns"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "iOS",
+      "slug": "ios"
+    },
+    {
+      "name": "iPhone",
+      "slug": "iphone"
+    }
   ],
   "title": "Showcase of Designs Optimized for iPhone",
   "url": "https://www.smashingmagazine.com/2009/09/showcase-of-designs-optimized-for-iphone/"

@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 69,
   "description": "When it comes to web design too often perfect, colorful and boxy designs make the cut; however, the reality is different as it is hard to find objects with a perfect shape and a perfect color in ou...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wr.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/06/hand-drawing-style-in-modern-web-design-volume-2/",
   "publishedDate": 1213773160,
   "tags": [
-    "Drawing",
-    "Inspiration",
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Drawing",
+      "slug": "drawing"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Hand-Drawing Style In Modern Web Design - Volume 2",
   "url": "https://www.smashingmagazine.com/2008/06/hand-drawing-style-in-modern-web-design-volume-2/"

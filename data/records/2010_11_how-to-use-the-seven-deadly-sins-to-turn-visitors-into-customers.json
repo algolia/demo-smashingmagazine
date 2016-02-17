@@ -1,14 +1,24 @@
 {
-  "author": "@zurb",
+  "author": "ZURB",
+  "authorUrl": "https://www.smashingmagazine.com/author/dmitry-dragilev/",
   "commentCount": 58,
   "description": "Since the beginning of time people have exploited the human desire to sin, to achieve their goals. Finding out what causes people to sin helps us understand the triggers which prompt people to take...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/circles-colored-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/11/how-to-use-the-seven-deadly-sins-to-turn-visitors-into-customers/",
   "publishedDate": 1290063102,
   "tags": [
-    "Business",
-    "Content",
-    "E-Commerce"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    }
   ],
   "title": "How To Use the “Seven Deadly Sins” to Turn Visitors into Customers",
   "url": "https://www.smashingmagazine.com/2010/11/how-to-use-the-seven-deadly-sins-to-turn-visitors-into-customers/"

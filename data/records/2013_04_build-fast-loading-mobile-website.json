@@ -1,14 +1,24 @@
 {
-  "author": "@johansson_johan",
+  "author": "Johan Johansson",
+  "authorUrl": "https://www.smashingmagazine.com/author/johan-johansson/",
   "commentCount": 45,
   "description": "This article looks at what influences the loading speed of a website on a smartphone and explains techniques you can use to make your websites faster on mobile devices.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/mobile-07.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/04/build-fast-loading-mobile-website/",
   "publishedDate": 1364946736,
   "tags": [
-    "Devices",
-    "Performance",
-    "Responsive Web Design"
+    {
+      "name": "Devices",
+      "slug": "devices"
+    },
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "How To Make Your Websites Faster On Mobile Devices",
   "url": "https://www.smashingmagazine.com/2013/04/build-fast-loading-mobile-website/"

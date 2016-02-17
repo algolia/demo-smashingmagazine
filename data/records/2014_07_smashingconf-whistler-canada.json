@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 12,
   "description": "Smashingconf is coming to Canada, at the foot of the Whistler Blackcomb mountains. Join the forward-thinking event from Dec. 9th to 12th December 2014.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/04/whistler-xmas-v3c.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/07/smashingconf-whistler-canada/",
   "publishedDate": 1405440016,
   "tags": [
-    "Smashing Events"
+    {
+      "name": "Smashing Events",
+      "slug": "smashing-events"
+    }
   ],
   "title": "“Where No Web Designer Has Gone Before!” SmashingConf Whistler, Canada",
   "url": "https://www.smashingmagazine.com/2014/07/smashingconf-whistler-canada/"

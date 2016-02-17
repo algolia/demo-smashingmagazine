@@ -1,14 +1,24 @@
 {
-  "author": "@erangalperin",
+  "author": "Eran Galperin",
+  "authorUrl": "https://www.smashingmagazine.com/author/eran-galperin/",
   "commentCount": 13,
   "description": "If you like the idea of being your own boss, chances are you get the itch sometimes to create your own software product...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/12/software-product-screenshot.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/12/so-you-want-to-build-a-software-product/",
   "publishedDate": 1323317071,
   "tags": [
-    "Business",
-    "Customer Service",
-    "Software"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Customer Service",
+      "slug": "customer-service"
+    },
+    {
+      "name": "Software",
+      "slug": "software"
+    }
   ],
   "title": "So You Want To Build A Software Product",
   "url": "https://www.smashingmagazine.com/2011/12/so-you-want-to-build-a-software-product/"

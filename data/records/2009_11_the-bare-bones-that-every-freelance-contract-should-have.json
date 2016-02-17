@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Mel Ndiweni",
+  "authorUrl": "https://www.smashingmagazine.com/author/mel-ndiweni/",
   "commentCount": 23,
   "description": "In this article, you will find what could be considered the bare bones that every contract should address. There are many templates out there for contracts that freelancers can adopt but eventually...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/contract-calender.png",
   "objectID": "https://www.smashingmagazine.com/2009/11/the-bare-bones-that-every-freelance-contract-should-have/",
   "publishedDate": 1259246486,
   "tags": [
-    "Business",
-    "Design Informer",
-    "Skills",
-    "Workflow"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Skills",
+      "slug": "skills"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "The Bare Bones That Every Freelance Contract Should Have",
   "url": "https://www.smashingmagazine.com/2009/11/the-bare-bones-that-every-freelance-contract-should-have/"

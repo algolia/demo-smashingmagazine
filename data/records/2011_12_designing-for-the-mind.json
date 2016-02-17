@@ -1,14 +1,24 @@
 {
-  "author": "@iamfinch",
+  "author": "Francisco Inchauste",
+  "authorUrl": "https://www.smashingmagazine.com/author/francisco-inchauste/",
   "commentCount": 54,
   "description": "Breaking design down seems like an abstract thing. What if there were principles that captured why design worked the way that it does?",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/designing-mind.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/12/designing-for-the-mind/",
   "publishedDate": 1323443274,
   "tags": [
-    "Design Informer",
-    "Psychology",
-    "Web Design"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Psychology",
+      "slug": "psychology"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Designing for the Mind",
   "url": "https://www.smashingmagazine.com/2011/12/designing-for-the-mind/"

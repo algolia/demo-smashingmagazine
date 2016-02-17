@@ -1,14 +1,24 @@
 {
-  "author": "@spetrany",
+  "author": "Stephen Petrany",
+  "authorUrl": "https://www.smashingmagazine.com/author/stephenpetrany/",
   "commentCount": 16,
   "description": "This article explores techniques in Photoshop explaining how to create custom textures for different objects, applying filters, layer styles or brushes.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/06/09-blending-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/07/creating-custom-textures-photoshop-techniques/",
   "publishedDate": 1404374448,
   "tags": [
-    "Photoshop",
-    "Techniques",
-    "Tutorials"
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "Techniques For Creating Custom Textures In Photoshop",
   "url": "https://www.smashingmagazine.com/2014/07/creating-custom-textures-photoshop-techniques/"

@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 46,
   "description": "Sometimes web design is just about beautiful typography. Used with a profound understanding of white space, basic typographic principles and usability heuristics, it can sufficiently highlight the ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/nadiaserif.png",
   "objectID": "https://www.smashingmagazine.com/2007/09/free-fonts-of-the-month-revalo-nadia-serif-qlassik/",
   "publishedDate": 1189705471,
   "tags": [
-    "Downloads",
-    "Free Fonts",
-    "Freebies",
-    "Typography"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Free Fonts",
+      "slug": "free-fonts"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Free Fonts of the Month: Revalo, Nadia Serif, Qlassik",
   "url": "https://www.smashingmagazine.com/2007/09/free-fonts-of-the-month-revalo-nadia-serif-qlassik/"

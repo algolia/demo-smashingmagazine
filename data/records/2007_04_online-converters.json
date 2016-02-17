@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 57,
   "description": "Online converters always come in handy. Once you need to perform some operation with your files, they can save your time achieving the same results online, without installing some specific software...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illukolorieren.jpg",
   "objectID": "https://www.smashingmagazine.com/2007/04/online-converters/",
   "publishedDate": 1176168801,
   "tags": [
-    "Tools",
-    "Workflow"
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Online Converters",
   "url": "https://www.smashingmagazine.com/2007/04/online-converters/"

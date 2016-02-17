@@ -1,12 +1,16 @@
 {
-  "author": "@danielpataki",
+  "author": "Daniel Pataki",
+  "authorUrl": "https://www.smashingmagazine.com/author/daniel-pataki/",
   "commentCount": 31,
   "description": "WordPress 3.4 is due out this week! Learn about all the new features, enhancements and fixes in the latest version of WordPress.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/08/wordpress-blue-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/06/whats-new-in-wordpress-3-4/",
   "publishedDate": 1339476902,
   "tags": [
-    "Techniques (WP)"
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    }
   ],
   "title": "Whats New in WordPress 3.4",
   "url": "https://www.smashingmagazine.com/2012/06/whats-new-in-wordpress-3-4/"

@@ -1,14 +1,24 @@
 {
-  "author": "@end33r",
+  "author": "Andrzej Mazur",
+  "authorUrl": "https://www.smashingmagazine.com/author/andrzej-mazur/",
   "commentCount": 86,
   "description": "In this article Andrzej Mazur looks at the new additions of the Selectors document in CSS Level 4.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/01/css4.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/01/sneak-peek-future-selectors-level-4/",
   "publishedDate": 1358734756,
   "tags": [
-    "CSS",
-    "CSS3",
-    "Tools"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "CSS3",
+      "slug": "css3"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "Sneak Peek Into The Future: CSS Selectors, Level 4",
   "url": "https://www.smashingmagazine.com/2013/01/sneak-peek-future-selectors-level-4/"

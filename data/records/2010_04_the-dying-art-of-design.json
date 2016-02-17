@@ -1,14 +1,24 @@
 {
-  "author": "@iamfinch",
+  "author": "Francisco Inchauste",
+  "authorUrl": "https://www.smashingmagazine.com/author/francisco-inchauste/",
   "commentCount": 250,
   "description": "Progress is good, but we need to make sure that we&#39;re progressing in the right direction. Our fundamental skills and the craft of design have started to take a back seat. Using the right tools and ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/superman.png",
   "objectID": "https://www.smashingmagazine.com/2010/04/the-dying-art-of-design/",
   "publishedDate": 1270687844,
   "tags": [
-    "Art",
-    "Legacy",
-    "Web Design"
+    {
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "name": "Legacy",
+      "slug": "legacy"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "The Dying Art Of Design",
   "url": "https://www.smashingmagazine.com/2010/04/the-dying-art-of-design/"

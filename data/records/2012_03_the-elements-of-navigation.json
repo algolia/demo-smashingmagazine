@@ -1,13 +1,20 @@
 {
-  "author": "@psilfver",
+  "author": "Petter Silfver",
+  "authorUrl": "https://www.smashingmagazine.com/author/petter-silfver/",
   "commentCount": 29,
   "description": "This article is about the tiniest of details that goes into creating the main centerpiece of your digital product. The construction of the elements of your navigation, the most important aid you ca...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/02/elements_of_navigation01_large.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/03/the-elements-of-navigation/",
   "publishedDate": 1332225261,
   "tags": [
-    "Interaction Design",
-    "Usability"
+    {
+      "name": "Interaction Design",
+      "slug": "interaction-design"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "The Elements Of Navigation",
   "url": "https://www.smashingmagazine.com/2012/03/the-elements-of-navigation/"

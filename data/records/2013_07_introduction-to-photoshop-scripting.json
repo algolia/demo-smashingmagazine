@@ -1,14 +1,24 @@
 {
-  "author": "@darkwark",
+  "author": "Kamil Khadeyev",
+  "authorUrl": "https://www.smashingmagazine.com/author/kamil-khadeyev/",
   "commentCount": 54,
   "description": "In this article, Kamil Khadeyev shows why we need scripts in Photoshop and that, although it requires some basic programming skills, scripting isn’t hard to grasp.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/kamil-illu-3413.png",
   "objectID": "https://www.smashingmagazine.com/2013/07/introduction-to-photoshop-scripting/",
   "publishedDate": 1374742588,
   "tags": [
-    "Photoshop",
-    "Tools",
-    "Workflow"
+    {
+      "name": "Photoshop",
+      "slug": "photoshop"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Introduction To Photoshop Scripting",
   "url": "https://www.smashingmagazine.com/2013/07/introduction-to-photoshop-scripting/"

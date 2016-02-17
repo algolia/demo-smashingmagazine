@@ -1,14 +1,24 @@
 {
-  "author": "@zenorocha",
+  "author": "Zeno Rocha",
+  "authorUrl": "https://www.smashingmagazine.com/author/zeno-rocha/",
   "commentCount": 193,
   "description": "This article explains how to write HTML and CSS with Emmet, a productive text-editor plugin which instantly expands simple abbreviations into complex code snippets.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/03/emmet-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/03/goodbye-zen-coding-hello-emmet/",
   "publishedDate": 1364263803,
   "tags": [
-    "CSS",
-    "HTML",
-    "Plugins"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "HTML",
+      "slug": "html"
+    },
+    {
+      "name": "Plugins",
+      "slug": "plugins"
+    }
   ],
   "title": "Goodbye, Zen Coding. Hello, Emmet!",
   "url": "https://www.smashingmagazine.com/2013/03/goodbye-zen-coding-hello-emmet/"

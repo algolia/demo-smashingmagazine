@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Thomas Maier",
+  "authorUrl": "https://www.smashingmagazine.com/author/thomasmaier/",
   "commentCount": 26,
   "description": "Hooks in WordPress are useful and widely used, but not straightforward. Extend plugins/themes without breaking them—and learn how to avoid common issues.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/02/header_image_550px.png",
   "objectID": "https://www.smashingmagazine.com/2016/01/get-started-with-hooks-wordpress/",
   "publishedDate": 1451996690,
   "tags": [
-    "Techniques (WP)"
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    }
   ],
   "title": "Useful Tips To Get Started With WordPress Hooks",
   "url": "https://www.smashingmagazine.com/2016/01/get-started-with-hooks-wordpress/"

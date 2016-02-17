@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 69,
   "description": "Here you’ll find 50 useful tools and time-savers for web designers and developers. Among other things, you will find recently released tools,",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/mario-8-bit-game-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/07/50-useful-tools-and-resources-for-web-designers/",
   "publishedDate": 1280111416,
   "tags": [
-    "Resources",
-    "Tools"
+    {
+      "name": "Resources",
+      "slug": "resources"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "50 Useful Tools and Resources For Web Designers",
   "url": "https://www.smashingmagazine.com/2010/07/50-useful-tools-and-resources-for-web-designers/"

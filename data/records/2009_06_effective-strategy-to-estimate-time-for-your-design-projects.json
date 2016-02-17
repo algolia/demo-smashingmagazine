@@ -1,13 +1,20 @@
 {
-  "author": "@thesambarnes",
+  "author": "Sam Barnes",
+  "authorUrl": "https://www.smashingmagazine.com/author/sam-barnes/",
   "commentCount": 100,
   "description": "How many times have you been completely confused at how that &#39;small&#39; project turned into such a big one costing double and taking three times the length you estimated? Many of you will say estimati...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/estimation.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/06/effective-strategy-to-estimate-time-for-your-design-projects/",
   "publishedDate": 1244679072,
   "tags": [
-    "Business",
-    "Time management"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Time management",
+      "slug": "time-management"
+    }
   ],
   "title": "Effective Strategy To Estimate Time For Your Design Projects",
   "url": "https://www.smashingmagazine.com/2009/06/effective-strategy-to-estimate-time-for-your-design-projects/"

@@ -1,12 +1,16 @@
 {
-  "author": "@retinart",
+  "author": "Alexander Charchar",
+  "authorUrl": "https://www.smashingmagazine.com/author/alexander-charchar/",
   "commentCount": 25,
   "description": "We’ve all experienced that burnout moment. It’s that moment when we’ve got nothing left to give but keep trying anyway. Here&#39;s how to avoid it.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/10/anxiety-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/10/dealing-with-loud-silent-burnout/",
   "publishedDate": 1445862682,
   "tags": [
-    "Mental Health"
+    {
+      "name": "Mental Health",
+      "slug": "mental-health"
+    }
   ],
   "title": "Dealing With Loud And Silent Burnout",
   "url": "https://www.smashingmagazine.com/2015/10/dealing-with-loud-silent-burnout/"

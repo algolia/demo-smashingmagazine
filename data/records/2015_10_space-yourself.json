@@ -1,12 +1,16 @@
 {
-  "author": "@mwichary",
+  "author": "Marcin Wichary",
+  "authorUrl": "https://www.smashingmagazine.com/author/marcinwichary/",
   "commentCount": 23,
   "description": "There’s more to spaces than the space key. Marcin Wichary shows other space characters, what their heritage is, and how they can be useful today.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/09/02-physical-color-opt-small.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/10/space-yourself/",
   "publishedDate": 1445362168,
   "tags": [
-    "Typography"
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Space Yourself",
   "url": "https://www.smashingmagazine.com/2015/10/space-yourself/"

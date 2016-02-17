@@ -1,14 +1,24 @@
 {
-  "author": "@cameron_chapman",
+  "author": "Cameron Chapman",
+  "authorUrl": "https://www.smashingmagazine.com/author/cameron-chapman/",
   "commentCount": 288,
   "description": "It seems that new posts about what the Internet has in store for us down the road pop up every week or two. Some propose that the Internet will deliver more of the same, but different somehow (it&#39;s...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/prism2.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/09/does-the-future-of-the-internet-have-room-for-web-designers/",
   "publishedDate": 1285298461,
   "tags": [
-    "Future",
-    "Opinion Column",
-    "Workflow"
+    {
+      "name": "Future",
+      "slug": "future"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Does The Future Of The Internet Have Room For Web Designers?",
   "url": "https://www.smashingmagazine.com/2010/09/does-the-future-of-the-internet-have-room-for-web-designers/"

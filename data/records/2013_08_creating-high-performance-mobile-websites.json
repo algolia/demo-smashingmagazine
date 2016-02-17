@@ -1,14 +1,24 @@
 {
-  "author": "@51degreesmobi",
+  "author": "James Rosewell",
+  "authorUrl": "https://www.smashingmagazine.com/author/jamesrosewell/",
   "commentCount": 30,
   "description": "In this article we&#39;ll demonstrate methods to identify how people interact with a website differently on mobile devices, and the design decisions that can be made based on this understanding.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/08/illu-performance.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/08/creating-high-performance-mobile-websites/",
   "publishedDate": 1376261750,
   "tags": [
-    "Performance",
-    "Responsive Web Design",
-    "Techniques"
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Creating High-Performance Mobile Websites",
   "url": "https://www.smashingmagazine.com/2013/08/creating-high-performance-mobile-websites/"

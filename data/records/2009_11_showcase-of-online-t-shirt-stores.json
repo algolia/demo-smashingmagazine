@@ -1,14 +1,24 @@
 {
-  "author": "@callumchapman",
+  "author": "Callum Chapman",
+  "authorUrl": "https://www.smashingmagazine.com/author/callum-chapman/",
   "commentCount": 99,
   "description": "T-shirts, as you&#39;ll surely agree, play a big part in the design world. Sometimes, we designers don&#39;t get the kinds of projects we want, and so we are left to apply our creativity in some other way,...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/t-shirts.png",
   "objectID": "https://www.smashingmagazine.com/2009/11/showcase-of-online-t-shirt-stores/",
   "publishedDate": 1258690944,
   "tags": [
-    "E-Commerce",
-    "Showcases",
-    "T-shirts"
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "T-shirts",
+      "slug": "t-shirts"
+    }
   ],
   "title": "The Big Showcase Of Online T-Shirt Stores",
   "url": "https://www.smashingmagazine.com/2009/11/showcase-of-online-t-shirt-stores/"

@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 7,
   "description": "This is the fourth edition of Wallpaper of the Week here at Design Informer. This week&#39;s wallpaper is entitled Shine On.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wallpaper-shineon.png",
   "objectID": "https://www.smashingmagazine.com/2009/12/wallpaper-week-shine-on/",
   "publishedDate": 1260035570,
   "tags": [
-    "Design Informer",
-    "Wallpapers"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Wallpaper of the Week - Shine On",
   "url": "https://www.smashingmagazine.com/2009/12/wallpaper-week-shine-on/"

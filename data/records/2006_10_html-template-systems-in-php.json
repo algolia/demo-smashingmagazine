@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Sven Lennartz",
+  "authorUrl": "https://www.smashingmagazine.com/author/sven-lennartz/",
   "commentCount": 12,
   "description": "Web developers find themselves sooner or later in a dire situation: their scripts become an entangled mess of code. Program logic, presentation logic and in a worst case scenario even layout and de...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illuzen.png",
   "objectID": "https://www.smashingmagazine.com/2006/10/html-template-systems-in-php/",
   "publishedDate": 1159673913,
   "tags": [
-    "PHP",
-    "Templates"
+    {
+      "name": "PHP",
+      "slug": "php"
+    },
+    {
+      "name": "Templates",
+      "slug": "templates"
+    }
   ],
   "title": "(X)HTML template systems in PHP",
   "url": "https://www.smashingmagazine.com/2006/10/html-template-systems-in-php/"

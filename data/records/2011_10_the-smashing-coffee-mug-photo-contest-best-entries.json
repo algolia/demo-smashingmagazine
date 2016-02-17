@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 69,
   "description": "For those who have participated, thank you for taking shots of your beloved mugs and sending them to us. We received around 470 mugs from all over the world and only a couple of them could make it ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/coffee-cup-illu101.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/10/the-smashing-coffee-mug-photo-contest-best-entries/",
   "publishedDate": 1319600509,
   "tags": [
-    "Contests",
-    "Giveaways"
+    {
+      "name": "Contests",
+      "slug": "contests"
+    },
+    {
+      "name": "Giveaways",
+      "slug": "giveaways"
+    }
   ],
   "title": "The Smashing Coffee Mug Photo Contest: Best Entries!",
   "url": "https://www.smashingmagazine.com/2011/10/the-smashing-coffee-mug-photo-contest-best-entries/"

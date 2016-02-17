@@ -1,14 +1,24 @@
 {
-  "author": "@helgefredheim",
+  "author": "Helge Fredheim",
+  "authorUrl": "https://www.smashingmagazine.com/author/helge-fredheim/",
   "commentCount": 110,
   "description": "A lot of designers seem to be talking about user experience (UX) these days. We’re supposed to delight our users, even provide them with magic, so that they love our websites, apps and start-ups. U...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/how-to-03.png",
   "objectID": "https://www.smashingmagazine.com/2011/03/why-user-experience-cannot-be-designed/",
   "publishedDate": 1300170739,
   "tags": [
-    "Psychology",
-    "Usability",
-    "User Experience"
+    {
+      "name": "Psychology",
+      "slug": "psychology"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Why User Experience Cannot Be Designed",
   "url": "https://www.smashingmagazine.com/2011/03/why-user-experience-cannot-be-designed/"

@@ -1,13 +1,20 @@
 {
-  "author": "@nickgould",
+  "author": "Janine Coover, Nick Gould",
+  "authorUrl": "https://www.smashingmagazine.com/author/catalyst-group/",
   "commentCount": 39,
   "description": "Online shopping is a great way to economize and reduce the stress of shopping, but shopping online for certain types of products can be harder than shopping in person. Recently, I looked at how wel...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/target.png",
   "objectID": "https://www.smashingmagazine.com/2010/01/shopping-for-bedsheets-how-hard-could-it-be/",
   "publishedDate": 1263359311,
   "tags": [
-    "Usability",
-    "User Experience"
+    {
+      "name": "Usability",
+      "slug": "usability"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Usability Study: Shopping For Bedsheets – How Hard Could It Be?",
   "url": "https://www.smashingmagazine.com/2010/01/shopping-for-bedsheets-how-hard-could-it-be/"

@@ -1,12 +1,16 @@
 {
-  "author": "@typeoff",
+  "author": "Dan Reynolds",
+  "authorUrl": "https://www.smashingmagazine.com/author/dan-reynolds/",
   "commentCount": 15,
   "description": "Some of today’s most successful typefaces were designed to excel in very specific areas of use: Frutiger grew out of airport signage, Georgia and Verdana were among the first mass-market fonts crea...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/typography-body.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/05/how-to-choose-the-right-face-for-a-beautiful-body/",
   "publishedDate": 1337606635,
   "tags": [
-    "Typography"
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "How To Choose The Right Face For A Beautiful Body",
   "url": "https://www.smashingmagazine.com/2012/05/how-to-choose-the-right-face-for-a-beautiful-body/"

@@ -1,12 +1,16 @@
 {
-  "author": "@robflaherty",
+  "author": "Rob Flaherty",
+  "authorUrl": "https://www.smashingmagazine.com/author/rob-flaherty/",
   "commentCount": 28,
   "description": "As technology evolves, so does the art and craft of Web design. New technology creates new challenges, which require new solutions. Often we’re working in uncharted territory, where the solutions d...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/www-puzzle-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/01/designing-the-well-tempered-web/",
   "publishedDate": 1326779917,
   "tags": [
-    "User Experience"
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Designing The Well-Tempered Web",
   "url": "https://www.smashingmagazine.com/2012/01/designing-the-well-tempered-web/"

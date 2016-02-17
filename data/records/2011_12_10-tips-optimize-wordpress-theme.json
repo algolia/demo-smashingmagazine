@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Elio Rivero",
+  "authorUrl": "https://www.smashingmagazine.com/author/elio-rivero/",
   "commentCount": 14,
   "description": "Elio shares 10 excellent tips and tricks for optimizing the appearance and functionality of your WordPress themes",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/wordpress-11.png",
   "objectID": "https://www.smashingmagazine.com/2011/12/10-tips-optimize-wordpress-theme/",
   "publishedDate": 1323240863,
   "tags": [
-    "Optimization",
-    "Techniques (WP)",
-    "Themes"
+    {
+      "name": "Optimization",
+      "slug": "optimization"
+    },
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    },
+    {
+      "name": "Themes",
+      "slug": "themes"
+    }
   ],
   "title": "10 Tips To Optimize Your WordPress Theme",
   "url": "https://www.smashingmagazine.com/2011/12/10-tips-optimize-wordpress-theme/"

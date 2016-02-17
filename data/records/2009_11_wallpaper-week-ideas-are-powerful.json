@@ -1,12 +1,16 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 49,
   "description": "This is the second edition of Wallpaper of the Week here at Design Informer. This week&#39;s wallpaper is entitled Ideas are Powerful.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/calendar.png",
   "objectID": "https://www.smashingmagazine.com/2009/11/wallpaper-week-ideas-are-powerful/",
   "publishedDate": 1258760219,
   "tags": [
-    "Design Informer"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    }
   ],
   "title": "Wallpaper of the Week - Ideas Are Powerful",
   "url": "https://www.smashingmagazine.com/2009/11/wallpaper-week-ideas-are-powerful/"

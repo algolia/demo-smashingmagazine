@@ -1,14 +1,24 @@
 {
-  "author": "@iheni",
+  "author": "Henny Swan",
+  "authorUrl": "https://www.smashingmagazine.com/author/henny-swan/",
   "commentCount": 24,
   "description": "Accessibility is about people. Henny Swan shows how BBC listened to users and actively included their feedback to redesigned the iPlayer.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/02/111-iPLayerHomepage-opt-small.png",
   "objectID": "https://www.smashingmagazine.com/2015/02/bbc-iplayer-accessibility-case-study/",
   "publishedDate": 1424701047,
   "tags": [
-    "Accessibility",
-    "Case Studies",
-    "User Experience"
+    {
+      "name": "Accessibility",
+      "slug": "accessibility"
+    },
+    {
+      "name": "Case Studies",
+      "slug": "case-studies"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "A BBC iPlayer Accessibility Case Study",
   "url": "https://www.smashingmagazine.com/2015/02/bbc-iplayer-accessibility-case-study/"

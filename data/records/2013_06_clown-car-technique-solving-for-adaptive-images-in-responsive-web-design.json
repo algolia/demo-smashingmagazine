@@ -1,15 +1,28 @@
 {
-  "author": "@smashingmag",
+  "author": "Estelle Weyl",
+  "authorUrl": "https://www.smashingmagazine.com/author/estelle-weyl/",
   "commentCount": 64,
   "description": "The “clown car” technique is the closest thing we’ve got to a holy grail: leveraging well-supported media queries, the SVG format and the object element to serve responsive images with a single req...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/06/clown-opt1.png",
   "objectID": "https://www.smashingmagazine.com/2013/06/clown-car-technique-solving-for-adaptive-images-in-responsive-web-design/",
   "publishedDate": 1370206751,
   "tags": [
-    "CSS",
-    "Responsive Web Design",
-    "SVG",
-    "Techniques"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    },
+    {
+      "name": "SVG",
+      "slug": "svg"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Clown Car Technique: Solving Adaptive Images In Responsive Web Design",
   "url": "https://www.smashingmagazine.com/2013/06/clown-car-technique-solving-for-adaptive-images-in-responsive-web-design/"

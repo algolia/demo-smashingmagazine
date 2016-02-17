@@ -1,12 +1,16 @@
 {
-  "author": "@yoavweiss",
+  "author": "Yoav Weiss",
+  "authorUrl": "https://www.smashingmagazine.com/author/yoav-weiss/",
   "commentCount": 16,
   "description": "Responsive Image Container, a prototype of an image format for responsive images: what it does, what it cannot do, how it works, and its advantages and disadvantages relative to markup solutions.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/mobile-01.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/09/responsive-image-container/",
   "publishedDate": 1379981414,
   "tags": [
-    "Responsive Web Design"
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "Responsive Image Container: A Way Forward For Responsive Images?",
   "url": "https://www.smashingmagazine.com/2013/09/responsive-image-container/"

@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 72,
   "description": "Another day — another fresh freebie. Today we are glad to release Hearting Social Icon Set, a set of 22 social icons in .png and in resolutions 16×16, 32×32, 64×64.    This set was designed by Arav...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/heart.jpg",
   "objectID": "https://www.smashingmagazine.com/2008/10/heart-a-free-social-icon-set/",
   "publishedDate": 1225065758,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Icons"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "Heart: A Free Social Icon Set",
   "url": "https://www.smashingmagazine.com/2008/10/heart-a-free-social-icon-set/"

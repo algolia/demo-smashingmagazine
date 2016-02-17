@@ -1,14 +1,24 @@
 {
-  "author": "@addyosmani",
+  "author": "Addy Osmani",
+  "authorUrl": "https://www.smashingmagazine.com/author/addy-osmani/",
   "commentCount": 27,
   "description": "In this article, Addy Osmani and Paul Lewis discuss how to improve the paint performance of your websites and Web apps.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/tools-05.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/06/pinterest-paint-performance-case-study/",
   "publishedDate": 1370855662,
   "tags": [
-    "Case Studies",
-    "Performance",
-    "Responsive Web Design"
+    {
+      "name": "Case Studies",
+      "slug": "case-studies"
+    },
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "Gone In 60 Frames Per Second: A Pinterest Paint Performance Case Study",
   "url": "https://www.smashingmagazine.com/2013/06/pinterest-paint-performance-case-study/"

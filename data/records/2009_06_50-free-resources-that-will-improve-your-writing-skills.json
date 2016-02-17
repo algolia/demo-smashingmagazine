@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 127,
   "description": "Effective writing skills are to a writer what petrol is to a car. Like the petrol and car relationship, without solid skills writers cannot move ahead. These skills don’t come overnight, and they r...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/copywriting.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/06/50-free-resources-that-will-improve-your-writing-skills/",
   "publishedDate": 1246168735,
   "tags": [
-    "Blogging",
-    "Copywriting"
+    {
+      "name": "Blogging",
+      "slug": "blogging"
+    },
+    {
+      "name": "Copywriting",
+      "slug": "copywriting"
+    }
   ],
   "title": "50 Free Resources That Will Improve Your Writing Skills",
   "url": "https://www.smashingmagazine.com/2009/06/50-free-resources-that-will-improve-your-writing-skills/"

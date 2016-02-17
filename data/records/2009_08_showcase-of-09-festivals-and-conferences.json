@@ -1,13 +1,20 @@
 {
-  "author": "@inspiredmag",
+  "author": "Catalin Zorzini",
+  "authorUrl": "https://www.smashingmagazine.com/author/catalin-zorzini/",
   "commentCount": 52,
   "description": "Some of the best festivals and conferences of the year are gone by now, but if we&#39;d just want to judge them by their online presence we can do it from the comfort of our couch. There was some resea...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/bbc.png",
   "objectID": "https://www.smashingmagazine.com/2009/08/showcase-of-09-festivals-and-conferences/",
   "publishedDate": 1251188634,
   "tags": [
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Showcase of '09 Festivals and Conferences",
   "url": "https://www.smashingmagazine.com/2009/08/showcase-of-09-festivals-and-conferences/"

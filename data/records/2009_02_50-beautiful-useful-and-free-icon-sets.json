@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Daved Brosche",
+  "authorUrl": "https://www.smashingmagazine.com/author/daved-brosche/",
   "commentCount": 213,
   "description": "When it comes to freebie designs, beautiful icons sets are tops. Designers scour for these free treasures more than anything else. You can use icon sets in Web applications, website designs and on ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/icn.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/02/50-beautiful-useful-and-free-icon-sets/",
   "publishedDate": 1234799980,
   "tags": [
-    "Downloads",
-    "Freebies",
-    "Icons"
+    {
+      "name": "Downloads",
+      "slug": "downloads"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    }
   ],
   "title": "50 Free High-Quality Icon Sets",
   "url": "https://www.smashingmagazine.com/2009/02/50-beautiful-useful-and-free-icon-sets/"

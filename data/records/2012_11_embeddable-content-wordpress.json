@@ -1,14 +1,24 @@
 {
-  "author": "@codediesel",
+  "author": "Sameer Borate",
+  "authorUrl": "https://www.smashingmagazine.com/author/sameer-borate/",
   "commentCount": 29,
   "description": "Learn how to create an embeddable content plugin to share your WordPress content with other websites.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/11/wordpress-embed-opt.png",
   "objectID": "https://www.smashingmagazine.com/2012/11/embeddable-content-wordpress/",
   "publishedDate": 1352947792,
   "tags": [
-    "Plugins",
-    "Techniques (WP)",
-    "Widgets"
+    {
+      "name": "Plugins",
+      "slug": "plugins"
+    },
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    },
+    {
+      "name": "Widgets",
+      "slug": "widgets"
+    }
   ],
   "title": "Creating a Embeddable Content Plugin for WordPress",
   "url": "https://www.smashingmagazine.com/2012/11/embeddable-content-wordpress/"

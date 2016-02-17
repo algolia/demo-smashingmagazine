@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Rodney Rehm",
+  "authorUrl": "https://www.smashingmagazine.com/author/rodney-rehm/",
   "commentCount": 14,
   "description": "Ally.js will help you to easily integrate accessibility in your websites and apps. It includes a few shims and a polyfill — without major dependencies.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/12/01-ally-js-logo-opt.png",
   "objectID": "https://www.smashingmagazine.com/2015/12/making-accessibility-simpler/",
   "publishedDate": 1449853721,
   "tags": [
-    "Accessibility",
-    "JavaScript"
+    {
+      "name": "Accessibility",
+      "slug": "accessibility"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    }
   ],
   "title": "Making Accessibility Simpler, With Ally.js",
   "url": "https://www.smashingmagazine.com/2015/12/making-accessibility-simpler/"

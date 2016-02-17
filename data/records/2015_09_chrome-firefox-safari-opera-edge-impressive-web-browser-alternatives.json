@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Victor Clarke",
+  "authorUrl": "https://www.smashingmagazine.com/author/victorclarke/",
   "commentCount": 44,
   "description": "Alternative browsers aim to deliver improved performance and extra features. This article features a few desktop browsers that are worth considering.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/07/01-overview-opt-small.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/09/chrome-firefox-safari-opera-edge-impressive-web-browser-alternatives/",
   "publishedDate": 1443033166,
   "tags": [
-    "Browsers",
-    "Technology"
+    {
+      "name": "Browsers",
+      "slug": "browsers"
+    },
+    {
+      "name": "Technology",
+      "slug": "technology"
+    }
   ],
   "title": "Chrome, Firefox, Safari, Opera, Edge? Impressive Web Browser Alternatives",
   "url": "https://www.smashingmagazine.com/2015/09/chrome-firefox-safari-opera-edge-impressive-web-browser-alternatives/"

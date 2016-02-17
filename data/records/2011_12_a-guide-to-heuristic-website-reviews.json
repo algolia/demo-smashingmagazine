@@ -1,12 +1,16 @@
 {
-  "author": "@leigh",
+  "author": "Leigh Howells",
+  "authorUrl": "https://www.smashingmagazine.com/author/leigh-howells/",
   "commentCount": 36,
   "description": "In this article, we’ll explore a scoring system for rating and comparing websites, we’ll visualize those ratings using infographics, and we’ll see what data and structure this method provides for r...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/coversml.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/12/a-guide-to-heuristic-website-reviews/",
   "publishedDate": 1324013695,
   "tags": [
-    "Usability"
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "A Guide To Heuristic Website Reviews",
   "url": "https://www.smashingmagazine.com/2011/12/a-guide-to-heuristic-website-reviews/"

@@ -1,14 +1,24 @@
 {
-  "author": "@smcllns",
+  "author": "Sam Collins",
+  "authorUrl": "https://www.smashingmagazine.com/author/sam-collins/",
   "commentCount": 28,
   "description": "The standard buttons provided by third parties (such as Facebook, Twitter and SoundCloud) vary in size, style and interactivity. A consistent button set could reduce a lot of that visual noise and ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2012/02/zocial-screenshot-set-11.png",
   "objectID": "https://www.smashingmagazine.com/2012/05/zocial-button-set-72-css3-buttons/",
   "publishedDate": 1337045824,
   "tags": [
-    "Buttons",
-    "CSS3",
-    "Freebies"
+    {
+      "name": "Buttons",
+      "slug": "buttons"
+    },
+    {
+      "name": "CSS3",
+      "slug": "css3"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    }
   ],
   "title": "Free Zocial Button Set: Social CSS3 Buttons",
   "url": "https://www.smashingmagazine.com/2012/05/zocial-button-set-72-css3-buttons/"

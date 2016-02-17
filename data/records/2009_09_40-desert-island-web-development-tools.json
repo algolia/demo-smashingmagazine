@@ -1,16 +1,32 @@
 {
-  "author": "@cameron_chapman",
+  "author": "Cameron Chapman",
+  "authorUrl": "https://www.smashingmagazine.com/author/cameron-chapman/",
   "commentCount": 100,
   "description": "What would you do if you were suddenly stranded on a desert island in the middle of nowhere, with only a USB drive, a dial-up internet connection, and a barebones computer with no software outside ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/psd-tuts-smart-objects.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/09/40-desert-island-web-development-tools/",
   "publishedDate": 1254177448,
   "tags": [
-    "Gimp",
-    "Invoicing",
-    "Software",
-    "Time Savers",
-    "Tools"
+    {
+      "name": "Gimp",
+      "slug": "gimp"
+    },
+    {
+      "name": "Invoicing",
+      "slug": "invoicing"
+    },
+    {
+      "name": "Software",
+      "slug": "software"
+    },
+    {
+      "name": "Time Savers",
+      "slug": "time-savers"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "40+ Desert Island Web Development Tools",
   "url": "https://www.smashingmagazine.com/2009/09/40-desert-island-web-development-tools/"

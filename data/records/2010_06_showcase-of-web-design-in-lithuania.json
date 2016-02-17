@@ -1,14 +1,24 @@
 {
-  "author": "@tomaslau",
+  "author": "Tomas Laurinavičius",
+  "authorUrl": "https://www.smashingmagazine.com/author/tomas-laurinavicius/",
   "commentCount": 77,
   "description": "It may be small, but Lithuania is the geographic center of Europe, and the meeting of Western and Eastern culture is evident. Lithuania is one of three Baltic countries, so-called for its proximity...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/lithuania.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/06/showcase-of-web-design-in-lithuania/",
   "publishedDate": 1275536999,
   "tags": [
-    "Global Web Design",
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Global Web Design",
+      "slug": "global-web-design"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Showcase Of Web Design In Lithuania",
   "url": "https://www.smashingmagazine.com/2010/06/showcase-of-web-design-in-lithuania/"

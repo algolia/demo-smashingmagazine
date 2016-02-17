@@ -1,16 +1,32 @@
 {
-  "author": "@smashingmag",
+  "author": "Josh Star",
+  "authorUrl": "https://www.smashingmagazine.com/author/josh-star/",
   "commentCount": 18,
   "description": "What is in store for the normal thumb-twiddling average Joe who has a keen appreciation of visual aesthetics but is first and foremost a reader?",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/black-glasses-illu101.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/11/sparing-thought-readers-design-community/",
   "publishedDate": 1259588018,
   "tags": [
-    "Content",
-    "Design Informer",
-    "Opinion Column",
-    "Skills",
-    "Workflow"
+    {
+      "name": "Content",
+      "slug": "content"
+    },
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    },
+    {
+      "name": "Skills",
+      "slug": "skills"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Some People Actually Read: Sparing a Thought for ‘Readers’ in the Design Community",
   "url": "https://www.smashingmagazine.com/2009/11/sparing-thought-readers-design-community/"

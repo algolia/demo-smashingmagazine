@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Marina Lin",
+  "authorUrl": "https://www.smashingmagazine.com/author/marina-lin/",
   "commentCount": 6,
   "description": "Simulating much of that contextual user experience in a lab is possible. Marina Lin shows how to apply participatory design to mobile testing.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/05/03-phone-cutout-opt.png",
   "objectID": "https://www.smashingmagazine.com/2014/09/applying-participatory-design-to-mobile-testing/",
   "publishedDate": 1411545615,
   "tags": [
-    "Devices",
-    "Testing",
-    "User Experience"
+    {
+      "name": "Devices",
+      "slug": "devices"
+    },
+    {
+      "name": "Testing",
+      "slug": "testing"
+    },
+    {
+      "name": "User Experience",
+      "slug": "user-experience"
+    }
   ],
   "title": "Applying Participatory Design To Mobile Testing",
   "url": "https://www.smashingmagazine.com/2014/09/applying-participatory-design-to-mobile-testing/"

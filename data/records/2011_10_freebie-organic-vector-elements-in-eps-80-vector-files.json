@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 88,
   "description": "This set contains over 80 original high quality vector files. They are saved as Illustrator 10 EPS files and are perfect to add a touch of nature to any design project.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/vector-illustrator-freebie.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/10/freebie-organic-vector-elements-in-eps-80-vector-files/",
   "publishedDate": 1319502662,
   "tags": [
-    "EPS",
-    "Freebies"
+    {
+      "name": "EPS",
+      "slug": "eps"
+    },
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    }
   ],
   "title": "Freebie: Organic Vector Elements in EPS (80 Vector Files)",
   "url": "https://www.smashingmagazine.com/2011/10/freebie-organic-vector-elements-in-eps-80-vector-files/"

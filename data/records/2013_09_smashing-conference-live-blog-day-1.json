@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 7,
   "description": "Over the next two days, we’ll be bringing you all of the insights, photos, and highlights from the Smashing Conference — live from the conference venue. Our team will be posting updates from the ea...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/smashingcat-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/09/smashing-conference-live-blog-day-1/",
   "publishedDate": 1378710011,
   "tags": [
-    "Smashing Events"
+    {
+      "name": "Smashing Events",
+      "slug": "smashing-events"
+    }
   ],
   "title": "Smashing Conference Live — Day 1",
   "url": "https://www.smashingmagazine.com/2013/09/smashing-conference-live-blog-day-1/"

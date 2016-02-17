@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 97,
   "description": "Practical insights and lessons learned from performance challenges on Smashing Magazine. The result: Google PageSpeed Score 99, on mobile and on desktop.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/09/smashing-on-mobile-99-opt.png",
   "objectID": "https://www.smashingmagazine.com/2014/09/improving-smashing-magazine-performance-case-study/",
   "publishedDate": 1410174818,
   "tags": [
-    "CSS",
-    "Performance",
-    "Responsive Web Design"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Performance",
+      "slug": "performance"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "Improving Smashing Magazine's Performance: A Case Study",
   "url": "https://www.smashingmagazine.com/2014/09/improving-smashing-magazine-performance-case-study/"

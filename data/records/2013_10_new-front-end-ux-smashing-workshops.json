@@ -1,12 +1,16 @@
 {
-  "author": "@oh_cat",
+  "author": "Cat Clark",
+  "authorUrl": "https://www.smashingmagazine.com/author/cat-clark/",
   "commentCount": 6,
   "description": "We&#39;ve got your back with a solid line-up of hands-on full-day Smashing workshops that will surely help your improve your workflow and skills...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/rachel-andrew.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/10/new-front-end-ux-smashing-workshops/",
   "publishedDate": 1381407561,
   "tags": [
-    "Smashing Events"
+    {
+      "name": "Smashing Events",
+      "slug": "smashing-events"
+    }
   ],
   "title": "Fix That Bug Already: New Smashing Front-End & UX Workshops",
   "url": "https://www.smashingmagazine.com/2013/10/new-front-end-ux-smashing-workshops/"

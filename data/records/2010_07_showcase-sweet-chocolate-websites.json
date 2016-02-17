@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 116,
   "description": "The word chocolate can be associated with many words: dark, white, milk, hot, sweet, spicy, etc. But have you tried to combine it with the word web design? We did. We searched the Web for websites ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/chocolate2.png",
   "objectID": "https://www.smashingmagazine.com/2010/07/showcase-sweet-chocolate-websites/",
   "publishedDate": 1279146972,
   "tags": [
-    "Showcases",
-    "Web Design"
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Showcase of Sweet Chocolate Websites",
   "url": "https://www.smashingmagazine.com/2010/07/showcase-sweet-chocolate-websites/"

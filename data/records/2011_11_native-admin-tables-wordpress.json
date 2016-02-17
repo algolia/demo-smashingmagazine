@@ -1,14 +1,24 @@
 {
-  "author": "@jdmweb",
+  "author": "Jeremy Desvaux de Marigny",
+  "authorUrl": "https://www.smashingmagazine.com/author/jeremy-desvaux-de-marigny/",
   "commentCount": 60,
   "description": "In this article, we’ll see how to generate some native admin tables in WordPress thanks to the WP_List_Table class.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/08/wordpress-blue-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/11/native-admin-tables-wordpress/",
   "publishedDate": 1320300026,
   "tags": [
-    "Admin",
-    "Techniques (WP)",
-    "Tutorials"
+    {
+      "name": "Admin",
+      "slug": "admin"
+    },
+    {
+      "name": "Techniques (WP)",
+      "slug": "techniques--wp-"
+    },
+    {
+      "name": "Tutorials",
+      "slug": "tutorials"
+    }
   ],
   "title": "Create Native Admin Tables In WordPress The Right Way",
   "url": "https://www.smashingmagazine.com/2011/11/native-admin-tables-wordpress/"

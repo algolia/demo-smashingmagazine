@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 62,
   "description": "Serial Cut is a studio based in Madrid. It was established in 1999 by Sergio del Puerto. They work on a wide variety of different projects, but they focus mainly on Art Direction.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illuanycharts-2.gif",
   "objectID": "https://www.smashingmagazine.com/2009/11/unique-portfolio-serial-cut/",
   "publishedDate": 1258720966,
   "tags": [
-    "Creativity",
-    "Design Informer"
+    {
+      "name": "Creativity",
+      "slug": "creativity"
+    },
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    }
   ],
   "title": "The Unique Portfolio of Serial Cut",
   "url": "https://www.smashingmagazine.com/2009/11/unique-portfolio-serial-cut/"

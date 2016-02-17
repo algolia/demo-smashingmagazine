@@ -1,13 +1,20 @@
 {
-  "author": "@designinformer",
+  "author": "Jad Limcaco",
+  "authorUrl": "https://www.smashingmagazine.com/author/jad-limcaco/",
   "commentCount": 31,
   "description": "In this post, I&#39;ve gathered up some awesome Mother&#39;s Day designs for your viewing pleasure and inspiration.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/mother-day-design.png",
   "objectID": "https://www.smashingmagazine.com/2010/05/awesome-mothers-day-designs/",
   "publishedDate": 1273407059,
   "tags": [
-    "Design Informer",
-    "Inspiration"
+    {
+      "name": "Design Informer",
+      "slug": "design-informer"
+    },
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    }
   ],
   "title": "Awesome Mother's Day Designs",
   "url": "https://www.smashingmagazine.com/2010/05/awesome-mothers-day-designs/"

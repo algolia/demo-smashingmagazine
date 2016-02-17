@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Vitaly Friedman",
+  "authorUrl": "https://www.smashingmagazine.com/author/vitaly-friedman/",
   "commentCount": 83,
   "description": "The concept of floats is probably one of the most unintuitive concepts in CSS. Floats are often misunderstood and blamed for floating all the context around it, causing readability and usability pr...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/float.png",
   "objectID": "https://www.smashingmagazine.com/2007/05/css-float-theory-things-you-should-know/",
   "publishedDate": 1178046546,
   "tags": [
-    "CSS",
-    "Essentials"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Essentials",
+      "slug": "essentials"
+    }
   ],
   "title": "CSS Float Theory: Things You Should Know",
   "url": "https://www.smashingmagazine.com/2007/05/css-float-theory-things-you-should-know/"

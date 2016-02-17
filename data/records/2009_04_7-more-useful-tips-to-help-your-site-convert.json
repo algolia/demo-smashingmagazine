@@ -1,15 +1,28 @@
 {
-  "author": "@dfadeyev",
+  "author": "Dmitry Fadeyev",
+  "authorUrl": "https://www.smashingmagazine.com/author/dmitry-fadeyev/",
   "commentCount": 37,
   "description": "Last week we presented 8 Useful Tips To Help Your Website Convert – we discussed various rules and guidelines from marketing, such as subliminal suggestion, prevention of choice paralysis, AIDA-pri...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/usab.png",
   "objectID": "https://www.smashingmagazine.com/2009/04/7-more-useful-tips-to-help-your-site-convert/",
   "publishedDate": 1239627783,
   "tags": [
-    "Conversion",
-    "E-Commerce",
-    "Guidelines",
-    "Usability"
+    {
+      "name": "Conversion",
+      "slug": "conversion"
+    },
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    },
+    {
+      "name": "Guidelines",
+      "slug": "guidelines"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "7 More Useful Tips To Help Your Site Convert",
   "url": "https://www.smashingmagazine.com/2009/04/7-more-useful-tips-to-help-your-site-convert/"

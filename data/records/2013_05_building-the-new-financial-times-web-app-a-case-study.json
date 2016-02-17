@@ -1,15 +1,28 @@
 {
-  "author": "@wilsonpage",
+  "author": "Wilson Page",
+  "authorUrl": "https://www.smashingmagazine.com/author/wilson-page/",
   "commentCount": 54,
   "description": "In this article, Wilson Page provides you an insight in the process of building the new Financial Times Web app. and discusses some of the changes made in the latest release and the decision-making...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2013/05/promo-500-compr.png",
   "objectID": "https://www.smashingmagazine.com/2013/05/building-the-new-financial-times-web-app-a-case-study/",
   "publishedDate": 1369266401,
   "tags": [
-    "CSS",
-    "Flexbox",
-    "Responsive Web Design",
-    "Techniques"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Flexbox",
+      "slug": "flexbox"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    }
   ],
   "title": "Building The New Financial Times Web App (A Case Study)",
   "url": "https://www.smashingmagazine.com/2013/05/building-the-new-financial-times-web-app-a-case-study/"

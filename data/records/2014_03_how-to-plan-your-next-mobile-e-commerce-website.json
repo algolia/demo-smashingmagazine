@@ -1,15 +1,28 @@
 {
-  "author": "@lawrencehowlett",
+  "author": "Lawrence Howlett",
+  "authorUrl": "https://www.smashingmagazine.com/author/lawrence-howlett/",
   "commentCount": 23,
   "description": "In this article, we’ll walk through all of the vital steps when planning a highly converting mobile e-commerce website. The most important questions you need to ask are...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2014/03/1-purchasing-mode-large.png",
   "objectID": "https://www.smashingmagazine.com/2014/03/how-to-plan-your-next-mobile-e-commerce-website/",
   "publishedDate": 1395211888,
   "tags": [
-    "Business",
-    "E-Commerce",
-    "Optimization",
-    "Responsive Web Design"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "E-Commerce",
+      "slug": "e-commerce"
+    },
+    {
+      "name": "Optimization",
+      "slug": "optimization"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    }
   ],
   "title": "How To Plan Your Next Mobile E-Commerce Website",
   "url": "https://www.smashingmagazine.com/2014/03/how-to-plan-your-next-mobile-e-commerce-website/"

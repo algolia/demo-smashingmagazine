@@ -1,12 +1,16 @@
 {
-  "author": "@addyosmani",
+  "author": "Addy Osmani",
+  "authorUrl": "https://www.smashingmagazine.com/author/addy-osmani/",
   "commentCount": 58,
   "description": "jQuery plugin patterns you have to know about. This post is targeted at intermediate to advanced developers. If you don’t feel you’re ready for this just yet, I’m happy to recommend the official jQ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/10/idiots.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/10/essential-jquery-plugin-patterns/",
   "publishedDate": 1318303811,
   "tags": [
-    "jQuery"
+    {
+      "name": "jQuery",
+      "slug": "jquery"
+    }
   ],
   "title": "Essential jQuery Plugin Patterns",
   "url": "https://www.smashingmagazine.com/2011/10/essential-jquery-plugin-patterns/"

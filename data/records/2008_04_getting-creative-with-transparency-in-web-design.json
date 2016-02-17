@@ -1,14 +1,24 @@
 {
-  "author": "@SeanHodge",
+  "author": "Sean Hodge",
+  "authorUrl": "https://www.smashingmagazine.com/author/sean-hodge/",
   "commentCount": 58,
   "description": "Arm yourself with the knowledge of how different file types of images can be used to achieve transparency on web-pages. It&#39;s important to first understand these basics. Then learn how to push the l...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/rain.png",
   "objectID": "https://www.smashingmagazine.com/2008/04/getting-creative-with-transparency-in-web-design/",
   "publishedDate": 1208327741,
   "tags": [
-    "Ideas",
-    "Techniques",
-    "Web Design"
+    {
+      "name": "Ideas",
+      "slug": "ideas"
+    },
+    {
+      "name": "Techniques",
+      "slug": "techniques"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Getting Creative With Transparency in Web Design",
   "url": "https://www.smashingmagazine.com/2008/04/getting-creative-with-transparency-in-web-design/"

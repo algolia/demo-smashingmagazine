@@ -1,14 +1,24 @@
 {
-  "author": "@ptraeg",
+  "author": "Peter Traeg",
+  "authorUrl": "https://www.smashingmagazine.com/author/peter-traeg/",
   "commentCount": 36,
   "description": "In this article, Peter Traeg demonstrates how, when used properly, the hybrid approach of marrying native and HTML5 code can create some truly unique and flexible solutions that would not otherwise...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/mixing-html5-native.jpg",
   "objectID": "https://www.smashingmagazine.com/2013/10/best-of-both-worlds-mixing-html5-native-code/",
   "publishedDate": 1381972007,
   "tags": [
-    "Apps",
-    "HTML5",
-    "Opinion Column"
+    {
+      "name": "Apps",
+      "slug": "apps"
+    },
+    {
+      "name": "HTML5",
+      "slug": "html5"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    }
   ],
   "title": "Best Of Both Worlds: Mixing HTML5 And Native Code",
   "url": "https://www.smashingmagazine.com/2013/10/best-of-both-worlds-mixing-html5-native-code/"

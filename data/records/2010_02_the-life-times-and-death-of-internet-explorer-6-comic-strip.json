@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Brad Colbow",
+  "authorUrl": "https://www.smashingmagazine.com/author/brad-colbow/",
   "commentCount": 314,
   "description": "In recent years Internet Explorer 6 has become the browser web designers love to hate. Security issues, JavaScript errors and inexplicable CSS rendering quirks have made it the brunt of many jokes....",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/ie6.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/02/the-life-times-and-death-of-internet-explorer-6-comic-strip/",
   "publishedDate": 1265891944,
   "tags": [
-    "Browsers",
-    "Cartoons",
-    "Internet Explorer"
+    {
+      "name": "Browsers",
+      "slug": "browsers"
+    },
+    {
+      "name": "Cartoons",
+      "slug": "cartoons"
+    },
+    {
+      "name": "Internet Explorer",
+      "slug": "internet-explorer"
+    }
   ],
   "title": "The Life, Times (and Death?) of Internet Explorer 6 (Comic Strip)",
   "url": "https://www.smashingmagazine.com/2010/02/the-life-times-and-death-of-internet-explorer-6-comic-strip/"

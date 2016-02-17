@@ -1,13 +1,20 @@
 {
-  "author": "@dbonneville",
+  "author": "Douglas Bonneville",
+  "authorUrl": "https://www.smashingmagazine.com/author/douglas-bonneville/",
   "commentCount": 130,
   "description": "Creating great typeface combinations is an art, not a science. Indeed, the beauty of typography has no borders. While there are no absolute rules to follow, it is crucial that you understand and ap...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/typography.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/11/best-practices-of-combining-typefaces/",
   "publishedDate": 1288849197,
   "tags": [
-    "Fonts",
-    "Typography"
+    {
+      "name": "Fonts",
+      "slug": "fonts"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    }
   ],
   "title": "Best Practices of Combining Typefaces",
   "url": "https://www.smashingmagazine.com/2010/11/best-practices-of-combining-typefaces/"

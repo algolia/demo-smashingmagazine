@@ -1,14 +1,24 @@
 {
-  "author": "@problogdesign",
+  "author": "Michael Martin",
+  "authorUrl": "https://www.smashingmagazine.com/author/michael-martin/",
   "commentCount": 128,
   "description": "Even with a relatively limited set of options in CSS, typography can vary tremendously using pure CSS syntax. Serif or sans-serif? Large or small font? Line height, spacing, font size and padding.....",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/type-study.png",
   "objectID": "https://www.smashingmagazine.com/2009/08/typographic-design-survey-best-practices-from-the-best-blogs/",
   "publishedDate": 1250772308,
   "tags": [
-    "Studies",
-    "Typography",
-    "Web Design"
+    {
+      "name": "Studies",
+      "slug": "studies"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "Typographic Design Patterns and Best Practices",
   "url": "https://www.smashingmagazine.com/2009/08/typographic-design-survey-best-practices-from-the-best-blogs/"

@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "Arnaldo Perez Castano",
+  "authorUrl": "https://www.smashingmagazine.com/author/arnaldoperezcastano/",
   "commentCount": 14,
   "description": "Learn how to develop a sliding tiles puzzle and an artificial intelligence capable of finding a solution with the minimum number of moves to the goal.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2016/01/sliding-tiles-puzzle-7-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2016/02/javascript-ai-html-sliding-tiles-puzzle/",
   "publishedDate": 1454606271,
   "tags": [
-    "Games",
-    "HTML5",
-    "JavaScript"
+    {
+      "name": "Games",
+      "slug": "games"
+    },
+    {
+      "name": "HTML5",
+      "slug": "html5"
+    },
+    {
+      "name": "JavaScript",
+      "slug": "javascript"
+    }
   ],
   "title": "JavaScript AI For An HTML Sliding Tiles Puzzle",
   "url": "https://www.smashingmagazine.com/2016/02/javascript-ai-html-sliding-tiles-puzzle/"

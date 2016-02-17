@@ -1,13 +1,20 @@
 {
-  "author": "@leaverou",
+  "author": "Lea Verou",
+  "authorUrl": "https://www.smashingmagazine.com/author/lea-verou/",
   "commentCount": 122,
   "description": "A tool for Web designers and developers that will help you break free from the CSS prefix hell.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2011/10/prefixfree-main.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/10/prefixfree-break-free-from-css-prefix-hell/",
   "publishedDate": 1318389844,
   "tags": [
-    "CSS3",
-    "Tools"
+    {
+      "name": "CSS3",
+      "slug": "css3"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    }
   ],
   "title": "PrefixFree: Break Free From CSS Prefix Hell",
   "url": "https://www.smashingmagazine.com/2011/10/prefixfree-break-free-from-css-prefix-hell/"

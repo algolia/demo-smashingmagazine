@@ -1,15 +1,28 @@
 {
-  "author": "@webdesigncore",
+  "author": "Aquil Akhter",
+  "authorUrl": "https://www.smashingmagazine.com/author/aquil-akhter/",
   "commentCount": 108,
   "description": "To mock-up the user interface of a website, software or any other product, you&#39;ll need some basic UI elements. And this is where wireframing kits and UI design kits come in handy. When you want to ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/buttons2.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/08/free-wireframing-kits-ui-design-kits-pdfs-and-resources/",
   "publishedDate": 1282878474,
   "tags": [
-    "Freebies",
-    "PSD",
-    "Tools",
-    "Wireframing"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "PSD",
+      "slug": "psd"
+    },
+    {
+      "name": "Tools",
+      "slug": "tools"
+    },
+    {
+      "name": "Wireframing",
+      "slug": "wireframing"
+    }
   ],
   "title": "Free Wireframing Kits, UI Design Kits, PDFs and Resources",
   "url": "https://www.smashingmagazine.com/2010/08/free-wireframing-kits-ui-design-kits-pdfs-and-resources/"

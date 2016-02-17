@@ -1,13 +1,20 @@
 {
-  "author": "@kylesteed",
+  "author": "Kyle Steed",
+  "authorUrl": "https://www.smashingmagazine.com/author/kyle-steed/",
   "commentCount": 73,
   "description": "I love it when a good story is broken down so that even the simplest of minds can understand. I’m not the smartest, fastest or most creative person in the world, so I don’t like using a lot of big ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/arts.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/08/balancing-inspiration-and-individuality/",
   "publishedDate": 1282275987,
   "tags": [
-    "Inspiration",
-    "Opinion Column"
+    {
+      "name": "Inspiration",
+      "slug": "inspiration"
+    },
+    {
+      "name": "Opinion Column",
+      "slug": "opinion-column"
+    }
   ],
   "title": "Balancing Inspiration and Individuality",
   "url": "https://www.smashingmagazine.com/2010/08/balancing-inspiration-and-individuality/"

@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "Crystal Beasley",
+  "authorUrl": "https://www.smashingmagazine.com/author/crystal-beasley/",
   "commentCount": 58,
   "description": "Rails is an model-view-controller Web framework written in the Ruby programming language. One of its great appeals is being able to quickly crank out CRUD-based Web applications. A big advantage of...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/illuraster5.gif",
   "objectID": "https://www.smashingmagazine.com/2009/02/ruby-on-rails-tips/",
   "publishedDate": 1235560881,
   "tags": [
-    "Ruby on Rails"
+    {
+      "name": "Ruby on Rails",
+      "slug": "ruby-on-rails"
+    }
   ],
   "title": "10 Useful Tips For Ruby On Rails Developers",
   "url": "https://www.smashingmagazine.com/2009/02/ruby-on-rails-tips/"

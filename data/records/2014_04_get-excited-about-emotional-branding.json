@@ -1,14 +1,24 @@
 {
-  "author": "@Webcopyplus",
+  "author": "Rick Sloboda",
+  "authorUrl": "https://www.smashingmagazine.com/author/rick-sloboda/",
   "commentCount": 27,
   "description": "Enter emotional branding. It’s a highly effective way to cause reaction, sentiments and moods, ultimately forming experience, connection and loyalty with a company or product on an irrational level.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/brain-emotions-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2014/04/get-excited-about-emotional-branding/",
   "publishedDate": 1397213252,
   "tags": [
-    "Business",
-    "Emotional Design",
-    "Workflow"
+    {
+      "name": "Business",
+      "slug": "business"
+    },
+    {
+      "name": "Emotional Design",
+      "slug": "emotional-design"
+    },
+    {
+      "name": "Workflow",
+      "slug": "workflow"
+    }
   ],
   "title": "Why You Should Get Excited About Emotional Branding",
   "url": "https://www.smashingmagazine.com/2014/04/get-excited-about-emotional-branding/"

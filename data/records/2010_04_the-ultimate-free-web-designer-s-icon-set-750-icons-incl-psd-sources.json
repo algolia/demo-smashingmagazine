@@ -1,14 +1,24 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 209,
   "description": "There are thousands of free icon sets out there, and every other day we see new sets being released by the design community. In fact, Smashing Magazine has been releasing icon sets for years now, t...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/color-wheel.jpg",
   "objectID": "https://www.smashingmagazine.com/2010/04/the-ultimate-free-web-designer-s-icon-set-750-icons-incl-psd-sources/",
   "publishedDate": 1271286363,
   "tags": [
-    "Freebies",
-    "Icons",
-    "PSD"
+    {
+      "name": "Freebies",
+      "slug": "freebies"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons"
+    },
+    {
+      "name": "PSD",
+      "slug": "psd"
+    }
   ],
   "title": "The Ultimate Free Web Designer's Icon Set (750 icons, incl. PSD sources)",
   "url": "https://www.smashingmagazine.com/2010/04/the-ultimate-free-web-designer-s-icon-set-750-icons-incl-psd-sources/"

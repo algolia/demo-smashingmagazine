@@ -1,14 +1,24 @@
 {
-  "author": "@Baymard",
+  "author": "Christian Holst",
+  "authorUrl": "https://www.smashingmagazine.com/author/christian-holst/",
   "commentCount": 171,
   "description": "The country selector. It’s there when you create an account for a new Web service, check out of an e-commerce store or sign up for a conference. The normal design? A drop-down list with all of the ...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/selectorsml.jpg",
   "objectID": "https://www.smashingmagazine.com/2011/11/redesigning-the-country-selector/",
   "publishedDate": 1320904177,
   "tags": [
-    "Design Patterns",
-    "Interaction",
-    "Usability"
+    {
+      "name": "Design Patterns",
+      "slug": "design-patterns"
+    },
+    {
+      "name": "Interaction",
+      "slug": "interaction"
+    },
+    {
+      "name": "Usability",
+      "slug": "usability"
+    }
   ],
   "title": "Redesigning The Country Selector",
   "url": "https://www.smashingmagazine.com/2011/11/redesigning-the-country-selector/"

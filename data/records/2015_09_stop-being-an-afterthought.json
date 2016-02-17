@@ -1,14 +1,24 @@
 {
-  "author": "@rhjr",
+  "author": "Robert Hoekman Jr",
+  "authorUrl": "https://www.smashingmagazine.com/author/robert-hoekman-jr/",
   "commentCount": 16,
   "description": "No project goes off well without some level of planning. You’re just not the one doing it. Robert Hoekman Jr shows how you can change that.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/07/afterthought-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/09/stop-being-an-afterthought/",
   "publishedDate": 1441190890,
   "tags": [
-    "Communication",
-    "Designers",
-    "Process"
+    {
+      "name": "Communication",
+      "slug": "communication"
+    },
+    {
+      "name": "Designers",
+      "slug": "designers"
+    },
+    {
+      "name": "Process",
+      "slug": "process"
+    }
   ],
   "title": "Hey Designers: Stop Being An Afterthought",
   "url": "https://www.smashingmagazine.com/2015/09/stop-being-an-afterthought/"

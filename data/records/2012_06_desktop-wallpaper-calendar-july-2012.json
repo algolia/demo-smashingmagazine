@@ -1,12 +1,16 @@
 {
-  "author": "@smashingmag",
+  "author": "The Smashing Editorial",
+  "authorUrl": "https://www.smashingmagazine.com/author/admin/",
   "commentCount": 71,
   "description": "This post features free desktop wallpapers created by artists for July 2012. Versions with and without a calendar can be downloaded for free.",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/watercolours-blue-red-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/06/desktop-wallpaper-calendar-july-2012/",
   "publishedDate": 1341048051,
   "tags": [
-    "Wallpapers"
+    {
+      "name": "Wallpapers",
+      "slug": "wallpapers"
+    }
   ],
   "title": "Smashing Desktop Wallpaper Calendars For July 2012 - Smashing Magazine",
   "url": "https://www.smashingmagazine.com/2012/06/desktop-wallpaper-calendar-july-2012/"

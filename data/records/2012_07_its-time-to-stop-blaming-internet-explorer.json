@@ -1,14 +1,24 @@
 {
-  "author": "@slicknet",
+  "author": "Nicholas C. Zakas",
+  "authorUrl": "https://www.smashingmagazine.com/author/nicholas-c-zakas/",
   "commentCount": 421,
   "description": "Articles that complain about Internet Explorer browsers frustrate me a lot. For most of my career, I&#39;ve fought hard against the &quot;woe is me&quot; attitude embraced by so many in Web development and artic...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/internet-explorer-blue-illu.jpg",
   "objectID": "https://www.smashingmagazine.com/2012/07/its-time-to-stop-blaming-internet-explorer/",
   "publishedDate": 1342072873,
   "tags": [
-    "Browsers",
-    "Internet Explorer",
-    "Web Design"
+    {
+      "name": "Browsers",
+      "slug": "browsers"
+    },
+    {
+      "name": "Internet Explorer",
+      "slug": "internet-explorer"
+    },
+    {
+      "name": "Web Design",
+      "slug": "web-design"
+    }
   ],
   "title": "It’s Time To Stop Blaming Internet Explorer — Smashing Magazine",
   "url": "https://www.smashingmagazine.com/2012/07/its-time-to-stop-blaming-internet-explorer/"

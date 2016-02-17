@@ -1,13 +1,20 @@
 {
-  "author": "@smashingmag",
+  "author": "Carlos Pinho",
+  "authorUrl": "https://www.smashingmagazine.com/author/carlos-pinho/",
   "commentCount": 141,
   "description": "Flash enabled designers and developers to deliver rich content over the browsers, creating motion, interactivity and an impressive visual experience. Good Flash-sites do not require too much bandwi...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/post-pictures/flash2.jpg",
   "objectID": "https://www.smashingmagazine.com/2009/06/50-beautiful-flash-websites/",
   "publishedDate": 1244332399,
   "tags": [
-    "Flash",
-    "Showcases"
+    {
+      "name": "Flash",
+      "slug": "flash"
+    },
+    {
+      "name": "Showcases",
+      "slug": "showcases"
+    }
   ],
   "title": "50 Beautiful Flash Websites",
   "url": "https://www.smashingmagazine.com/2009/06/50-beautiful-flash-websites/"

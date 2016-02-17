@@ -1,14 +1,24 @@
 {
-  "author": "@dirkweber",
+  "author": "Dirk Weber",
+  "authorUrl": "https://www.smashingmagazine.com/author/dirkweber/",
   "commentCount": 12,
   "description": "SVG filters (and CSS filters) are usually considered a way to spice up bitmaps via blur effects or color manipulation. But they are much more. Like CSS rules, an SVG filter can be a set of directiv...",
   "image": "https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/05/blop-example-illu-opt.jpg",
   "objectID": "https://www.smashingmagazine.com/2015/05/why-the-svg-filter-is-awesome/",
   "publishedDate": 1432641961,
   "tags": [
-    "CSS",
-    "Responsive Web Design",
-    "SVG"
+    {
+      "name": "CSS",
+      "slug": "css"
+    },
+    {
+      "name": "Responsive Web Design",
+      "slug": "responsive-web-design"
+    },
+    {
+      "name": "SVG",
+      "slug": "svg"
+    }
   ],
   "title": "The Art Of The SVG Filter And Why It Is Awesome",
   "url": "https://www.smashingmagazine.com/2015/05/why-the-svg-filter-is-awesome/"
