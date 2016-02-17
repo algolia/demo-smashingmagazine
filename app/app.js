@@ -14,8 +14,6 @@ let Search = {
     this.addPaginationWidget();
 
     this.search.start();
-
-    // $('#searching_2').focus();
   },
   getHighlightedValue(object, property) {
     if (!_.has(object, `_highlightResult.${property}.value`)) {
@@ -77,7 +75,7 @@ let Search = {
     this.search.addWidget(
       instantsearch.widgets.refinementList({
         container: '#search-tags',
-        attributeName: 'tags',
+        attributeName: 'tags.name',
         operator: 'and',
         limit: 10,
         cssClasses: {

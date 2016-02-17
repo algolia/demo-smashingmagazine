@@ -5,6 +5,7 @@
 .search-hit {
   overflow: hidden;
   padding-bottom: 2em;
+  font-size: .9em;
 }
 .search-hit--highlight {
   color: #E53B2C;
@@ -16,6 +17,7 @@
 }
 .search-hit--image {
   max-width: 200px;
+  max-height: 150px;
   margin: 0 auto;
 }
 .search-hit--details {
