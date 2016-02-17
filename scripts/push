@@ -5,7 +5,7 @@ require_relative '../lib/helper_extract'
 require_relative '../lib/helper_push'
 
 records = HelperExtract.all_records
-app_id = 'MXM0JWJNIW'
+app_id = 'latency'
 index = 'smashingmagazine'
 index_tmp = 'smashingmagazine_tmp'
 slave_comment_desc = 'smashingmagazine_comment_count_desc'

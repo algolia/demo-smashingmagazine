@@ -118,8 +118,8 @@ Object.defineProperty(exports, "__esModule", {
 var Search = {
   init: function init() {
     this.search = instantsearch({
-      appId: 'MXM0JWJNIW',
-      apiKey: '9c62478734752cda73afc3db232e47de',
+      appId: 'latency',
+      apiKey: 'c80a1f43b1650d1a2225d95d6df0ffab',
       indexName: 'smashingmagazine'
     });
 

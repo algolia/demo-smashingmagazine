@@ -55,3 +55,12 @@
   vertical-align: middle;
   border-radius: 10px;
 }
+
+// Striking the element to see that we can remove a tag
+.search-tags .ais-refinement-list--item__active:hover {
+  text-decoration: line-through;
+  .ais-refinement-list--count {
+    text-decoration: line-through;
+  }
+}
+
