@@ -34,18 +34,24 @@
   padding: .5em 0 0 0;
   font-size: 1em;
 }
-.search-hit--infos .search-hit--info {
-  /* Overwrite styling to compact display */
-  padding-top: 0;
-  background-position: 0 .2em;
-}
-.search-hit--info__author {
-}
-.search-hit--info__date {
-}
-.search-hit--info__tags {
-}
-.search-hit--info__comments {
+.search-hit--infos {
+  .search-hit--info {
+    /* Overwrite styling to compact display */
+    padding-top: 0;
+    margin-top: .5em;;
+  }
+  .search-hit--info__author {
+    background:none;
+  }
+  .search-hit--info__date {
+    background-position: 0 .2em;
+  }
+  .search-hit--info__tags {
+    background-position: 0 -36px;
+  }
+  .search-hit--info__comments {
+    background-position: 0 -78px;
+  }
 }
 .pmd + .search-hit--excerpt {
   font-size: 1.1em;
