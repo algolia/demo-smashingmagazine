@@ -14,9 +14,10 @@
 .search-header--sort-by {
   display: table-cell;
   vertical-align: middle;
-  text-align: right; }
+  text-align: right;
+  width: 30%; }
 
-/* line 18, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_base.scss */
+/* line 19, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_base.scss */
 .search-header--sort-by .ais-sort-by-selector {
   padding: .5em;
   color: #777;
@@ -90,37 +91,34 @@
 /* line 2, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
 .search-hits {
   padding-top: 2em; }
-  /* line 4, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
-  .search-hits a {
-    cursor: pointer; }
 
-/* line 8, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
+/* line 5, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
 .search-hit {
   overflow: hidden;
   padding-bottom: 2em;
   font-size: .9em; }
 
-/* line 13, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
+/* line 10, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
 .search-hit--highlight {
   color: #E53B2C; }
 
-/* line 16, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
+/* line 13, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
 .search-hit--figure {
   float: left;
   width: 220px;
   text-align: center; }
 
-/* line 21, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
+/* line 18, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
 .search-hit--image {
   max-width: 200px;
   max-height: 150px;
   margin: 0 auto; }
 
-/* line 26, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
+/* line 23, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
 .search-hit--details {
   margin-left: 230px; }
 
-/* line 29, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
+/* line 26, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
 .search-hit--title {
   color: #333;
   font-size: 1.5em;
@@ -128,35 +126,47 @@
   padding-top: .5em;
   font-family: "Skolar Bold","Segoe UI Bold","Roboto Slab","Droid Serif",AvenirNext-Bold,"Avenir Bold",Georgia,"Times New Roman",Times,serif; }
 
-/* line 36, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
+/* line 33, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
 .search-hit--infos {
   padding: .5em 0 0 0;
   font-size: 1em; }
 
-/* line 41, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
+/* line 38, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
 .search-hit--infos .search-hit--info {
   /* Overwrite styling to compact display */
   padding-top: 0;
-  margin-top: .5em;
-  background-position: 0 .2rem; }
+  margin-top: .5em; }
 
-/* line 47, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
+/* line 43, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
 .search-hit--infos .search-hit--info__author {
-  white-space: nowrap; }
+  background: none; }
 
-/* line 51, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
+/* line 46, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
+.search-hit--infos .search-hit--info__date {
+  background-position: 0 .2em; }
+
+/* line 49, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
+.search-hit--infos .search-hit--info__tags {
+  background-position: 0 -36px; }
+
+/* line 52, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
+.search-hit--infos .search-hit--info__comments {
+  background-position: 0 -78px; }
+
+/* line 56, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
 .pmd + .search-hit--excerpt {
   font-size: 1.1em; }
 
-/* line 57, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
+/* line 62, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
 .search-pagination {
+  margin-left: 220px;
   text-align: center; }
 
-/* line 60, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
+/* line 66, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
 .search-pagination .ais-pagination--item {
   padding: 0; }
 
-/* line 63, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
+/* line 69, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
 .search-pagination .ais-pagination--link {
   text-align: center;
   padding: .25em .75em;
@@ -164,11 +174,11 @@
   border-radius: .1875em;
   border: none; }
 
-/* line 70, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
+/* line 76, /home/tim/local/www/algolia/demos/demo-smashingmagazine/app/styles/_hits.scss */
 .search-pagination .ais-pagination--link:hover,
 .search-pagination .ais-pagination--item__active .ais-pagination--link {
   background: #41b7d8;
   color: #FFF; }
 
 
-/*# sourceMappingURL=search.css.map*/
+/*# sourceMappingURL=main.css.map*/

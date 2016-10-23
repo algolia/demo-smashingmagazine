@@ -1,6 +1,9 @@
 // List of hits
 .search-hits {
   padding-top: 2em;
+  a {
+    cursor: pointer;
+  }
 }
 .search-hit {
   overflow: hidden;
@@ -39,18 +42,10 @@
     /* Overwrite styling to compact display */
     padding-top: 0;
     margin-top: .5em;;
+    background-position: 0 .2rem;
   }
   .search-hit--info__author {
-    background:none;
-  }
-  .search-hit--info__date {
-    background-position: 0 .2em;
-  }
-  .search-hit--info__tags {
-    background-position: 0 -36px;
-  }
-  .search-hit--info__comments {
-    background-position: 0 -78px;
+    white-space: nowrap;
   }
 }
 .pmd + .search-hit--excerpt {
@@ -60,7 +55,6 @@
 
 // Pagination
 .search-pagination {
-  margin-left: 220px;
   text-align: center;
 }
 .search-pagination .ais-pagination--item {

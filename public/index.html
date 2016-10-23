@@ -1425,7 +1425,7 @@
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/apple-touch-icon-114x114-precomposed.png" />
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/apple-touch-icon-144x144-precomposed.png" />
   <!-- START OF INSTANTSEARCH CSS CODE -->
-  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css">
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/instantsearch.js/1.8.12/instantsearch.min.css">
   <link rel="stylesheet" type="text/css" href="./search.css">
   <!-- END OF INSTANTSEARCH CSS CODE -->
 </head>
@@ -1704,8 +1704,8 @@
   </script>
 
   <!-- START OF INSTANTSEARCH JS CODE -->
-  <script src="https://cdn.jsdelivr.net/g/momentjs@2.11.2,lodash@4.4.0,instantsearch.js@1.2.2"></script>
-  <script src="./app.js"></script>
+  <script src="https://cdn.jsdelivr.net/g/momentjs@2.15.1,lodash@4.16.4,instantsearch.js@1.8.12"></script>
+  <script src="./initial.js"></script>
   <script id="templateSearch-hit" language="x-template">
     <div class="search-hit">
       <a href="{{url}}" class="search-hit--figure">
@@ -1714,7 +1714,7 @@
       <div class="search-hit--details">
         <a href="{{url}}" class="search-hit--title">{{{title}}}</a>
         <ul class="search-hit--infos pmd">
-          <li class="search-hit--info search-hit--info__date date">{{date}}</li>
+          <li class="search-hit--info search-hit--info__date date rd">{{date}}</li>
           <li class="search-hit--info search-hit--info__author">By <a href="{{authorUrl}}">{{{author}}}</a></li>
           <li class="search-hit--info search-hit--info__tags tags">
           {{#tags}}<a href="https://www.smashingmagazine.com/tag/{{slug}}/">{{{name}}}</a>{{/tags}}
@@ -1724,11 +1724,10 @@
         <p class="search-hit--excerpt">{{{description}}}</p>
       </div>
     </div>
-    <!--<pre>{{_initialData}}</pre>-->
   </script>
-  <script>require('app').default.init()</script>
   <!-- END OF INSTANTSEARCH JS CODE -->
 
+  <script>require('javascripts/initial/app').default.init()</script>
 </body>
 
 </html>
