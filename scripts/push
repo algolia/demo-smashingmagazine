@@ -1,49 +1,20 @@
 #!/usr/bin/env ruby
 require 'rubygems'
 require 'bundler/setup'
-require_relative '../lib/helper_extract'
-require_relative '../lib/helper_push'
+require 'algoliasearch'
 
-records = HelperExtract.all_records
-app_id = 'latency'
-index = 'smashingmagazine'
-index_tmp = 'smashingmagazine_tmp'
-slave_comment_desc = 'smashingmagazine_comment_count_desc'
-slave_date_desc = 'smashingmagazine_published_date_desc'
-slaves = [slave_comment_desc, slave_date_desc]
+root_dir = File.expand_path(File.join(File.dirname(__FILE__), '..'))
+app_id = 'KHKP14DMQR'
+api_key = File.read(File.join(root_dir,'_algolia_api_key')).chomp
+index_name = 'smashingmagazine'
 
-settings = {
-  attributesToIndex: [
-    'title',
-    'unordered(tags.name)',
-    'unordered(description)',
-    'author'
-  ],
-  customRanking: [
-    'desc(publishedDate)',
-    'desc(commentCount)'
-  ],
-  attributesForFacetting: [
-    'tags.name'
-  ],
-  highlightPreTag: '<span class="search-hit--highlight">',
-  highlightPostTag: '</span>',
-  ignorePlurals: true,
-  removeWordsIfNoResults: 'allOptional'
-}
-default_ranking = %w(typo geo words filters proximity attribute exact custom)
+Algolia.init(application_id: app_id, api_key: api_key)
+index = Algolia::Index.new(index_name)
 
-settings_slave_comment_desc = settings.merge(
-  ranking: ['desc(commentCount)'] + default_ranking
-)
-settings_slave_date_desc = settings.merge(
-  ranking: ['desc(publishedDate)'] + default_ranking
-)
+record_file = File.join(root_dir, 'data', 'records.json')
+records = JSON.parse(File.read(record_file))
 
-HelperPush.new(app_id)
-   .set_settings(index_tmp, settings)
-   .push_records(index_tmp, records)
-   .move_index(index_tmp, index)
-   .add_slaves(index, slaves)
-   .set_settings(slave_comment_desc, settings_slave_comment_desc)
-   .set_settings(slave_date_desc, settings_slave_date_desc)
+records.each_slice(500).with_index do |batch, i|
+  puts "  Pushing batch #{i}"
+  index.add_objects(batch.to_a)
+end

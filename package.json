@@ -14,6 +14,7 @@
   "scripts": {
     "postinstall": "./scripts/postinstall",
     "push": "./scripts/push",
+    "set_settings": "./scripts/set_settings",
     "build": "brunch build --production",
     "serve": "brunch watch"
   },

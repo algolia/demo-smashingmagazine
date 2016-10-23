@@ -91,63 +91,45 @@
   require._cache = cache;
   globals.require = require;
 })();
+require.register("javascripts/step1", function(exports, require, module) {
 'use strict';
 
-/* jshint ignore:start */
-(function () {
-  var WebSocket = window.WebSocket || window.MozWebSocket;
-  var br = window.brunch = window.brunch || {};
-  var ar = br['auto-reload'] = br['auto-reload'] || {};
-  if (!WebSocket || ar.disabled) return;
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+var Search = {
+  init: function init() {
 
-  var cacheBuster = function cacheBuster(url) {
-    var date = Math.round(Date.now() / 1000).toString();
-    url = url.replace(/(\&|\\?)cacheBuster=\d*/, '');
-    return url + (url.indexOf('?') >= 0 ? '&' : '?') + 'cacheBuster=' + date;
-  };
+    var search = instantsearch({
+      appId: 'KHKP14DMQR',
+      apiKey: '2ad9f79596007d25d292ba994f0554f7',
+      indexName: 'smashingmagazine'
+    });
 
-  var browser = navigator.userAgent.toLowerCase();
-  var forceRepaint = ar.forceRepaint || browser.indexOf('chrome') > -1;
+    // Search bar
+    search.addWidget(instantsearch.widgets.searchBox({
+      container: '#searchbar',
+      placeholder: 'Search in all Smashing posts',
+      wrapInput: false
+    }));
 
-  var reloaders = {
-    page: function page() {
-      window.location.reload(true);
-    },
+    var hitTemplate = document.getElementById('templateSearch-hit').innerHTML;
+    var emptyTemplate = 'No results';
+    search.addWidget(instantsearch.widgets.hits({
+      container: '#search-hits',
+      hitsPerPage: 20,
+      templates: {
+        empty: emptyTemplate,
+        item: hitTemplate
+      }
+    }));
 
-    stylesheet: function stylesheet() {
-      [].slice.call(document.querySelectorAll('link[rel=stylesheet]')).filter(function (link) {
-        var val = link.getAttribute('data-autoreload');
-        return link.href && val != 'false';
-      }).forEach(function (link) {
-        link.href = cacheBuster(link.href);
-      });
+    search.start();
+  }
+};
 
-      // Hack to force page repaint after 25ms.
-      if (forceRepaint) setTimeout(function () {
-        document.body.offsetHeight;
-      }, 25);
-    }
-  };
-  var port = ar.port || 9487;
-  var host = br.server || window.location.hostname || 'localhost';
+exports.default = Search;
+});
 
-  var connect = function connect() {
-    var connection = new WebSocket('ws://' + host + ':' + port);
-    connection.onmessage = function (event) {
-      if (ar.disabled) return;
-      var message = event.data;
-      var reloader = reloaders[message] || reloaders.page;
-      reloader();
-    };
-    connection.onerror = function () {
-      if (connection.readyState) connection.close();
-    };
-    connection.onclose = function () {
-      window.setTimeout(connect, 1000);
-    };
-  };
-  connect();
-})();
-/* jshint ignore:end */
-;
+
 //# sourceMappingURL=step1.js.map

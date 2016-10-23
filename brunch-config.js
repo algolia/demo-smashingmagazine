@@ -5,15 +5,22 @@ module.exports = {
   files: {
     javascripts: {
       joinTo: {
-        'initial.js': /^app\/javascripts\/initial\//,
-        'step1.js': /^app\/javascripts\/step1\//,
-        'step2.js': /^app\/javascripts\/step2\//,
-        'step3.js': /^app\/javascripts\/step3\//,
-        'step4.js': /^app\/javascripts\/step4\//,
-        'step5.js': /^app\/javascripts\/step5\//,
+        'index.js': /^app\/javascripts\/index.js/,
+        'step1.js': /^app\/javascripts\/step1.js/,
+        'step2.js': /^app\/javascripts\/step2.js/,
+        'step3.js': /^app\/javascripts\/step3.js/,
+        'step4.js': /^app\/javascripts\/step4.js/
       }
     },
-    stylesheets: {joinTo: 'search.css'}
+    stylesheets: {
+      joinTo: {
+        'index.css': /^app\/styles\/index.scss/,
+        'step1.css': /^app\/styles\/step1.scss/,
+        'step2.css': /^app\/styles\/step2.scss/,
+        'step3.css': /^app\/styles\/step3.scss/,
+        'step4.css': /^app\/styles\/step4.scss/
+      }
+    }
   },
   plugins: {
     sass: {
