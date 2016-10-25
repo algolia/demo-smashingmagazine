@@ -111,4 +111,4 @@ On this final version we've reworked a bit on the JavaScript code to make it
 more readable, and we added a sort option to order results by number of comments
 or date.
 
-  [1]: ./screencast.gif
+  [1]: ./docs/screencast.gif
