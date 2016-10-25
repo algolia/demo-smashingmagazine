@@ -129,7 +129,6 @@ var Search = {
 };
 
 exports.default = Search;
+
 });
 
-
-//# sourceMappingURL=step1.js.map
