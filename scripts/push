@@ -3,8 +3,8 @@ require 'rubygems'
 require 'bundler/setup'
 require 'algoliasearch'
 
+app_id = 'XXXXXX' # Replace with your APP_ID
 root_dir = File.expand_path(File.join(File.dirname(__FILE__), '..'))
-app_id = 'KHKP14DMQR'
 api_key = File.read(File.join(root_dir,'_algolia_api_key')).chomp
 index_name = 'smashingmagazine'
 

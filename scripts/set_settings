@@ -3,8 +3,8 @@ require 'rubygems'
 require 'bundler/setup'
 require 'algoliasearch'
 
+app_id = 'XXXXXX' # Replace with your APP_ID
 root_dir = File.expand_path(File.join(File.dirname(__FILE__), '..'))
-app_id = 'KHKP14DMQR'
 api_key = File.read(File.join(root_dir,'_algolia_api_key')).chomp
 index_name = 'smashingmagazine'
 
@@ -33,3 +33,21 @@ settings = {
 
 index.set_settings(settings)
 puts "Settings set"
+
+
+# The following code is for configuring the replicas needed for the ordering by
+# date
+default_ranking = %w(typo geo words filters proximity attribute exact)
+replica_comment_desc = 'smashingmagazine_comment_count_desc'
+settings_replica_comment_desc = settings.merge(
+  ranking: ['desc(commentCount)'] + default_ranking
+)
+replica_date_desc = 'smashingmagazine_published_date_desc'
+settings_replica_date_desc = settings.merge(
+  ranking: ['desc(publishedDate)'] + default_ranking
+)
+replicas = [replica_comment_desc, replica_date_desc]
+
+index.set_settings(replicas: replicas)
+index.set_settings(replica_comment_desc, settings_replica_comment_desc)
+index.set_settings(replica_date_desc, settings_replica_date_desc)
