@@ -1,0 +1,1734 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<head>
+  <title>Search Results &ndash; Smashing Magazine</title>
+  <meta charset="UTF-8">
+  <style id="smash-above-the-fold-css">
+    body,
+    svg:not(:root) {
+      overflow: hidden
+    }
+
+    a,
+    button,
+    input {
+      margin: 0
+    }
+
+    .cahe,
+    .ntb,
+    h4 {
+      text-transform: uppercase
+    }
+
+    .bobo08 {
+      border-bottom: .08em solid rgba(0, 0, 0, .1)
+    }
+
+    .bo08 {
+      border: .08em solid rgba(0, 0, 0, .1)
+    }
+
+    article,
+    aside,
+    body,
+    div,
+    figcaption,
+    figure,
+    form,
+    h1,
+    h2,
+    h3,
+    h4,
+    html,
+    img,
+    label,
+    li,
+    nav,
+    p,
+    span,
+    strong,
+    ul {
+      font-size: 100%;
+      vertical-align: baseline;
+      margin: 0;
+      padding: 0;
+      outline: 0;
+      border: 0;
+      background: 0 0
+    }
+
+    html {
+      -moz-osx-font-smoothing: grayscale;
+      text-rendering: optimizelegibility;
+      -webkit-font-feature-settings: "liga", "kern";
+      font-feature-settings: "liga", "kern";
+      overflow-y: scroll;
+      overflow-x: hidden
+    }
+
+    body {
+      line-height: 1.46;
+      max-width: 2000px;
+      color: #333;
+      background-image: url(https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/smbg.png)
+    }
+
+    a {
+      font-size: 100%;
+      text-decoration: none;
+      vertical-align: baseline;
+      padding: 0;
+      background: 0 0;
+      color: #41b7d8
+    }
+
+    a:active {
+      color: #fff;
+      background-color: #e53b2c
+    }
+
+    .pap a,
+    li a,
+    p a {
+      border-bottom: .08em solid rgba(0, 0, 0, .1);
+      padding-bottom: .08em
+    }
+
+    br+em a,
+    figcaption a {
+      border-bottom: .09em solid rgba(0, 0, 0, .1);
+      padding-bottom: .09em
+    }
+
+    .pmd a,
+    nav a {
+      padding-bottom: 0;
+      border: 0
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border: 0
+    }
+
+    ul {
+      list-style: none
+    }
+
+    ol {
+      list-style: decimal
+    }
+
+    article ul {
+      list-style: disc
+    }
+
+    article ol,
+    article ul {
+      font-size: 1.125em;
+      margin: .5em 1.5em
+    }
+
+    article li {
+      padding: .25em 0
+    }
+
+    article li ol,
+    article li ul {
+      font-size: 1em;
+      margin: 0 1.5em
+    }
+
+    input {
+      vertical-align: middle
+    }
+
+    [type=submit],
+    button,
+    label {
+      cursor: pointer
+    }
+
+    [type=text],
+    button {
+      font-size: 1.125em;
+      outline: 0;
+      -webkit-transition: border-color .3s;
+      transition: border-color .3s
+    }
+
+    button {
+      vertical-align: top;
+      overflow: visible;
+      padding: .75em 2em;
+      border: .08em solid #c73a11;
+      color: #fff;
+      background-color: #e95c33;
+      background: -webkit-linear-gradient(top, #e85c33 0, #e53a2b 100%);
+      background: linear-gradient(to bottom, #e85c33 0, #e53a2b 100%);
+      border-radius: .5em
+    }
+
+    .sr,
+    .stb {
+      overflow: hidden;
+      white-space: nowrap
+    }
+
+    [type=text]:placeholder {
+      color: #777
+    }
+
+    [type=text] {
+      line-height: 1.5;
+      margin-bottom: 1em;
+      padding: .5em;
+      color: #777;
+      border: .08em solid rgba(0, 0, 0, .1);
+      background-color: #fff;
+      border-radius: .5em 0 0 .5em
+    }
+
+    @-ms-viewport {
+      width: device-width
+    }
+
+    body,
+    button,
+    input,
+    label {
+      font-family: "Proxima Nova Regular", "Segoe UI", Roboto, "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+      font-style: normal;
+      font-weight: 400
+    }
+
+    .cahe,
+    .cat h3,
+    .category .cat h2,
+    .ntb,
+    h4,
+    strong {
+      font-family: 'Proxima Nova Bold', "Segoe UI", Roboto, "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+      font-style: normal;
+      font-weight: 700
+    }
+
+    .ed+p,
+    .pmd .a,
+    .pmd+p {
+      font-family: "Skolar Regular", "Roboto Slab", "Droid Serif", Cambria, Georgia, "Times New Roman", Times, serif;
+      font-weight: 400;
+      font-style: normal
+    }
+
+    .ed+p em,
+    .pmd+p em {
+      font-family: 'Skolar Italic', "Roboto Slab", "Droid Serif", Cambria, Georgia, "Times New Roman", Times, serif;
+      font-weight: 400;
+      font-style: italic
+    }
+
+    .ed+p strong,
+    .pmd+p strong,
+    h2,
+    h3 {
+      font-weight: 700;
+      font-style: normal
+    }
+
+    .ed+p strong,
+    .pmd+p strong {
+      font-family: 'Skolar Bold', "Roboto Slab", "Droid Serif", Cambria, Georgia, "Times New Roman", Times, serif
+    }
+
+    h2,
+    h3 {
+      font-family: "Skolar Bold", "Segoe UI Bold", "Roboto Slab", "Droid Serif", AvenirNext-Bold, "Avenir Bold", Georgia, "Times New Roman", Times, serif
+    }
+
+    .clearfix::after,
+    .clearfix::before {
+      content: " ";
+      display: table
+    }
+
+    .clearfix::after {
+      clear: both
+    }
+
+    .sr {
+      text-indent: 200%;
+      height: .008em;
+      width: .008em
+    }
+
+    .blocked,
+    .ch,
+    .mise,
+    .mn ul,
+    .mnc,
+    .ms form,
+    .msc,
+    .nw,
+    .pmd .pt,
+    .po,
+    .sb,
+    .short,
+    .sn {
+      display: none
+    }
+
+    .ad .declare,
+    .cahe,
+    .long,
+    .pmd li,
+    .sr,
+    article,
+    figure,
+    label,
+    nav {
+      display: block
+    }
+
+    .lt a,
+    .poptag a,
+    .tags a,
+    h2 a,
+    h3 .hsl,
+    h4 .hsl {
+      display: inline-block
+    }
+
+    .declare,
+    .pt img {
+      float: left
+    }
+
+    .awithus,
+    .blocked figure,
+    .gra,
+    .ntb,
+    .stb {
+      float: right
+    }
+
+    .mn,
+    .mnb,
+    .ms,
+    .pt,
+    .sr {
+      position: absolute
+    }
+
+    .h,
+    .h .awithus,
+    .poptag a,
+    .pt img,
+    aside,
+    button,
+    div,
+    form,
+    h3 .hsl,
+    h4 .hsl,
+    li,
+    ul {
+      position: relative
+    }
+
+    .h {
+      z-index: 80;
+      width: 38.2%;
+      margin-left: 5.5%;
+      padding: 1.25em 0
+    }
+
+    .ntb,
+    .stb {
+      padding: .4em
+    }
+
+    .mnb {
+      top: 1.5em;
+      right: 1.5em;
+      z-index: 90
+    }
+
+    .ntb,
+    .stb {
+      box-sizing: border-box;
+      border: .08em solid #c73a11;
+      border-radius: .25em;
+      box-shadow: 0 .08em .08em rgba(0, 0, 0, .25)
+    }
+
+    .ntb {
+      margin-left: 1em;
+      color: #fff;
+      background: #e95c33
+    }
+
+    .stb {
+      text-indent: 150%;
+      width: 2.9375em;
+      background: url(https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/search-icon.svg) 50% 50% no-repeat, #e95c33;
+      background-size: 1.875em auto;
+      -webkit-background-size: 1.875em
+    }
+
+    .mn,
+    .ms {
+      width: 100%;
+      height: 0;
+      max-height: 0;
+      padding-top: 0;
+      opacity: 0;
+      -webkit-transition: none;
+      transition: none
+    }
+
+    .cc,
+    .post {
+      margin-bottom: 2em
+    }
+
+    .fluid {
+      padding-bottom: 1.5em;
+      background-color: #fff;
+      box-shadow: 0 0 .625em .08em rgba(0, 0, 0, .05)
+    }
+
+    .grid {
+      margin-top: 1.25em
+    }
+
+    .post {
+      padding: .5em 5.5% 4em;
+      border-bottom: .3125em solid #41b7d8
+    }
+
+    h2 {
+      font-size: 2em;
+      line-height: 1.1
+    }
+
+    h2 a {
+      color: #333
+    }
+
+    .cahe {
+      font-size: .45em;
+      line-height: 1.5;
+      letter-spacing: .08em;
+      padding-bottom: .5em;
+      color: #41b7d8
+    }
+
+    .archived h2,
+    .author-page h2 {
+      width: 92%
+    }
+
+    article {
+      line-height: 1.55
+    }
+
+    article p {
+      font-size: 1.125em
+    }
+
+    .ed+p,
+    .pmd .a,
+    .pmd+p {
+      font-size: 1.375em;
+      line-height: 1.35;
+      margin: 0
+    }
+
+    h3 {
+      font-size: 1.625em;
+      line-height: 1.3
+    }
+
+    h4 {
+      font-size: 1.125em;
+      letter-spacing: .125em
+    }
+
+    h3,
+    h4 {
+      padding: 1.5em 0 .5em
+    }
+
+    figure img,
+    p,
+    p img {
+      padding: .5em 0
+    }
+
+    figure {
+      margin: 1em 0
+    }
+
+    .pmd {
+      padding-bottom: 2em;
+      margin: 0
+    }
+
+    .pmd li {
+      padding: 1em 0 0 1.5em;
+      color: rgba(0, 0, 0, .3)
+    }
+
+    .pmd .a {
+      padding: .5em .5em .5em 0;
+      border-bottom: .08em solid rgba(0, 0, 0, .1)
+    }
+
+    .tags a {
+      margin: 0 1em .5em 0;
+      border-bottom: .08em solid transparent
+    }
+
+    .tags a:first-child {
+      margin-top: 0
+    }
+
+    .tags a::after {
+      content: ", "
+    }
+
+    .tags a:last-child::after {
+      content: ""
+    }
+
+    .cat {
+      border-top: .625em solid;
+      border-bottom: .08em solid;
+      border-color: #e5e5e5;
+      margin: 2em 5.5% 3em;
+      padding: 1em 0 1.25em
+    }
+
+    .cat h2 {
+      margin-bottom: .5em
+    }
+
+    .cat h3 {
+      font-size: 1.25em
+    }
+
+    .poptag a {
+      padding: .25em .5em;
+      margin: 0 .5em .5em 0;
+      border-bottom: .08em solid rgba(0, 0, 0, .1);
+      background: #a1a1a1;
+      border-radius: .25em
+    }
+
+    .gra {
+      padding: 1.25em .75em 1.25em 1.5em
+    }
+
+    .avatar {
+      border-radius: 50%
+    }
+
+    .sf label,
+    .sfm label {
+      font-weight: 400;
+      color: rgba(0, 0, 0, .25);
+      margin: -.8em 0 .5em
+    }
+
+    .sf button {
+      line-height: 2.25;
+      left: -.3125em;
+      width: 23%;
+      height: 2.375em;
+      padding: 0 1%;
+      border-left: 0;
+      border-radius: 0 .5em .5em 0
+    }
+
+    .sf [type=text] {
+      width: 73%;
+      height: 1.5em;
+      padding: .375em 0 .375em 2%;
+      margin-bottom: 0;
+      border-right: 0
+    }
+
+    .declare {
+      margin: .875em 0 .5em;
+      color: rgba(0, 0, 0, .25)
+    }
+
+    .awithus {
+      margin-top: .875em;
+      z-index: 9
+    }
+
+    .ad .declare {
+      float: none;
+      padding: 1em 0 .5em;
+      margin-top: 0
+    }
+
+    #cad {
+      margin-bottom: 1.5em
+    }
+
+    .blocked {
+      margin: 1em 5.5%;
+      padding: 1em 1.5em;
+      background: #f9f9f9;
+      border-radius: .5em
+    }
+
+    .blocked figure {
+      float: right;
+      margin: 0 0 0 1em
+    }
+
+    .pt {
+      top: 0;
+      right: -2em
+    }
+
+    .pt img {
+      border: .08em solid rgba(0, 0, 0, .1);
+      border-radius: .3125em
+    }
+
+    @media screen and (min-width: 31.25em) {
+      .h {
+        width: 28.55%
+      }
+      .pmd li {
+        display: inline-block;
+        padding-right: 2em
+      }
+      .pmd .a {
+        display: block
+      }
+      .tags a {
+        display: inline;
+        margin: 0
+      }
+    }
+
+    @media screen and (min-width: 38.125em) {
+      .grid {
+        clear: both;
+        padding: .5em 0
+      }
+      .pmd .pt {
+        display: block
+      }
+    }
+
+    @media screen and (min-width: 40.625em) {
+      .ad {
+        float: right;
+        margin: 0 0 1em 2em
+      }
+    }
+
+    @media screen and (min-width: 50em) {
+      body {
+        border-left: .625em solid transparent
+      }
+      .h,
+      .mn,
+      .mn+.mnc,
+      .mn:target,
+      .mn:target+.mnc,
+      .ms,
+      .ms+.msc,
+      .ms:target,
+      .ms:target+.msc {
+        display: none
+      }
+      .ch,
+      .ch li a,
+      .mise,
+      .nw,
+      .nw a,
+      .sn,
+      .sn li a {
+        display: block
+      }
+      .mnb,
+      .mnb a {
+        overflow: hidden;
+        top: -.5em;
+        right: 0;
+        height: .01em;
+        width: .01em;
+        padding: 0
+      }
+      .ch,
+      .main {
+        float: right
+      }
+      .cc,
+      .ch li,
+      .col,
+      .nw,
+      .nw li {
+        float: left
+      }
+      .nw {
+        width: 79%
+      }
+      .nw li {
+        border-right: .08em solid rgba(0, 0, 0, .05)
+      }
+      .nw li a {
+        padding: 2.5em 1em .5em;
+        height: 1.75em;
+        color: rgba(0, 0, 0, .3);
+        -webkit-transition: color .3s, background-color .3s;
+        transition: color .3s, background-color .3s
+      }
+      .nw li.cody a {
+        background-image: url(https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/navilittlebook.png);
+        background-repeat: no-repeat;
+        background-position: right .125em
+      }
+      .nw .current {
+        z-index: 2;
+        width: 24%;
+        background: #fff
+      }
+      .nw .current a {
+        padding: 1.5em 1em 0;
+        height: 3.3125em;
+        -webkit-transition: none;
+        transition: none
+      }
+      .nw .current a:hover {
+        background-color: #fff
+      }
+      .nw .current img {
+        position: relative;
+        top: -.125em
+      }
+      .ch {
+        margin: 2.5em 4% 0 0;
+        z-index: 50
+      }
+      .ch li {
+        margin-left: .625em
+      }
+      .ch li a {
+        text-indent: 100%;
+        overflow: hidden;
+        white-space: nowrap;
+        width: 1.4375em;
+        height: 1.4375em;
+        background-image: url(https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/channels.svg);
+        background-size: 353% 600%;
+        opacity: .45;
+        -webkit-transition: all .3s;
+        transition: all .3s
+      }
+      .rss a {
+        background-position: 76% 35.5%
+      }
+      .fb a {
+        background-position: 76% 62%
+      }
+      .tw a {
+        background-position: 76% 90%
+      }
+      .nl a {
+        background-position: 76% 9%
+      }
+      .cc {
+        width: 100%
+      }
+      .main {
+        width: 80%;
+        padding: 0;
+        margin-top: 1.5em
+      }
+      .author .main,
+      .category .main,
+      .tag .main {
+        margin: 0 0 1.5em
+      }
+      .mise form {
+        margin: 1em 0 2em 5.5%
+      }
+      .mise [type=text] {
+        height: 1.125em;
+        padding: 1em 2.5%
+      }
+      .mise button {
+        line-height: 3.125;
+        width: 17.5%;
+        height: 3.25em
+      }
+      .sn {
+        width: 20%
+      }
+      .sct {
+        margin: 2em 0
+      }
+      .sn ul {
+        margin-left: -.08em
+      }
+      .sn li {
+        border-left-width: .625em;
+        border-left-style: solid;
+        padding-bottom: 2.25em;
+        -webkit-transition: border-color .3s;
+        transition: border-color .3s
+      }
+      .sn li a {
+        font-family: 'Proxima Nova Bold', "Segoe UI", Roboto, "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: .175em;
+        color: #333;
+        padding: .25em .5em .25em 20%;
+        border-bottom: .08em solid transparent;
+        -webkit-transition: background-color .3s;
+        transition: background-color .3s
+      }
+      .sn li li {
+        border: 0;
+        margin-left: .08em;
+        padding-bottom: 0
+      }
+      .sn li li a {
+        font-family: "Proxima Nova Regular", "Segoe UI", Roboto, "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        letter-spacing: 0;
+        text-transform: none;
+        color: #777;
+        border: 0;
+        padding-left: 20%;
+        margin: 0;
+        -webkit-transition: color .3s, background-color .3s;
+        transition: color .3s, background-color .3s
+      }
+      .menu-item-coding {
+        border-left-color: #C9E9E5
+      }
+      .menu-item-design {
+        border-left-color: #CDEEAA
+      }
+      .menu-item-mobile {
+        border-left-color: #F9F0A8
+      }
+      .menu-item-graphics {
+        border-left-color: #E0CFDF
+      }
+      .menu-item-uxdesign {
+        border-left-color: #FACED2
+      }
+      .menu-item-wordpress {
+        border-left-color: #BCD8F0
+      }
+      .cat {
+        padding-left: 5.5%;
+        padding-right: 5.5%
+      }
+      .post {
+        padding-left: 11%
+      }
+      .blocked {
+        margin-left: 11%
+      }
+      article img,
+      figure {
+        max-width: 31.25em
+      }
+      .fwi,
+      .fwi img {
+        max-width: 100%
+      }
+    }
+
+    @media screen and (min-width: 63.75em) {
+      .wg h3,
+      .wg h3 a {
+        position: relative
+      }
+      .so img,
+      .so p {
+        overflow: hidden
+      }
+      .mise,
+      .sn li ul {
+        display: none
+      }
+      .sb,
+      .sb .sf {
+        display: block
+      }
+      .sn li,
+      .so img {
+        float: left
+      }
+      .bnnr-list,
+      .wg {
+        clear: both
+      }
+      .nw .current {
+        width: 21%
+      }
+      .main,
+      .sn {
+        width: 100%
+      }
+      .ch {
+        margin-right: 1em
+      }
+      .main {
+        margin-top: -.5em
+      }
+      .post {
+        padding-left: 5.5%
+      }
+      .blocked {
+        margin-left: 5.5%
+      }
+      .sn {
+        margin-top: 0;
+        margin-bottom: 0
+      }
+      .sn ul {
+        margin: 1em 0 0;
+        padding: 0 0 0 5.5%;
+        border-bottom: .3125em solid rgba(0, 0, 0, .06)
+      }
+      .sn li {
+        border-left-width: 0;
+        border-right: .08em solid #e5e5e5;
+        border-bottom-width: .3125em;
+        border-bottom-style: solid;
+        margin-bottom: -.3125em;
+        padding-bottom: 0
+      }
+      .sn li:last-child {
+        border-right: 0
+      }
+      .sn li a {
+        font-size: .75em;
+        border: 0;
+        padding: .75em .9em
+      }
+      .sct {
+        margin-top: -.5em
+      }
+      .menu-item-coding {
+        border-bottom-color: #C9E9E5
+      }
+      .menu-item-design {
+        border-bottom-color: #CDEEAA
+      }
+      .menu-item-mobile {
+        border-bottom-color: #F9F0A8
+      }
+      .menu-item-graphics {
+        border-bottom-color: #E0CFDF
+      }
+      .menu-item-uxdesign {
+        border-bottom-color: #FACED2
+      }
+      .menu-item-wordpress {
+        border-bottom-color: #BCD8F0
+      }
+      h2 {
+        padding-top: .5em
+      }
+      .cc {
+        margin-right: -28.125em
+      }
+      .fluid {
+        margin-right: 28.125em;
+        border-radius: 0 .625em .625em 0
+      }
+      .cat {
+        padding-left: 0;
+        padding-right: 0;
+        margin-top: 2em;
+        margin-right: 5.5%
+      }
+      .sb {
+        z-index: 3
+      }
+      .sb .sf form {
+        margin: 0
+      }
+      .sb .sf .sl {
+        padding: 2em 0 .125em
+      }
+      .sb .sf [type=text] {
+        height: 1.5em;
+        padding: .375em 0 .375em 2%
+      }
+      .sb .sf button {
+        line-height: 2.25;
+        width: 23%;
+        height: 2.375em
+      }
+      .side {
+        padding: 0 0 0 1.25em;
+        width: 26.25em;
+        top: -3.325em
+      }
+      .bw {
+        margin: 0 0 1.25em
+      }
+      .bw .awithus {
+        margin-right: .5em
+      }
+      .faw {
+        margin-top: 1.5em
+      }
+      .bnnr-list li {
+        font-size: .75em;
+        text-align: center;
+        width: 48%;
+        display: inline-block;
+        margin: 0 2% 1em 0
+      }
+      .bnnr-list a {
+        border-bottom: 0
+      }
+      .bnnr-list .double {
+        width: 34.16667em
+      }
+      .wg {
+        margin: 1.5em 0 1.5em -1.25em;
+        padding: 0 1.25em 2em;
+        border: .08em solid rgba(0, 0, 0, .1);
+        border-left: 0;
+        background: rgba(255, 255, 255, .55);
+        border-radius: 0 .625em .625em 0
+      }
+      .wg form {
+        margin: .75em 0 1em
+      }
+      .wg li {
+        list-style: none;
+        padding: 1em 0
+      }
+      .wg h3 {
+        padding-left: 2.5em
+      }
+      .wg h3 img {
+        position: absolute;
+        left: -2.5em;
+        top: 0
+      }
+      #mcer-EMAIL {
+        width: 66%
+      }
+      #mcer-EMAIL+.submit {
+        width: 30%
+      }
+      .mcc {
+        padding-top: 1em;
+        width: 12.5em
+      }
+      .so div,
+      .wg li {
+        border-bottom: .08em solid rgba(0, 0, 0, .05)
+      }
+      .so div {
+        margin-top: .5em
+      }
+      .so p {
+        line-height: 1.55;
+        padding-top: 1.125em
+      }
+      .so img {
+        margin: 1.5em 1.5em 0 0;
+        border-radius: .5em
+      }
+      .fir {
+        padding: 0 1.5em 1.75em 0
+      }
+      .sec {
+        padding-bottom: 1.75em
+      }
+    }
+
+    @media screen and (min-width: 76.25em) {
+      .sn li,
+      .sn ul {
+        border-bottom: 0
+      }
+      .nw {
+        width: 50%
+      }
+      .nw .current {
+        width: 29%
+      }
+      .nw .current img {
+        top: -.4375em
+      }
+      .main {
+        width: 78%;
+        margin-top: 1.8%
+      }
+      .author .main,
+      .category .main,
+      .sn,
+      .tag .main {
+        margin-top: 4%
+      }
+      .post {
+        padding-top: 0
+      }
+      .sn {
+        width: 22%
+      }
+      .sn ul {
+        margin: 0;
+        padding: 0 2.5% 0 0
+      }
+      .sn li {
+        border-right: 0;
+        border-left-width: .625em;
+        border-left-style: solid;
+        float: none;
+        margin-bottom: 0;
+        padding-bottom: 2.25em
+      }
+      .sn li a {
+        font-size: 1em;
+        border: none;
+        border-bottom: .08em solid transparent;
+        padding: .25em .5em .25em 25%
+      }
+      .sn li ul {
+        display: block;
+        padding: 0;
+        margin-left: -.08em
+      }
+      .sn li ul li {
+        padding-bottom: 0;
+        border: 0
+      }
+      .sn li ul li a {
+        margin-top: 0;
+        padding-left: 25%;
+        border: 0
+      }
+      .sct {
+        margin: 0 0 1em;
+        z-index: 99
+      }
+      .menu-item-coding {
+        border-left-color: #C9E9E5
+      }
+      .menu-item-design {
+        border-left-color: #CDEEAA
+      }
+      .menu-item-mobile {
+        border-left-color: #F9F0A8
+      }
+      .menu-item-graphics {
+        border-left-color: #E0CFDF
+      }
+      .menu-item-uxdesign {
+        border-left-color: #FACED2
+      }
+      .menu-item-wordpress {
+        border-left-color: #BCD8F0
+      }
+      .cat {
+        margin-top: 0;
+        padding-left: 5.5%;
+        padding-right: 5.5%
+      }
+      .ch {
+        margin-right: 28.125em
+      }
+    }
+
+    @media screen and (min-width: 90.625em) {
+      .nw li,
+      body {
+        border: 0
+      }
+      .ch,
+      .nw,
+      .nw li {
+        float: none
+      }
+      .tn {
+        float: left;
+        width: 10%
+      }
+      .nw {
+        width: auto
+      }
+      .nw li {
+        border-bottom: .08em solid rgba(0, 0, 0, .1)
+      }
+      .nw li a {
+        padding: 1em 0 1em 1.375em
+      }
+      .nw .current {
+        margin: .6em 0 0;
+        width: auto;
+        box-shadow: none
+      }
+      .nw .current a {
+        padding: 1.5em 0 1em 1.5em;
+        height: auto
+      }
+      .nw .current img {
+        top: 0;
+        left: -.5em
+      }
+      .ch {
+        margin: 1.25em 0 0 .875em
+      }
+      .ch li {
+        margin-left: 0;
+        margin-right: .5em
+      }
+      .cc {
+        width: 90%;
+        border-top: .625em solid transparent
+      }
+      .fluid {
+        border-radius: 0 .625em .625em
+      }
+      .grid {
+        margin-top: 2.3em
+      }
+      .side {
+        top: 0
+      }
+      .mise {
+        top: 1.65em;
+        padding-bottom: 1em
+      }
+      .sb .sf .sl {
+        margin: 1.5em 0 0;
+        padding-top: 0
+      }
+    }
+
+    @media screen and (min-width: 100em) {
+      body {
+        font-size: 1.15em
+      }
+      .post {
+        padding-left: 11%;
+        padding-right: 11%
+      }
+      .blocked {
+        margin: 1em 11%
+      }
+      .sn {
+        margin-top: 3.65%
+      }
+      .sn ul li ul {
+        margin-left: -.08em
+      }
+      .ch {
+        margin: 1.5em 0 0 1.5em
+      }
+      .ad,
+      .ch {
+        font-size: .86957em
+      }
+      .wg {
+        margin-left: -1.08696em
+      }
+      .cc {
+        margin-right: -24.45652em
+      }
+      .fluid {
+        margin-right: 24.45652em
+      }
+      .side {
+        width: 22.82609em;
+        padding-left: 1.08696em
+      }
+      .bnnr-list .double {
+        width: 29.71015em
+      }
+      article p {
+        padding: .75em 0
+      }
+      article li {
+        padding: .5em 0
+      }
+      article img,
+      figure {
+        max-width: 27.17391em
+      }
+      .fwi,
+      .fwi img {
+        max-width: 100%
+      }
+      .cat {
+        margin-left: 5.5%
+      }
+      .pt {
+        top: -.5em;
+        right: -5em
+      }
+    }
+
+    @media screen and (min-width: 63.75em) and (max-width: 70.3125em) {
+      .long {
+        display: none
+      }
+      .short {
+        display: block
+      }
+    }
+  </style>
+  <script id="loadcss__smash-main">
+    ! function(e) {
+      "use strict";
+
+      function t(e, t, n) {
+        e.addEventListener ? e.addEventListener(t, n, !1) : e.attachEvent && e.attachEvent("on" + t, n)
+      }
+
+      function n(t, n) {
+        return e.localStorage && localStorage[t + "_content"] && localStorage[t + "_file"] === n
+      }
+
+      function a(t, a) {
+        if (e.localStorage && e.XMLHttpRequest) n(t, a) ? o(localStorage[t + "_content"]) : l(t, a);
+        else {
+          var s = r.createElement("link");
+          s.href = a, s.id = t, s.rel = "stylesheet", s.type = "text/css", r.getElementsByTagName("head")[0].appendChild(s), r.cookie = t
+        }
+      }
+
+      function l(e, t) {
+        var n = new XMLHttpRequest;
+        n.open("GET", t, !0), n.onreadystatechange = function() {
+          4 === n.readyState && 200 === n.status && (o(n.responseText), localStorage[e + "_content"] = n.responseText, localStorage[e + "_file"] = t)
+        }, n.send()
+      }
+
+      function o(e) {
+        var t = r.createElement("style");
+        t.setAttribute("type", "text/css"), r.getElementsByTagName("head")[0].appendChild(t), t.styleSheet ? t.styleSheet.cssText = e : t.innerHTML = e
+      }
+      var r = e.document;
+      e.loadCSS = function(e, t, n) {
+        var a, l = r.createElement("link");
+        if (t) a = t;
+        else {
+          var o;
+          o = r.querySelectorAll ? r.querySelectorAll("style,link[rel=stylesheet],script") : (r.body || r.getElementsByTagName("head")[0]).childNodes, a = o[o.length - 1]
+        }
+        var s = r.styleSheets;
+        l.rel = "stylesheet", l.href = e, l.media = "only x", a.parentNode.insertBefore(l, t ? a : a.nextSibling);
+        var c = function(e) {
+          for (var t = l.href, n = s.length; n--;)
+            if (s[n].href === t) return e();
+          setTimeout(function() {
+            c(e)
+          })
+        };
+        return l.onloadcssdefined = c, c(function() {
+          l.media = n || "all"
+        }), l
+      }, e.loadLocalStorageCSS = function(l, o) {
+        n(l, o) || r.cookie.indexOf(l) > -1 ? a(l, o) : t(e, "load", function() {
+          a(l, o)
+        })
+      }
+    }(this);
+    loadCSS("https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/css/main.min.css?ver=3.8.1", false, "all");
+  </script>
+  <noscript>
+    <link rel='stylesheet' id='smash-main-css' href='https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/css/main.min.css?ver=3.8.1' type='text/css' media='all' />
+  </noscript>
+  <script id="loadcss__smash-print">
+    loadCSS("https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/css/print.min.css?ver=3.8.1", false, "print");
+  </script>
+  <noscript>
+    <link rel='stylesheet' id='smash-print-css' href='https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/css/print.min.css?ver=3.8.1' type='text/css' media='print' />
+  </noscript>
+  <script id="loadcss__smash-webfonts">
+    loadLocalStorageCSS("smash-webfonts", "https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/css/webfonts.min.css?ver=3.8.1");
+  </script>
+  <!--[if IE 8]>
+<link rel='stylesheet' id='smash-ie8-css'  href='https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/css/ie8-nu.min.css?ver=3.8.1' type='text/css' media='all' />
+<![endif]-->
+
+  <!-- This site is optimized with the Yoast SEO Premium plugin v3.0.6 - https://yoast.com/wordpress/plugins/seo/ -->
+  <link rel="canonical" href="https://www.smashingmagazine.com/search-results/" />
+  <link rel="publisher" href="https://plus.google.com/+SmashingMagazine‎" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Search Results &ndash; Smashing Magazine" />
+  <meta property="og:url" content="https://www.smashingmagazine.com/search-results/" />
+  <meta property="og:site_name" content="Smashing Magazine" />
+  <meta property="article:publisher" content="https://www.facebook.com/smashmag" />
+  <meta property="og:image" content="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/logo.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Search Results &ndash; Smashing Magazine" />
+  <meta name="twitter:site" content="@smashingmag" />
+  <meta name="twitter:image" content="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/logo.png" />
+  <meta name="twitter:creator" content="@smashingmag" />
+  <!-- / Yoast SEO Premium plugin. -->
+
+  <link rel="alternate" type="application/rss+xml" title="Smashing Magazine &raquo; Feed" href="https://www.smashingmagazine.com/feed/" />
+  <link rel="alternate" type="application/rss+xml" title="Smashing Magazine &raquo; Comments Feed" href="https://www.smashingmagazine.com/comments/feed/" />
+  <!--[if IE 8]>
+<script type='text/javascript' src='//html5shiv.googlecode.com/svn/trunk/html5.js?ver=4.4.2'></script>
+<![endif]-->
+  <link rel='https://api.w.org/' href='https://www.smashingmagazine.com/wp-json/' />
+  <link rel='shortlink' href='https://www.smashingmagazine.com/?p=461' />
+  <link rel="alternate" type="application/json+oembed" href="https://www.smashingmagazine.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smashingmagazine.com%2Fsearch-results%2F" />
+  <link rel="alternate" type="text/xml+oembed" href="https://www.smashingmagazine.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smashingmagazine.com%2Fsearch-results%2F&#038;format=xml" />
+  <!-- Stream WordPress user activity plugin v3.0.4 -->
+  <style type="text/css">
+    .broken_link,
+    a.broken_link {
+      text-decoration: line-through;
+    }
+  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="dns-prefetch" href="https://media-mediatemple.netdna-ssl.com/" />
+  <link rel="dns-prefetch" href="//auslieferung.commindo-media-resourcen.de/" />
+  <link rel="preconnect" href="//media-mediatemple.netdna-ssl.com" />
+  <link rel="preconnect" href="//auslieferung.commindo-media-resourcen.de/" />
+  <link rel="mask-icon" href="https://www.smashingmagazine.com/wp-content/themes/smashing-magazine/assets/images/s.svg" color="#e53b2c" sizes="any" />
+  <!--[if IE]><link href="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/favicon.ico" rel="icon" /><![endif]-->
+  <link rel="icon" href="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/favicon.png" />
+  <meta name="application-name" content="Smashing Magazine" />
+  <meta name="msapplication-TileColor" content="#fff" />
+  <meta name="msapplication-square70x70logo" content="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/smashing-windows-icon-70-70.png" />
+  <meta name="msapplication-square150x150logo" content="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/smashing-windows-icon-150-150.png" />
+  <meta name="msapplication-wide310x150logo" content="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/smashing-windows-icon-310-150.png" />
+  <meta name="msapplication-square310x310logo" content="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/smashing-windows-icon-310-310.png" />
+  <meta name="msapplication-notification" content="frequency=30;polling-uri1=http://notifications.buildmypinnedsite.com/?feed=https://www.smashingmagazine.com/feed/&amp;id=1;polling-uri2=http://notifications.buildmypinnedsite.com/?feed=https://www.smashingmagazine.com/feed/&amp;id=2;polling-uri3=http://notifications.buildmypinnedsite.com/?feed=https://www.smashingmagazine.com/feed/&amp;id=3;polling-uri4=http://notifications.buildmypinnedsite.com/?feed=https://www.smashingmagazine.com/feed/&amp;id=4;cycle=1" />
+  <link rel="apple-touch-icon-precomposed" href="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/apple-touch-icon-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/apple-touch-icon-57x57-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/apple-touch-icon-72x72-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/apple-touch-icon-114x114-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/apple-touch-icon-144x144-precomposed.png" />
+
+  <!-- START OF INSTANTSEARCH CSS CODE -->
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/instantsearch.js/1.8.12/instantsearch.min.css">
+  <link rel="stylesheet" type="text/css" href="./step3.css">
+  <!-- END OF INSTANTSEARCH CSS CODE -->
+</head>
+
+<body id="top" class="page page-id-461 page-template page-template-templates page-template-search page-template-templatessearch-php www-section search-results-page">
+  <div class="mnb">
+    <a href="#mn" class="ntb js-toggle-btn" title="Jump to the main navigation">
+		Menu	</a>
+    <a href="#ms" class="stb js-toggle-btn" title="Jump to the search">
+		Search    </a>
+  </div> <a class="sr" href="#content">Jump to the content</a>
+  <header class="h" role="banner">
+    <h1 class="logo">
+      <span class="sr">Smashing Magazine</span>
+	    <a href="https://www.smashingmagazine.com/"><img src="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/logo.png" alt="Smashing Magazine Logo" srcset="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/logo.svg" /></a>
+    </h1>
+  </header>
+  <nav class="mn" id="mn" role="navigation menu">
+    <h2>Smashing Pages:</h2>
+    <ul id="menu-smashing-mobile-network" class="mnu">
+      <li id="menu-item-218248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-218248 menu-item-books"><a href="https://www.smashingmagazine.com/books/">Books</a></li>
+      <li id="menu-item-218247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-218247 menu-item-ebooks"><a href="https://www.smashingmagazine.com/ebooks/">eBooks</a></li>
+      <li id="menu-item-218249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-218249 menu-item-tickets"><a href="https://www.smashingmagazine.com/workshops/">Tickets</a></li>
+      <li id="menu-item-219109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-219109 menu-item-shop"><a href="https://shop.smashingmagazine.com/">Shop</a></li>
+      <li id="menu-item-188959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188959 menu-item-email-newsletter"><a href="https://www.smashingmagazine.com/the-smashing-newsletter/">Email Newsletter</a></li>
+      <li id="menu-item-188961" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-188961 menu-item-jobs"><a href="http://jobs.smashingmagazine.com">Jobs</a></li>
+      <li id="menu-item-188958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188958 menu-item-about-us-impressum"><a href="https://www.smashingmagazine.com/about/">About us / Impressum</a></li>
+    </ul>
+    <h2>Categories:</h2>
+    <ul id="menu-mobile-categories" class="mnu">
+      <li id="menu-item-181575" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-181575 menu-item-coding"><a href="https://www.smashingmagazine.com/category/coding/">Coding</a></li>
+      <li id="menu-item-181576" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-181576 menu-item-design"><a href="https://www.smashingmagazine.com/category/design/">Design</a></li>
+      <li id="menu-item-181580" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-181580 menu-item-mobile"><a href="https://www.smashingmagazine.com/category/mobile/">Mobile</a></li>
+      <li id="menu-item-181579" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-181579 menu-item-graphics"><a href="https://www.smashingmagazine.com/category/graphics/">Graphics</a></li>
+      <li id="menu-item-181577" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-181577 menu-item-ux-design"><a href="https://www.smashingmagazine.com/category/uxdesign/">UX Design</a></li>
+      <li id="menu-item-181578" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-181578 menu-item-wordpress"><a href="https://www.smashingmagazine.com/category/wordpress/"><span class="long"><span>Word</span><span>Press</span></span><span class="short">WP</span></a></li>
+    </ul>
+  </nav>
+  <a class="mnc js-toggle-btn" href="#top" data-toggle-target="mn" title="Close the navigation">X</a>
+  <div class="ms" id="ms" role="search">
+    <form id="mobile-searching" class="sfm clearfix" method="get" action="https://www.smashingmagazine.com/search-results/" target="_top">
+      <label for="mobile-search-input">Search on Smashing Magazine</label>
+      <input name="q" id="mobile-search-input" type="text" placeholder="e.g. CSS" />
+      <button class="submit" type="submit">Search</button>
+      <input type="hidden" name="cx" value="partner-pub-6779860845561969:5884617103">
+      <input type="hidden" name="cof" value="FORID:10">
+      <input type="hidden" name="ie" value="UTF-8">
+    </form>
+  </div>
+  <a role="button" class="msc js-toggle-btn" href="#top" data-toggle-target="ms" title="Close the search">X</a>
+  <nav class="tn clearfix" role="navigation">
+    <ul id="menu-network-menu" class="nw clearfix">
+      <li class="current">
+        <a href="https://www.smashingmagazine.com"><img src="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/logo.png" alt="Smashing Magazine" srcset="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/logo.svg" /></a>
+      </li>
+      <li id="menu-item-218245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-218245 menu-item-books"><a href="https://www.smashingmagazine.com/books/">Books</a></li>
+      <li id="menu-item-231721" class="cody menu-item menu-item-type-custom menu-item-object-custom menu-item-231721 menu-item-ebooks"><a href="https://shop.smashingmagazine.com/products/the-smashing-library">eBooks</a></li>
+      <li id="menu-item-218696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-218696 menu-item-tickets"><a href="https://www.smashingmagazine.com/smashing-workshops/">Tickets</a></li>
+      <li id="menu-item-231722" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-231722 menu-item-shop"><a href="https://shop.smashingmagazine.com/">Shop</a></li>
+      <li id="menu-item-2" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2 menu-item-jobs"><a href="http://jobs.smashingmagazine.com/">Jobs</a></li>
+    </ul>
+    <nav id="social-media-nav" role="menu">
+      <ul class="ch">
+        <li class="rss">
+          <a href="https://www.smashingmagazine.com/feed/" title="Subscribe to our RSS-feed (120K)">RSS</a>
+        </li>
+        <li class="fb">
+          <a href="//www.facebook.com/smashmag" title="Join our Facebook page! (267k)">Facebook</a>
+        </li>
+        <li class="tw">
+          <a href="//twitter.com/smashingmag" title="Follow us on Twitter! (956k)">Twitter</a>
+        </li>
+        <li class="nl">
+          <a href="https://www.smashingmagazine.com/the-smashing-newsletter/" title="Subscribe to our Email Newsletter (180k)">Newsletter</a>
+        </li>
+      </ul>
+    </nav>
+  </nav>
+  <main>
+    <div class="cc">
+      <div class="fluid clearfix">
+        <div class="grid clearfix">
+          <div class="mise sf clearfix" role="search">
+            <form role="search" id="search_1" method="get" action="https://www.smashingmagazine.com/search-results/" target="_top">
+              <label class="sl" for="searching_1">Search on Smashing Magazine</label>
+              <input id="searching_1" name="q" type="text" placeholder="e.g. JavaScript" />
+              <button class="search_submit" type="submit">Search</button>
+              <input type="hidden" name="cx" value="partner-pub-6779860845561969:5884617103">
+              <input type="hidden" name="cof" value="FORID:10">
+              <input type="hidden" name="ie" value="UTF-8">
+            </form>
+          </div>
+          <div class="col sn">
+            <div class="sct">
+              <ul id="menu-category-menu" class="clearfix">
+                <li id="menu-item-116" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-116 menu-item-coding"><a href="https://www.smashingmagazine.com/category/coding/">Coding</a>
+                  <ul class="sub-menu">
+                    <li id="menu-item-2014" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-2014 menu-item-css"><a href="https://www.smashingmagazine.com/tag/css/">CSS</a></li>
+                    <li id="menu-item-134810" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-134810 menu-item-html"><a href="https://www.smashingmagazine.com/tag/html/">HTML</a></li>
+                    <li id="menu-item-2015" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-2015 menu-item-javascript"><a href="https://www.smashingmagazine.com/tag/javascript/">JavaScript</a></li>
+                    <li id="menu-item-2016" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-2016 menu-item-techniques"><a href="https://www.smashingmagazine.com/tag/techniques/">Techniques</a></li>
+                  </ul>
+                </li>
+                <li id="menu-item-117" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-117 menu-item-design"><a href="https://www.smashingmagazine.com/category/design/">Design</a>
+                  <ul class="sub-menu">
+                    <li id="menu-item-2017" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-2017 menu-item-web-design"><a href="https://www.smashingmagazine.com/tag/web-design/">Web Design</a></li>
+                    <li id="menu-item-231166" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-231166 menu-item-responsive"><a title="Responsive Web Design" href="https://www.smashingmagazine.com/tag/responsive-web-design/">Responsive</a></li>
+                    <li id="menu-item-2032" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-2032 menu-item-typography"><a href="https://www.smashingmagazine.com/tag/typography/">Typography</a></li>
+                    <li id="menu-item-2063" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-2063 menu-item-inspiration"><a href="https://www.smashingmagazine.com/tag/inspiration/">Inspiration</a></li>
+                  </ul>
+                </li>
+                <li id="menu-item-119" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-119 menu-item-mobile"><a href="https://www.smashingmagazine.com/category/mobile/">Mobile</a>
+                  <ul class="sub-menu">
+                    <li id="menu-item-142132" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-142132 menu-item-iphone-ipad"><a href="https://www.smashingmagazine.com/tag/ios/">iPhone &#038; iPad</a></li>
+                    <li id="menu-item-143596" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-143596 menu-item-android"><a href="https://www.smashingmagazine.com/tag/android/">Android</a></li>
+                    <li id="menu-item-143608" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-143608 menu-item-design-patterns"><a href="https://www.smashingmagazine.com/tag/design-patterns/">Design Patterns</a></li>
+                  </ul>
+                </li>
+                <li id="menu-item-118" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-118 menu-item-graphics"><a href="https://www.smashingmagazine.com/category/graphics/">Graphics</a>
+                  <ul class="sub-menu">
+                    <li id="menu-item-2264" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-2264 menu-item-photoshop"><a href="https://www.smashingmagazine.com/tag/photoshop/">Photoshop</a></li>
+                    <li id="menu-item-160" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-160 menu-item-fireworks"><a href="https://www.smashingmagazine.com/category/fireworks/">Fireworks</a></li>
+                    <li id="menu-item-2283" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-2283 menu-item-wallpapers"><a href="https://www.smashingmagazine.com/tag/wallpapers/">Wallpapers</a></li>
+                    <li id="menu-item-2305" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-2305 menu-item-freebies"><a href="https://www.smashingmagazine.com/tag/freebies/">Freebies</a></li>
+                  </ul>
+                </li>
+                <li id="menu-item-120" class="menu-item-uxdesign menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-120 menu-item-ux-design"><a href="https://www.smashingmagazine.com/category/uxdesign/">UX Design</a>
+                  <ul class="sub-menu">
+                    <li id="menu-item-143609" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-143609 menu-item-usability"><a href="https://www.smashingmagazine.com/tag/usability/">Usability</a></li>
+                    <li id="menu-item-143610" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-143610 menu-item-user-experience"><a href="https://www.smashingmagazine.com/tag/user-experience/">User Experience</a></li>
+                    <li id="menu-item-143611" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-143611 menu-item-ui-design"><a href="https://www.smashingmagazine.com/tag/ui/">UI Design</a></li>
+                    <li id="menu-item-143612" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-143612 menu-item-e-commerce"><a href="https://www.smashingmagazine.com/tag/e-commerce/">E-Commerce</a></li>
+                  </ul>
+                </li>
+                <li id="menu-item-121" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-121 menu-item-wordpress"><a href="https://www.smashingmagazine.com/category/wordpress/"><span class="long"><span>Word</span><span>Press</span></span><span class="short">WP</span></a>
+                  <ul class="sub-menu">
+                    <li id="menu-item-143677" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-143677 menu-item-essentials"><a href="https://www.smashingmagazine.com/tag/essentials/">Essentials</a></li>
+                    <li id="menu-item-143678" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-143678 menu-item-techniques"><a href="https://www.smashingmagazine.com/tag/techniques-wp/">Techniques</a></li>
+                    <li id="menu-item-143679" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-143679 menu-item-plugins"><a href="https://www.smashingmagazine.com/tag/plugins/">Plugins</a></li>
+                    <li id="menu-item-143680" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-143680 menu-item-themes"><a href="https://www.smashingmagazine.com/tag/themes/">Themes</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div id="content" class="col main">
+
+            <article class="post-461 page type-page status-publish hentry post no-meta search-results">
+              <div class="search-header">
+                <h2 class="search-header--title">Search Results</h2>
+              </div>
+              <div id="search-hits"></div>
+              <div id="search-pagination"></div>
+            </article>
+
+          </div>
+        </div>
+        <p><a href="#top" class="top" title="Jump to the top of the page">&uarr; Back to top</a></p>
+      </div>
+    </div>
+  </main>
+  <aside id="wpsidebar" class="sb" role="complementary">
+    <div class="col side">
+      <div class="mise sf clearfix" role="search">
+        <form role="search" id="search_2" method="get" action="https://www.smashingmagazine.com/search-results/" target="_top">
+          <label class="sl" for="searchbar">Search on Smashing Magazine</label>
+          <input id="searchbar" name="q" type="text" />
+          <button class="search_submit" type="submit">Search</button>
+          <input type="hidden" name="cx" value="partner-pub-6779860845561969:5884617103">
+          <input type="hidden" name="cof" value="FORID:10">
+          <input type="hidden" name="ie" value="UTF-8">
+        </form>
+      </div>
+
+
+      <!-- START OF INSTANTSEARCH CSS CODE -->
+      <div class="search-sidebar">
+        <div id="search-stats"></div>
+        <div id="search-tags"></div>
+      </div>
+      <!-- END OF INSTANTSEARCH HTML CODE -->
+
+      <div class="sf wg">
+
+        <h3>
+    <a href="https://www.smashingmagazine.com/the-smashing-newsletter/">
+      <img src="https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/smnl.png" alt="Smashing Newsletter" />
+      Smashing Newsletter
+    </a>
+  </h3>
+        <p>Subscribe to our email newsletter for useful tips and valuable resources, sent out every second Tuesday.</p>
+        <div id="mc_embed_signup" class="mcf">
+          <form action="//smashingmagazine.us1.list-manage.com/subscribe/post?u=16b832d9ad4b28edf261f34df&amp;id=a1666656e0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate">
+            <label for="mcer-EMAIL" class="sr">Please provide us with your email address:</label>
+            <input id="mcer-EMAIL" name="EMAIL" type="text" placeholder="email address" />
+            <button id="mc-embedded-subscribe" name="subscribe" class="submit" type="submit">Subscribe</button>
+          </form>
+          <img class="mcc" src="https://www.smashingmagazine.com/wp-content/themes/smashing-magazine/assets/images/mc-counter.svg" alt="Currently there are 181.175 subscribers." />
+        </div>
+      </div>
+
+      <div class="bw">
+        <div id="spnsrlist-b" class="oa_zone--sponsor" data-sponsor-lines="3"></div>
+      </div>
+
+      <div class="so wg">
+        <div class="fir">
+          <p>It's finally here. <a href="https://www.smashingmagazine.com/2015/03/31/real-life-responsive-web-design-smashing-book-5/">Smashing Book #5</a>, our new book on <strong>real-life responsive design</strong>. With front-end techniques and patterns from actual projects, it's a playbook to master all the tricky facets and hurdles of responsive design.
+            <a href="https://www.smashingmagazine.com/2015/03/31/real-life-responsive-web-design-smashing-book-5/">Get the book.</a> <strong>Free shipping.</strong></p>
+        </div>
+        <div class="thi">
+          <p>With responsive design, creating Photoshop mock-ups is just inefficient. In the new anniversary edition of
+            <a href="https://www.smashingmagazine.com/books/#hardboiled-webdesign">Hardboiled Web Design</a>,&nbsp;Andy Clarke shows how to improve workflow, craft better front-end, establish style guides and reduce wasted time. <a href="https://www.smashingmagazine.com/books/#hardboiled-webdesign">Get the book</a>.</p>
+        </div>
+      </div>
+
+      <div class="bw">
+        <div id="spnsrlist-c" class="oa_zone--sponsor" data-sponsor-lines="2"></div>
+      </div>
+      <div class="oa_zone--ad" id="sidebar_special-1" data-ad-name="Sidebar Special 1" data-ad-zone="72"></div>
+      <div class="oa_zone--ad" id="sidebar_special-2" data-ad-name="Sidebar Special 2" data-ad-zone="72"></div>
+      <div class="oa_zone--ad" id="sidebar_special-3" data-ad-name="Sidebar Special 3" data-ad-zone="72"></div>
+      <div class="oa_zone--ad" id="sidebar_special-4" data-ad-name="Sidebar Special 4" data-ad-zone="72"></div>
+
+      <div class="clearfix">
+        <div class="oa_zone--ad sidebar_sky" id="sidebar_sky-1" data-ad-name="Sidebar 1" data-ad-zone="40"></div>
+        <div class="oa_zone--ad sidebar_sky" id="sidebar_sky-2" data-ad-name="Sidebar 2" data-ad-zone="40"></div>
+      </div>
+
+      <div class="bw">
+        <div id="spnsrlist-d" class="oa_zone--sponsor" data-sponsor-lines="2"></div>
+      </div>
+
+      <div class="clearfix">
+        <div class="oa_zone--ad sidebar_sky" id="sidebar_sky-3" data-ad-name="Sidebar 3" data-ad-zone="40"></div>
+      </div>
+
+    </div>
+  </aside>
+  <footer class="f" id="footer" role="contentinfo">
+
+    <p class="stmt">
+      <em>With a commitment to quality content for the design community.</em>
+      <br />Founded by Vitaly Friedman and Sven Lennartz. 2006-2008.
+      <br />Made in Germany. <span class="flinks">
+			&#9998;
+			<a href="https://www.smashingmagazine.com/write-for-us/">Write for us</a> –
+			<a href="https://www.smashingmagazine.com/contact/">Contact us</a> –
+			<a href="https://www.smashingmagazine.com/privacy-policy-2/">Datenschutzerklärung</a> –
+			<a href="https://www.smashingmagazine.com/about/">Impressum</a>.
+		</span>
+    </p>
+  </footer>
+
+  <script id="loadjs__smash-onload">
+    ! function(a) {
+      "use strict";
+      a.loadOnloadJS = function(b, c) {
+        a.addEventListener("load", function() {
+          loadJS(b, c)
+        }, !1)
+      }, a.loadJS = function(b, c) {
+        var d = a.document.createElement("script");
+        d.src = b, d.async = c || !1, a.document.body.appendChild(d)
+      }
+    }(window);
+    loadOnloadJS("https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/js/onload.min.js?ver=3.8.1", 1);
+  </script>
+  <script id="loadjs__smash-prism">
+    loadOnloadJS("https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/js/prism.js?ver=3.8.1", 1);
+  </script>
+  <script id="loadjs__wp-embed">
+    loadJS("https://media-mediatemple.netdna-ssl.com/wp-includes/js/wp-embed.min.js?ver=4.4.2", 0);
+  </script>
+
+  <!-- START OF INSTANTSEARCH JS CODE -->
+  <script src="https://cdn.jsdelivr.net/g/momentjs@2.15.1,instantsearch.js@1.8.12"></script>
+  <script src="./step3.js"></script>
+  <script id="templateSearch-hit" language="x-template">
+    <div class="search-hit">
+      <a href="{{url}}" class="search-hit--figure">
+        <img src="{{image}}" class="search-hit--image" />
+      </a>
+      <div class="search-hit--details">
+      <a href="{{url}}" class="search-hit--title">{{{_highlightResult.title.value}}}</a>
+        <ul class="search-hit--infos pmd">
+          <li class="search-hit--info search-hit--info__date date rd">{{date}}</li>
+          <li class="search-hit--info search-hit--info__author">By <a href="{{authorUrl}}">{{{_highlightResult.author.value}}}</a></li>
+          <li class="search-hit--info search-hit--info__tags tags">
+            {{#tags}}<a href="https://www.smashingmagazine.com/tag/{{slug}}/">{{{name}}}</a>{{/tags}}
+          </li>
+          <li class="search-hit--info search-hit--info__comments comments">{{comments}}</li>
+        </ul>
+        <p class="search-hit--excerpt">{{{_highlightResult.description.value}}}</p>
+      </div>
+    </div>
+  </script>
+  <!-- END OF INSTANTSEARCH JS CODE -->
+
+  <script>require('javascripts/step3').default.init()</script>
+</body>
+
+</html>
+
+
