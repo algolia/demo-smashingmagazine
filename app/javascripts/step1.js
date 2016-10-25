@@ -2,8 +2,8 @@ let Search = {
   init() {
 
     let search = instantsearch({
-      appId: 'KHKP14DMQR',
-      apiKey: '2ad9f79596007d25d292ba994f0554f7',
+      appId: 'latency',
+      apiKey: 'c80a1f43b1650d1a2225d95d6df0ffab',
       indexName: 'smashingmagazine'
     });
 

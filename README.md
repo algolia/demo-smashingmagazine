@@ -26,7 +26,7 @@ to your own server, keep reading.
 
 The `./data/records.json` file holds a copy of all the records (used with
 SmashingMagazine permission). The data is from a snapshot of all the articles
-the website from February 2016.
+the website from October 2016.
 
 We've already pre-populated an index with this data so you can test it live, but
 if you'd rather use your own index on your Algolia account, we're also providing
@@ -44,7 +44,7 @@ The `push` script located in the `./scripts` directory will push the content of
 the `./data/records.json` file to your Algolia index. You need to edit the
 script to replace the `XXXXXX` with your real `APPID`.
 
-The script is pushing 500 records at once using the `add_objects` method.
+The script is pushing 500 records at a time using the `add_objects` method.
 This is the preferred way when pushing a lot of records (instead of pushing them
 one by one).
 
@@ -70,7 +70,7 @@ incremental steps, you can find them here as well:
 
 ### Step 1: Basic search
 
-http://localhost:5005/step1.html
+[https://community.algolia.com/demo-smashingmagazine/step1.html]()
 
 In this first version we removed the previous search results and replaced them
 with an HTML placeholder. We included and instanciated instantsearch.js and
@@ -84,6 +84,8 @@ see, the results are not styled and data is displayed raw.
 
 ### Step 2: Styling
 
+[https://community.algolia.com/demo-smashingmagazine/step2.html]()
+
 In this step, we improved the template used to render the results (we call them
 `hits`). We have a more complex HTML structure with title, image, author, tags
 and description. We also added styling through CSS so the results are now more
@@ -94,6 +96,8 @@ some data (like the published date) are displayed in a raw format.
 
 ### Step 3: Enhancing results
 
+[https://community.algolia.com/demo-smashingmagazine/step3.html]()
+
 This time, we'll work a bit on enhancing the way results are displayed. We are
 using highlighted version of the title, author and description. We also make use
 of the `transformData` function in instantsearch.js to replace raw values with
@@ -101,14 +105,19 @@ more readable versions.
 
 ### Step 4: Enhancing the page
 
+[https://community.algolia.com/demo-smashingmagazine/step4.html]()
+
 We're almost done. We'll now add more widgets to enhance the experience.
 Results can now be paginated, you can have some stats about the speed of the
 queries and you can filter results through tags.
 
 ### Step 5: Final version
 
+[https://community.algolia.com/demo-smashingmagazine/]()
+
 On this final version we've reworked a bit on the JavaScript code to make it
 more readable, and we added a sort option to order results by number of comments
 or date.
 
-  [1]: ./docs/screencast.gif
+
+[1]: ./docs/screencast.gif
