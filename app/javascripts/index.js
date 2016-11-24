@@ -17,7 +17,6 @@ let Search = {
   },
   getHighlightedValue(object, property) {
     if (!_.has(object, `_highlightResult.${property}.value`)) {
-      console.info(object, property);
       return object[property];
     }
     return object._highlightResult[property].value;

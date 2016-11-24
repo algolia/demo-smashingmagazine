@@ -1,6 +1,5 @@
 let Search = {
   init() {
-
     let search = instantsearch({
       appId: 'latency',
       apiKey: 'c80a1f43b1650d1a2225d95d6df0ffab',
