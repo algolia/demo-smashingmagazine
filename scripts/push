@@ -20,7 +20,7 @@ settings = {
     'author'
   ],
   customRanking: [
-    'desc(publishedDate)',
+    'desc(publishedDateReducedPrecision)',
     'desc(commentCount)'
   ],
   attributesForFacetting: [
